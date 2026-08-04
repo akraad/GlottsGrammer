@@ -1,0 +1,18 @@
+{
+  "title": "Compound Prepositions in Persian",
+  "summary": "Using prepositions that require Ezafe (دربارهٔ, برایِ, بدونِ).",
+  "explanation": "Compound prepositions are connected to nouns using the Ezafe vowel.",
+  "rules": [
+    "Compound Prep + Ezafe + Noun"
+  ],
+  "example_translations": {
+    "ex_cprep_1": "We talked about this book."
+  },
+  "common_error_explanations": {
+    "err_cprep_1": "Do not omit Ezafe when linking compound prepositions."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "book"
+  },
+  "locale": "en"
+}

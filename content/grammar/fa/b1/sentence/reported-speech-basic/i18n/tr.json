@@ -1,0 +1,18 @@
+{
+  "title": "Farsça Dolaylı Anlatım (گفت که)",
+  "summary": "'که' bağlacı ile başkasının sözünü aktarma.",
+  "explanation": "Özne + گفت + که + Dolaylı cümle.",
+  "rules": [
+    "گفت + که + Dolaylı Anlatım"
+  ],
+  "example_translations": {
+    "ex_rep_1": "Ali eve gittiğini söyledi."
+  },
+  "common_error_explanations": {
+    "err_rep_1": "'که' ile dolaylı anlatımda zamir ve fiil çekimlerini uyarlayın."
+  },
+  "vocab_glosses": {
+    "fa.vocab.home": "ev"
+  },
+  "locale": "tr"
+}

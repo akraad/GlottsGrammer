@@ -1,0 +1,18 @@
+{
+  "title": "Frases Condicionais em Persa (اگر)",
+  "summary": "Formar frases condicionais reais.",
+  "explanation": "Conjunção 'اگر' (Se) + Subjuntivo na condição + Resultado.",
+  "rules": [
+    "اگر + Subjuntivo, Cláusula do resultado"
+  ],
+  "example_translations": {
+    "ex_cond_1": "Se eu tiver tempo, irei para casa."
+  },
+  "common_error_explanations": {
+    "err_cond_1": "Use o modo subjuntivo na oração do 'se'."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "ir"
+  },
+  "locale": "pt"
+}

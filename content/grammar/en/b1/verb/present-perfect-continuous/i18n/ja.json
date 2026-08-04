@@ -1,0 +1,20 @@
+{
+  "title": "現在完了進行形",
+  "summary": "過去に始まり現在まで継続している動作には現在完了進行形を使用します。",
+  "explanation": "主語 + have/has + been + 動詞-ing。",
+  "rules": [
+    "I/You/We/They + have been + verb-ing",
+    "He/She/It + has been + verb-ing"
+  ],
+  "example_translations": {
+    "ex_ppc_1": "私はこの街にずっと住んでいます。"
+  },
+  "common_error_explanations": {
+    "err_ppc_1": "been を忘れないようにしてください。"
+  },
+  "vocab_glosses": {
+    "en.vocab.live": "住む / 生きる",
+    "en.vocab.city": "街 / 都市"
+  },
+  "locale": "ja"
+}

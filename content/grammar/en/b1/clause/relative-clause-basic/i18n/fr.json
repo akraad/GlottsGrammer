@@ -1,0 +1,20 @@
+{
+  "title": "Propositions Relatives (Who, Which, That)",
+  "summary": "Utilisez les propositions relatives pour donner plus d'informations sur une personne ou une chose.",
+  "explanation": "Utilisez 'who' pour les personnes, 'which' pour les choses et 'that' pour les deux.",
+  "rules": [
+    "Who -> Personnes",
+    "Which -> Choses",
+    "That -> Personnes ou Choses"
+  ],
+  "example_translations": {
+    "ex_rel_1": "C'est le livre que j'ai acheté."
+  },
+  "common_error_explanations": {
+    "err_rel_1": "N'utilisez pas 'who' pour des objets."
+  },
+  "vocab_glosses": {
+    "en.vocab.book": "livre"
+  },
+  "locale": "fr"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Farsça Mutlak ve Zarf Cümlecikleri",
+  "summary": "Resmi Farsçada fiilsiz durum bildiren mutlak yapılar.",
+  "explanation": "Edebi Farsçada eşzamanlı durumları anlatmak için fiilsiz yan ifadeler kullanılır (örn. کتاب در دست = elinde kitapla).",
+  "rules": [
+    "İsim + Fiilsiz Zarf İfadesi"
+  ],
+  "example_translations": {
+    "ex_abs_1": "Ali elinde kitapla odaya girdi."
+  },
+  "common_error_explanations": {
+    "err_abs_1": "Edebi mutlak yapılarda açık fiil kullanımından kaçının."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "kitap"
+  },
+  "locale": "tr"
+}

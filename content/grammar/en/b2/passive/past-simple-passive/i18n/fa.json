@@ -1,0 +1,19 @@
+{
+  "title": "مجهول گذشته ساده",
+  "summary": "برای کارهای انجام‌شده در گذشته وقتی مفعول مهم‌تر از فاعل باشد.",
+  "explanation": "Was/Were + قسمت سوم فعل (Past Participle).",
+  "rules": [
+    "مفرد -> Was + قسمت سوم فعل",
+    "جمع -> Were + قسمت سوم فعل"
+  ],
+  "example_translations": {
+    "ex_psp_1": "این خانه در سال ۱۹۹۰ ساخته شد."
+  },
+  "common_error_explanations": {
+    "err_psp_1": "همیشه از قسمت سوم فعل در حالت مجهول استفاده کنید."
+  },
+  "vocab_glosses": {
+    "en.vocab.build": "ساختن"
+  },
+  "locale": "fa"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Sufixos Copulativos em Turco ('Ser/Estar')",
+  "summary": "Sufixos pessoais predicativos anexados a substantivos e adjetivos.",
+  "explanation": "Em turco, 'ser/estar' é expresso por sufixos anexados às palavras (-im, -sin, -dir...), seguindo a harmonia vocálica quádrupla.",
+  "rules": [
+    "Substantivo/Adj + Sufixo Pessoal"
+  ],
+  "example_translations": {
+    "ex_tr_cop_1": "Tu és professor."
+  },
+  "common_error_explanations": {
+    "err_tr_cop_1": "Aplique a harmonia vocálica quádrupla aos sufixos copulativos."
+  },
+  "vocab_glosses": {
+    "tr.vocab.ogretmen": "professor"
+  },
+  "locale": "pt"
+}

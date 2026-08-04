@@ -1,0 +1,19 @@
+{
+  "title": "Geçmiş Zaman Edilgen Yapı (Past Simple Passive)",
+  "summary": "Geçmişte tamamlanan eylemleri nesneye odaklanarak anlatır.",
+  "explanation": "Was/Were + Fiilin 3. Hali.",
+  "rules": [
+    "Tekil -> Was + Fiilin 3. hali",
+    "Çoğul -> Were + Fiilin 3. hali"
+  ],
+  "example_translations": {
+    "ex_psp_1": "Bu ev 1990 yılında inşa edildi."
+  },
+  "common_error_explanations": {
+    "err_psp_1": "Edilgen yapıda fiilin 3. halini kullanın."
+  },
+  "vocab_glosses": {
+    "en.vocab.build": "inşa etmek"
+  },
+  "locale": "tr"
+}

@@ -1,0 +1,18 @@
+{
+  "locale": "de",
+  "title": "Spaltsätze (Cleft Sentences)",
+  "summary": "Emphasizing specific information using cleft sentence structures.",
+  "explanation": "Emphasizing specific information using cleft sentence structures.",
+  "rules": [
+    "Es ist/war + fokussiertes Element + Relativsatz"
+  ],
+  "example_translations": {
+    "ex_de_c1_2": "Es ist das Wetter, das mich stört."
+  },
+  "common_error_explanations": {
+    "err_de_c1_2": "Use 'Es ist' followed by the focused element and a relative clause for emphasis."
+  },
+  "vocab_glosses": {
+    "de.vocab.wetter": "Wetter"
+  }
+}

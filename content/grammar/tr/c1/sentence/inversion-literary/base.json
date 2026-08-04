@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0.0",
+  "id": "tr.c1.sentence.inversion-literary",
+  "universal_concept_id": "sentence.inversion.literary",
+  "language": "tr",
+  "cefr": "C1",
+  "app_level": "advanced",
+  "category": "sentence",
+  "status": "approved",
+  "difficulty": 5,
+  "prerequisites": [
+    "tr.a1.sentence.word-order-basic"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "shifted_verb"
+        },
+        {
+          "slot": "subject_or_object"
+        }
+      ],
+      "example": "Okudu sabaha kadar kitabı."
+    }
+  ],
+  "vocab": [
+    "tr.vocab.okumak"
+  ],
+  "examples": [
+    {
+      "id": "ex_c1_1",
+      "target_text": "Okudu sabaha kadar bütün kitapları.",
+      "tokens": [
+        {
+          "text": "Okudu"
+        },
+        {
+          "text": "sabaha"
+        },
+        {
+          "text": "kadar"
+        },
+        {
+          "text": "bütün"
+        },
+        {
+          "text": "kitapları."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_c1_1",
+      "incorrect": "Bütün kitapları sabaha kadar okudu normal sırada kalmak.",
+      "explanation": "In literary or poetic Turkish, verbs can be fronted for dramatic stylistic emphasis."
+    }
+  ]
+}

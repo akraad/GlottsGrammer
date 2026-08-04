@@ -1,0 +1,18 @@
+{
+  "title": "İlgi Durumu / Tamlayan Eki (-in / -ın / -un / -ün)",
+  "summary": "İsim tamlamalarında sahiplik kurma.",
+  "explanation": "Tamlayan kelimeye '-in/-ın/-un/-ün' (ünlüyle biterse 'n' ile), tamlanan kelimeye iyelik eki getirilir (evin kapısı).",
+  "rules": [
+    "Tamlayan + -(n)in + Tamlanan + İyelik Eki"
+  ],
+  "example_translations": {
+    "ex_trgen_1": "Bu evin kapısı çok büyük."
+  },
+  "common_error_explanations": {
+    "err_trgen_1": "İsim tamlamasında ilk kelimeye ilgi eki, ikinci kelimeye iyelik eki ekleyin."
+  },
+  "vocab_glosses": {
+    "tr.vocab.ev": "ev"
+  },
+  "locale": "tr"
+}

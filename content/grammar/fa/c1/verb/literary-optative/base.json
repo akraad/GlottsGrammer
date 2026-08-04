@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0.0",
+  "id": "fa.c1.verb.literary-optative",
+  "universal_concept_id": "verb.literary.optative",
+  "language": "fa",
+  "cefr": "C1",
+  "app_level": "advanced",
+  "category": "verb",
+  "status": "approved",
+  "difficulty": 5,
+  "prerequisites": [
+    "fa.b1.verb.subjunctive-present"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "present_stem"
+        },
+        {
+          "slot": "a_optative_suffix"
+        }
+      ],
+      "example": "پاینده باد"
+    }
+  ],
+  "vocab": [
+    "fa.vocab.raftan"
+  ],
+  "examples": [
+    {
+      "id": "ex_opt_1",
+      "target_text": "نام ایران همواره جاویدان باد.",
+      "tokens": [
+        {
+          "text": "نام"
+        },
+        {
+          "text": "ایران"
+        },
+        {
+          "text": "همواره"
+        },
+        {
+          "text": "جاویدان"
+        },
+        {
+          "text": "باد"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_opt_1",
+      "incorrect": "نام ایران همواره جاویدان باشد باد.",
+      "explanation": "Do not combine modern subjunctive forms with archaic optative markers like 'باد' or 'مباد'."
+    }
+  ]
+}

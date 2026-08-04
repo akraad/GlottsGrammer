@@ -1,0 +1,18 @@
+{
+  "title": "Persian Present Subjunctive Mood",
+  "summary": "Expressing wishes, doubts, necessity, or intent.",
+  "explanation": "Prefix 'بـ' + Present Stem + Personal Endings.",
+  "rules": [
+    "بـ + Present Stem + Endings"
+  ],
+  "example_translations": {
+    "ex_subj_1": "I want to go home."
+  },
+  "common_error_explanations": {
+    "err_subj_1": "Use subjunctive after verbs expressing desire or necessity."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "go"
+  },
+  "locale": "en"
+}

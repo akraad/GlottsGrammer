@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0.0",
+  "id": "fa.a1.verb.present-simple",
+  "universal_concept_id": "verb.present.simple",
+  "language": "fa",
+  "cefr": "A1",
+  "app_level": "beginner",
+  "category": "verb",
+  "status": "approved",
+  "difficulty": 2,
+  "prerequisites": [
+    "fa.a1.sentence.word-order-basic"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "mi_prefix"
+        },
+        {
+          "slot": "present_stem"
+        },
+        {
+          "slot": "personal_suffix"
+        }
+      ],
+      "example": "می‌روم"
+    }
+  ],
+  "vocab": [
+    "fa.vocab.raftan"
+  ],
+  "examples": [
+    {
+      "id": "ex_ps_1",
+      "target_text": "من به خانه می‌روم.",
+      "tokens": [
+        {
+          "text": "من"
+        },
+        {
+          "text": "به"
+        },
+        {
+          "text": "خانه"
+        },
+        {
+          "text": "می‌روم"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_ps_1",
+      "incorrect": "من به خانه رفتن.",
+      "explanation": "Use present stem with prefix 'می-' and subject endings."
+    }
+  ]
+}

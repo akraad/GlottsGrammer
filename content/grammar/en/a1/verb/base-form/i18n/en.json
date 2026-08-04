@@ -1,0 +1,35 @@
+{
+  "$schema": "../../../../../schemas/grammar-i18n.schema.json",
+  "locale": "en",
+  "translation_status": "draft",
+  "name": "Verb Base Form",
+  "summary": "The base form is the simple form of a verb, with no endings. It is used with I, you, we, they, and after do/does in negatives and questions.",
+  "explanation": "Every English verb has five forms: base, third-person singular (-s), past, past participle, and present participle (-ing). The base form is the dictionary form. It is used after I/you/we/they, after modal verbs (can, will, should), and in negative and question sentences with do/does/did.",
+  "form_notes": {
+    "base_with_i_you_we_they": "With I, you, we, they, use the base form of the verb.",
+    "base_after_does_not": "With he/she/it in negatives, after does not, the verb returns to the base form.",
+    "base_after_do_question": "In questions with Do/Does, the verb appears in the base form."
+  },
+  "example_translations": {
+    "ex_01": "I drink water.",
+    "ex_02": "They do not drink tea.",
+    "ex_03": "Does she like water?"
+  },
+  "common_error_explanations": {
+    "err_01": "With I/you/we/they, the verb takes the base form without -s.",
+    "err_02": "After does in questions, the main verb returns to the base form (no -s)."
+  },
+  "vocab_glosses": {
+    "en.verb.drink": "to drink",
+    "en.noun.water": "water",
+    "en.noun.tea": "tea",
+    "en.verb.like": "to like",
+    "en.verb.want": "to want",
+    "en.verb.have": "to have",
+    "en.verb.do": "to do",
+    "en.vocab.go": "to go",
+    "en.vocab.eat": "to eat",
+    "en.vocab.see": "to see",
+    "en.verb.come": "to come"
+  }
+}

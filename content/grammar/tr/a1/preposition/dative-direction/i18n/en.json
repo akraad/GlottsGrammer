@@ -1,0 +1,18 @@
+{
+  "title": "Turkish Dative Case (-a / -e)",
+  "summary": "Expressing 'to' or direction towards a location.",
+  "explanation": "Adds '-a/-e' according to vowel harmony. If word ends in a vowel, insert buffer 'y' (e.g. eve, okula, sinemaya).",
+  "rules": [
+    "Noun + -(y)a / -(y)e"
+  ],
+  "example_translations": {
+    "ex_trdat_1": "I am going home / to the house."
+  },
+  "common_error_explanations": {
+    "err_trdat_1": "Use '-e' for words with front vowels."
+  },
+  "vocab_glosses": {
+    "tr.vocab.ev": "house"
+  },
+  "locale": "en"
+}

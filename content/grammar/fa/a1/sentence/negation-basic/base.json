@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0.0",
+  "id": "fa.a1.sentence.negation-basic",
+  "universal_concept_id": "sentence.negation.basic",
+  "language": "fa",
+  "cefr": "A1",
+  "app_level": "beginner",
+  "category": "sentence",
+  "status": "approved",
+  "difficulty": 1,
+  "prerequisites": [
+    "fa.a1.verb.present-simple"
+  ],
+  "forms": [
+    {
+      "type": "negative",
+      "pattern": [
+        {
+          "slot": "na_prefix"
+        },
+        {
+          "slot": "verb"
+        }
+      ],
+      "example": "نمی‌روم"
+    }
+  ],
+  "vocab": [
+    "fa.vocab.raftan"
+  ],
+  "examples": [
+    {
+      "id": "ex_neg_1",
+      "target_text": "من به خانه نمی‌روم.",
+      "tokens": [
+        {
+          "text": "من"
+        },
+        {
+          "text": "به"
+        },
+        {
+          "text": "خانه"
+        },
+        {
+          "text": "نمی‌روم"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_neg_1",
+      "incorrect": "من به خانه می‌روم نه.",
+      "explanation": "In Persian, verbs are negated by attaching the prefix 'نـ' to the verb."
+    }
+  ]
+}

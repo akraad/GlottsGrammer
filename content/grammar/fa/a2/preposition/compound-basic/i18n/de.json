@@ -1,0 +1,18 @@
+{
+  "title": "Persische zusammengesetzte Präpositionen",
+  "summary": "Verwendung von Präpositionen mit Ezafe (دربارهٔ, برایِ, بدونِ).",
+  "explanation": "Zusammengesetzte Präpositionen werden über das Ezafe-Vokal mit dem Nomen verbunden.",
+  "rules": [
+    "Zusammengesetzte Präposition + Ezafe + Nomen"
+  ],
+  "example_translations": {
+    "ex_cprep_1": "Wir haben über dieses Buch gesprochen."
+  },
+  "common_error_explanations": {
+    "err_cprep_1": "Lasse das Ezafe bei zusammengesetzten Präpositionen nicht weg."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "Buch"
+  },
+  "locale": "de"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Oraciones Concesivas en Persa (اگرچه)",
+  "summary": "Expresar contraste usando 'اگرچه' o 'با اینکه' (Aunque/A pesar de que).",
+  "explanation": "Coloca 'اگرچه' al principio de la cláusula concesiva.",
+  "rules": [
+    "اگرچه + Cláusula Concesiva, اما + Cláusula Principal"
+  ],
+  "example_translations": {
+    "ex_conc_1": "Aunque estaba lluvioso, él/ella salió."
+  },
+  "common_error_explanations": {
+    "err_conc_1": "Usa 'اگرچه' para conectar ideas contrastantes."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "ir"
+  },
+  "locale": "es"
+}

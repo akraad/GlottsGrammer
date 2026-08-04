@@ -1,0 +1,18 @@
+{
+  "title": "Farsça İyelik Ekleri",
+  "summary": "İsimlere eklenen iyelik ekleri ile aitlik bildirimi (-م, -ت, -ش).",
+  "explanation": "Sahiplik bildirmek için ekler doğrudan ismin sonuna getirilir (örn. کتابم = kitabım).",
+  "rules": [
+    "İsim + İyelik Eki"
+  ],
+  "example_translations": {
+    "ex_psuf_1": "Kitabım masanın üzerinde."
+  },
+  "common_error_explanations": {
+    "err_psuf_1": "İyelik ekini doğrudan isme ekleyin."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "kitap"
+  },
+  "locale": "tr"
+}

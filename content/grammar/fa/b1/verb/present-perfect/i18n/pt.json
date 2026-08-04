@@ -1,0 +1,18 @@
+{
+  "title": "Pretérito Perfeito em Persa",
+  "summary": "Expressar ações passadas com relevância no presente.",
+  "explanation": "Particípio Passado (Raiz do Passado + ﻩ) + Sufixos.",
+  "rules": [
+    "Particípio Passado + Sufixos"
+  ],
+  "example_translations": {
+    "ex_perf_1": "Eu li este livro."
+  },
+  "common_error_explanations": {
+    "err_perf_1": "Use o pretérito perfeito para ações com impacto no presente."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "ir"
+  },
+  "locale": "pt"
+}

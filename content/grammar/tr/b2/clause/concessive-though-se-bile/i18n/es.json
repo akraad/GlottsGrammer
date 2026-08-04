@@ -1,0 +1,18 @@
+{
+  "title": "Cláusulas Concesivas ('Incluso si' -se bile)",
+  "summary": "Expresar condiciones concesivas ('incluso si').",
+  "explanation": "Combina el sufijo condicional '-se/-sa' con la palabra 'bile' (incluso) para significar 'incluso si'.",
+  "rules": [
+    "Raíz Verbal + -se/-sa + bile"
+  ],
+  "example_translations": {
+    "ex_trbile_1": "Incluso si viene mañana, no podré verle."
+  },
+  "common_error_explanations": {
+    "err_trbile_1": "Usa '-se bile' para expresar 'incluso si'."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "leer"
+  },
+  "locale": "es"
+}

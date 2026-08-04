@@ -1,0 +1,19 @@
+{
+  "title": "Formación de Sustantivos Compuestos",
+  "summary": "Combinar palabras o raíces para crear nuevos sustantivos.",
+  "explanation": "Creación de palabras combinando Sustantivo + Sustantivo o Raíz (ej. کتاب‌خانه = biblioteca).",
+  "rules": [
+    "Sustantivo + Sustantivo/Raíz"
+  ],
+  "example_translations": {
+    "ex_cder_1": "Él/Ella estudia en la biblioteca."
+  },
+  "common_error_explanations": {
+    "err_cder_1": "Usa el espacio corto (ZWNJ) entre componentes compuestos."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "libro",
+    "fa.vocab.home": "casa"
+  },
+  "locale": "es"
+}

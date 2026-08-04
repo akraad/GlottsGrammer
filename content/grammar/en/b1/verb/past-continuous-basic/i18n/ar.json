@@ -1,0 +1,20 @@
+{
+  "title": "الماضي المستمر",
+  "summary": "استخدم was/were + verb-ing للأفعال التي كانت تحدث في وقت محدد في الماضي.",
+  "explanation": "يتكون الماضي المستمر باستخدام was أو were مع إضافة -ing للفعل الرئيسي.",
+  "rules": [
+    "I/He/She/It + was + verb-ing",
+    "You/We/They + were + verb-ing"
+  ],
+  "example_translations": {
+    "ex_pcont_1": "كنت أمشي بالأمس."
+  },
+  "common_error_explanations": {
+    "err_pcont_1": "استخدم was مع الفاعل المفرد."
+  },
+  "vocab_glosses": {
+    "en.vocab.walk": "يمشي",
+    "en.vocab.yesterday": "أمس"
+  },
+  "locale": "ar"
+}

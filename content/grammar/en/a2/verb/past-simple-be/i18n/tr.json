@@ -1,0 +1,19 @@
+{
+  "locale": "tr",
+  "title": "Past Simple of Be (Was / Were)",
+  "summary": "Use was for I/he/she/it and were for you/we/they.",
+  "explanation": "The verb 'be' changes to was/were in the past.",
+  "rules": [
+    "I/He/She/It -> Was",
+    "You/We/They -> Were"
+  ],
+  "example_translations": {
+    "ex_be_1": "I was at home."
+  },
+  "common_error_explanations": {
+    "err_be_1": "Use 'were' for plural subjects."
+  },
+  "vocab_glosses": {
+    "en.vocab.home": "home"
+  }
+}

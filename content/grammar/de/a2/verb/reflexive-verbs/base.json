@@ -1,0 +1,67 @@
+{
+  "schema_version": "1.0.0",
+  "id": "de.a2.verb.reflexive-verbs",
+  "universal_concept_id": "verb.reflexive.german",
+  "language": "de",
+  "cefr": "A2",
+  "app_level": "elementary",
+  "category": "verb",
+  "status": "approved",
+  "difficulty": 3,
+  "prerequisites": [
+    "de.a1.verb.present-regular"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "subject"
+        },
+        {
+          "slot": "conjugated_verb"
+        },
+        {
+          "slot": "reflexive_pronoun_mich_dich_sich"
+        }
+      ],
+      "example": "Ich freue mich"
+    }
+  ],
+  "vocab": [
+    "de.vocab.freuen"
+  ],
+  "examples": [
+    {
+      "id": "ex_de_a2_2",
+      "target_text": "Ich freue mich auf das Wochenende.",
+      "tokens": [
+        {
+          "text": "Ich"
+        },
+        {
+          "text": "freue"
+        },
+        {
+          "text": "mich"
+        },
+        {
+          "text": "auf"
+        },
+        {
+          "text": "das"
+        },
+        {
+          "text": "Wochenende."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_de_a2_2",
+      "incorrect": "Ich freue auf das Wochenende.",
+      "explanation": "Reflexive verbs require a reflexive pronoun (mich, dich, sich, uns, euch) matching the subject."
+    }
+  ]
+}

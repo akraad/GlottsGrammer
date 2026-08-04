@@ -1,0 +1,20 @@
+{
+  "title": "Türkischer Plural (-lar / -ler) und Vokalharmonie",
+  "summary": "Pluralbildung nach der großen Vokalharmonie.",
+  "explanation": "Anhänge '-lar' bei dunklen Vokalen (a, ı, o, u) und '-ler' bei hellen Vokalen (e, i, ö, ü).",
+  "rules": [
+    "Dunkle Vokale (a, ı, o, u) -> -lar",
+    "Helle Vokale (e, i, ö, ü) -> -ler"
+  ],
+  "example_translations": {
+    "ex_tr_pl_1": "Auf dem Tisch liegen Bücher."
+  },
+  "common_error_explanations": {
+    "err_tr_pl_1": "Hänge kein '-ler' an Wörter mit dunklen Vokalen an."
+  },
+  "vocab_glosses": {
+    "tr.vocab.kitap": "Buch",
+    "tr.vocab.ev": "Haus"
+  },
+  "locale": "de"
+}

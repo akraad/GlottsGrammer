@@ -1,0 +1,18 @@
+{
+  "title": "Voix Passive en Persan",
+  "summary": "Former le passif avec le participe passé et 'شدن'.",
+  "explanation": "Participe Passé + Formes conjuguées du verbe auxiliaire 'شدن'.",
+  "rules": [
+    "Participe Passé + شدن"
+  ],
+  "example_translations": {
+    "ex_pass_1": "Ce livre a été lu."
+  },
+  "common_error_explanations": {
+    "err_pass_1": "Combinez le participe passé avec l'auxiliaire 'شدن'."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "livre"
+  },
+  "locale": "fr"
+}

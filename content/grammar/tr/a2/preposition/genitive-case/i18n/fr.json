@@ -1,0 +1,18 @@
+{
+  "title": "Cas Génitif en Turc (-in)",
+  "summary": "Former des constructions possessives entre deux noms.",
+  "explanation": "Ajoutez le suffixe génitif '-in/-ın/-un/-ün' au possesseur et un suffixe possessif au nom possédé.",
+  "rules": [
+    "Possesseur + -(n)in + Possédé + Suffixe Possessif"
+  ],
+  "example_translations": {
+    "ex_trgen_1": "La porte de cette maison est très grande."
+  },
+  "common_error_explanations": {
+    "err_trgen_1": "Utilisez le génitif sur le premier nom et le possessif sur le second."
+  },
+  "vocab_glosses": {
+    "tr.vocab.ev": "maison"
+  },
+  "locale": "fr"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Turkish Future Tense (-ecek / -acak)",
+  "summary": "Expressing actions that will happen in the future.",
+  "explanation": "Attach '-ecek/-acak' to the verb stem (with buffer 'y' if ending in a vowel), followed by personal suffixes.",
+  "rules": [
+    "Verb Stem + -(y)ecek + Personal Suffix"
+  ],
+  "example_translations": {
+    "ex_trfut_1": "I will read a book tomorrow."
+  },
+  "common_error_explanations": {
+    "err_trfut_1": "Use future tense suffixes '-ecek/-acak' for future actions."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "read"
+  },
+  "locale": "en"
+}

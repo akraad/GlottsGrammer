@@ -1,0 +1,18 @@
+{
+  "title": "Konzessivsätze ('Selbst wenn' -se bile)",
+  "summary": "Ausdruck von 'selbst wenn' oder 'auch wenn'.",
+  "explanation": "Kombiniere das Konditionalsuffix '-se/-sa' mit dem Wort 'bile' (sogar/selbst) für 'selbst wenn' (z. B. gelse bile).",
+  "rules": [
+    "Verbstamm + -se/-sa + bile"
+  ],
+  "example_translations": {
+    "ex_trbile_1": "Selbst wenn er morgen kommt, werde ich ihn nicht sehen können."
+  },
+  "common_error_explanations": {
+    "err_trbile_1": "Verwende '-se bile' für 'selbst wenn'-Bedingungen."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "lesen"
+  },
+  "locale": "de"
+}

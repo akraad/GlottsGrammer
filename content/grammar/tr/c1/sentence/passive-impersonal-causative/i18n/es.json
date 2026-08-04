@@ -1,0 +1,18 @@
+{
+  "title": "Construcciones Impersonales Avanzadas",
+  "summary": "Patrones avanzados impersonales en turco C1.",
+  "explanation": "Estructuras formales para el nivel C1.",
+  "rules": [
+    "Intransitive Verb Stem + Passive Suffix (-ildi)"
+  ],
+  "example_translations": {
+    "ex_c1_2": "Se reconoce universalmente que..."
+  },
+  "common_error_explanations": {
+    "err_c1_2": "Usa registros formales avanzados."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "leer"
+  },
+  "locale": "es"
+}

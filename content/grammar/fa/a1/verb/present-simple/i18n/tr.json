@@ -1,0 +1,18 @@
+{
+  "title": "Farsçada Geniş Zaman / Şimdiki Zaman",
+  "summary": "Alışkanlıkları ve şimdiki zaman eylemlerini ifade eder.",
+  "explanation": "'می-' ön eki + Geniş Zaman Kökü + Şahıs Ekleri.",
+  "rules": [
+    "می- + Geniş Zaman Kökü + Ekler"
+  ],
+  "example_translations": {
+    "ex_ps_1": "Eve gidiyorum."
+  },
+  "common_error_explanations": {
+    "err_ps_1": "'می-' ön ekini ekleyin ve fiili çekimleyin."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "gitmek"
+  },
+  "locale": "tr"
+}

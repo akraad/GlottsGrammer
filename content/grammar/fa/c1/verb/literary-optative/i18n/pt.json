@@ -1,0 +1,18 @@
+{
+  "title": "Modo Optativo Literário em Persa",
+  "summary": "Expressar bênçãos e desejos formais na literatura clássica persa.",
+  "explanation": "Formado adicionando o sufixo '-اد' à raiz do presente (ex. باد = Que seja).",
+  "rules": [
+    "Raiz do Presente + -اد"
+  ],
+  "example_translations": {
+    "ex_opt_1": "Que o nome do Irã seja eterno para sempre."
+  },
+  "common_error_explanations": {
+    "err_opt_1": "Não misture optativos arcaicos com formas subjuntivas modernas."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "ir"
+  },
+  "locale": "pt"
+}

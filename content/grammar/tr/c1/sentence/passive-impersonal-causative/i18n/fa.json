@@ -1,0 +1,18 @@
+{
+  "title": "ساختارهای مجهول غیرشخصی و انتزاعی",
+  "summary": "بیان فعل مجهول از افعال لازم (بدون مفعول) در سطح رسمی.",
+  "explanation": "بیان فعل مجهول از افعال لازم (بدون مفعول) در سطح رسمی.",
+  "rules": [
+    "Intransitive Verb Stem + Passive Suffix (-ildi)"
+  ],
+  "example_translations": {
+    "ex_c1_2": "Bu konuda uzun uzun tartışıldı."
+  },
+  "common_error_explanations": {
+    "err_c1_2": "Use impersonal passives for abstract formal statements."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "خواندن"
+  },
+  "locale": "fa"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Turkish Indirect Reported Speech",
+  "summary": "Reporting what someone said or what happened.",
+  "explanation": "Turkish turns reported clauses into nominalized structures using participle suffixes (-dik) plus possessive and accusative markers.",
+  "rules": [
+    "Subject + Nominalized Clause (-diğini) + Said"
+  ],
+  "example_translations": {
+    "ex_trind_1": "He/She said that he/she read the book."
+  },
+  "common_error_explanations": {
+    "err_trind_1": "Use nominalized participle clauses for reported speech."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "read"
+  },
+  "locale": "en"
+}

@@ -1,0 +1,18 @@
+{
+  "locale": "ja",
+  "title": "[JA] [JA] German Passive Voice (Present)",
+  "summary": "[JA] [JA] German Passive Voice (Present)",
+  "explanation": "[JA] [JA] German Passive Voice (Present)",
+  "rules": [
+    "Subjekt + werden (Pos 2) + ... + Partizip II (Ende)"
+  ],
+  "example_translations": {
+    "ex_de_b1": "Die Zeitung wird jeden Tag gelesen."
+  },
+  "common_error_explanations": {
+    "err_de_b1": "Present passive uses 'werden' as auxiliary in position 2 with Partizip II at the end, unlike resultative passive with 'sein'."
+  },
+  "vocab_glosses": {
+    "de.vocab.zeitung": "term"
+  }
+}

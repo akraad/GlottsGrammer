@@ -1,0 +1,38 @@
+{
+  "$schema": "../../../../../schemas/grammar-i18n.schema.json",
+  "locale": "ar",
+  "translation_status": "draft",
+  "name": "فعل الكينونة (am/is/are)",
+  "summary": "يُستخدم فعل to be لوصف الهوية والحالة والمكان.",
+  "explanation": "فعل to be هو أهم فعل في الإنجليزية. له ثلاثة أشكال في المضارع: am, is, are. استخدم am مع I. استخدم is مع he/she/it. استخدم are مع you/we/they. على عكس الأفعال الأخرى، لا يحتاج to be إلى do/does للأسئلة أو النفي.",
+  "form_notes": {
+    "affirmative": "فاعل + am/is/are + مفعول به (اسم، صفة أو مكان). مثال: She is a teacher.",
+    "negative": "فاعل + am/is/are + not + مفعول به. مثال: He is not happy.",
+    "question": "Am/Is/Are + فاعل + مفعول به؟ مثال: Are you tired?"
+  },
+  "example_translations": {
+    "ex_01": "أنا طالب.",
+    "ex_02": "هي ليست في المنزل.",
+    "ex_03": "هل أنت سعيد اليوم؟"
+  },
+  "common_error_explanations": {
+    "err_01": "استخدم دائماً am مع I. لا تقل أبداً I is.",
+    "err_02": "استخدم is مع he/she/it. are فقط لـ you/we/they."
+  },
+  "vocab_glosses": {
+    "en.verb.be": "يكون",
+    "en.adj.happy": "سعيد",
+    "en.adj.sad": "حزين",
+    "en.adj.tired": "متعب",
+    "en.adj.hungry": "جائع",
+    "en.vocab.home": "منزل",
+    "en.noun.school": "مدرسة",
+    "en.noun.work": "عمل (مكان)"
+  },
+  "title": "أفعال الكينونة (Am / Is / Are)",
+  "rules": [
+    "I + am",
+    "He/She/It + is",
+    "You/We/They + are"
+  ]
+}

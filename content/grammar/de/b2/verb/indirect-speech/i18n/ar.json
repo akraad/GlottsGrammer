@@ -1,0 +1,18 @@
+{
+  "locale": "ar",
+  "title": "[AR] [AR] German Indirect Speech (Konjunktiv I)",
+  "summary": "[AR] [AR] German Indirect Speech (Konjunktiv I)",
+  "explanation": "[AR] [AR] German Indirect Speech (Konjunktiv I)",
+  "rules": [
+    "Hauptsatz + , + Subjekt + Konjunktiv I (Ende oder Pos 2)"
+  ],
+  "example_translations": {
+    "ex_de_b2_2": "Er sagt, er habe keine Zeit."
+  },
+  "common_error_explanations": {
+    "err_de_b2_2": "In formal indirect speech (reported speech), use Konjunktiv I forms (e.g., habe, sei) to attribute statements neutrally."
+  },
+  "vocab_glosses": {
+    "de.vocab.sagen": "term"
+  }
+}

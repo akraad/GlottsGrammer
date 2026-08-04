@@ -1,0 +1,722 @@
+[
+  {
+    "id": "noun.number.basic",
+    "category": "noun",
+    "name_en": "Basic singular and plural"
+  },
+  {
+    "id": "pronoun.personal_subject",
+    "category": "pronoun",
+    "name_en": "Subject pronouns"
+  },
+  {
+    "id": "verb.copula.basic",
+    "category": "verb",
+    "name_en": "Basic copula / to be"
+  },
+  {
+    "id": "verb.tense.present_habitual",
+    "category": "verb",
+    "name_en": "Present habitual / present simple"
+  },
+  {
+    "id": "verb.form.base",
+    "category": "verb",
+    "name_en": "Verb base form / five principal parts"
+  },
+  {
+    "id": "sentence.negation.basic",
+    "category": "sentence",
+    "name_en": "Basic negation"
+  },
+  {
+    "id": "sentence.question.yes_no",
+    "category": "question",
+    "name_en": "Yes/no questions"
+  },
+  {
+    "id": "sentence.question.wh",
+    "category": "question",
+    "name_en": "Wh-questions"
+  },
+  {
+    "id": "noun.possession.basic",
+    "category": "noun",
+    "name_en": "Basic possession"
+  },
+  {
+    "id": "adjective.basic",
+    "category": "adjective",
+    "name_en": "Basic adjectives"
+  },
+  {
+    "id": "adverb.frequency.basic",
+    "category": "adverb",
+    "name_en": "Basic frequency adverbs"
+  },
+  {
+    "id": "pronoun.object.basic",
+    "category": "pronoun",
+    "name": "Basic Object Pronouns"
+  },
+  {
+    "id": "noun.definiteness.basic",
+    "category": "noun",
+    "name": "Basic Definiteness (Articles)"
+  },
+  {
+    "id": "noun.possessive.basic",
+    "category": "noun",
+    "name": "Basic Possessive Nouns"
+  },
+  {
+    "id": "verb.present.continuous",
+    "category": "verb",
+    "name": "Present Continuous Tense"
+  },
+  {
+    "id": "preposition.time.place.basic",
+    "category": "preposition",
+    "name": "Basic Time and Place Prepositions"
+  },
+  {
+    "id": "sentence.question.basic",
+    "category": "sentence",
+    "name": "Basic Yes/No & WH Questions"
+  },
+  {
+    "id": "pronoun.demonstrative.basic",
+    "category": "pronoun",
+    "name": "Basic Demonstrative Pronouns"
+  },
+  {
+    "id": "modal.can.basic",
+    "category": "modal",
+    "name": "Basic Ability with Can"
+  },
+  {
+    "id": "verb.past.simple.regular",
+    "category": "verb",
+    "name": "Past Simple Regular Verbs"
+  },
+  {
+    "id": "verb.past.simple.be",
+    "category": "verb",
+    "name": "Past Simple of Be (Was/Were)"
+  },
+  {
+    "id": "adjective.comparative.basic",
+    "category": "adjective",
+    "name": "Basic Comparative Adjectives"
+  },
+  {
+    "id": "verb.past.simple.irregular",
+    "category": "verb",
+    "name": "Past Simple Irregular Verbs"
+  },
+  {
+    "id": "verb.future.will",
+    "category": "verb",
+    "name": "Future Simple with Will"
+  },
+  {
+    "id": "verb.future.goingto",
+    "category": "verb",
+    "name": "Future Intentions with Going To"
+  },
+  {
+    "id": "adjective.superlative.basic",
+    "category": "adjective",
+    "name": "Basic Superlative Adjectives"
+  },
+  {
+    "id": "modal.should.must.basic",
+    "category": "modal",
+    "name": "Basic Obligation and Advice with Should & Must"
+  },
+  {
+    "id": "verb.present.perfect.basic",
+    "category": "verb",
+    "name": "Basic Present Perfect Tense"
+  },
+  {
+    "id": "verb.past.continuous.basic",
+    "category": "verb",
+    "name": "Basic Past Continuous Tense"
+  },
+  {
+    "id": "condition.first.conditional",
+    "category": "condition",
+    "name": "First Conditional"
+  },
+  {
+    "id": "passive.present.simple",
+    "category": "passive",
+    "name": "Present Simple Passive"
+  },
+  {
+    "id": "condition.second.conditional",
+    "category": "condition",
+    "name": "Second Conditional"
+  },
+  {
+    "id": "verb.present.perfect.continuous",
+    "category": "verb",
+    "name": "Present Perfect Continuous Tense"
+  },
+  {
+    "id": "clause.relative.basic",
+    "category": "clause",
+    "name": "Basic Relative Clauses (Who/Which/That)"
+  },
+  {
+    "id": "modal.speculation.basic",
+    "category": "modal",
+    "name": "Basic Speculation (Might/May/Could)"
+  },
+  {
+    "id": "reported.speech.statement",
+    "category": "reported-speech",
+    "name": "Reported Statements"
+  },
+  {
+    "id": "condition.third.conditional",
+    "category": "condition",
+    "name": "Third Conditional"
+  },
+  {
+    "id": "passive.past.simple",
+    "category": "passive",
+    "name": "Past Simple Passive"
+  },
+  {
+    "id": "modal.past.modals",
+    "category": "modal",
+    "name": "Past Modals (Should have / Could have)"
+  },
+  {
+    "id": "pronoun.personal.subject",
+    "category": "pronoun",
+    "name": "Personal Subject Pronouns"
+  },
+  {
+    "id": "noun.basic.plural",
+    "category": "noun",
+    "name": "Basic Plural Nouns"
+  },
+  {
+    "id": "noun.ezafe.construction",
+    "category": "noun",
+    "name": "Ezafe Construction (-e Suffix)"
+  },
+  {
+    "id": "sentence.word.order",
+    "category": "sentence",
+    "name": "Basic Word Order (SOV)"
+  },
+  {
+    "id": "adjective.position.basic",
+    "category": "adjective",
+    "name": "Basic Adjective Position"
+  },
+  {
+    "id": "verb.present.simple",
+    "category": "verb",
+    "name": "Present Simple Tense"
+  },
+  {
+    "id": "verb.past.simple",
+    "category": "verb",
+    "name": "Past Simple Tense"
+  },
+  {
+    "id": "verb.past.continuous",
+    "category": "verb",
+    "name": "Past Continuous Tense"
+  },
+  {
+    "id": "verb.future.basic",
+    "category": "verb",
+    "name": "Basic Future Tense"
+  },
+  {
+    "id": "adjective.comparative.superlative",
+    "category": "adjective",
+    "name": "Comparative and Superlative Adjectives"
+  },
+  {
+    "id": "clause.object.marker.ra",
+    "category": "clause",
+    "name": "Direct Object Marker (Ra)"
+  },
+  {
+    "id": "verb.modal.basic",
+    "category": "verb",
+    "name": "Basic Modal Verbs"
+  },
+  {
+    "id": "pronoun.possessive.suffixes",
+    "category": "pronoun",
+    "name": "Possessive Suffixes"
+  },
+  {
+    "id": "preposition.compound.basic",
+    "category": "preposition",
+    "name": "Compound Prepositions"
+  },
+  {
+    "id": "sentence.adverb.position",
+    "category": "sentence",
+    "name": "Adverb Position in Sentence"
+  },
+  {
+    "id": "verb.subjunctive.present",
+    "category": "verb",
+    "name": "Present Subjunctive Mood"
+  },
+  {
+    "id": "verb.present.perfect",
+    "category": "verb",
+    "name": "Present Perfect Tense"
+  },
+  {
+    "id": "clause.conditional.basic",
+    "category": "clause",
+    "name": "Basic Conditional Sentences"
+  },
+  {
+    "id": "verb.passive.voice",
+    "category": "verb",
+    "name": "Passive Voice"
+  },
+  {
+    "id": "verb.past.perfect",
+    "category": "verb",
+    "name": "Past Perfect Tense"
+  },
+  {
+    "id": "verb.subjunctive.past",
+    "category": "verb",
+    "name": "Past Subjunctive Mood"
+  },
+  {
+    "id": "sentence.reported.speech.basic",
+    "category": "sentence",
+    "name": "Basic Reported Speech"
+  },
+  {
+    "id": "verb.past.narrative.imperfect",
+    "category": "verb",
+    "name": "Narrative Past Continuous"
+  },
+  {
+    "id": "verb.causative.form",
+    "category": "verb",
+    "name": "Causative Verb Form"
+  },
+  {
+    "id": "clause.concession.basic",
+    "category": "clause",
+    "name": "Concessive Clauses (اگرچه)"
+  },
+  {
+    "id": "noun.compound.derivation",
+    "category": "noun",
+    "name": "Compound Noun Formation"
+  },
+  {
+    "id": "verb.literary.optative",
+    "category": "verb",
+    "name": "Literary Optative and Desire Moods"
+  },
+  {
+    "id": "clause.complex.subordination",
+    "category": "clause",
+    "name": "Complex Subordinating Clauses"
+  },
+  {
+    "id": "noun.vocalic.pluralization",
+    "category": "noun",
+    "name": "Pluralization of Vowel-Ending Nouns"
+  },
+  {
+    "id": "sentence.absolute.constructions",
+    "category": "sentence",
+    "name": "Absolute and Adverbial Clause Constructions"
+  },
+  {
+    "id": "verb.informal.slang.past.continuous",
+    "category": "verb",
+    "name": "Informal Past Continuous with Dashtan"
+  },
+  {
+    "id": "noun.informal.ezafe.reduction",
+    "category": "noun",
+    "name": "Colloquial Noun Reductions and Pronoun Shortening"
+  },
+  {
+    "id": "sentence.colloquial.word.order",
+    "category": "sentence",
+    "name": "Conversational Word Order Adjustments"
+  },
+  {
+    "id": "phrase.idiomatic.everyday.expressions",
+    "category": "sentence",
+    "name": "Everyday Idiomatic Expressions and Courtesy"
+  },
+  {
+    "id": "verb.present.continuous.yor",
+    "category": "verb",
+    "name": "Present Continuous Tense (-iyor)"
+  },
+  {
+    "id": "preposition.locative.case",
+    "category": "preposition",
+    "name": "Locative Case Suffix (-da/-de)"
+  },
+  {
+    "id": "preposition.dative.direction",
+    "category": "preposition",
+    "name": "Dative Direction Suffix (-a/-e)"
+  },
+  {
+    "id": "sentence.question.particle.mi",
+    "category": "sentence",
+    "name": "Question Particle (mı/mi)"
+  },
+  {
+    "id": "verb.future.tense.ecek",
+    "category": "verb",
+    "name": "Future Tense (-ecek/-acak)"
+  },
+  {
+    "id": "verb.modal.ability.ebil",
+    "category": "verb",
+    "name": "Ability Modal (-ebil/-abil)"
+  },
+  {
+    "id": "sentence.object.marker.accusative",
+    "category": "sentence",
+    "name": "Definite Accusative Object Suffix (-i)"
+  },
+  {
+    "id": "preposition.genitive.case",
+    "category": "preposition",
+    "name": "Genitive Case Suffix (-in/-im)"
+  },
+  {
+    "id": "verb.past.narrative.mish",
+    "category": "verb",
+    "name": "Narrative Past Tense (-miş)"
+  },
+  {
+    "id": "verb.necessitative.meli",
+    "category": "verb",
+    "name": "Necessitative Mood (-meli/-malı)"
+  },
+  {
+    "id": "clause.relative.en",
+    "category": "clause",
+    "name": "Participle Relative Clauses (-en/-an)"
+  },
+  {
+    "id": "clause.conditional.if.se",
+    "category": "clause",
+    "name": "Conditional Suffix (-se/-sa)"
+  },
+  {
+    "id": "clause.indirect.speech",
+    "category": "clause",
+    "name": "Indirect Reported Speech"
+  },
+  {
+    "id": "adjective.superlative.degree",
+    "category": "adjective",
+    "name": "Superlative Adjectives (en)"
+  },
+  {
+    "id": "sentence.causative.voice",
+    "category": "sentence",
+    "name": "Causative Verb Form (-dir/-tir)"
+  },
+  {
+    "id": "verb.reciprocal.voice",
+    "category": "verb",
+    "name": "Reciprocal Verb Form (-iş)"
+  },
+  {
+    "id": "clause.gerundial.when.while",
+    "category": "clause",
+    "name": "Gerundial Clauses (-ken / -ince)"
+  },
+  {
+    "id": "clause.relative.object.dik",
+    "category": "clause",
+    "name": "Object Relative Clauses (-dik)"
+  },
+  {
+    "id": "sentence.reported.speech.advanced",
+    "category": "sentence",
+    "name": "Advanced Reported Speech Formats"
+  },
+  {
+    "id": "clause.conditional.past.seler",
+    "category": "clause",
+    "name": "Past Counterfactual Conditional (-seydi)"
+  },
+  {
+    "id": "verb.reflexive.voice",
+    "category": "verb",
+    "name": "Reflexive Verb Form (-in/-n)"
+  },
+  {
+    "id": "clause.concessive.though.se.bile",
+    "category": "clause",
+    "name": "Concessive Clause (-se bile)"
+  },
+  {
+    "id": "sentence.complex.subordination.advanced",
+    "category": "sentence",
+    "name": "Advanced Complex Subordination"
+  },
+  {
+    "id": "clause.participial.dikce",
+    "category": "clause",
+    "name": "Progressive Participial Clause (-dikçe)"
+  },
+  {
+    "id": "sentence.inversion.literary",
+    "category": "sentence",
+    "name": "Literary Inversion and Stylistic Shifts"
+  },
+  {
+    "id": "clause.nominalization.mamak",
+    "category": "clause",
+    "name": "Advanced Nominalization (-mek/-mak)"
+  },
+  {
+    "id": "phrase.idiomatic.advanced.structures",
+    "category": "phrase",
+    "name": "Advanced Idiomatic and Proverbial Structures"
+  },
+  {
+    "id": "sentence.passive.impersonal.causative",
+    "category": "sentence",
+    "name": "Impersonal Passive Structures"
+  },
+  {
+    "id": "clause.gerundial.advanced.rc",
+    "category": "clause",
+    "name": "Advanced Gerundial Subordination"
+  },
+  {
+    "id": "phrase.rhetorical.discourse.markers",
+    "category": "phrase",
+    "name": "Rhetorical Discourse Markers"
+  },
+  {
+    "id": "sentence.stylistic.syntactic.complexity",
+    "category": "sentence",
+    "name": "Stylistic Syntactic Complexity"
+  },
+  {
+    "id": "verb.present.regular.german",
+    "category": "verb",
+    "name": "German Regular Present Tense"
+  },
+  {
+    "id": "noun.plural.german",
+    "category": "noun",
+    "name": "German Noun Plural Forms"
+  },
+  {
+    "id": "sentence.word.order.german",
+    "category": "sentence",
+    "name": "German Basic Word Order (V2)"
+  },
+  {
+    "id": "preposition.basic.german",
+    "category": "preposition",
+    "name": "German Basic Prepositions"
+  },
+  {
+    "id": "verb.modal.basic.german",
+    "category": "verb",
+    "name": "German Modal Verbs"
+  },
+  {
+    "id": "noun.case.accusative.german",
+    "category": "noun",
+    "name": "German Accusative Case"
+  },
+  {
+    "id": "sentence.question.wh.german",
+    "category": "sentence",
+    "name": "German WH-Questions"
+  },
+  {
+    "id": "adjective.predicative.german",
+    "category": "adjective",
+    "name": "German Predicative Adjectives"
+  },
+  {
+    "id": "verb.past.perfekt.german",
+    "category": "verb",
+    "name": "German Perfekt Tense"
+  },
+  {
+    "id": "noun.case.dative.german",
+    "category": "noun",
+    "name": "German Dative Case"
+  },
+  {
+    "id": "sentence.subordinate.weil.german",
+    "category": "sentence",
+    "name": "German Subordinate Clauses with weil"
+  },
+  {
+    "id": "adjective.comparison.german",
+    "category": "adjective",
+    "name": "German Comparative and Superlative"
+  },
+  {
+    "id": "verb.reflexive.german",
+    "category": "verb",
+    "name": "German Reflexive Verbs"
+  },
+  {
+    "id": "sentence.subordinate.dass.german",
+    "category": "sentence",
+    "name": "German Subordinate Clauses with dass"
+  },
+  {
+    "id": "preposition.twoway.german",
+    "category": "preposition",
+    "name": "German Two-Way Prepositions"
+  },
+  {
+    "id": "pronoun.relative.basic.german",
+    "category": "pronoun",
+    "name": "German Basic Relative Pronouns"
+  },
+  {
+    "id": "verb.passive.present.german",
+    "category": "verb",
+    "name": "German Passive Voice (Present)"
+  },
+  {
+    "id": "sentence.conditional.wenn.german",
+    "category": "sentence",
+    "name": "German Conditional Clauses with wenn"
+  },
+  {
+    "id": "verb.past.prateritum.german",
+    "category": "verb",
+    "name": "German Präteritum Tense"
+  },
+  {
+    "id": "adjective.declension.german",
+    "category": "adjective",
+    "name": "German Adjective Declension"
+  },
+  {
+    "id": "verb.passive.preteritum.german",
+    "category": "verb",
+    "name": "German Passive Voice (Präteritum)"
+  },
+  {
+    "id": "conjunction.adverbial.german",
+    "category": "conjunction",
+    "name": "German Adverbial Conjunctions"
+  },
+  {
+    "id": "sentence.relative.cases.german",
+    "category": "sentence",
+    "name": "German Relative Clauses with Cases"
+  },
+  {
+    "id": "verb.subjunctive2.polite.german",
+    "category": "verb",
+    "name": "German Konjunktiv II Polite Forms"
+  },
+  {
+    "id": "verb.passive.zustand.german",
+    "category": "verb",
+    "name": "German Zustandspassiv"
+  },
+  {
+    "id": "sentence.nominalization.german",
+    "category": "sentence",
+    "name": "German Nominalization"
+  },
+  {
+    "id": "verb.subjunctive2.past.german",
+    "category": "verb",
+    "name": "German Konjunktiv II Past"
+  },
+  {
+    "id": "conjunction.advanced.german",
+    "category": "conjunction",
+    "name": "German Advanced Two-Part Connectors"
+  },
+  {
+    "id": "verb.indirect.speech.german",
+    "category": "verb",
+    "name": "German Indirect Speech (Konjunktiv I)"
+  },
+  {
+    "id": "preposition.genitive.german",
+    "category": "preposition",
+    "name": "German Genitive Prepositions"
+  },
+  {
+    "id": "sentence.participle.attribute.german",
+    "category": "sentence",
+    "name": "German Participle Attributes"
+  },
+  {
+    "id": "verb.prepositional.german",
+    "category": "verb",
+    "name": "German Prepositional Verbs"
+  },
+  {
+    "id": "sentence.nominal.style.german",
+    "category": "sentence",
+    "name": "German Advanced Nominal Style"
+  },
+  {
+    "id": "verb.passive.substitute.german",
+    "category": "verb",
+    "name": "German Passive Substitute Structures"
+  },
+  {
+    "id": "sentence.correlative.c1.german",
+    "category": "sentence",
+    "name": "German Advanced Correlative Clauses"
+  },
+  {
+    "id": "verb.subjunctive.advanced.german",
+    "category": "verb",
+    "name": "German Advanced Subjunctive Nuances"
+  },
+  {
+    "id": "verb.modal.particles.german",
+    "category": "verb",
+    "name": "German Modal Particles"
+  },
+  {
+    "id": "sentence.cleft.german",
+    "category": "sentence",
+    "name": "German Cleft Sentences"
+  },
+  {
+    "id": "preposition.advanced.syntax.german",
+    "category": "preposition",
+    "name": "German Advanced Prepositional Syntax"
+  },
+  {
+    "id": "sentence.advanced.inversion.german",
+    "category": "sentence",
+    "name": "German Advanced Inversion and Rhetoric"
+  }
+]

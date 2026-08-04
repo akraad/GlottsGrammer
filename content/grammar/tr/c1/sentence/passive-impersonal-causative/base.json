@@ -1,0 +1,62 @@
+{
+  "schema_version": "1.0.0",
+  "id": "tr.c1.sentence.passive-impersonal-causative",
+  "universal_concept_id": "sentence.passive.impersonal.causative",
+  "language": "tr",
+  "cefr": "C1",
+  "app_level": "advanced",
+  "category": "sentence",
+  "status": "approved",
+  "difficulty": 5,
+  "prerequisites": [
+    "tr.b1.verb.passive-voice"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "intransitive_verb_stem"
+        },
+        {
+          "slot": "passive_suffix"
+        }
+      ],
+      "example": "oturuldu"
+    }
+  ],
+  "vocab": [
+    "tr.vocab.okumak"
+  ],
+  "examples": [
+    {
+      "ex_c1_2": "Bu konuda uzun uzun tartışıldı.",
+      "id": "ex_c1_2",
+      "target_text": "Bu konuda uzun uzun tartışıldı.",
+      "tokens": [
+        {
+          "text": "Bu"
+        },
+        {
+          "text": "konuda"
+        },
+        {
+          "text": "uzun"
+        },
+        {
+          "text": "uzun"
+        },
+        {
+          "text": "tartışıldı."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_c1_2",
+      "incorrect": "Bu konuda insanlar uzun uzun tartıştı normal aktif.",
+      "explanation": "Use impersonal passive forms for intransitive verbs in formal registers."
+    }
+  ]
+}

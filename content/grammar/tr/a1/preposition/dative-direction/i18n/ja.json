@@ -1,0 +1,18 @@
+{
+  "title": "トルコ語の向格 (-a / -e)",
+  "summary": "方向や目的地を表す「〜へ」「〜に」。",
+  "explanation": "母音調和に従って '-a/-e' を付けます。単語が母音で終わる場合は緩衝音 'y' を挿入します。",
+  "rules": [
+    "名詞 + -(y)a / -(y)e"
+  ],
+  "example_translations": {
+    "ex_trdat_1": "私は家へ行きます。"
+  },
+  "common_error_explanations": {
+    "err_trdat_1": "前舌母音を持つ単語には '-e' を使用してください。"
+  },
+  "vocab_glosses": {
+    "tr.vocab.ev": "家"
+  },
+  "locale": "ja"
+}

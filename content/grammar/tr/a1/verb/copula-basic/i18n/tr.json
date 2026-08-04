@@ -1,0 +1,18 @@
+{
+  "title": "Ek-Fiil ve Şahıs Ekleri (İsim Cümleleri)",
+  "summary": "İsim ve sıfatlara gelen kişi ekleri (-im, -sin, -dir...).",
+  "explanation": "Türkçede 'olmak' fiili yerine isimlere kişi ekleri eklenir (öğretmen-im, öğretmen-sin).",
+  "rules": [
+    "İsim + Şahıs Eki (4'lü Ünlü Uyumu)"
+  ],
+  "example_translations": {
+    "ex_tr_cop_1": "Sen bir öğretmensin."
+  },
+  "common_error_explanations": {
+    "err_tr_cop_1": "Şahıs eklerini 4'lü ünlü uyumuna göre ekleyin (-im/-ım/-üm/-um)."
+  },
+  "vocab_glosses": {
+    "tr.vocab.ogretmen": "öğretmen"
+  },
+  "locale": "tr"
+}

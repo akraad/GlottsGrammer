@@ -1,0 +1,18 @@
+{
+  "title": "Fortgeschrittene Partizipialstrukturen",
+  "summary": "Fortgeschrittene syntaktische Muster im Türkischen.",
+  "explanation": "Komplexe Strukturen für den C1-Bereich.",
+  "rules": [
+    "Advanced Idiomatic Metaphor Phrase"
+  ],
+  "example_translations": {
+    "ex_c1_1": "Je mehr man liest, desto mehr lernt man."
+  },
+  "common_error_explanations": {
+    "err_c1_1": "Verwende adäquate C1-Strukturen."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "lesen"
+  },
+  "locale": "de"
+}

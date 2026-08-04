@@ -1,0 +1,18 @@
+{
+  "title": "Persischer Konjunktiv Perfekt",
+  "summary": "Ausdruck von Zweifel oder Möglichkeit in der Vergangenheit.",
+  "explanation": "Partizip Perfekt + Konjunktivformen von 'sein' (باشم, باشی, باشد...).",
+  "rules": [
+    "Partizip Perfekt + باشم"
+  ],
+  "example_translations": {
+    "ex_psubj_1": "Vielleicht ist er/sie nach Hause gegangen."
+  },
+  "common_error_explanations": {
+    "err_psubj_1": "Verwende das Partizip Perfekt + 'باشد' für vergangene Vermutungen."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "gehen"
+  },
+  "locale": "de"
+}

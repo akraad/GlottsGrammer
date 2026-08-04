@@ -1,0 +1,18 @@
+{
+  "title": "Dolaylı Anlatım (Reported Speech)",
+  "summary": "Başkasının söylediği bir şeyi aktarmak için kullanılır.",
+  "explanation": "Fiil zamanı bir derece geçmişe kaydırılır.",
+  "rules": [
+    "Geniş Zaman -> Geçmiş Zaman"
+  ],
+  "example_translations": {
+    "ex_rep_1": "Mutlu olduğunu söyledi."
+  },
+  "common_error_explanations": {
+    "err_rep_1": "Aktarılan cümlede zamanı geçmişe kaydırın."
+  },
+  "vocab_glosses": {
+    "en.vocab.say": "söylemek"
+  },
+  "locale": "tr"
+}

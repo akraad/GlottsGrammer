@@ -1,0 +1,19 @@
+{
+  "title": "Posición del Adjetivo en Persa",
+  "summary": "Los adjetivos van después del sustantivo con Ezafe.",
+  "explanation": "Al igual que en español, los adjetivos se colocan DESPUÉS del sustantivo.",
+  "rules": [
+    "Sustantivo + -e + Adjetivo"
+  ],
+  "example_translations": {
+    "ex_adj_1": "Esta es una casa grande."
+  },
+  "common_error_explanations": {
+    "err_adj_1": "Coloca el adjetivo DESPUÉS del sustantivo."
+  },
+  "vocab_glosses": {
+    "fa.vocab.home": "casa",
+    "fa.vocab.bozorg": "grande"
+  },
+  "locale": "es"
+}

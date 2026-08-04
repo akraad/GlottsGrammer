@@ -1,0 +1,18 @@
+{
+  "title": "Futur en Turc (-ecek / -acak)",
+  "summary": "Exprimer des actions qui se produiront dans le futur.",
+  "explanation": "Ajoutez '-ecek/-acak' au radical du verbe (avec un 'y' de liaison si le radical se termine par une voyelle) suivi des suffixes personnels.",
+  "rules": [
+    "Radical du Verbe + -(y)ecek + Suffixe Personnel"
+  ],
+  "example_translations": {
+    "ex_trfut_1": "Demain, je lirai un livre."
+  },
+  "common_error_explanations": {
+    "err_trfut_1": "Utilisez le suffixe du futur pour les actions à venir."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "lire"
+  },
+  "locale": "fr"
+}

@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0.0",
+  "id": "tr.a2.verb.future-tense-ecek",
+  "universal_concept_id": "verb.future.tense.ecek",
+  "language": "tr",
+  "cefr": "A2",
+  "app_level": "elementary",
+  "category": "verb",
+  "status": "approved",
+  "difficulty": 2,
+  "prerequisites": [
+    "tr.a1.verb.present-continuous-yor"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "verb_stem"
+        },
+        {
+          "slot": "ecek_suffix"
+        },
+        {
+          "slot": "personal_suffix"
+        }
+      ],
+      "example": "gideceğim"
+    }
+  ],
+  "vocab": [
+    "tr.vocab.okumak"
+  ],
+  "examples": [
+    {
+      "id": "ex_trfut_1",
+      "target_text": "Yarın bir kitap okuyacağım.",
+      "tokens": [
+        {
+          "text": "Yarın"
+        },
+        {
+          "text": "bir"
+        },
+        {
+          "text": "kitap"
+        },
+        {
+          "text": "okuyacağım."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_trfut_1",
+      "incorrect": "Yarın bir kitap okuyorum gelecek.",
+      "explanation": "Use future tense suffix '-ecek/-acak' (with buffer 'y' if stem ends in a vowel) for future actions."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "locale": "fr",
+  "title": "Verbes modaux (Base)",
+  "summary": "Utilisation des verbes modaux avec l'infinitif à la fin.",
+  "explanation": "Utilisation des verbes modaux avec l'infinitif à la fin.",
+  "rules": [
+    "Sujet + Verbe modal (Pos 2) + ... + Infinitivo (Fin)"
+  ],
+  "example_translations": {
+    "ex_de_2": "Ich kann gut schwimmen."
+  },
+  "common_error_explanations": {
+    "err_de_2": "Placez le verbe principal à l'infinitif à la fin."
+  },
+  "vocab_glosses": {
+    "de.vocab.schwimmen": "nager"
+  }
+}

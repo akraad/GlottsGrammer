@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0.0",
+  "id": "tr.b1.verb.necessitative-meli",
+  "universal_concept_id": "verb.necessitative.meli",
+  "language": "tr",
+  "cefr": "B1",
+  "app_level": "intermediate",
+  "category": "verb",
+  "status": "approved",
+  "difficulty": 3,
+  "prerequisites": [
+    "tr.a2.verb.future-tense-ecek"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "verb_stem"
+        },
+        {
+          "slot": "meli_suffix"
+        },
+        {
+          "slot": "personal_suffix"
+        }
+      ],
+      "example": "okumalısın"
+    }
+  ],
+  "vocab": [
+    "tr.vocab.okumak"
+  ],
+  "examples": [
+    {
+      "id": "ex_trmel_1",
+      "target_text": "Bu kitabı mutlaka okumalısın.",
+      "tokens": [
+        {
+          "text": "Bu"
+        },
+        {
+          "text": "kitabı"
+        },
+        {
+          "text": "mutlaka"
+        },
+        {
+          "text": "okumalısın."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_trmel_1",
+      "incorrect": "Bu kitabı mutlaka okumak lazımsın.",
+      "explanation": "Use necessitative suffix '-meli/-malı' directly on the verb stem to express obligation or necessity."
+    }
+  ]
+}

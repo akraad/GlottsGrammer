@@ -1,0 +1,64 @@
+{
+  "schema_version": "1.0.0",
+  "id": "de.b1.verb.passive-voice-preteritum",
+  "universal_concept_id": "verb.passive.preteritum.german",
+  "language": "de",
+  "cefr": "B1",
+  "app_level": "intermediate",
+  "category": "verb",
+  "status": "approved",
+  "difficulty": 4,
+  "prerequisites": [
+    "de.b1.verb.passive-voice-prasez"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "subject"
+        },
+        {
+          "slot": "conjugated_wurden_pos2"
+        },
+        {
+          "slot": "partizip_ii_at_end"
+        }
+      ],
+      "example": "Das Buch wurde gelesen"
+    }
+  ],
+  "vocab": [
+    "de.vocab.brief"
+  ],
+  "examples": [
+    {
+      "id": "ex_de_b1_2",
+      "target_text": "Der Brief wurde gestern geschrieben.",
+      "tokens": [
+        {
+          "text": "Der"
+        },
+        {
+          "text": "Brief"
+        },
+        {
+          "text": "wurden"
+        },
+        {
+          "text": "gestern"
+        },
+        {
+          "text": "geschrieben."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_de_b1_2",
+      "incorrect": "Der Brief ist geschrieben worden (for simple narrative passive).",
+      "explanation": "In narrative past passive, use 'wurde' in position 2 with Partizip II at the end."
+    }
+  ]
+}

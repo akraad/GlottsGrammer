@@ -1,0 +1,70 @@
+{
+  "schema_version": "1.0.0",
+  "id": "fa.b1.clause.conditional-basic",
+  "universal_concept_id": "clause.conditional.basic",
+  "language": "fa",
+  "cefr": "B1",
+  "app_level": "intermediate",
+  "category": "clause",
+  "status": "approved",
+  "difficulty": 3,
+  "prerequisites": [
+    "fa.b1.verb.subjunctive-present"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "agar_conjunction"
+        },
+        {
+          "slot": "condition_clause"
+        },
+        {
+          "slot": "result_clause"
+        }
+      ],
+      "example": "اگر بیایی"
+    }
+  ],
+  "vocab": [
+    "fa.vocab.raftan"
+  ],
+  "examples": [
+    {
+      "id": "ex_cond_1",
+      "target_text": "اگر وقت داشته باشم، به خانه می‌روم.",
+      "tokens": [
+        {
+          "text": "اگر"
+        },
+        {
+          "text": "وقت"
+        },
+        {
+          "text": "داشته"
+        },
+        {
+          "text": "باشم،"
+        },
+        {
+          "text": "به"
+        },
+        {
+          "text": "خانه"
+        },
+        {
+          "text": "می‌روم"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_cond_1",
+      "incorrect": "اگر وقت دارم، به خانه رفتم.",
+      "explanation": "In real conditionals, use subjunctive mood in the 'if' clause."
+    }
+  ]
+}

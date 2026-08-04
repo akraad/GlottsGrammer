@@ -1,0 +1,19 @@
+{
+  "title": "तुर्की में वाक्य संरचना (SOV)",
+  "summary": "कर्ता - कर्म - क्रिया (Subject - Object - Verb) क्रम।",
+  "explanation": "तुर्की में वाक्य संरचना कर्ता - कर्म - क्रिया (SOV) होती है। क्रिया सदैव वाक्य के अंत में आती है।",
+  "rules": [
+    "कर्ता + कर्म + अंत में क्रिया"
+  ],
+  "example_translations": {
+    "ex_tr_wo_1": "मैं एक किताब पढ़ रहा हूँ।"
+  },
+  "common_error_explanations": {
+    "err_tr_wo_1": "क्रिया को सदैव वाक्य के अंत में रखें।"
+  },
+  "vocab_glosses": {
+    "tr.vocab.kitap": "किताब",
+    "tr.vocab.okumak": "पढ़ना"
+  },
+  "locale": "hi"
+}

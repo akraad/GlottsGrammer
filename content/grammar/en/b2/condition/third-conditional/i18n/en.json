@@ -1,0 +1,18 @@
+{
+  "title": "Third Conditional",
+  "summary": "Express regret or hypothetical situations in the past.",
+  "explanation": "If + Past Perfect, Subject + Would have + Past Participle.",
+  "rules": [
+    "If clause -> Had + Participle"
+  ],
+  "example_translations": {
+    "ex_tc_1": "If I had studied, I would have passed."
+  },
+  "common_error_explanations": {
+    "err_tc_1": "Do not put 'would have' in the if-clause."
+  },
+  "vocab_glosses": {
+    "en.vocab.study": "study"
+  },
+  "locale": "en"
+}

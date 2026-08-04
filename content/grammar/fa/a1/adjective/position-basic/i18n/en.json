@@ -1,0 +1,19 @@
+{
+  "title": "Persian Adjective Position",
+  "summary": "Adjectives follow nouns in Persian using Ezafe.",
+  "explanation": "Unlike English, adjectives come AFTER the noun in Persian, linked by Ezafe.",
+  "rules": [
+    "Noun + -e + Adjective"
+  ],
+  "example_translations": {
+    "ex_adj_1": "This is a big house."
+  },
+  "common_error_explanations": {
+    "err_adj_1": "Place the adjective AFTER the noun."
+  },
+  "vocab_glosses": {
+    "fa.vocab.home": "house",
+    "fa.vocab.bozorg": "big"
+  },
+  "locale": "en"
+}

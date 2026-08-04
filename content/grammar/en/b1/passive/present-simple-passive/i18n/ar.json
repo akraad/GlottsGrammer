@@ -1,0 +1,20 @@
+{
+  "title": "المبني للمجهول في المضارع البسيط",
+  "summary": "استخدم المبني للمجهول عندما يكون الفعل أهم من الفاعل.",
+  "explanation": "يتكون من am/is/are + اسم المفعول (Past Participle).",
+  "rules": [
+    "المفعول به + am/is/are + التصريف الثالث للفعل"
+  ],
+  "example_translations": {
+    "ex_pass_1": "تُصنع السيارات في هذه المدينة."
+  },
+  "common_error_explanations": {
+    "err_pass_1": "استخدم دائمًا التصريف الثالث للفعل في صيغة المبني للمجهول."
+  },
+  "vocab_glosses": {
+    "en.vocab.car": "سيارة",
+    "en.vocab.make": "يصنع",
+    "en.vocab.city": "مدينة"
+  },
+  "locale": "ar"
+}

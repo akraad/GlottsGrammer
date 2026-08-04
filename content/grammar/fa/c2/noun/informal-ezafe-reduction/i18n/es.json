@@ -1,0 +1,19 @@
+{
+  "title": "Reducciones de Palabras en el Persa Coloquial",
+  "summary": "Cómo el persa hablado acorta vocales y verbos en la conversación diaria.",
+  "explanation": "El persa hablado convierte el sonido 'ân' en 'oon' (ej. خانه -> خونه) y acorta los verbos.",
+  "rules": [
+    "Sonido ân -> Sonido oon",
+    "Acortamiento verbal (می‌روم -> می‌رم)"
+  ],
+  "example_translations": {
+    "ex_red_1": "Quiero ir a casa."
+  },
+  "common_error_explanations": {
+    "err_red_1": "Usa las reducciones coloquiales naturales en charlas informales."
+  },
+  "vocab_glosses": {
+    "fa.vocab.home": "casa"
+  },
+  "locale": "es"
+}

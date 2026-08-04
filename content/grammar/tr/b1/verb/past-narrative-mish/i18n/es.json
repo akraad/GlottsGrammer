@@ -1,0 +1,18 @@
+{
+  "title": "Pasado Narrativo en Turco (-miş)",
+  "summary": "Expresar eventos pasados por hearsay o descubiertos.",
+  "explanation": "Añade '-miş/-mış' a la raíz verbal seguido de sufijos personales para acciones indirectas o supuestas.",
+  "rules": [
+    "Raíz Verbal + -miş + Sufijo Personal"
+  ],
+  "example_translations": {
+    "ex_trmish_1": "Has leído este libro (según dicen / me he dado cuenta)."
+  },
+  "common_error_explanations": {
+    "err_trmish_1": "Usa '-miş' para información de oídas o descubrimientos."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "leer"
+  },
+  "locale": "es"
+}

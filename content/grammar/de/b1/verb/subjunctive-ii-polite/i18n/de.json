@@ -1,0 +1,18 @@
+{
+  "locale": "de",
+  "title": "Konjunktiv II (Höfliche Wünsche)",
+  "summary": "Expressing polite requests and desires using Konjunktiv II forms.",
+  "explanation": "Expressing polite requests and desires using Konjunktiv II forms.",
+  "rules": [
+    "Subjekt + hätte/möchte (Pos 2) + ... + gern"
+  ],
+  "example_translations": {
+    "ex_de_b1_2": "Ich hätte gern eine Tasse Kaffee."
+  },
+  "common_error_explanations": {
+    "err_de_b1_2": "Use Konjunktiv II forms for expressing polite requests and wishes."
+  },
+  "vocab_glosses": {
+    "de.vocab.kaffee": "Kaffee"
+  }
+}

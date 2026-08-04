@@ -1,0 +1,32 @@
+[
+  {
+    "id": "de.vocab.lernen",
+    "language": "de",
+    "word": "lernen",
+    "translation": {
+      "en": "to learn",
+      "fa": "آموزختن",
+      "tr": "öğrenmek"
+    }
+  },
+  {
+    "id": "de.vocab.buch",
+    "language": "de",
+    "word": "Buch",
+    "translation": {
+      "en": "book",
+      "fa": "کتاب",
+      "tr": "kitap"
+    }
+  },
+  {
+    "id": "de.vocab.schule",
+    "language": "de",
+    "word": "Schule",
+    "translation": {
+      "en": "school",
+      "fa": "مدرسه",
+      "tr": "okul"
+    }
+  }
+]

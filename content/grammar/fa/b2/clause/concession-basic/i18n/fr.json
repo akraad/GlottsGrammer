@@ -1,0 +1,18 @@
+{
+  "title": "Propositions Concessives en Persan (اگرچه)",
+  "summary": "Exprimer le contraste avec 'اگرچه' ou 'با اینکه' (Bien que/Même si).",
+  "explanation": "Placez 'اگرچه' au début de la proposition de concession.",
+  "rules": [
+    "اگرچه + Proposition Concessive, اما + Proposition Principale"
+  ],
+  "example_translations": {
+    "ex_conc_1": "Bien qu'il pleuvait, il/elle est sorti(e)."
+  },
+  "common_error_explanations": {
+    "err_conc_1": "Utilisez 'اگرچه' pour exprimer une concession."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "aller"
+  },
+  "locale": "fr"
+}

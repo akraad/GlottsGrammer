@@ -1,0 +1,18 @@
+{
+  "title": "زمن المضارع المستمر في التركية (-iyor)",
+  "summary": "التعبير عن الأفعال التي تحدث الآن.",
+  "explanation": "تُضاف اللاحقة '-iyor' مع التوافق الصوتي إلى جذر الفعل ثم تلحقها ضمائر الفاعل.",
+  "rules": [
+    "جذر الفعل + -iyor + لاحقة الشخص"
+  ],
+  "example_translations": {
+    "ex_tryor_1": "أنا أقرأ كتاباً الآن."
+  },
+  "common_error_explanations": {
+    "err_tryor_1": "صل لواحق الشخص مباشرة بعد '-yor'."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "قراءة"
+  },
+  "locale": "ar"
+}

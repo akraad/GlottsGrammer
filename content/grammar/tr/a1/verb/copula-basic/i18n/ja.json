@@ -1,0 +1,18 @@
+{
+  "title": "トルコ語のコピュラ (〜です・である)",
+  "summary": "名詞や形容詞に付く述語人称接尾辞。",
+  "explanation": "トルコ語では「〜です」は単語に直接人称接尾辞 (-im, -sin, -dir...) を付けて表し、4母音調和に従います。",
+  "rules": [
+    "名詞/形容詞 + 人称接尾辞"
+  ],
+  "example_translations": {
+    "ex_tr_cop_1": "あなたは教師です。"
+  },
+  "common_error_explanations": {
+    "err_tr_cop_1": "コピュラ接尾辞には4母音調和を適用してください。"
+  },
+  "vocab_glosses": {
+    "tr.vocab.ogretmen": "教師"
+  },
+  "locale": "ja"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "उन्नत कृदंत संरचनाएं (Advanced Participles)",
+  "summary": "उन्नत तुर्की व्याकरण में जटिल संरचनाएं।",
+  "explanation": "C1 स्तर के लिए जटिल संरचनाएं।",
+  "rules": [
+    "Verb Stem + -mek/-mak"
+  ],
+  "example_translations": {
+    "ex_c1_1": "जैसे-जैसे अधिक पढ़ा जाता है, ज्ञान बढ़ता है।"
+  },
+  "common_error_explanations": {
+    "err_c1_1": "उन्नत C1 संरचनाओं का प्रयोग करें।"
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "पढ़ना"
+  },
+  "locale": "hi"
+}

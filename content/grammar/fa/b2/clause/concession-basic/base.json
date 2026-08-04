@@ -1,0 +1,73 @@
+{
+  "schema_version": "1.0.0",
+  "id": "fa.b2.clause.concession-basic",
+  "universal_concept_id": "clause.concession.basic",
+  "language": "fa",
+  "cefr": "B2",
+  "app_level": "upper_intermediate",
+  "category": "clause",
+  "status": "approved",
+  "difficulty": 3,
+  "prerequisites": [
+    "fa.b1.clause.conditional-basic"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "agarche_conjunction"
+        },
+        {
+          "slot": "concessive_clause"
+        },
+        {
+          "slot": "main_clause"
+        }
+      ],
+      "example": "اگرچه خسته بود"
+    }
+  ],
+  "vocab": [
+    "fa.vocab.raftan"
+  ],
+  "examples": [
+    {
+      "id": "ex_conc_1",
+      "target_text": "اگرچه هوا بارانی بود، اما او بیرون رفت.",
+      "tokens": [
+        {
+          "text": "اگرچه"
+        },
+        {
+          "text": "هوا"
+        },
+        {
+          "text": "بارانی"
+        },
+        {
+          "text": "بود،"
+        },
+        {
+          "text": "اما"
+        },
+        {
+          "text": "او"
+        },
+        {
+          "text": "بیرون"
+        },
+        {
+          "text": "رفت"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_conc_1",
+      "incorrect": "چون هوا بارانی بود، اما او بیرون رفت.",
+      "explanation": "Use 'اگرچه' or 'با اینکه' to express contrast or concession between clauses."
+    }
+  ]
+}

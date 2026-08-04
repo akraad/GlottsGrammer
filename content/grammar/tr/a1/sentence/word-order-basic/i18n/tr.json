@@ -1,0 +1,19 @@
+{
+  "title": "Cümle Dizilimi (Özne - Nesne - Yüklem)",
+  "summary": "Türkçedeki standart SOV cümle yapısı.",
+  "explanation": "Türkçede standart cümle dizilimi Özne + Nesne + Yüklem (Sözcük/Fiil) şeklindedir. Fiil her zaman sondadır.",
+  "rules": [
+    "Özne + Nesne + Yüklem (Sonda)"
+  ],
+  "example_translations": {
+    "ex_tr_wo_1": "Ben bir kitap okuyorum."
+  },
+  "common_error_explanations": {
+    "err_tr_wo_1": "Fiili cümlenin en sonuna koymayı فراموش نکنید."
+  },
+  "vocab_glosses": {
+    "tr.vocab.kitap": "kitap",
+    "tr.vocab.okumak": "okumak"
+  },
+  "locale": "tr"
+}

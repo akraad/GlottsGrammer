@@ -1,0 +1,19 @@
+{
+  "title": "Compound Noun Formation in Persian",
+  "summary": "Combining words or stems to form new compound nouns.",
+  "explanation": "Persian creates new nouns by combining Noun + Noun or Noun + Stem (e.g. کتاب‌خانه = library).",
+  "rules": [
+    "Noun + Noun/Stem (e.g. کتاب‌خانه)"
+  ],
+  "example_translations": {
+    "ex_cder_1": "He/She studies in the library."
+  },
+  "common_error_explanations": {
+    "err_cder_1": "Use Zero-Width Non-Joiner (half-space) between compound components."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "book",
+    "fa.vocab.home": "home"
+  },
+  "locale": "en"
+}

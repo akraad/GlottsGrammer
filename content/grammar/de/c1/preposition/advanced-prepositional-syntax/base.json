@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0.0",
+  "id": "de.c1.preposition.advanced-prepositional-syntax",
+  "universal_concept_id": "preposition.advanced.syntax.german",
+  "language": "de",
+  "cefr": "C1",
+  "app_level": "advanced",
+  "category": "preposition",
+  "status": "approved",
+  "difficulty": 5,
+  "prerequisites": [
+    "de.b2.preposition.genitive-prepositions"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "complex_prepositional_phrase"
+        },
+        {
+          "slot": "noun_genitive"
+        }
+      ],
+      "example": "Anhand der Ergebnisse"
+    }
+  ],
+  "vocab": [
+    "de.vocab.ergebnis"
+  ],
+  "examples": [
+    {
+      "id": "ex_de_c1_2",
+      "target_text": "Anhand der Ergebnisse lässt sich die Hypothese bestätigen.",
+      "tokens": [
+        {
+          "text": "Anhand"
+        },
+        {
+          "text": "der"
+        },
+        {
+          "text": "Ergebnisse..."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_de_c1_2",
+      "incorrect": "Anhand den Ergebnissen (incorrect case).",
+      "explanation": "Advanced prepositional constructs like 'anhand', 'mithilfe', or 'aufgrund' strictly govern the Genitive case in formal German."
+    }
+  ]
+}

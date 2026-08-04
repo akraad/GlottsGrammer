@@ -1,0 +1,18 @@
+{
+  "locale": "fr",
+  "title": "[FR] [FR] German Two-Way Prepositions",
+  "summary": "[FR] [FR] German Two-Way Prepositions",
+  "explanation": "[FR] [FR] German Two-Way Prepositions",
+  "rules": [
+    "Präposition + Akkusativ (Bewegung) / Dativ (Ort)"
+  ],
+  "example_translations": {
+    "ex_de_a2_2": "Ich lege das Buch auf den Tisch."
+  },
+  "common_error_explanations": {
+    "err_de_a2_2": "Two-way prepositions take Accusative for movement/direction (Woher/Wohin) and Dative for static location (Wo)."
+  },
+  "vocab_glosses": {
+    "de.vocab.tisch": "term"
+  }
+}

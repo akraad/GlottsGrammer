@@ -1,0 +1,20 @@
+{
+  "title": "過去進行形",
+  "summary": "過去の特定の時点で進行中だった動作には was/were + 動詞-ing を使用します。",
+  "explanation": "過去進行形は was または were に動詞の -ing 形を組み合わせて作ります。",
+  "rules": [
+    "I/He/She/It + was + verb-ing",
+    "You/We/They + were + verb-ing"
+  ],
+  "example_translations": {
+    "ex_pcont_1": "私は昨日歩いていました。"
+  },
+  "common_error_explanations": {
+    "err_pcont_1": "単数主語には were ではなく was を使用します。"
+  },
+  "vocab_glosses": {
+    "en.vocab.walk": "歩く",
+    "en.vocab.yesterday": "昨日"
+  },
+  "locale": "ja"
+}

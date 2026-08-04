@@ -1,0 +1,18 @@
+{
+  "title": "Preguntas Básicas en Persa",
+  "summary": "Formar preguntas de Sí/No usando 'آیا'.",
+  "explanation": "Añade 'آیا' al inicio de una oración para hacer una pregunta.",
+  "rules": [
+    "آیا + Oración?"
+  ],
+  "example_translations": {
+    "ex_q_1": "¿Lees un libro?"
+  },
+  "common_error_explanations": {
+    "err_q_1": "Pon 'آیا' al principio de la pregunta."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "libro"
+  },
+  "locale": "es"
+}

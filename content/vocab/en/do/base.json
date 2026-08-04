@@ -1,0 +1,31 @@
+{
+  "$schema": "../../../../schemas/vocab-base.schema.json",
+  "schema_version": 1,
+  "id": "en.verb.do",
+  "language": "en",
+  "lemma": "do",
+  "pos": "verb",
+  "cefr": "A1",
+  "frequency_rank": 20,
+  "forms": {
+    "base": "do",
+    "third_person_singular": "does",
+    "past_simple": "did",
+    "past_participle": "done",
+    "present_participle": "doing"
+  },
+  "translations": {
+    "ar": "يَفْعَلُ",
+    "de": "tun / machen",
+    "en": "to do",
+    "es": "hacer",
+    "fa": "انجام دادن",
+    "fr": "faire",
+    "hi": "करना",
+    "ja": "する",
+    "pt": "fazer",
+    "ru": "делать",
+    "tr": "yapmak"
+  },
+  "tags": ["auxiliary", "action", "daily"]
+}

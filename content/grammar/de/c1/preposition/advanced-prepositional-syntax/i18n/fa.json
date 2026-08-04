@@ -1,0 +1,18 @@
+{
+  "locale": "fa",
+  "title": "ساختارهای پیشرفته حروف اضافه در سطح آکادمیک",
+  "summary": "Using complex academic prepositions governing the Genitive case.",
+  "explanation": "Using complex academic prepositions governing the Genitive case.",
+  "rules": [
+    "Komplexe Präposition + Genitiv-Nomen"
+  ],
+  "example_translations": {
+    "ex_de_c1_2": "Anhand der Ergebnisse lässt sich die Hypothese bestätigen."
+  },
+  "common_error_explanations": {
+    "err_de_c1_2": "Ensure correct Genitive case governance with advanced academic prepositions."
+  },
+  "vocab_glosses": {
+    "de.vocab.ergebnis": "Ergebnis"
+  }
+}

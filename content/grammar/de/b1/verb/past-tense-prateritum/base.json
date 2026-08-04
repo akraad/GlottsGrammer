@@ -1,0 +1,67 @@
+{
+  "schema_version": "1.0.0",
+  "id": "de.b1.verb.past-tense-prateritum",
+  "universal_concept_id": "verb.past.prateritum.german",
+  "language": "de",
+  "cefr": "B1",
+  "app_level": "intermediate",
+  "category": "verb",
+  "status": "approved",
+  "difficulty": 3,
+  "prerequisites": [
+    "de.a2.verb.past-tense-perfekt"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "subject"
+        },
+        {
+          "slot": "prateritum_stem_ending"
+        },
+        {
+          "slot": "object"
+        }
+      ],
+      "example": "Ich war in Berlin"
+    }
+  ],
+  "vocab": [
+    "de.vocab.stadt"
+  ],
+  "examples": [
+    {
+      "id": "ex_de_b1",
+      "target_text": "Ich war früher in dieser Stadt.",
+      "tokens": [
+        {
+          "text": "Ich"
+        },
+        {
+          "text": "war"
+        },
+        {
+          "text": "früher"
+        },
+        {
+          "text": "in"
+        },
+        {
+          "text": "dieser"
+        },
+        {
+          "text": "Stadt."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_de_b1",
+      "incorrect": "Ich bin gewesen in dieser Stadt (for simple narrative past).",
+      "explanation": "Präteritum is primarily used in narrative and written German for past events, especially with 'sein', 'haben', and modal verbs."
+    }
+  ]
+}

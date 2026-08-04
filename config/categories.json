@@ -1,0 +1,66 @@
+[
+  {
+    "id": "noun",
+    "name_en": "Noun"
+  },
+  {
+    "id": "pronoun",
+    "name_en": "Pronoun"
+  },
+  {
+    "id": "verb",
+    "name_en": "Verb"
+  },
+  {
+    "id": "adjective",
+    "name_en": "Adjective"
+  },
+  {
+    "id": "adverb",
+    "name_en": "Adverb"
+  },
+  {
+    "id": "sentence",
+    "name_en": "Sentence"
+  },
+  {
+    "id": "question",
+    "name_en": "Question"
+  },
+  {
+    "id": "negation",
+    "name_en": "Negation"
+  },
+  {
+    "id": "clause",
+    "name_en": "Clause"
+  },
+  {
+    "id": "pragmatics",
+    "name_en": "Pragmatics"
+  },
+  {
+    "id": "preposition",
+    "name": "Prepositions"
+  },
+  {
+    "id": "modal",
+    "name": "Modal Verbs"
+  },
+  {
+    "id": "condition",
+    "name": "Conditionals"
+  },
+  {
+    "id": "passive",
+    "name": "Passive Voice"
+  },
+  {
+    "id": "reported-speech",
+    "name": "Reported Speech"
+  },
+  {
+    "id": "conjunction",
+    "name": "Conjunctions"
+  }
+]

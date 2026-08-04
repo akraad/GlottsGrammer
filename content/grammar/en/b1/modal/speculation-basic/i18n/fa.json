@@ -1,0 +1,18 @@
+{
+  "title": "حدس و گمان (Might, May, Could)",
+  "summary": "برای بیان احتمال در زمان حال یا آینده استفاده می‌شود.",
+  "explanation": "فاعل + might/may/could + شکل ساده فعل.",
+  "rules": [
+    "هرگز بعد از این مدال‌ها از to استفاده نکنید."
+  ],
+  "example_translations": {
+    "ex_spec_1": "شاید امروز باران ببارد."
+  },
+  "common_error_explanations": {
+    "err_spec_1": "بعد از might از to استفاده نکنید."
+  },
+  "vocab_glosses": {
+    "en.vocab.rain": "باران ببارد"
+  },
+  "locale": "fa"
+}

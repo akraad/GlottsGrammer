@@ -1,0 +1,18 @@
+{
+  "title": "Progressive Participial Clause (-dikçe)",
+  "summary": "Expressing proportional progression ('as' / 'the more...').",
+  "explanation": "Expressing proportional progression ('as' / 'the more...').",
+  "rules": [
+    "Verb Stem + -dikçe/-dıkça"
+  ],
+  "example_translations": {
+    "ex_c1_1": "As one reads more, one learns more."
+  },
+  "common_error_explanations": {
+    "err_c1_1": "Use appropriate C1 advanced syntactic markers."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "read"
+  },
+  "locale": "en"
+}

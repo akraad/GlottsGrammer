@@ -1,0 +1,20 @@
+{
+  "title": "Voz Pasiva en Presente Simple",
+  "summary": "Usa la voz pasiva cuando la acción es más importante que quien la realiza.",
+  "explanation": "Se forma con am/is/are + Participio Pasado.",
+  "rules": [
+    "Sujeto + am/is/are + Participio Pasado"
+  ],
+  "example_translations": {
+    "ex_pass_1": "Los coches se fabrican en esta ciudad."
+  },
+  "common_error_explanations": {
+    "err_pass_1": "Usa siempre la forma de participio pasado en voz pasiva."
+  },
+  "vocab_glosses": {
+    "en.vocab.car": "coche / auto",
+    "en.vocab.make": "hacer / fabricar",
+    "en.vocab.city": "ciudad"
+  },
+  "locale": "es"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "थर्ड कंडीशनल (Third Conditional)",
+  "summary": "अतीत के पछतावे या काल्पनिक स्थितियों को व्यक्त करने के लिए।",
+  "explanation": "If + Past Perfect, कर्ता + Would have + Past Participle।",
+  "rules": [
+    "If क्लॉज -> Had + Participle"
+  ],
+  "example_translations": {
+    "ex_tc_1": "अगर मैंने पढ़ाई की होती, तो मैं पास हो गया होता।"
+  },
+  "common_error_explanations": {
+    "err_tc_1": "If क्लॉज में 'would have' का प्रयोग न करें।"
+  },
+  "vocab_glosses": {
+    "en.vocab.study": "पढ़ाई करना"
+  },
+  "locale": "hi"
+}

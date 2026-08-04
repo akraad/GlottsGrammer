@@ -1,0 +1,22 @@
+{
+  "title": "सेकंड कंडीशनल (Second Conditional)",
+  "summary": "वर्तमान या भविष्य में काल्पनिक या अवास्तविक स्थितियों के लिए सेकंड कंडीशनल का उपयोग करें।",
+  "explanation": "If + Past Simple, कर्ता + Would + मूल क्रिया।",
+  "rules": [
+    "If क्लॉज -> Past Simple",
+    "मुख्य क्लॉज -> Would + मूल क्रिया"
+  ],
+  "example_translations": {
+    "ex_sc_1": "अगर मैं लॉटरी जीत जाता, तो मैं एक कार खरीदता।"
+  },
+  "common_error_explanations": {
+    "err_sc_1": "'If' क्लॉज के अंदर 'would' का प्रयोग न करें।"
+  },
+  "vocab_glosses": {
+    "en.vocab.win": "जीतना",
+    "en.vocab.lottery": "लॉटरी",
+    "en.vocab.buy": "खरीदना",
+    "en.vocab.car": "कार"
+  },
+  "locale": "hi"
+}

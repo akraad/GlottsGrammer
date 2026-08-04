@@ -1,0 +1,20 @@
+{
+  "title": "トルコ語の複数形接尾辞 (-lar / -ler) と母音調和",
+  "summary": "大母音調和に従った複数形の作り方。",
+  "explanation": "最後の母音の後舌母音 (a, ı, o, u) には '-lar' を、前舌母音 (e, i, ö, ü) には '-ler' を付けます。",
+  "rules": [
+    "後舌母音 (a, ı, o, u) -> -lar",
+    "前舌母音 (e, i, ö, ü) -> -ler"
+  ],
+  "example_translations": {
+    "ex_tr_pl_1": "机の上に本があります。"
+  },
+  "common_error_explanations": {
+    "err_tr_pl_1": "後舌母音を含む単語に '-ler' を付けないでください。"
+  },
+  "vocab_glosses": {
+    "tr.vocab.kitap": "本",
+    "tr.vocab.ev": "家"
+  },
+  "locale": "ja"
+}

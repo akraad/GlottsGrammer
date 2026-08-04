@@ -1,0 +1,19 @@
+{
+  "title": "Basic Turkish Word Order (SOV)",
+  "summary": "Subject - Object - Verb sentence structure.",
+  "explanation": "Standard Turkish follows Subject - Object - Verb (SOV) order. The verb is strictly placed at the end.",
+  "rules": [
+    "Subject + Object + Verb at the End"
+  ],
+  "example_translations": {
+    "ex_tr_wo_1": "I am reading a book."
+  },
+  "common_error_explanations": {
+    "err_tr_wo_1": "Always place the verb at the END of the sentence."
+  },
+  "vocab_glosses": {
+    "tr.vocab.kitap": "book",
+    "tr.vocab.okumak": "read"
+  },
+  "locale": "en"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "أداة السؤال في التركية (mı / mi / mu / mü)",
+  "summary": "صياغة أسئلة نعم/لا.",
+  "explanation": "تكتب أداة السؤال منفصلة وتتبع التوافق الصوتي الرباعي، وتلتصق بها الضمائر الشخصية (okuyor musun?).",
+  "rules": [
+    "الجملة + mı / mi / mu / mü + لاحقة الشخص"
+  ],
+  "example_translations": {
+    "ex_trmi_1": "هل تقرأ كتاباً؟"
+  },
+  "common_error_explanations": {
+    "err_trmi_1": "صل الضمائر الشخصية بأداة السؤال نفسها."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "قراءة"
+  },
+  "locale": "ar"
+}

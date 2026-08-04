@@ -1,0 +1,18 @@
+{
+  "title": "Literary Inversion and Stylistic Shifts",
+  "summary": "Fronting verbs or altering standard SOV order for poetic emphasis.",
+  "explanation": "Fronting verbs or altering standard SOV order for poetic emphasis.",
+  "rules": [
+    "Fronted Verb + Subject/Modifiers"
+  ],
+  "example_translations": {
+    "ex_c1_1": "Okudu sabaha kadar bütün kitapları."
+  },
+  "common_error_explanations": {
+    "err_c1_1": "Use poetic inversion only for literary emphasis."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "okumak"
+  },
+  "locale": "tr"
+}

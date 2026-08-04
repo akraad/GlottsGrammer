@@ -1,0 +1,18 @@
+{
+  "title": "トルコ語の受動態 (-il / -in)",
+  "summary": "行為者が不明または客観的な受動態の表現。",
+  "explanation": "動詞語幹に '-il/-ıl/-ul/-ül' (母音終わりの場合は '-in') を付けて受動態を作ります。",
+  "rules": [
+    "動詞語幹 + 受動接尾辞 + 時制"
+  ],
+  "example_translations": {
+    "ex_trpas_1": "この本は昨日読まれました。"
+  },
+  "common_error_explanations": {
+    "err_trpas_1": "行為者が不明な場合は受動態の接尾辞を使用してください。"
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "読む"
+  },
+  "locale": "ja"
+}

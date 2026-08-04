@@ -1,0 +1,64 @@
+{
+  "schema_version": "1.0.0",
+  "id": "tr.b2.clause.concessive-though-se-bile",
+  "universal_concept_id": "clause.concessive.though.se.bile",
+  "language": "tr",
+  "cefr": "B2",
+  "app_level": "upper-intermediate",
+  "category": "clause",
+  "status": "approved",
+  "difficulty": 4,
+  "prerequisites": [
+    "tr.b1.clause.conditional-if-se"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "verb_stem"
+        },
+        {
+          "slot": "se_sa_suffix"
+        },
+        {
+          "slot": "bile_word"
+        }
+      ],
+      "example": "gelse bile"
+    }
+  ],
+  "vocab": [
+    "tr.vocab.okumak"
+  ],
+  "examples": [
+    {
+      "id": "ex_trbile_1",
+      "target_text": "Yarın gelse bile onu göremeyeceğim.",
+      "tokens": [
+        {
+          "text": "Yarın"
+        },
+        {
+          "text": "gelse"
+        },
+        {
+          "text": "bile"
+        },
+        {
+          "text": "onu"
+        },
+        {
+          "text": "göremeyeceğim."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_trbile_1",
+      "incorrect": "Yarın gelse da onu göremeyeceğim.",
+      "explanation": "Use conditional suffix '-se/-sa' followed by 'bile' to express 'even if'."
+    }
+  ]
+}

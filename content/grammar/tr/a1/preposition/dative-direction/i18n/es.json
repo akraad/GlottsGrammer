@@ -1,0 +1,18 @@
+{
+  "title": "Caso Dativo en Turco (-a / -e)",
+  "summary": "Expresar 'a', 'hacia' una ubicación.",
+  "explanation": "Añade '-a/-e' según la armonía vocálica. Si la palabra termina en vocal, inserta la consonante 'y'.",
+  "rules": [
+    "Sustantivo + -(y)a / -(y)e"
+  ],
+  "example_translations": {
+    "ex_trdat_1": "Voy a casa."
+  },
+  "common_error_explanations": {
+    "err_trdat_1": "Usa '-e' para palabras con vocales anteriores."
+  },
+  "vocab_glosses": {
+    "tr.vocab.ev": "casa"
+  },
+  "locale": "es"
+}

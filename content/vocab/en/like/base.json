@@ -1,0 +1,31 @@
+{
+  "$schema": "../../../../schemas/vocab-base.schema.json",
+  "schema_version": 1,
+  "id": "en.verb.like",
+  "language": "en",
+  "lemma": "like",
+  "pos": "verb",
+  "cefr": "A1",
+  "frequency_rank": 120,
+  "forms": {
+    "base": "like",
+    "third_person_singular": "likes",
+    "past_simple": "liked",
+    "past_participle": "liked",
+    "present_participle": "liking"
+  },
+  "translations": {
+    "ar": "يُحِبُّ",
+    "de": "mögen",
+    "en": "to like",
+    "es": "gustar",
+    "fa": "دوست داشتن",
+    "fr": "aimer",
+    "hi": "पसंद करना",
+    "ja": "好きである",
+    "pt": "gostar",
+    "ru": "нравиться",
+    "tr": "sevmek"
+  },
+  "tags": ["emotion", "preference", "daily"]
+}

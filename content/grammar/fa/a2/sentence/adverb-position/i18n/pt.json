@@ -1,0 +1,19 @@
+{
+  "title": "Posição do Advérbio em Persa",
+  "summary": "Ordenar advérbios de tempo e lugar.",
+  "explanation": "Advérbios de tempo seguem o sujeito, seguidos por advérbios de lugar e verbo.",
+  "rules": [
+    "Sujeito + Advérbio de Tempo + Advérbio de Lugar + Objeto + Verbo"
+  ],
+  "example_translations": {
+    "ex_advp_1": "Eu li um livro em casa ontem."
+  },
+  "common_error_explanations": {
+    "err_advp_1": "Coloque os advérbios antes do objeto e do verbo final."
+  },
+  "vocab_glosses": {
+    "fa.vocab.home": "casa",
+    "fa.vocab.raftan": "ir"
+  },
+  "locale": "pt"
+}

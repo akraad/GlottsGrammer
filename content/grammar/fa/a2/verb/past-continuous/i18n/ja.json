@@ -1,0 +1,18 @@
+{
+  "title": "ペルシア語の過去進行形",
+  "summary": "過去の 継続的・習慣的な動作を表します。",
+  "explanation": "接頭辞 'می-' + 過去語幹 + 人称接尾辞。",
+  "rules": [
+    "می- + 過去語幹 + 接尾辞"
+  ],
+  "example_translations": {
+    "ex_pcont_1": "私は本を読んでいました。"
+  },
+  "common_error_explanations": {
+    "err_pcont_1": "過去語幹の前に 'می-' を付けてください。"
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "行く"
+  },
+  "locale": "ja"
+}

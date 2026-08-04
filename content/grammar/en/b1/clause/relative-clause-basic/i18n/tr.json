@@ -1,0 +1,20 @@
+{
+  "title": "İlgi Cümlecikleri (Who, Which, That)",
+  "summary": "Bir kişi veya nesne hakkında daha fazla bilgi vermek için ilgi cümleciklerini kullanın.",
+  "explanation": "İnsanlar için 'who', nesneler için 'which', her ikisi için 'that' kullanın.",
+  "rules": [
+    "Who -> İnsanlar",
+    "Which -> Nesneler",
+    "That -> İnsanlar veya Nesneler"
+  ],
+  "example_translations": {
+    "ex_rel_1": "Bu satın aldığım kitaptır."
+  },
+  "common_error_explanations": {
+    "err_rel_1": "Cansız nesneler için 'who' kullanmayın."
+  },
+  "vocab_glosses": {
+    "en.vocab.book": "kitap"
+  },
+  "locale": "tr"
+}

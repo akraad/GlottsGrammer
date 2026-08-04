@@ -1,0 +1,65 @@
+{
+  "schema_version": "1.0.0",
+  "id": "en.a2.adjective.superlative-basic",
+  "universal_concept_id": "adjective.superlative.basic",
+  "language": "en",
+  "cefr": "A2",
+  "app_level": "elementary",
+  "category": "adjective",
+  "status": "approved",
+  "difficulty": 2,
+  "prerequisites": [
+    "en.a2.adjective.comparative-basic"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "the"
+        },
+        {
+          "slot": "adj_est"
+        },
+        {
+          "slot": "noun"
+        }
+      ],
+      "example": "the biggest city"
+    }
+  ],
+  "vocab": [
+    "en.vocab.big",
+    "en.vocab.city"
+  ],
+  "examples": [
+    {
+      "id": "ex_sup_1",
+      "target_text": "This is the biggest city.",
+      "tokens": [
+        {
+          "text": "This"
+        },
+        {
+          "text": "is"
+        },
+        {
+          "text": "the"
+        },
+        {
+          "text": "biggest"
+        },
+        {
+          "text": "city"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_sup_1",
+      "incorrect": "This is most big city.",
+      "explanation": "Use 'the' and -est for short adjectives."
+    }
+  ]
+}

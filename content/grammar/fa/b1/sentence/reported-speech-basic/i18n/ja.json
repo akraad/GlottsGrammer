@@ -1,0 +1,18 @@
+{
+  "title": "ペルシア語の間接話法 (گفت که)",
+  "summary": "'که' を使った他人の発言の間接的な伝達。",
+  "explanation": "主語 + گفت + که + 間接節。",
+  "rules": [
+    "گفت + که + 間接節"
+  ],
+  "example_translations": {
+    "ex_rep_1": "アリは家に帰ると言いました。"
+  },
+  "common_error_explanations": {
+    "err_rep_1": "'که' を使った間接話法では代名詞と動詞活用を調整してください。"
+  },
+  "vocab_glosses": {
+    "fa.vocab.home": "家"
+  },
+  "locale": "ja"
+}

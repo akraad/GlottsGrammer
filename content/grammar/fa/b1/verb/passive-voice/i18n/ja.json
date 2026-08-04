@@ -1,0 +1,18 @@
+{
+  "title": "ペルシア語の受動態",
+  "summary": "過去分詞と 'شدن' を使った受動態の作り方。",
+  "explanation": "過去分詞 + 助動詞 'شدن' (〜になる) の活用形。",
+  "rules": [
+    "過去分詞 + شدن"
+  ],
+  "example_translations": {
+    "ex_pass_1": "この本は読まれました。"
+  },
+  "common_error_explanations": {
+    "err_pass_1": "過去分詞と助動詞 'شدن' を組み合わせてください。"
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "本"
+  },
+  "locale": "ja"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Umgangssprachliche Wortverkürzungen im Persischen",
+  "summary": "Wie das gesprochene Persisch Vokale und Verbendungen im Alltag verkürzt.",
+  "explanation": "Gesprochenes Persisch wandelt 'ân' in 'oon' um (z. B. خانه -> خونه) und kürzt Verben ab.",
+  "rules": [
+    "ân-Laut -> oon-Laut",
+    "Verbverkürzung (می‌روم -> می‌رم)"
+  ],
+  "example_translations": {
+    "ex_red_1": "Ich will nach Hause gehen."
+  },
+  "common_error_explanations": {
+    "err_red_1": "Nutze die natürlichen Verkürzungen in informellen Gesprächen."
+  },
+  "vocab_glosses": {
+    "fa.vocab.home": "Zuhause"
+  },
+  "locale": "de"
+}

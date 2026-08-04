@@ -1,0 +1,31 @@
+{
+  "$schema": "../../../../schemas/vocab-base.schema.json",
+  "schema_version": 1,
+  "id": "en.verb.want",
+  "language": "en",
+  "lemma": "want",
+  "pos": "verb",
+  "cefr": "A1",
+  "frequency_rank": 150,
+  "forms": {
+    "base": "want",
+    "third_person_singular": "wants",
+    "past_simple": "wanted",
+    "past_participle": "wanted",
+    "present_participle": "wanting"
+  },
+  "translations": {
+    "ar": "يُرِيدُ",
+    "de": "wollen",
+    "en": "to want",
+    "es": "querer",
+    "fa": "خواستن",
+    "fr": "vouloir",
+    "hi": "चाहना",
+    "ja": "望む / 欲しい",
+    "pt": "querer",
+    "ru": "хотеть",
+    "tr": "istemek"
+  },
+  "tags": ["emotion", "desire", "daily"]
+}

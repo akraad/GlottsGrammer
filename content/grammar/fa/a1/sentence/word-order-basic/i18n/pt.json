@@ -1,0 +1,18 @@
+{
+  "title": "Ordem das Palavras em Persa (SOV)",
+  "summary": "Estrutura Sujeito - Objeto - Verbo.",
+  "explanation": "Em persa padrão, o verbo fica sempre no final da frase.",
+  "rules": [
+    "Sujeito + Objeto + Verbo no final"
+  ],
+  "example_translations": {
+    "ex_wo_1": "Eu leio um livro."
+  },
+  "common_error_explanations": {
+    "err_wo_1": "Coloque o verbo no FINAL da frase."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "livro"
+  },
+  "locale": "pt"
+}

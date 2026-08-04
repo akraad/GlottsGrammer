@@ -1,0 +1,18 @@
+{
+  "locale": "es",
+  "title": "[ES] [ES] German Perfekt Tense",
+  "summary": "[ES] [ES] German Perfekt Tense",
+  "explanation": "[ES] [ES] German Perfekt Tense",
+  "rules": [
+    "Subjekt + haben/sein (Pos 2) + ... + Partizip II (Ende)"
+  ],
+  "example_translations": {
+    "ex_de_a2": "Ich habe ein Buch gelesen."
+  },
+  "common_error_explanations": {
+    "err_de_a2": "In Perfekt tense, the auxiliary verb (haben/sein) is in position 2, and the Partizip II goes to the very end."
+  },
+  "vocab_glosses": {
+    "de.vocab.lesen": "term"
+  }
+}

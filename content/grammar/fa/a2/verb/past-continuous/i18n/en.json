@@ -1,0 +1,18 @@
+{
+  "title": "Persian Past Continuous Tense",
+  "summary": "Expressing continuous or habitual past actions.",
+  "explanation": "Prefix 'می-' + Past Stem + Personal Suffixes.",
+  "rules": [
+    "می- + Past Stem + Endings"
+  ],
+  "example_translations": {
+    "ex_pcont_1": "I was reading a book."
+  },
+  "common_error_explanations": {
+    "err_pcont_1": "Use prefix 'می-' before the past verb stem."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "go"
+  },
+  "locale": "en"
+}

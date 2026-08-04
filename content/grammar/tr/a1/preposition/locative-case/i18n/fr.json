@@ -1,0 +1,19 @@
+{
+  "title": "Cas Locatif en Turc (-da / -de / -ta / -te)",
+  "summary": "Exprimer 'dans', 'sur' ou 'à' un endroit.",
+  "explanation": "Ajoute '-da/-de' selon l'harmonie vocalique. Devient '-ta/-te' après les consonnes sourdes.",
+  "rules": [
+    "Nom + Suffixe Locatif"
+  ],
+  "example_translations": {
+    "ex_trloc_1": "Ali est à la maison en ce moment."
+  },
+  "common_error_explanations": {
+    "err_trloc_1": "Vérifiez l'harmonie vocalique et l'assimilation des consonnes."
+  },
+  "vocab_glosses": {
+    "tr.vocab.ev": "maison",
+    "tr.vocab.kitap": "livre"
+  },
+  "locale": "fr"
+}

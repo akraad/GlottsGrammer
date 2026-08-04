@@ -1,0 +1,18 @@
+{
+  "locale": "hi",
+  "title": "[HI] [HI] German Cleft Sentences",
+  "summary": "[HI] [HI] German Cleft Sentences",
+  "explanation": "[HI] [HI] German Cleft Sentences",
+  "rules": [
+    "Es ist/war + fokussiertes Element + Relativsatz"
+  ],
+  "example_translations": {
+    "ex_de_c1_2": "Es ist das Wetter, das mich stört."
+  },
+  "common_error_explanations": {
+    "err_de_c1_2": "Cleft sentences (Spaltgätze) start with 'Es ist/war' to emphasize a specific sentence element via a relative clause."
+  },
+  "vocab_glosses": {
+    "de.vocab.wetter": "term"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Pronombres Personales en Turco",
+  "summary": "Pronombres sujeto en turco (ben, sen, o...).",
+  "explanation": "El turco tiene 6 pronombres sujeto: ben (yo), sen (tú), o (él/ella), biz (nosotros), siz (vosotros/usted), onlar (ellos).",
+  "rules": [
+    "ben",
+    "sen",
+    "o",
+    "biz",
+    "siz",
+    "onlar"
+  ],
+  "example_translations": {
+    "ex_tr_pron_1": "Soy profesor/a."
+  },
+  "common_error_explanations": {
+    "err_tr_pron_1": "Añade el sufijo personal correspondiente al predicado."
+  },
+  "vocab_glosses": {
+    "tr.vocab.ogretmen": "profesor/a"
+  },
+  "locale": "es"
+}

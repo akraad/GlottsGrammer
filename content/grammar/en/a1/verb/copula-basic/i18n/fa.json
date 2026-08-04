@@ -1,0 +1,38 @@
+{
+  "$schema": "../../../../../schemas/grammar-i18n.schema.json",
+  "locale": "fa",
+  "translation_status": "draft",
+  "name": "فعل to be (am/is/are)",
+  "summary": "فعل to be برای بیان هویت، حالت و مکان استفاده می‌شود.",
+  "explanation": "فعل to be مهم‌ترین فعل انگلیسی است. سه شکل در حال دارد: am, is, are. با I از am استفاده کنید. با he/she/it از is استفاده کنید. با you/we/they از are استفاده کنید. برخلاف افعال دیگر، to be برای سوال و منفی به do/does نیاز ندارد.",
+  "form_notes": {
+    "affirmative": "فاعل + am/is/are + متمم (اسم، صفت یا مکان). مثال: She is a teacher.",
+    "negative": "فاعل + am/is/are + not + متمم. مثال: He is not happy.",
+    "question": "Am/Is/Are + فاعل + متمم؟ مثال: Are you tired?"
+  },
+  "example_translations": {
+    "ex_01": "من دانش‌آموز هستم.",
+    "ex_02": "او در خانه نیست.",
+    "ex_03": "آیا امروز خوشحالی؟"
+  },
+  "common_error_explanations": {
+    "err_01": "همیشه با I از am استفاده کنید. هرگز نگویید I is.",
+    "err_02": "با he/she/it از is استفاده کنید. are فقط برای you/we/they است."
+  },
+  "vocab_glosses": {
+    "en.verb.be": "بودن",
+    "en.adj.happy": "خوشحال",
+    "en.adj.sad": "غمگین",
+    "en.adj.tired": "خسته",
+    "en.adj.hungry": "گرسنه",
+    "en.vocab.home": "خانه",
+    "en.noun.school": "مدرسه",
+    "en.noun.work": "کار (مکان)"
+  },
+  "title": "افعال ربطی پایه (To Be)",
+  "rules": [
+    "I + am",
+    "He/She/It + is",
+    "You/We/They + are"
+  ]
+}

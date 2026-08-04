@@ -1,0 +1,18 @@
+{
+  "title": "Past Modals (Should have)",
+  "summary": "Express regret or past criticism.",
+  "explanation": "Subject + should have + past participle.",
+  "rules": [
+    "Should have + Past Participle"
+  ],
+  "example_translations": {
+    "ex_pm_1": "I should have studied more."
+  },
+  "common_error_explanations": {
+    "err_pm_1": "Say 'should have', not 'should of'."
+  },
+  "vocab_glosses": {
+    "en.vocab.study": "study"
+  },
+  "locale": "en"
+}

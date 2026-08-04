@@ -1,0 +1,18 @@
+{
+  "title": "افعال مدال در گذشته (Should have)",
+  "summary": "بیان حسرت، پشیمانی یا انتقاد درباره گذشته.",
+  "explanation": "فاعل + should have + قسمت سوم فعل.",
+  "rules": [
+    "Should have + قسمت سوم فعل"
+  ],
+  "example_translations": {
+    "ex_pm_1": "باید بیشتر درس می‌خواندم (اما نخواندم)."
+  },
+  "common_error_explanations": {
+    "err_pm_1": "هرگز از should of استفاده نکنید؛ شکل صحیح should have است."
+  },
+  "vocab_glosses": {
+    "en.vocab.study": "درس خواندن"
+  },
+  "locale": "fa"
+}

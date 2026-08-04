@@ -1,0 +1,18 @@
+{
+  "locale": "es",
+  "title": "[ES] [ES] German Nominalization",
+  "summary": "[ES] [ES] German Nominalization",
+  "explanation": "[ES] [ES] German Nominalization",
+  "rules": [
+    "das + Infinitiv mit Großbuchstaben"
+  ],
+  "example_translations": {
+    "ex_de_b2": "Das Lernen neuer Sprachen ist wichtig."
+  },
+  "common_error_explanations": {
+    "err_de_b2": "Verbs converted into nouns (nominalization) always become neuter nouns preceded by the article 'das'."
+  },
+  "vocab_glosses": {
+    "de.vocab.lesen": "term"
+  }
+}

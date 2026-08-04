@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.0.0",
+  "id": "de.a1.verb.present-regular",
+  "universal_concept_id": "verb.present.regular.german",
+  "language": "de",
+  "cefr": "A1",
+  "app_level": "beginner",
+  "category": "verb",
+  "status": "approved",
+  "difficulty": 1,
+  "prerequisites": [],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "verb_stem"
+        },
+        {
+          "slot": "personal_ending"
+        }
+      ],
+      "example": "lernen"
+    }
+  ],
+  "vocab": [
+    "de.vocab.lernen"
+  ],
+  "examples": [
+    {
+      "id": "ex_de_1",
+      "target_text": "Ich lerne jeden Tag Deutsch.",
+      "tokens": [
+        {
+          "text": "Ich"
+        },
+        {
+          "text": "lerne"
+        },
+        {
+          "text": "jeden"
+        },
+        {
+          "text": "Tag"
+        },
+        {
+          "text": "Deutsch."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_de_1",
+      "incorrect": "Ich lernen Deutsch.",
+      "explanation": "Conjugate regular verb endings (-e, -st, -t, -en, -t, -en) according to the subject pronoun."
+    }
+  ]
+}

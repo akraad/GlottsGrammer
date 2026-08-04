@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.0.0",
+  "id": "de.a1.sentence.word-order-v2",
+  "universal_concept_id": "sentence.word.order.german",
+  "language": "de",
+  "cefr": "A1",
+  "app_level": "beginner",
+  "category": "sentence",
+  "status": "approved",
+  "difficulty": 2,
+  "prerequisites": [],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "subject_or_adverb"
+        },
+        {
+          "slot": "finite_verb_position_2"
+        },
+        {
+          "slot": "object"
+        }
+      ],
+      "example": "Heute lerne ich Deutsch."
+    }
+  ],
+  "vocab": [
+    "de.vocab.lernen"
+  ],
+  "examples": [
+    {
+      "id": "ex_de_1",
+      "target_text": "Heute lerne ich Deutsch.",
+      "tokens": [
+        {
+          "text": "Heute"
+        },
+        {
+          "text": "lerne"
+        },
+        {
+          "text": "ich"
+        },
+        {
+          "text": "Deutsch."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_de_1",
+      "incorrect": "Heute ich lerne Deutsch.",
+      "explanation": "In German declarative sentences, the conjugated verb must always occupy the second position (V2 rule)."
+    }
+  ]
+}

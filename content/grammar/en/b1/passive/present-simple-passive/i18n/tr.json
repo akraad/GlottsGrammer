@@ -1,0 +1,20 @@
+{
+  "title": "Geniş Zaman Edilgen Yapı (Present Simple Passive)",
+  "summary": "Eylemi yapan kişiden ziyade eylemin kendisi önemli olduğunda edilgen yapıyı kullanın.",
+  "explanation": "am/is/are + Fiilin 3. Hali (Past Participle) ile oluşturulur.",
+  "rules": [
+    "Özne + am/is/are + Fiilin 3. hali"
+  ],
+  "example_translations": {
+    "ex_pass_1": "Arabalar bu şehirde üretilir."
+  },
+  "common_error_explanations": {
+    "err_pass_1": "Edilgen yapıda her zaman fiilin 3. halini kullanın."
+  },
+  "vocab_glosses": {
+    "en.vocab.car": "araba",
+    "en.vocab.make": "yapmak / üretmek",
+    "en.vocab.city": "şehir"
+  },
+  "locale": "tr"
+}

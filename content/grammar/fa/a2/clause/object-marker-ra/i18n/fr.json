@@ -1,0 +1,18 @@
+{
+  "title": "Marqueur d'Objet Direct 'را'",
+  "summary": "Marquer les objets directs définis en persan.",
+  "explanation": "La particule 'را' se place immédiatement APRÈS l'objet direct spécifique.",
+  "rules": [
+    "Objet Spécifique + را"
+  ],
+  "example_translations": {
+    "ex_ra_1": "J'ai lu le livre."
+  },
+  "common_error_explanations": {
+    "err_ra_1": "Placez 'را' juste APRÈS l'objet."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "livre"
+  },
+  "locale": "fr"
+}

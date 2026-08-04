@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0.0",
+  "id": "fa.c2.phrase.idiomatic-everyday-expressions",
+  "universal_concept_id": "phrase.idiomatic.everyday.expressions",
+  "language": "fa",
+  "cefr": "C2",
+  "app_level": "mastery",
+  "category": "sentence",
+  "status": "approved",
+  "difficulty": 3,
+  "prerequisites": [
+    "fa.a1.sentence.word-order-basic"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "courtesy_phrase"
+        }
+      ],
+      "example": "دستت درد نکنه"
+    }
+  ],
+  "vocab": [
+    "fa.vocab.home"
+  ],
+  "examples": [
+    {
+      "id": "ex_exp_1",
+      "target_text": "دستت درد نکنه، خیلی لطف کردی!",
+      "tokens": [
+        {
+          "text": "دستت"
+        },
+        {
+          "text": "درد"
+        },
+        {
+          "text": "نکنه،"
+        },
+        {
+          "text": "خیلی"
+        },
+        {
+          "text": "لطف"
+        },
+        {
+          "text": "کردی!"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_exp_1",
+      "incorrect": "تشکر می‌کنم بسیار زیاد برای تشکر رسمی.",
+      "explanation": "Use native everyday idioms like 'دستت درد نکنه' (thank you) or 'خسته نباشی' for authentic communication."
+    }
+  ]
+}

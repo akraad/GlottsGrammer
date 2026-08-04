@@ -1,0 +1,19 @@
+{
+  "title": "حالت مکانی در ترکی (-da / -de / -ta / -te)",
+  "summary": "معادل حروف اضافه «در، روی، نزد».",
+  "explanation": "پسوند «-da / -de» به اسم متصل می‌شود. بعد از حروف بی‌صدا و سخت (f, s, t, k, ç, ş, h, p) تبدیل به «-ta / -te» می‌گردد.",
+  "rules": [
+    "اسم + پسوند مکانی (-da/-de/-ta/-te)"
+  ],
+  "example_translations": {
+    "ex_trloc_1": "علی همین الان در خانه است."
+  },
+  "common_error_explanations": {
+    "err_trloc_1": "هماهنگی مصوت‌ها و تبدیل d به t پس از صامت‌های سخت را رعایت کنید."
+  },
+  "vocab_glosses": {
+    "tr.vocab.ev": "خانه",
+    "tr.vocab.kitap": "کتاب"
+  },
+  "locale": "fa"
+}

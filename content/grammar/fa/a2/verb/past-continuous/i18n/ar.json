@@ -1,0 +1,18 @@
+{
+  "title": "الماضي المستمر في الفارسية",
+  "summary": "التعبير عن الأفعال المستمرة في الماضي.",
+  "explanation": "السابقة 'می-' + جذر الماضي + الضمائر المتصلة.",
+  "rules": [
+    "می- + جذر الماضي + الضمائر"
+  ],
+  "example_translations": {
+    "ex_pcont_1": "كنت أقرأ كتابًا."
+  },
+  "common_error_explanations": {
+    "err_pcont_1": "استخدم السابقة 'می-' مع جذر الماضي."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "ذهاب"
+  },
+  "locale": "ar"
+}

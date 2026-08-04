@@ -1,0 +1,70 @@
+{
+  "schema_version": "1.0.0",
+  "id": "fa.c1.sentence.absolute-constructions",
+  "universal_concept_id": "sentence.absolute.constructions",
+  "language": "fa",
+  "cefr": "C1",
+  "app_level": "advanced",
+  "category": "sentence",
+  "status": "approved",
+  "difficulty": 5,
+  "prerequisites": [
+    "fa.a1.sentence.word-order-basic"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "noun_or_pronoun"
+        },
+        {
+          "slot": "present_or_past_participle"
+        },
+        {
+          "slot": "main_sentence"
+        }
+      ],
+      "example": "کتاب در دست"
+    }
+  ],
+  "vocab": [
+    "fa.vocab.book"
+  ],
+  "examples": [
+    {
+      "id": "ex_abs_1",
+      "target_text": "علی، کتاب در دست، وارد اتاق شد.",
+      "tokens": [
+        {
+          "text": "علی،"
+        },
+        {
+          "text": "کتاب"
+        },
+        {
+          "text": "در"
+        },
+        {
+          "text": "دست،"
+        },
+        {
+          "text": "وارد"
+        },
+        {
+          "text": "اتاق"
+        },
+        {
+          "text": "شد"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_abs_1",
+      "incorrect": "علی کتاب در دست داشت و وارد اتاق شد.",
+      "explanation": "In formal C1 absolute clause structures, omit explicit full verbs to form compact participle/adverbial modifiers."
+    }
+  ]
+}

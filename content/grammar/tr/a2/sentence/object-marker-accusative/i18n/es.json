@@ -1,0 +1,18 @@
+{
+  "title": "Caso Acusativo Definido en Turco (-i)",
+  "summary": "Marcar objetos directos definidos en turco.",
+  "explanation": "Añade '-i/-ı/-u/-ü' (con 'y' de enlace) a los objetos directos específicos.",
+  "rules": [
+    "Objeto Definido + Sufijo -(y)i"
+  ],
+  "example_translations": {
+    "ex_tracc_1": "Estoy leyendo este libro."
+  },
+  "common_error_explanations": {
+    "err_tracc_1": "Marca los objetos directos específicos con el sufijo acusativo."
+  },
+  "vocab_glosses": {
+    "tr.vocab.kitap": "libro"
+  },
+  "locale": "es"
+}

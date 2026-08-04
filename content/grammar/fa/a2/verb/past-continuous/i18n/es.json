@@ -1,0 +1,18 @@
+{
+  "title": "Pasado Continuo en Persa",
+  "summary": "Expresar acciones continuas en el pasado.",
+  "explanation": "Prefijo 'می-' + Raíz del Pasado + Sufijos Personales.",
+  "rules": [
+    "می- + Raíz del Pasado + Sufijos"
+  ],
+  "example_translations": {
+    "ex_pcont_1": "Estaba leyendo un libro."
+  },
+  "common_error_explanations": {
+    "err_pcont_1": "Usa el prefijo 'می-' antes de la raíz pasada."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "ir"
+  },
+  "locale": "es"
+}

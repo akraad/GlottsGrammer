@@ -1,0 +1,38 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Grammar Point i18n",
+  "description": "Schema for locale-specific translations and explanations of a grammar point.",
+  "type": "object",
+  "required": ["locale", "translation_status", "name", "summary"],
+  "additionalProperties": false,
+  "properties": {
+    "$schema": {"type": "string", "format": "uri"},
+    "locale": {
+      "type": "string",
+      "enum": ["ar", "de", "en", "es", "fa", "fr", "hi", "ja", "pt", "ru", "tr"]
+    },
+    "translation_status": {
+      "type": "string",
+      "enum": ["draft", "translated", "reviewed", "approved", "published"]
+    },
+    "name": {"type": "string", "minLength": 1},
+    "summary": {"type": "string", "minLength": 1},
+    "explanation": {"type": "string"},
+    "form_notes": {
+      "type": "object",
+      "additionalProperties": {"type": "string"}
+    },
+    "example_translations": {
+      "type": "object",
+      "additionalProperties": {"type": "string"}
+    },
+    "common_error_explanations": {
+      "type": "object",
+      "additionalProperties": {"type": "string"}
+    },
+    "vocab_glosses": {
+      "type": "object",
+      "additionalProperties": {"type": "string"}
+    }
+  }
+}

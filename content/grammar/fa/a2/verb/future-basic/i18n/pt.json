@@ -1,0 +1,18 @@
+{
+  "title": "Futuro Formal em Persa",
+  "summary": "Expressar ações futuras formais.",
+  "explanation": "Auxiliar 'خواه' conjugado + Raiz do Passado.",
+  "rules": [
+    "خواه + Sufixo + Raiz do Passado"
+  ],
+  "example_translations": {
+    "ex_fut_1": "Irei para casa amanhã."
+  },
+  "common_error_explanations": {
+    "err_fut_1": "Use a raiz do passado após 'خواه'."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "ir"
+  },
+  "locale": "pt"
+}

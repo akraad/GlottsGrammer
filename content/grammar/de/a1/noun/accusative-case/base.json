@@ -1,0 +1,64 @@
+{
+  "schema_version": "1.0.0",
+  "id": "de.a1.noun.accusative-case",
+  "universal_concept_id": "noun.case.accusative.german",
+  "language": "de",
+  "cefr": "A1",
+  "app_level": "beginner",
+  "category": "noun",
+  "status": "approved",
+  "difficulty": 2,
+  "prerequisites": [
+    "de.a1.noun.plural-forms"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "subject"
+        },
+        {
+          "slot": "verb"
+        },
+        {
+          "slot": "accusative_article_den"
+        },
+        {
+          "slot": "noun"
+        }
+      ],
+      "example": "Ich sehe den Hund"
+    }
+  ],
+  "vocab": [
+    "de.vocab.hund"
+  ],
+  "examples": [
+    {
+      "id": "ex_de_2",
+      "target_text": "Ich sehe den Hund.",
+      "tokens": [
+        {
+          "text": "Ich"
+        },
+        {
+          "text": "sehe"
+        },
+        {
+          "text": "den"
+        },
+        {
+          "text": "Hund."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_de_2",
+      "incorrect": "Ich sehe der Hund.",
+      "explanation": "In the accusative case, masculine articles change from 'der' to 'den'."
+    }
+  ]
+}

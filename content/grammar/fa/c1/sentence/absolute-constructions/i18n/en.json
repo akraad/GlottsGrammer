@@ -1,0 +1,18 @@
+{
+  "title": "Absolute and Adverbial Clause Constructions",
+  "summary": "Verbless or participial absolute phrases describing subject states in formal Persian.",
+  "explanation": "Formal Persian uses verbless parenthetical phrases to describe simultaneous states (e.g., کتاب در دست = book in hand).",
+  "rules": [
+    "Noun + Participial/Adverbial Phrase"
+  ],
+  "example_translations": {
+    "ex_abs_1": "Ali entered the room, book in hand."
+  },
+  "common_error_explanations": {
+    "err_abs_1": "Omit explicit verbs in formal literary absolute phrases."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "book"
+  },
+  "locale": "en"
+}

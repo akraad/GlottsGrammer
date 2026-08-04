@@ -1,0 +1,18 @@
+{
+  "title": "ペルシア語会話体の柔軟な語順調整",
+  "summary": "日常会話における語順の柔軟性と代名詞の結合。",
+  "explanation": "話し言葉では、動詞が早めに来て目的語代名詞が直結することがよくあります (例: دیدمش دیروز)。",
+  "rules": [
+    "動詞 + 結合目的語代名詞 + 副詞"
+  ],
+  "example_translations": {
+    "ex_cord_1": "昨日通りで彼/彼女を見かけました。"
+  },
+  "common_error_explanations": {
+    "err_cord_1": "自然な会話の流れを作るために目的語代名詞を動詞に結合させてください。"
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "本"
+  },
+  "locale": "ja"
+}

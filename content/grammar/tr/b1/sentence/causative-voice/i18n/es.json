@@ -1,0 +1,18 @@
+{
+  "title": "Voz Causativa en Turco (-dir / -tir / -t)",
+  "summary": "Hacer que alguien haga algo (voz causativa).",
+  "explanation": "Añade sufijos causativos ('-dir/-tır/-t') a la raíz verbal para indicar que se hace realizar una acción.",
+  "rules": [
+    "Raíz Verbal + Sufijo Causativo + Tiempo"
+  ],
+  "example_translations": {
+    "ex_trcau_1": "El profesor hizo leer el libro al alumno."
+  },
+  "common_error_explanations": {
+    "err_trcau_1": "Usa sufijos causativos cuando alguien provoca una acción."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "leer"
+  },
+  "locale": "es"
+}

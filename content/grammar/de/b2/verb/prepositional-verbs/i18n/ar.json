@@ -1,0 +1,18 @@
+{
+  "locale": "ar",
+  "title": "[AR] [AR] German Prepositional Verbs",
+  "summary": "[AR] [AR] German Prepositional Verbs",
+  "explanation": "[AR] [AR] German Prepositional Verbs",
+  "rules": [
+    "Verb + feste Präposition + Kasus / Wo(r)- + Präposition?"
+  ],
+  "example_translations": {
+    "ex_de_b2_2": "Worauf wartest du? Ich warte auf den Bus."
+  },
+  "common_error_explanations": {
+    "err_de_b2_2": "Many German verbs require a specific fixed preposition and case, and questions for things use pronominal adverbs like 'wo(r)- + preposition'."
+  },
+  "vocab_glosses": {
+    "de.vocab.warten": "term"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Sufixo Condicional em Turco (-se / -sa)",
+  "summary": "Expressar orações condicionais ('se').",
+  "explanation": "Anexe '-se/-sa' à raiz do verbo ou tempo, seguido de terminações condicionais.",
+  "rules": [
+    "Raiz/Tempo + -se/-sa + Terminação Condicional"
+  ],
+  "example_translations": {
+    "ex_trse_1": "Se você ler este libro, ficarei muito contente."
+  },
+  "common_error_explanations": {
+    "err_trse_1": "Use o sufixo condicional '-se/-sa' para orações com 'se'."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "ler"
+  },
+  "locale": "pt"
+}

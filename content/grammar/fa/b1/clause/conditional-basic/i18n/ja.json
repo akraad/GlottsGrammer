@@ -1,0 +1,18 @@
+{
+  "title": "ペルシア語の条件文 (اگر)",
+  "summary": "一般的な条件文の作り方。",
+  "explanation": "接続詞 'اگر' (もし) + 条件節に接続法 + 結果節。",
+  "rules": [
+    "اگر + 接続法, 結果節"
+  ],
+  "example_translations": {
+    "ex_cond_1": "もし時間があれば、家に帰ります。"
+  },
+  "common_error_explanations": {
+    "err_cond_1": "条件節には接続法を使用してください。"
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "行く"
+  },
+  "locale": "ja"
+}

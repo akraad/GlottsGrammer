@@ -1,0 +1,18 @@
+{
+  "locale": "fa",
+  "title": "حالت مجهول زمان حال در آلمانی",
+  "summary": "Forming present passive voice using 'werden' and Partizip II.",
+  "explanation": "Forming present passive voice using 'werden' and Partizip II.",
+  "rules": [
+    "Subjekt + werden (Pos 2) + ... + Partizip II (Ende)"
+  ],
+  "example_translations": {
+    "ex_de_b1": "Die Zeitung wird jeden Tag gelesen."
+  },
+  "common_error_explanations": {
+    "err_de_b1": "Use 'werden' in position 2 along with Partizip II at the end for passive voice."
+  },
+  "vocab_glosses": {
+    "de.vocab.zeitung": "Zeitung"
+  }
+}

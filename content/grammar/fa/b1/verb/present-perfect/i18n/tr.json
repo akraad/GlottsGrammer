@@ -1,0 +1,18 @@
+{
+  "title": "Farsça Öğrenilen Geçmiş Zaman (-miş'li)",
+  "summary": "Geçmişte yapılmış ve etkisi süren eylemleri anlatır.",
+  "explanation": "Geçmiş Zaman Ortacı (Kök + ﻩ) + Şahıs Ekleri.",
+  "rules": [
+    "Geçmiş Zaman Ortacı + Ekler"
+  ],
+  "example_translations": {
+    "ex_perf_1": "Bu kitabı okudum / okumuşum."
+  },
+  "common_error_explanations": {
+    "err_perf_1": "Şimdiyle bağlantılı eylemler için geçmiş zaman ortacını kullanın."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "gitmek"
+  },
+  "locale": "tr"
+}

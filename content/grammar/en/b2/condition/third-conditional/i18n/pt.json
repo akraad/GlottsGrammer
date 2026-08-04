@@ -1,0 +1,18 @@
+{
+  "title": "Terceira Condicional",
+  "summary": "Expresse arrependimento ou situações hipotéticas do passado.",
+  "explanation": "If + Passado Perfeito, Sujeito + Would have + Particípio.",
+  "rules": [
+    "Oração com If -> Had + Particípio"
+  ],
+  "example_translations": {
+    "ex_tc_1": "Se eu tivesse estudado, teria passado."
+  },
+  "common_error_explanations": {
+    "err_tc_1": "Não use 'would have' na oração com If."
+  },
+  "vocab_glosses": {
+    "en.vocab.study": "estudar"
+  },
+  "locale": "pt"
+}

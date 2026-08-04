@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.0.0",
+  "id": "en.a2.adjective.comparative-basic",
+  "universal_concept_id": "adjective.comparative.basic",
+  "language": "en",
+  "cefr": "A2",
+  "app_level": "elementary",
+  "category": "adjective",
+  "status": "approved",
+  "difficulty": 2,
+  "prerequisites": [
+    "en.a1.adjective.basic-attributive"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "noun1"
+        },
+        {
+          "slot": "verb_be"
+        },
+        {
+          "slot": "adj_er"
+        },
+        {
+          "slot": "than"
+        },
+        {
+          "slot": "noun2"
+        }
+      ],
+      "example": "A car is bigger than a bike."
+    }
+  ],
+  "vocab": [
+    "en.vocab.car",
+    "en.vocab.big"
+  ],
+  "examples": [
+    {
+      "id": "ex_comp_1",
+      "target_text": "This car is bigger than that car.",
+      "tokens": [
+        {
+          "text": "This"
+        },
+        {
+          "text": "car"
+        },
+        {
+          "text": "is"
+        },
+        {
+          "text": "bigger"
+        },
+        {
+          "text": "than"
+        },
+        {
+          "text": "that"
+        },
+        {
+          "text": "car"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_comp_1",
+      "incorrect": "This car is more big than that car.",
+      "explanation": "Use -er for short adjectives instead of 'more'."
+    }
+  ]
+}

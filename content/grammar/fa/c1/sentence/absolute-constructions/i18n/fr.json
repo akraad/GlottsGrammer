@@ -1,0 +1,18 @@
+{
+  "title": "Constructions Absolues et Adverbiales",
+  "summary": "Phrases absolues sans verbe décrivant les états du sujet en persan soutenu.",
+  "explanation": "Le persan soutenu utilise des propositions parenthétiques sans verbe (ex. کتاب در دست = livre à la main).",
+  "rules": [
+    "Nom + Phrase Adverbiale/Participiale"
+  ],
+  "example_translations": {
+    "ex_abs_1": "Ali est entré dans la pièce, un livre à la main."
+  },
+  "common_error_explanations": {
+    "err_abs_1": "Omettez les verbes explicites dans les propositions absolues littéraires."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "livre"
+  },
+  "locale": "fr"
+}

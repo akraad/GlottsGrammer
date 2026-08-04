@@ -1,0 +1,18 @@
+{
+  "title": "Persian Present Simple Tense",
+  "summary": "Expressing habits and continuous actions in present time.",
+  "explanation": "Prefix 'می-' + Present Stem + Personal Endings (-م, -ی, -د, -یم, -ید, -ند).",
+  "rules": [
+    "می- + Present Stem + Endings"
+  ],
+  "example_translations": {
+    "ex_ps_1": "I am going home / I go home."
+  },
+  "common_error_explanations": {
+    "err_ps_1": "Add prefix 'می-' and conjugate the verb."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "go"
+  },
+  "locale": "en"
+}

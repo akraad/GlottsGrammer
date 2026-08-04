@@ -1,0 +1,18 @@
+{
+  "title": "तुर्की में उन्नत समाचार शैली कथन (Advanced Reported Speech)",
+  "summary": "समाचार और औपचारिक शैली में अप्रत्यक्ष रिपोर्टिंग।",
+  "explanation": "समाचार और औपचारिक मीडिया में '-eceği belirtildi' या '...diye' जैसी उन्नत संरचनाओं का उपयोग किया जाता है।",
+  "rules": [
+    "रिपोर्ट उपवाक्य + औपचारिक रिपोर्टिंग क्रिया"
+  ],
+  "example_translations": {
+    "ex_trrep_1": "उन्होंने कहा कि वह कल आएंगे।"
+  },
+  "common_error_explanations": {
+    "err_trrep_1": "औपचारिक मीडिया के लिए उन्नत प्रारूपों का उपयोग करें।"
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "पढ़ना"
+  },
+  "locale": "hi"
+}

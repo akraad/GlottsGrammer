@@ -1,0 +1,19 @@
+{
+  "title": "Konuşma Dili Farsçasında Kelime Kısaltmaları",
+  "summary": "Günlük konuşmada seslerin ve fiil eklerinin nasıl kısaltıldığı.",
+  "explanation": "Konuşma Farsçasında 'ân' sesi 'oon' sesine dönüşür (örn. خانه -> خونه) ve fiiller kısalır.",
+  "rules": [
+    "ân sesi -> oon sesi dönüşümü",
+    "Fiil Kısaltması (می‌روم -> می‌رم)"
+  ],
+  "example_translations": {
+    "ex_red_1": "Eve gitmek istiyorum."
+  },
+  "common_error_explanations": {
+    "err_red_1": "Samimi sohbetlerde doğal konuşma dili kısaltmalarını kullanın."
+  },
+  "vocab_glosses": {
+    "fa.vocab.home": "ev"
+  },
+  "locale": "tr"
+}

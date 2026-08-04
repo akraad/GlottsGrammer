@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0.0",
+  "id": "tr.a1.sentence.question-particle-mi",
+  "universal_concept_id": "sentence.question.particle.mi",
+  "language": "tr",
+  "cefr": "A1",
+  "app_level": "beginner",
+  "category": "sentence",
+  "status": "approved",
+  "difficulty": 1,
+  "prerequisites": [
+    "tr.a1.sentence.word-order-basic"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "statement"
+        },
+        {
+          "slot": "mi_particle"
+        }
+      ],
+      "example": "Geliyor musun?"
+    }
+  ],
+  "vocab": [
+    "tr.vocab.okumak"
+  ],
+  "examples": [
+    {
+      "id": "ex_trmi_1",
+      "target_text": "Kitap okuyor musun?",
+      "tokens": [
+        {
+          "text": "Kitap"
+        },
+        {
+          "text": "okuyor"
+        },
+        {
+          "text": "musun?"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_trmi_1",
+      "incorrect": "Kitap okuyorsun mi?",
+      "explanation": "In Turkish, place personal endings on the question particle 'mi/mı/mu/mü' (e.g. okuyor musun)."
+    }
+  ]
+}

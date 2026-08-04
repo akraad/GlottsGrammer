@@ -1,0 +1,19 @@
+{
+  "title": "Stellung der Adverbien im Satz",
+  "summary": "Richtige Reihenfolge von Zeit- und Ortsadverbien.",
+  "explanation": "Zeitadverbien stehen meist nach dem Subjekt, gefolgt von Ortsadverbien.",
+  "rules": [
+    "Subjekt + Zeitadverb + Ortsadverb + Objekt + Verb"
+  ],
+  "example_translations": {
+    "ex_advp_1": "Ich habe gestern zu Hause ein Buch gelesen."
+  },
+  "common_error_explanations": {
+    "err_advp_1": "Platziere Adverbien vor dem Objekt und Verb."
+  },
+  "vocab_glosses": {
+    "fa.vocab.home": "Zuhause",
+    "fa.vocab.raftan": "gehen"
+  },
+  "locale": "de"
+}

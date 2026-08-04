@@ -1,0 +1,67 @@
+{
+  "schema_version": "1.0.0",
+  "id": "fa.a2.verb.future-basic",
+  "universal_concept_id": "verb.future.basic",
+  "language": "fa",
+  "cefr": "A2",
+  "app_level": "elementary",
+  "category": "verb",
+  "status": "approved",
+  "difficulty": 3,
+  "prerequisites": [
+    "fa.a1.verb.past-simple"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "khah_stem"
+        },
+        {
+          "slot": "personal_suffix"
+        },
+        {
+          "slot": "past_stem"
+        }
+      ],
+      "example": "خواهم رفت"
+    }
+  ],
+  "vocab": [
+    "fa.vocab.raftan"
+  ],
+  "examples": [
+    {
+      "id": "ex_fut_1",
+      "target_text": "من فردا به خانه خواهم رفت.",
+      "tokens": [
+        {
+          "text": "من"
+        },
+        {
+          "text": "فردا"
+        },
+        {
+          "text": "به"
+        },
+        {
+          "text": "خانه"
+        },
+        {
+          "text": "خواهم"
+        },
+        {
+          "text": "رفت"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_fut_1",
+      "incorrect": "من فردا خواهم می‌روم.",
+      "explanation": "In formal future tense, combine conjugated 'خواه' with the short infinitive (past stem)."
+    }
+  ]
+}

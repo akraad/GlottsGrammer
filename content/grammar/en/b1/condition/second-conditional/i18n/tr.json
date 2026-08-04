@@ -1,0 +1,22 @@
+{
+  "title": "İkinci Tip Koşul Cümlesi (Second Conditional)",
+  "summary": "Varsayımsal veya gerçek dışı durumlar için Second Conditional yapısını kullanın.",
+  "explanation": "Yapı: If + Geçmiş Zaman (Past Simple), Özne + Would + Yalın Fiil.",
+  "rules": [
+    "If cümlesi -> Geçmiş Zaman",
+    "Ana cümle -> Would + Yalın Fiil"
+  ],
+  "example_translations": {
+    "ex_sc_1": "Piyangoyu kazansaydım bir araba alırdım."
+  },
+  "common_error_explanations": {
+    "err_sc_1": "If cümlesinin içinde asla 'would' kullanmayın."
+  },
+  "vocab_glosses": {
+    "en.vocab.win": "kazanmak",
+    "en.vocab.lottery": "piyango",
+    "en.vocab.buy": "satın almak",
+    "en.vocab.car": "araba"
+  },
+  "locale": "tr"
+}

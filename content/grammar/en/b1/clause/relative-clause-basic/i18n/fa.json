@@ -1,0 +1,20 @@
+{
+  "title": "جمله‌پایه‌های موصولی پایه (Who, Which, That)",
+  "summary": "از ضمایر موصولی برای دادن اطلاعات بیشتر درباره یک شخص یا شیء استفاده می‌شود.",
+  "explanation": "از who برای انسان، از which برای اشیاء و از that برای هر دو استفاده کنید.",
+  "rules": [
+    "Who -> افراد",
+    "Which -> اشیاء",
+    "That -> افراد و اشیاء"
+  ],
+  "example_translations": {
+    "ex_rel_1": "این همان کتابی است که خریدم."
+  },
+  "common_error_explanations": {
+    "err_rel_1": "برای اشیاء و غیرانسان هرگز از who استفاده نکنید."
+  },
+  "vocab_glosses": {
+    "en.vocab.book": "کتاب"
+  },
+  "locale": "fa"
+}

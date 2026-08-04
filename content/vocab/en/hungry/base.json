@@ -1,0 +1,27 @@
+{
+  "id": "en.adj.hungry",
+  "language": "en",
+  "lemma": "hungry",
+  "pos": "adjective",
+  "cefr": "A1",
+  "frequency_rank": 700,
+  "comparative": "hungrier",
+  "superlative": "hungriest",
+  "tags": [
+    "feeling",
+    "physical state"
+  ],
+  "translations": {
+    "ar": "جائع",
+    "de": "hungrig",
+    "en": "hungry",
+    "es": "hambriento",
+    "fa": "گرسنه",
+    "fr": "affamé",
+    "hi": "भूखा",
+    "ja": "空腹の",
+    "pt": "faminto",
+    "ru": "голодный",
+    "tr": "aç"
+  }
+}

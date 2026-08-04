@@ -1,0 +1,18 @@
+{
+  "title": "फ़ारसी में भूतकाल (Past Simple)",
+  "summary": "अतीत के पूर्ण कार्यों को व्यक्त करना।",
+  "explanation": "भूतकाल धातु + पुरुषवाचक प्रत्यय।",
+  "rules": [
+    "भूतकाल धातु + प्रत्यय"
+  ],
+  "example_translations": {
+    "ex_past_1": "मैं कल घर गया था।"
+  },
+  "common_error_explanations": {
+    "err_past_1": "अतीत के कार्यों के लिए भूतकाल धातु का प्रयोग करें।"
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "जाना"
+  },
+  "locale": "hi"
+}

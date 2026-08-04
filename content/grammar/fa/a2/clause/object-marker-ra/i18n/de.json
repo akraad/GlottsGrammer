@@ -1,0 +1,18 @@
+{
+  "title": "Akkusativ-Marker 'را' (Ra)",
+  "summary": "Kennzeichnung bestimmter direkter Objekte.",
+  "explanation": "Partikel 'را' steht direkt NACH einem bestimmten Objekt.",
+  "rules": [
+    "Bestimmtes Objekt + را"
+  ],
+  "example_translations": {
+    "ex_ra_1": "Ich habe das Buch gelesen."
+  },
+  "common_error_explanations": {
+    "err_ra_1": "Setze 'را' direkt NACH das Objekt."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "Buch"
+  },
+  "locale": "de"
+}

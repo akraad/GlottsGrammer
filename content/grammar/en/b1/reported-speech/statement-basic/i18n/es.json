@@ -1,0 +1,18 @@
+{
+  "title": "Estilo Indirecto (Reported Speech)",
+  "summary": "Usa el estilo indirecto para contar lo que otra persona dijo.",
+  "explanation": "Los tiempos verbales cambian un paso hacia el pasado.",
+  "rules": [
+    "Presente -> Pasado"
+  ],
+  "example_translations": {
+    "ex_rep_1": "Él dijo que estaba feliz."
+  },
+  "common_error_explanations": {
+    "err_rep_1": "Cambia el tiempo verbal al pasado."
+  },
+  "vocab_glosses": {
+    "en.vocab.say": "decir"
+  },
+  "locale": "es"
+}

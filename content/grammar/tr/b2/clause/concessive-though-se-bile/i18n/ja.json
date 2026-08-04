@@ -1,0 +1,18 @@
+{
+  "title": "トルコ語の譲歩表現 ('たとえ〜としても' -se bile)",
+  "summary": "「たとえ〜でも」という譲歩条件を表します。",
+  "explanation": "条件接尾辞 '-se/-sa' に 'bile' (〜も、さえ) を組み合わせて「たとえ〜としても」という意味を作ります (gelse bile = たとえ来ても)。",
+  "rules": [
+    "動詞語幹 + -se/-sa + bile"
+  ],
+  "example_translations": {
+    "ex_trbile_1": "たとえ明日来ても、彼に会うことはできないでしょう。"
+  },
+  "common_error_explanations": {
+    "err_trbile_1": "「たとえ〜としても」を表すには '-se bile' を使用してください。"
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "読む"
+  },
+  "locale": "ja"
+}

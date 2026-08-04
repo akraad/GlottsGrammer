@@ -1,0 +1,19 @@
+{
+  "title": "तुर्की में अधिकरण कारक (-da / -de / -ta / -te)",
+  "summary": "'में', 'पर' या 'पास' स्थान व्यक्त करना।",
+  "explanation": "स्वर सामंजस्य के अनुसार '-da/-de' जोड़ें। अघोष व्यंजनों के बाद यह '-ta/-te' हो जाता है।",
+  "rules": [
+    "संज्ञा + अधिकरण प्रत्यय"
+  ],
+  "example_translations": {
+    "ex_trloc_1": "अली अभी घर पर है।"
+  },
+  "common_error_explanations": {
+    "err_trloc_1": "स्वर सामंजस्य और व्यंजन परिवर्तन का ध्यान रखें।"
+  },
+  "vocab_glosses": {
+    "tr.vocab.ev": "घर",
+    "tr.vocab.kitap": "किताब"
+  },
+  "locale": "hi"
+}

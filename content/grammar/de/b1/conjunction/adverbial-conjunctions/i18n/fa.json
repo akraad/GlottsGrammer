@@ -1,0 +1,18 @@
+{
+  "locale": "fa",
+  "title": "حروف ربط قیدی و همپایه در آلمانی",
+  "summary": "Using connecting adverbs where the conjugated verb stays in position 2.",
+  "explanation": "Using connecting adverbs where the conjugated verb stays in position 2.",
+  "rules": [
+    "Satz 1 + , + deshalb (Pos 1) + Verb (Pos 2) + Subjekt"
+  ],
+  "example_translations": {
+    "ex_de_b1_2": "Es regnet, deshalb bleibe ich zu Hause."
+  },
+  "common_error_explanations": {
+    "err_de_b1_2": "Ensure the conjugated verb occupies position 2 right after adverbial conjunctions."
+  },
+  "vocab_glosses": {
+    "de.vocab.haus": "Hause"
+  }
+}

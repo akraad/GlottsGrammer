@@ -1,0 +1,18 @@
+{
+  "locale": "hi",
+  "title": "[HI] [HI] German Advanced Subjunctive Nuances",
+  "summary": "[HI] [HI] German Advanced Subjunctive Nuances",
+  "explanation": "[HI] [HI] German Advanced Subjunctive Nuances",
+  "rules": [
+    "Hauptsatz + , + als ob + Subjekt + ... + Konjunktiv II (Ende)"
+  ],
+  "example_translations": {
+    "ex_de_c1": "Er tut so, als ob er alles wüsste."
+  },
+  "common_error_explanations": {
+    "err_de_c1": "'Als ob' clauses require Konjunktiv II to express unreal or hypothetical comparisons."
+  },
+  "vocab_glosses": {
+    "de.vocab.wissen": "term"
+  }
+}

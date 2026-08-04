@@ -1,0 +1,31 @@
+{
+  "$schema": "../../../../../schemas/grammar-i18n.schema.json",
+  "locale": "en",
+  "translation_status": "approved",
+  "name": "Definiteness: a, an, the",
+  "summary": "Use 'a/an' for non-specific singular nouns, 'the' for specific nouns, and no article for general plurals or uncountables.",
+  "explanation": "In English, articles help specify whether you're talking about something general or specific. Use 'a' before consonant sounds and 'an' before vowel sounds for indefinite references. Use 'the' when both speaker and listener know which specific thing is being discussed.",
+  "form_notes": {
+    "indefinite-a": "Use 'a' before words starting with a consonant sound (a cat, a university).",
+    "indefinite-an": "Use 'an' before words starting with a vowel sound (an apple, an hour).",
+    "definite-the": "Use 'the' when referring to a specific noun that is already known or unique.",
+    "zero-article": "No article is used for plural or uncountable nouns when speaking generally."
+  },
+  "example_translations": {
+    "ex_01": "I have a cat.",
+    "ex_02": "She is an engineer.",
+    "ex_03": "The cat is black.",
+    "ex_04": "Cats are animals."
+  },
+  "common_error_explanations": {
+    "err_01": "'An' is used before vowel SOUNDS, not just vowels. 'Car' starts with a consonant sound, so use 'a'.",
+    "err_02": "Professions require 'a/an' in English. You cannot say 'She is teacher'; it must be 'She is a teacher'."
+  },
+  "vocab_glosses": {
+    "en.noun.cat": "cat",
+    "en.noun.engineer": "engineer",
+    "en.noun.car": "car",
+    "en.noun.teacher": "teacher",
+    "en.vocab.car": "car"
+  }
+}

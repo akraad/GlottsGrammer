@@ -1,0 +1,20 @@
+{
+  "title": "Прошедшее длительное время (Past Continuous)",
+  "summary": "Используйте was/were + verb-ing для действий, происходивших в определенный момент в прошлом.",
+  "explanation": "Past Continuous образуется с помощью was/were и формы глагола с окончанием -ing.",
+  "rules": [
+    "I/He/She/It + was + verb-ing",
+    "You/We/They + were + verb-ing"
+  ],
+  "example_translations": {
+    "ex_pcont_1": "Я гулял вчера."
+  },
+  "common_error_explanations": {
+    "err_pcont_1": "Используйте 'was' для единственного числа."
+  },
+  "vocab_glosses": {
+    "en.vocab.walk": "гулять / ходить",
+    "en.vocab.yesterday": "вчера"
+  },
+  "locale": "ru"
+}

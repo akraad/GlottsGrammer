@@ -1,0 +1,18 @@
+{
+  "title": "Gelişmiş Yan Cümlecikler ve Bağlantılar",
+  "summary": "Akademik ve edebi metinlerde karmaşık yan cümleler.",
+  "explanation": "'-duğundan dolayı' veya '-dığı için' gibi yapılarla akademik ve resmi düzeyde sebep-sonuç ilişkileri kurulur.",
+  "rules": [
+    "Yan Cümle (-duğundan) + Edat/Bağlaç (dolayı / için)"
+  ],
+  "example_translations": {
+    "ex_trcomp_1": "Kitap okuduğundan dolayı çok başarılı."
+  },
+  "common_error_explanations": {
+    "err_trcomp_1": "Akademik ve resmi yazılarda gelişmiş bağlaç yapılarını kullanın."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "okumak"
+  },
+  "locale": "tr"
+}

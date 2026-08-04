@@ -1,0 +1,18 @@
+{
+  "title": "पास्ट मोडल्स (Should have)",
+  "summary": "अतीत के बारे में पछतावे या आलोचना को व्यक्त करने के लिए।",
+  "explanation": "कर्ता + should have + Past Participle।",
+  "rules": [
+    "Should have + Past Participle"
+  ],
+  "example_translations": {
+    "ex_pm_1": "मुझे और पढ़ाई करनी चाहिए थी।"
+  },
+  "common_error_explanations": {
+    "err_pm_1": "'should of' न लिखें, 'should have' का प्रयोग करें।"
+  },
+  "vocab_glosses": {
+    "en.vocab.study": "पढ़ाई करना"
+  },
+  "locale": "hi"
+}

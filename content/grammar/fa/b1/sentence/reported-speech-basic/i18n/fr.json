@@ -1,0 +1,18 @@
+{
+  "title": "Discours Rapporté en Persan (گفت که)",
+  "summary": "Rapporter les paroles de quelqu'un avec 'که'.",
+  "explanation": "Sujet + گفت + که + Déclaration indirecte.",
+  "rules": [
+    "گفت + که + Déclaration Indirecte"
+  ],
+  "example_translations": {
+    "ex_rep_1": "Ali a dit qu'il allait à la maison."
+  },
+  "common_error_explanations": {
+    "err_rep_1": "Ajustez les pronoms et la terminaison du verbe avec 'که'."
+  },
+  "vocab_glosses": {
+    "fa.vocab.home": "maison"
+  },
+  "locale": "fr"
+}

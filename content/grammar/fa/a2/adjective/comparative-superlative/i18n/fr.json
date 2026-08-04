@@ -1,0 +1,19 @@
+{
+  "title": "Comparatif et Superlatif en Persan",
+  "summary": "Former le comparatif (-تر) et le superlatif (-ترین).",
+  "explanation": "Ajoutez '-تر' pour le comparatif et '-ترین' avant le nom pour le superlatif.",
+  "rules": [
+    "Adjectif + تر (Comparatif)",
+    "ترین + Nom (Superlatif)"
+  ],
+  "example_translations": {
+    "ex_comp_1": "Cette maison est plus grande."
+  },
+  "common_error_explanations": {
+    "err_comp_1": "Ajoutez '-تر' à la fin de l'adjectif."
+  },
+  "vocab_glosses": {
+    "fa.vocab.bozorg": "grand"
+  },
+  "locale": "fr"
+}

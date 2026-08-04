@@ -1,0 +1,22 @@
+{
+  "title": "Second Conditional",
+  "summary": "Use Second Conditional for hypothetical or imaginary situations in the present/future.",
+  "explanation": "If + Past Simple, Subject + Would + Base Verb.",
+  "rules": [
+    "If clause -> Past Simple",
+    "Main clause -> Would + Base Verb"
+  ],
+  "example_translations": {
+    "ex_sc_1": "If I won the lottery, I would buy a car."
+  },
+  "common_error_explanations": {
+    "err_sc_1": "Never put 'would' inside the 'if' clause."
+  },
+  "vocab_glosses": {
+    "en.vocab.win": "win",
+    "en.vocab.lottery": "lottery",
+    "en.vocab.buy": "buy",
+    "en.vocab.car": "car"
+  },
+  "locale": "en"
+}

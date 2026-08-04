@@ -1,0 +1,18 @@
+{
+  "title": "Particule Interrogative en Turc (mı / mi / mu / mü)",
+  "summary": "Former des questions Oui/Non.",
+  "explanation": "S'écrit séparément selon l'harmonie vocalique à 4 formes. Les terminaisons personnelles s'attachent à la particule.",
+  "rules": [
+    "Phrase + mı/mi/mu/mü + Terminaison"
+  ],
+  "example_translations": {
+    "ex_trmi_1": "Lis-tu un livre ?"
+  },
+  "common_error_explanations": {
+    "err_trmi_1": "Attachez les terminaisons personnelles à la particule interrogative."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "lire"
+  },
+  "locale": "fr"
+}

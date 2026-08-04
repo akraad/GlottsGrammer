@@ -1,0 +1,18 @@
+{
+  "title": "Die Satzstellung (V2-Regel)",
+  "summary": "Die Position des konjugierten Verbs an zweiter Stelle im Satz.",
+  "explanation": "Die Position des konjugierten Verbs an zweiter Stelle im Satz.",
+  "rules": [
+    "Position 1 + Verb (Pos 2) + Subject + Object"
+  ],
+  "example_translations": {
+    "ex_de_1": "Heute lerne ich Deutsch."
+  },
+  "common_error_explanations": {
+    "err_de_1": "Ensure the conjugated verb is always in the second position."
+  },
+  "vocab_glosses": {
+    "de.vocab.lernen": "lernen"
+  },
+  "locale": "de"
+}

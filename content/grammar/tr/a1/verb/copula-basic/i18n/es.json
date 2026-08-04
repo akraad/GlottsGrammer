@@ -1,0 +1,18 @@
+{
+  "title": "Sufijos Copulativos en Turco ('Ser/Estar')",
+  "summary": "Sufijos personales predicativos en sustantivos y adjetivos.",
+  "explanation": "En turco, 'ser/estar' se expresa mediante sufijos añadidos directamente a las palabras (-im, -sin, -dir...), siguiendo la armonía vocálica de 4 formas.",
+  "rules": [
+    "Sustantivo/Adj + Sufijo Personal"
+  ],
+  "example_translations": {
+    "ex_tr_cop_1": "Tú eres profesor."
+  },
+  "common_error_explanations": {
+    "err_tr_cop_1": "Aplica la armonía vocálica cuádruple a los sufijos copulativos."
+  },
+  "vocab_glosses": {
+    "tr.vocab.ogretmen": "profesor"
+  },
+  "locale": "es"
+}

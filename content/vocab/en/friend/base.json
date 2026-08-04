@@ -1,0 +1,28 @@
+{
+  "$schema": "../../../../schemas/vocab-base.schema.json",
+  "schema_version": 1,
+  "id": "en.noun.friend",
+  "language": "en",
+  "lemma": "friend",
+  "pos": "noun",
+  "cefr": "A1",
+  "frequency_rank": 350,
+  "forms": {
+    "singular": "friend",
+    "plural": "friends"
+  },
+  "translations": {
+    "ar": "صديق",
+    "de": "Freund",
+    "en": "friend",
+    "es": "amigo",
+    "fa": "دوست",
+    "fr": "ami",
+    "hi": "दोस्त",
+    "ja": "友達",
+    "pt": "amigo",
+    "ru": "друг",
+    "tr": "arkadaş"
+  },
+  "tags": ["people", "relationships", "A1-core"]
+}

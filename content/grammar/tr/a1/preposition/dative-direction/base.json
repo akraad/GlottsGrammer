@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0.0",
+  "id": "tr.a1.preposition.dative-direction",
+  "universal_concept_id": "preposition.dative.direction",
+  "language": "tr",
+  "cefr": "A1",
+  "app_level": "beginner",
+  "category": "preposition",
+  "status": "approved",
+  "difficulty": 1,
+  "prerequisites": [
+    "tr.a1.noun.vowel-harmony-plural"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "noun_stem"
+        },
+        {
+          "slot": "dative_suffix"
+        }
+      ],
+      "example": "eve"
+    }
+  ],
+  "vocab": [
+    "tr.vocab.ev"
+  ],
+  "examples": [
+    {
+      "id": "ex_trdat_1",
+      "target_text": "Ben eve gidiyorum.",
+      "tokens": [
+        {
+          "text": "Ben"
+        },
+        {
+          "text": "eve"
+        },
+        {
+          "text": "gidiyorum."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_trdat_1",
+      "incorrect": "Ben eva gidiyorum.",
+      "explanation": "Use '-e' after front vowels (e, i, ö, ü) and '-a' after back vowels (a, ı, o, u)."
+    }
+  ]
+}

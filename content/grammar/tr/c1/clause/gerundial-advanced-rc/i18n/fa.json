@@ -1,0 +1,18 @@
+{
+  "title": "قیدها و وجه‌های مرکب پیشرفته",
+  "summary": "به کارگیری افعال مرکب پیوسته و قیدهای وجهی دشوار.",
+  "explanation": "به کارگیری افعال مرکب پیوسته و قیدهای وجهی دشوار.",
+  "rules": [
+    "Verb Stem + Compound Gerund Suffix"
+  ],
+  "example_translations": {
+    "ex_c1_2": "Asırlardır bu gelenek sürdürülegelmiştir."
+  },
+  "common_error_explanations": {
+    "err_c1_2": "Use compound gerunds for sophisticated stylistic depth."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "خواندن"
+  },
+  "locale": "fa"
+}

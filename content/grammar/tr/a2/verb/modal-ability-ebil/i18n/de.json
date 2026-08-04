@@ -1,0 +1,18 @@
+{
+  "title": "Türkisches Modalverb für Fähigkeit (-ebil / -abil)",
+  "summary": "Ausdruck von Können, Fähigkeit oder Erlaubnis ('können').",
+  "explanation": "Füge '-ebil/-abil' an den Verbstamm an (mit Puffer-'y' nach Vokalen), gefolgt von Zeitform und Personalsuffix.",
+  "rules": [
+    "Verbstamm + -(y)ebil + Zeitform + Personalsuffix"
+  ],
+  "example_translations": {
+    "ex_trebil_1": "Ich kann dieses Buch lesen."
+  },
+  "common_error_explanations": {
+    "err_trebil_1": "Setze das Fähigkeitssuffix vor die Zeitform."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "lesen"
+  },
+  "locale": "de"
+}

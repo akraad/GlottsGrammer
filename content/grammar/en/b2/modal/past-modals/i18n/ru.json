@@ -1,0 +1,18 @@
+{
+  "title": "Модальные глаголы в прошлом (Should have)",
+  "summary": "Выражение сожаления или критики относительно прошлого.",
+  "explanation": "Подлежащее + should have + Participle II.",
+  "rules": [
+    "Should have + Participle II"
+  ],
+  "example_translations": {
+    "ex_pm_1": "Мне следовало учиться больше."
+  },
+  "common_error_explanations": {
+    "err_pm_1": "Пишите 'should have', а не 'should of'."
+  },
+  "vocab_glosses": {
+    "en.vocab.study": "учиться"
+  },
+  "locale": "ru"
+}

@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0.0",
+  "id": "fa.a2.preposition.compound-basic",
+  "universal_concept_id": "preposition.compound.basic",
+  "language": "fa",
+  "cefr": "A2",
+  "app_level": "elementary",
+  "category": "preposition",
+  "status": "approved",
+  "difficulty": 2,
+  "prerequisites": [
+    "fa.a1.preposition.time-place-basic",
+    "fa.a1.noun.ezafe-construction"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "compound_prep"
+        },
+        {
+          "slot": "ezafe"
+        },
+        {
+          "slot": "noun"
+        }
+      ],
+      "example": "دربارهٔ کتاب"
+    }
+  ],
+  "vocab": [
+    "fa.vocab.book"
+  ],
+  "examples": [
+    {
+      "id": "ex_cprep_1",
+      "target_text": "ما دربارهٔ این کتاب صحبت کردیم.",
+      "tokens": [
+        {
+          "text": "ما"
+        },
+        {
+          "text": "دربارهٔ"
+        },
+        {
+          "text": "این"
+        },
+        {
+          "text": "کتاب"
+        },
+        {
+          "text": "صحبت"
+        },
+        {
+          "text": "کردیم"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_cprep_1",
+      "incorrect": "ما درباره این کتاب صحبت کردیم.",
+      "explanation": "Connect compound prepositions like 'درباره' or 'برای' to the noun using Ezafe."
+    }
+  ]
+}

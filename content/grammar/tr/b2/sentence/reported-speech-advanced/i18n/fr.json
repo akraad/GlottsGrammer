@@ -1,0 +1,18 @@
+{
+  "title": "Formats Avancés de Discours Rapporté",
+  "summary": "Style journalistique et formel du rapport en turc.",
+  "explanation": "Les médias utilisent des structures nominales avancées comme '-eceği belirtildi' ou '...diye' pour rapporter des propos.",
+  "rules": [
+    "Proposition Rapportée + Verbe de Déclaration Formel (diye / belirtti)"
+  ],
+  "example_translations": {
+    "ex_trrep_1": "Il/Elle a déclaré qu'il/elle viendrait demain."
+  },
+  "common_error_explanations": {
+    "err_trrep_1": "Utilisez des formats de discours rapporté avancés."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "lire"
+  },
+  "locale": "fr"
+}

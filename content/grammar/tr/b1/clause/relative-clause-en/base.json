@@ -1,0 +1,64 @@
+{
+  "schema_version": "1.0.0",
+  "id": "tr.b1.clause.relative-clause-en",
+  "universal_concept_id": "clause.relative.en",
+  "language": "tr",
+  "cefr": "B1",
+  "app_level": "intermediate",
+  "category": "clause",
+  "status": "approved",
+  "difficulty": 4,
+  "prerequisites": [
+    "tr.a2.preposition.genitive-case"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "verb_stem"
+        },
+        {
+          "slot": "en_an_suffix"
+        },
+        {
+          "slot": "noun"
+        }
+      ],
+      "example": "okuyan çocuk"
+    }
+  ],
+  "vocab": [
+    "tr.vocab.okumak"
+  ],
+  "examples": [
+    {
+      "id": "ex_tren_1",
+      "target_text": "Kitap okuyan çocuk çok akıllı.",
+      "tokens": [
+        {
+          "text": "Kitap"
+        },
+        {
+          "text": "okuyan"
+        },
+        {
+          "text": "çocuk"
+        },
+        {
+          "text": "çok"
+        },
+        {
+          "text": "akıllı."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_tren_1",
+      "incorrect": "Kitap okuyan çocuk çok akıllı yerine Kitap okuyor çocuk.",
+      "explanation": "Use participle suffix '-en/-an' on verb stems to form active relative clauses preceding nouns."
+    }
+  ]
+}

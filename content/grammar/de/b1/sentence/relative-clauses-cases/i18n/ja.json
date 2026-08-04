@@ -1,0 +1,18 @@
+{
+  "locale": "ja",
+  "title": "[JA] [JA] German Relative Clauses with Cases",
+  "summary": "[JA] [JA] German Relative Clauses with Cases",
+  "explanation": "[JA] [JA] German Relative Clauses with Cases",
+  "rules": [
+    "Nomen + Komma + Präposition + Relativpronomen (Dativ/Akk) + ... + Verb (Ende)"
+  ],
+  "example_translations": {
+    "ex_de_b1_2": "Das ist der Mann, mit dem ich spreche."
+  },
+  "common_error_explanations": {
+    "err_de_b1_2": "Relative pronouns must reflect the correct gender and case required by the preposition or verb in the relative clause."
+  },
+  "vocab_glosses": {
+    "de.vocab.sprechen": "term"
+  }
+}

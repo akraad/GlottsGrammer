@@ -1,0 +1,18 @@
+{
+  "title": "Turkish Past Counterfactual Conditional (-seydi)",
+  "summary": "Expressing unreal or impossible past conditional scenarios.",
+  "explanation": "Attach '-seydi/-saydı' to verb stems to express past counterfactuals or regrets (e.g., gelseydi = if he/she had come).",
+  "rules": [
+    "Verb Stem + -seydi/-saydı + Personal Suffix"
+  ],
+  "example_translations": {
+    "ex_trsed_1": "If he/she had come yesterday, he/she would have seen the book."
+  },
+  "common_error_explanations": {
+    "err_trsed_1": "Use '-seydi' for unreal past conditional scenarios."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "read"
+  },
+  "locale": "en"
+}

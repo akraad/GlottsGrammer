@@ -1,0 +1,18 @@
+{
+  "title": "Plus-que-parfait en Persan",
+  "summary": "Exprimer une action antérieure à une autre action passée.",
+  "explanation": "Participe Passé + Formes conjuguées de 'بودن' au passé.",
+  "rules": [
+    "Participe Passé + بودم"
+  ],
+  "example_translations": {
+    "ex_pperf_1": "J'étais rentré à la maison avant lui/elle."
+  },
+  "common_error_explanations": {
+    "err_pperf_1": "Utilisez le participe passé avant 'بودم'."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "aller"
+  },
+  "locale": "fr"
+}

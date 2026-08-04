@@ -1,0 +1,19 @@
+{
+  "title": "ペルシア語の複数形 (-ها / -ان)",
+  "summary": "ペルシア語で名詞を複数形にする方法。",
+  "explanation": "接尾辞 '-ها' はすべての名詞に使えます。'-ان' は主に生物に使用されます。",
+  "rules": [
+    "名詞 + ها (一般的な複数形)",
+    "生物 + ان (人間・生き物)"
+  ],
+  "example_translations": {
+    "ex_fa_pl_1": "本は机の上にあります。"
+  },
+  "common_error_explanations": {
+    "err_fa_pl_1": "本などの無生物に '-ان' を使用しないでください。"
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "本"
+  },
+  "locale": "ja"
+}

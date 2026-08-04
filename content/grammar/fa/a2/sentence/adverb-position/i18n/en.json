@@ -1,0 +1,19 @@
+{
+  "title": "Adverb Position in Persian Sentences",
+  "summary": "Ordering time and place adverbs correctly.",
+  "explanation": "Time adverbs usually follow the subject, followed by place adverbs, object, and verb.",
+  "rules": [
+    "Subject + Time Adverb + Place Adverb + Object + Verb"
+  ],
+  "example_translations": {
+    "ex_advp_1": "I read a book at home yesterday."
+  },
+  "common_error_explanations": {
+    "err_advp_1": "Place adverbs before the object and final verb."
+  },
+  "vocab_glosses": {
+    "fa.vocab.home": "home",
+    "fa.vocab.raftan": "go"
+  },
+  "locale": "en"
+}

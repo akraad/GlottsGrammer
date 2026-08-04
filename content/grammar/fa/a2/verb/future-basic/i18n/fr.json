@@ -1,0 +1,18 @@
+{
+  "title": "Futur Formel en Persan",
+  "summary": "Exprimer des actions futures dans un contexte officiel.",
+  "explanation": "Auxiliaire 'خواه' conjugué + Racine du passé.",
+  "rules": [
+    "خواه + Terminaison + Racine du passé"
+  ],
+  "example_translations": {
+    "ex_fut_1": "J'irai à la maison demain."
+  },
+  "common_error_explanations": {
+    "err_fut_1": "Utilisez le radical du passé après 'خواه'."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "aller"
+  },
+  "locale": "fr"
+}

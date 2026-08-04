@@ -1,0 +1,18 @@
+{
+  "title": "Passé Continu Narratif en Persan",
+  "summary": "Rapporter des habitudes passées selon les dires d'autrui.",
+  "explanation": "Préfixe 'می-' + Participe Passé + Suffixes.",
+  "rules": [
+    "می- + Participe Passé + Suffixes"
+  ],
+  "example_translations": {
+    "ex_pnarr_1": "On dit qu'il/elle allait là-bas tous les jours."
+  },
+  "common_error_explanations": {
+    "err_pnarr_1": "Utilisez le passé narratif pour les rapports indirects."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "aller"
+  },
+  "locale": "fr"
+}

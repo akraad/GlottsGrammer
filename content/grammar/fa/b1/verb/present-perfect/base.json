@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0.0",
+  "id": "fa.b1.verb.present-perfect",
+  "universal_concept_id": "verb.present.perfect",
+  "language": "fa",
+  "cefr": "B1",
+  "app_level": "intermediate",
+  "category": "verb",
+  "status": "approved",
+  "difficulty": 3,
+  "prerequisites": [
+    "fa.a1.verb.past-simple"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "past_participle"
+        },
+        {
+          "slot": "am_is_are_endings"
+        }
+      ],
+      "example": "رفته‌ام"
+    }
+  ],
+  "vocab": [
+    "fa.vocab.raftan"
+  ],
+  "examples": [
+    {
+      "id": "ex_perf_1",
+      "target_text": "من این کتاب را خوانده‌ام.",
+      "tokens": [
+        {
+          "text": "من"
+        },
+        {
+          "text": "این"
+        },
+        {
+          "text": "کتاب"
+        },
+        {
+          "text": "را"
+        },
+        {
+          "text": "خوانده‌ام"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_perf_1",
+      "incorrect": "من این کتاب را رفتم.",
+      "explanation": "Use past participle (خوانده) + enclitic forms of 'to be' for actions with present relevance."
+    }
+  ]
+}

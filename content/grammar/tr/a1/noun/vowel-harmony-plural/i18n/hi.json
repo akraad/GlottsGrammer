@@ -1,0 +1,20 @@
+{
+  "title": "तुर्की में बहुवचन प्रत्यय (-lar / -ler)",
+  "summary": "स्वर सामंजस्य (Vowel Harmony) के अनुसार बहुवचन बनाना।",
+  "explanation": "यदि अंतिम स्वर कठोर (a, ı, o, u) है तो '-lar' जोड़ें, और यदि कोमल (e, i, ö, ü) है तो '-ler' जोड़ें।",
+  "rules": [
+    "कठोर स्वर (a, ı, o, u) -> -lar",
+    "कोमल स्वर (e, i, ö, ü) -> -ler"
+  ],
+  "example_translations": {
+    "ex_tr_pl_1": "मेज पर किताबें हैं।"
+  },
+  "common_error_explanations": {
+    "err_tr_pl_1": "कठोर स्वर वाले शब्दों में '-ler' न जोड़ें।"
+  },
+  "vocab_glosses": {
+    "tr.vocab.kitap": "किताब",
+    "tr.vocab.ev": "घर"
+  },
+  "locale": "hi"
+}

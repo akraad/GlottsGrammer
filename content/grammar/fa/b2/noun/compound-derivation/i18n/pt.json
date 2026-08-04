@@ -1,0 +1,19 @@
+{
+  "title": "Formação de Substantivos Compostos em Persa",
+  "summary": "Combinar palavras ou radicais para formar novos substantivos.",
+  "explanation": "Criação de substantivos combinando Substantivo + Substantivo ou Radical (ex. کتاب‌خانه = biblioteca).",
+  "rules": [
+    "Substantivo + Substantivo/Radical"
+  ],
+  "example_translations": {
+    "ex_cder_1": "Ele/Ela estuda na biblioteca."
+  },
+  "common_error_explanations": {
+    "err_cder_1": "Use o meio-espaço (ZWNJ) entre componentes compostos."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "livro",
+    "fa.vocab.home": "casa"
+  },
+  "locale": "pt"
+}

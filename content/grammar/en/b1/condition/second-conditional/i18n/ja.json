@@ -1,0 +1,22 @@
+{
+  "title": "第2条件法 (Second Conditional)",
+  "summary": "現在または将来の仮定や非現実的な状況には第2条件法を使用します。",
+  "explanation": "If + 過去形, 主語 + Would + 動詞の原形。",
+  "rules": [
+    "If節 -> 過去形",
+    "主節 -> Would + 動詞の原形"
+  ],
+  "example_translations": {
+    "ex_sc_1": "宝くじに当たったら、車を買うのに。"
+  },
+  "common_error_explanations": {
+    "err_sc_1": "If節の中で would を使ってはいけません。"
+  },
+  "vocab_glosses": {
+    "en.vocab.win": "勝つ / 当たる",
+    "en.vocab.lottery": "宝くじ",
+    "en.vocab.buy": "買う",
+    "en.vocab.car": "車"
+  },
+  "locale": "ja"
+}

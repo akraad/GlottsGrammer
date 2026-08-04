@@ -1,0 +1,18 @@
+{
+  "title": "Speculation (Might, May, Could)",
+  "summary": "Use might, may, or could to express possibility.",
+  "explanation": "Subject + might/may/could + base verb.",
+  "rules": [
+    "Never add 'to' after these modals."
+  ],
+  "example_translations": {
+    "ex_spec_1": "It might rain today."
+  },
+  "common_error_explanations": {
+    "err_spec_1": "Do not put 'to' after might."
+  },
+  "vocab_glosses": {
+    "en.vocab.rain": "rain"
+  },
+  "locale": "en"
+}

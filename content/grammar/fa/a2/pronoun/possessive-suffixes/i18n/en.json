@@ -1,0 +1,18 @@
+{
+  "title": "Persian Possessive Suffixes",
+  "summary": "Expressing possession with attached suffixes (-م, -ت, -ش).",
+  "explanation": "Attach suffixes directly to nouns to indicate ownership (e.g. کتابم = my book).",
+  "rules": [
+    "Noun + Possessive Suffix"
+  ],
+  "example_translations": {
+    "ex_psuf_1": "My book is on the table."
+  },
+  "common_error_explanations": {
+    "err_psuf_1": "Attach the suffix directly to the noun."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "book"
+  },
+  "locale": "en"
+}

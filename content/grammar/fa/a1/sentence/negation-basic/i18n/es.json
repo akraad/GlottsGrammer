@@ -1,0 +1,18 @@
+{
+  "title": "Negación Verbal en Persa",
+  "summary": "Negar verbos usando el prefijo 'نـ'.",
+  "explanation": "En persa, añade el prefijo 'نـ' al principio del verbo para negarlo.",
+  "rules": [
+    "نـ + Verbo"
+  ],
+  "example_translations": {
+    "ex_neg_1": "No voy a casa."
+  },
+  "common_error_explanations": {
+    "err_neg_1": "Añade 'نـ' al principio del verbo."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "ir"
+  },
+  "locale": "es"
+}

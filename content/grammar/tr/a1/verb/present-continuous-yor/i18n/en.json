@@ -1,0 +1,18 @@
+{
+  "title": "Turkish Present Continuous Tense (-iyor)",
+  "summary": "Expressing actions happening right now.",
+  "explanation": "Attach '-iyor / -ıyor / -üyor / -uyor' to the verb stem followed by personal endings (e.g., gel-i-yor-um = I am coming).",
+  "rules": [
+    "Verb Stem + -iyor + Personal Ending"
+  ],
+  "example_translations": {
+    "ex_tryor_1": "I am reading a book right now."
+  },
+  "common_error_explanations": {
+    "err_tryor_1": "Attach personal endings directly after '-yor'."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "read"
+  },
+  "locale": "en"
+}

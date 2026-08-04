@@ -1,0 +1,18 @@
+{
+  "title": "Farsça Sıfat Cümlecikleri (که)",
+  "summary": "'که' (ki) bağlacı ile ismi niteleme.",
+  "explanation": "İsim + Belirtme 'ی' eki + که + Yan cümle.",
+  "rules": [
+    "İsim + ی + که + Yan Cümle"
+  ],
+  "example_translations": {
+    "ex_rel_1": "Satın aldığım kitap ilgi çekici."
+  },
+  "common_error_explanations": {
+    "err_rel_1": "'که' bağlacından önceki isme 'ی' ekini getirin."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "kitap"
+  },
+  "locale": "tr"
+}

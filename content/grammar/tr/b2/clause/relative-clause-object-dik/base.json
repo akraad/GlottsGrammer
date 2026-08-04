@@ -1,0 +1,67 @@
+{
+  "schema_version": "1.0.0",
+  "id": "tr.b2.clause.relative-clause-object-dik",
+  "universal_concept_id": "clause.relative.object.dik",
+  "language": "tr",
+  "cefr": "B2",
+  "app_level": "upper-intermediate",
+  "category": "clause",
+  "status": "approved",
+  "difficulty": 4,
+  "prerequisites": [
+    "tr.b1.clause.indirect-speech"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "verb_stem"
+        },
+        {
+          "slot": "dik_suffix"
+        },
+        {
+          "slot": "possessive_suffix"
+        },
+        {
+          "slot": "noun"
+        }
+      ],
+      "example": "okuduğum kitap"
+    }
+  ],
+  "vocab": [
+    "tr.vocab.okumak"
+  ],
+  "examples": [
+    {
+      "id": "ex_trdik_1",
+      "target_text": "Dün okuduğum kitap çok güzeldi.",
+      "tokens": [
+        {
+          "text": "Dün"
+        },
+        {
+          "text": "okuduğum"
+        },
+        {
+          "text": "kitap"
+        },
+        {
+          "text": "çok"
+        },
+        {
+          "text": "güzeldi."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_trdik_1",
+      "incorrect": "Dün okudum kitap çok güzeldi.",
+      "explanation": "Use object participle suffix '-dik/-dük/-dığ/-duğ' with possessive markers for relative clauses where the noun is the object."
+    }
+  ]
+}

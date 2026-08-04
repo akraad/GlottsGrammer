@@ -1,0 +1,18 @@
+{
+  "title": "Caso Genitivo en Turco (-in)",
+  "summary": "Formar construcciones posesivas entre sustantivos.",
+  "explanation": "Añade el sufijo genitivo '-in/-ın/-un/-ün' al poseedor y un sufijo posesivo al objeto poseído.",
+  "rules": [
+    "Poseedor + -(n)in + Poseído + Sufijo Posesivo"
+  ],
+  "example_translations": {
+    "ex_trgen_1": "La puerta de esta casa es muy grande."
+  },
+  "common_error_explanations": {
+    "err_trgen_1": "Usa genitivo en el primer sustantivo y posesivo en el segundo."
+  },
+  "vocab_glosses": {
+    "tr.vocab.ev": "casa"
+  },
+  "locale": "es"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "حروف اضافه‌های پایه در آلمانی",
+  "summary": "حروف اضافه پرکاربرد همراه با حالات آکوزاتیو و داتیو در آلمانی.",
+  "explanation": "حروف اضافه پرکاربرد همراه با حالات آکوزاتیو و داتیو در آلمانی.",
+  "rules": [
+    "Präposition + Kasus (Akkusativ / Dativ)"
+  ],
+  "example_translations": {
+    "ex_de_1": "Ich bin in der Schule."
+  },
+  "common_error_explanations": {
+    "err_de_1": "Match prepositions with correct case endings."
+  },
+  "vocab_glosses": {
+    "de.vocab.schule": "آموزختن"
+  },
+  "locale": "fa"
+}

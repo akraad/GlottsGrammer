@@ -1,0 +1,18 @@
+{
+  "title": "Passé Composé en Persan",
+  "summary": "Exprimer des actions passées ayant un impact présent.",
+  "explanation": "Participe Passé (Racine du passé + ﻩ) + Suffixes.",
+  "rules": [
+    "Participe Passé + Suffixes"
+  ],
+  "example_translations": {
+    "ex_perf_1": "J'ai lu ce livre."
+  },
+  "common_error_explanations": {
+    "err_perf_1": "Utilisez le passé composé pour des faits liés au présent."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "aller"
+  },
+  "locale": "fr"
+}

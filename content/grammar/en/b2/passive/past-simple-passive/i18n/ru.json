@@ -1,0 +1,19 @@
+{
+  "title": "Страдательный залог в прошедшем времени (Past Simple Passive)",
+  "summary": "Используется для завершенных действий в прошлом с акцентом на объект.",
+  "explanation": "Was/Were + Participle II.",
+  "rules": [
+    "Ед. ч. -> Was + Participle II",
+    "Мн. ч. -> Were + Participle II"
+  ],
+  "example_translations": {
+    "ex_psp_1": "Этот дом был построен в 1990 году."
+  },
+  "common_error_explanations": {
+    "err_psp_1": "Используйте причастие прошедшего времени."
+  },
+  "vocab_glosses": {
+    "en.vocab.build": "строить"
+  },
+  "locale": "ru"
+}

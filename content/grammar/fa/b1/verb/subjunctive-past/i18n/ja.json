@@ -1,0 +1,18 @@
+{
+  "title": "ペルシア語の過去接続法",
+  "summary": "過去の疑問、可能性、願望を表します。",
+  "explanation": "過去分詞 + 'être' の接続法活用形 (باشم, باشی, باشد...)。",
+  "rules": [
+    "過去分詞 + باشم"
+  ],
+  "example_translations": {
+    "ex_psubj_1": "彼/彼女は家に帰ったのかもしれません。"
+  },
+  "common_error_explanations": {
+    "err_psubj_1": "過去の推測には過去分詞 + 'باشد' を使用してください。"
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "行く"
+  },
+  "locale": "ja"
+}

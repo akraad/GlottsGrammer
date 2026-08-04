@@ -1,0 +1,18 @@
+{
+  "locale": "hi",
+  "title": "[HI] [HI] German Comparative and Superlative",
+  "summary": "[HI] [HI] German Comparative and Superlative",
+  "explanation": "[HI] [HI] German Comparative and Superlative",
+  "rules": [
+    "Adjektiv + -er (als) / am + Adjektiv + -sten"
+  ],
+  "example_translations": {
+    "ex_de_a2": "Er läuft schneller als ich."
+  },
+  "common_error_explanations": {
+    "err_de_a2": "German uses suffixes (-er for comparative, am ...-sten for superlative) rather than helper words like 'mehr'."
+  },
+  "vocab_glosses": {
+    "de.vocab.schnell": "term"
+  }
+}

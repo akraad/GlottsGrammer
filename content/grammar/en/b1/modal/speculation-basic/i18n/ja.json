@@ -1,0 +1,18 @@
+{
+  "title": "推測 (Might, May, Could)",
+  "summary": "可能性を表すには might, may, could を使用します。",
+  "explanation": "主語 + might/may/could + 動詞の原形。",
+  "rules": [
+    "to をつけないでください。"
+  ],
+  "example_translations": {
+    "ex_spec_1": "今日は雨が降るかもしれません。"
+  },
+  "common_error_explanations": {
+    "err_spec_1": "might の後に to を入れないでください。"
+  },
+  "vocab_glosses": {
+    "en.vocab.rain": "雨が降る"
+  },
+  "locale": "ja"
+}

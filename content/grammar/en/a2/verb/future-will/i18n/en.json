@@ -1,0 +1,20 @@
+{
+  "locale": "en",
+  "title": "Future Simple (Will)",
+  "summary": "Use 'will' for spontaneous decisions, promises, or future predictions.",
+  "explanation": "Place 'will' before the base form of the verb to express future actions.",
+  "rules": [
+    "Subject + will + base verb"
+  ],
+  "example_translations": {
+    "ex_will_1": "I will buy a car tomorrow."
+  },
+  "common_error_explanations": {
+    "err_will_1": "Never place 'to' after 'will'."
+  },
+  "vocab_glosses": {
+    "en.vocab.buy": "buy",
+    "en.vocab.car": "car",
+    "en.vocab.tomorrow": "tomorrow"
+  }
+}

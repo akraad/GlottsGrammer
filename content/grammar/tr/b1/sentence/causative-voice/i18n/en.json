@@ -1,0 +1,18 @@
+{
+  "title": "Turkish Causative Voice (-dir / -tir / -t)",
+  "summary": "Making verbs causative ('to make someone do something').",
+  "explanation": "Attach causative suffixes ('-dir/-tır/-t/-iz') to verb stems to indicate causing or having someone perform an action (e.g., okuttu = made read).",
+  "rules": [
+    "Verb Stem + Causative Suffix + Tense"
+  ],
+  "example_translations": {
+    "ex_trcau_1": "The teacher made the student read the book."
+  },
+  "common_error_explanations": {
+    "err_trcau_1": "Use causative suffixes to indicate causing someone else to act."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "read"
+  },
+  "locale": "en"
+}

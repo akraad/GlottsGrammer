@@ -1,0 +1,71 @@
+{
+  "schema_version": "1.0.0",
+  "id": "en.a2.verb.future-going-to",
+  "universal_concept_id": "verb.future.goingto",
+  "language": "en",
+  "cefr": "A2",
+  "app_level": "elementary",
+  "category": "verb",
+  "status": "approved",
+  "difficulty": 2,
+  "prerequisites": [
+    "en.a1.verb.present-continuous"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "subject"
+        },
+        {
+          "slot": "be"
+        },
+        {
+          "slot": "going_to"
+        },
+        {
+          "slot": "verb_base"
+        }
+      ],
+      "example": "I am going to eat."
+    }
+  ],
+  "vocab": [
+    "en.vocab.eat",
+    "en.vocab.tomorrow"
+  ],
+  "examples": [
+    {
+      "id": "ex_goingto_1",
+      "target_text": "I am going to eat tomorrow.",
+      "tokens": [
+        {
+          "text": "I"
+        },
+        {
+          "text": "am"
+        },
+        {
+          "text": "going"
+        },
+        {
+          "text": "to"
+        },
+        {
+          "text": "eat"
+        },
+        {
+          "text": "tomorrow"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_goingto_1",
+      "incorrect": "I going to eat tomorrow.",
+      "explanation": "Always include the form of Be (am/is/are) before going to."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Şimdiki Zaman (-iyor / -ıyor)",
+  "summary": "Şu anda yapılan eylemleri anlatma.",
+  "explanation": "Fiil köküne '-iyor / -ıyor / -üyor / -uyor' eki ve ardından şahıs ekleri getirilir.",
+  "rules": [
+    "Fiil Kökü + -iyor + Şahıs Eki"
+  ],
+  "example_translations": {
+    "ex_tryor_1": "Ben şu an kitap okuyorum."
+  },
+  "common_error_explanations": {
+    "err_tryor_1": "Şahıs eklerini '-yor' ekinden hemen sonra ekleyin."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "okumak"
+  },
+  "locale": "tr"
+}

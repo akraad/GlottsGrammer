@@ -1,0 +1,19 @@
+{
+  "title": "Le Pluriel en Persan (-ها / -ان)",
+  "summary": "Comment former le pluriel des noms en persan.",
+  "explanation": "Le suffixe '-ها' s'utilise pour tous les noms. Le suffixe '-ان' s'utilise pour les êtres vivants.",
+  "rules": [
+    "Nom + ها (Pluriel universel)",
+    "Être vivant + ان (Humains/Animaux)"
+  ],
+  "example_translations": {
+    "ex_fa_pl_1": "Les livres sont sur la table."
+  },
+  "common_error_explanations": {
+    "err_fa_pl_1": "N'utilisez pas '-ان' pour les objets inanimés."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "livre"
+  },
+  "locale": "fr"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Pluralization of Vowel-Ending Nouns",
+  "summary": "Pluralizing Persian nouns ending in vowels (ا, و, ه) using glide consonants (ی, گ).",
+  "explanation": "When adding '-ان' to nouns ending in vowels, insert glide consonants like 'ی' (دانا -> دانایان) or 'گ' (بنده -> بندگان).",
+  "rules": [
+    "Vowel-Ending Noun + Glide Consonant (ی/گ) + ان"
+  ],
+  "example_translations": {
+    "ex_vpl_1": "The wise people and orators of the country gathered together."
+  },
+  "common_error_explanations": {
+    "err_vpl_1": "Insert the glide consonant 'ی' or 'گ' when pluralizing vowel-ending words."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "book"
+  },
+  "locale": "en"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "トルコ語の最上級 (En)",
+  "summary": "最も〜であるという最上級の表現。",
+  "explanation": "形容詞の直前に 'en' を置くことで最上級を作ります (en büyük = 最大の、一番大きい)。",
+  "rules": [
+    "en + 形容詞"
+  ],
+  "example_translations": {
+    "ex_trsup_1": "ここは街で一番大きな家です。"
+  },
+  "common_error_explanations": {
+    "err_trsup_1": "最上級を表すには形容詞の前に 'en' を置いてください。"
+  },
+  "vocab_glosses": {
+    "tr.vocab.ev": "家"
+  },
+  "locale": "ja"
+}

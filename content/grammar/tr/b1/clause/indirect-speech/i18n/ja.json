@@ -1,0 +1,18 @@
+{
+  "title": "トルコ語の間話法・間接話法",
+  "summary": "誰かの発言や出来事を報告する表現。",
+  "explanation": "トルコ語では、分詞接尾辞 (-dik) と所有・対格接尾辞を用いて、間接話法を名詞化した構造に変換します。",
+  "rules": [
+    "主語 + 名詞化された節 (-diğini) + 言った"
+  ],
+  "example_translations": {
+    "ex_trind_1": "彼はその本を読んだと言いました。"
+  },
+  "common_error_explanations": {
+    "err_trind_1": "間接話法には名詞化された分詞節を使用してください。"
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "読む"
+  },
+  "locale": "ja"
+}

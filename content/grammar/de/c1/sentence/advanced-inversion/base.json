@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0.0",
+  "id": "de.c1.sentence.advanced-inversion",
+  "universal_concept_id": "sentence.advanced.inversion.german",
+  "language": "de",
+  "cefr": "C1",
+  "app_level": "advanced",
+  "category": "sentence",
+  "status": "approved",
+  "difficulty": 5,
+  "prerequisites": [
+    "de.a1.sentence.word-order-v2"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "fronted_modifier_or_object_pos1"
+        },
+        {
+          "slot": "conjugated_verb_pos2"
+        },
+        {
+          "slot": "subject"
+        }
+      ],
+      "example": "Selten habe ich so etwas gesehen"
+    }
+  ],
+  "vocab": [
+    "de.vocab.sehen"
+  ],
+  "examples": [
+    {
+      "id": "ex_de_c1_2",
+      "target_text": "Selten habe ich ein so schönes Konzert gesehen.",
+      "tokens": [
+        {
+          "text": "Selten"
+        },
+        {
+          "text": "habe"
+        },
+        {
+          "text": "ich"
+        },
+        {
+          "text": "gesehen."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_de_c1_2",
+      "incorrect": "Selten ich habe ein Konzert gesehen (wrong verb position).",
+      "explanation": "When fronting restrictive adverbs like 'selten' or 'kaum' for rhetorical effect, strict inversion applies immediately."
+    }
+  ]
+}

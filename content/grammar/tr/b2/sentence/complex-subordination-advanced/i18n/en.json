@@ -1,0 +1,18 @@
+{
+  "title": "Advanced Complex Subordination",
+  "summary": "Complex subordinate clauses in formal and academic Turkish.",
+  "explanation": "Advanced syntactic structures like '-duğundan dolayı' or '-dığı için' are used in formal, literary, or academic writing for complex causation.",
+  "rules": [
+    "Subordinate Participle (-duğundan) + Postposition (dolayı / için)"
+  ],
+  "example_translations": {
+    "ex_trcomp_1": "He/She is very successful because he/she reads books."
+  },
+  "common_error_explanations": {
+    "err_trcomp_1": "Use advanced subordinating postpositions in formal writing."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "read"
+  },
+  "locale": "en"
+}

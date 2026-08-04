@@ -1,0 +1,18 @@
+{
+  "title": "Persisches Präsens (Present Simple)",
+  "summary": "Ausdruck von Gewohnheiten und gegenwärtigen Handlungen.",
+  "explanation": "Präfix 'می-' + Präsensstamm + Personalendungen.",
+  "rules": [
+    "می- + Präsensstamm + Endungen"
+  ],
+  "example_translations": {
+    "ex_ps_1": "Ich gehe nach Hause."
+  },
+  "common_error_explanations": {
+    "err_ps_1": "Füge das Präfix 'می-' hinzu und konjugiere."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "gehen"
+  },
+  "locale": "de"
+}

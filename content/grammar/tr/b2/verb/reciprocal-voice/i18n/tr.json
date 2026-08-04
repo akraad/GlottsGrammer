@@ -1,0 +1,18 @@
+{
+  "title": "İşteş Çatı (-iş / -ış)",
+  "summary": "Karşılıklı veya birlikte yapılan eylemler.",
+  "explanation": "Fiil köküne '-iş/-ış/-uş/-üş' eklenerek karşılıklılık anlamı katılır (gör-üş-mek = görüşmek / دیدار کردن).",
+  "rules": [
+    "Fiil Kökü + -iş/-ış + Zaman"
+  ],
+  "example_translations": {
+    "ex_trrec_1": "Biz dün arkadaşla görüştük."
+  },
+  "common_error_explanations": {
+    "err_trrec_1": "Karşılıklı yapılan eylemler için işteş çatı ekini kullanın."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "okumak"
+  },
+  "locale": "tr"
+}

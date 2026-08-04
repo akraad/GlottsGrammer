@@ -1,0 +1,18 @@
+{
+  "title": "Sufixos Possessivos em Persa",
+  "summary": "Expressar posse com sufixos anexados (-م, -ت, -ش).",
+  "explanation": "Anexe sufixos diretamente aos substantivos para indicar posse (ex. کتابم = meu livro).",
+  "rules": [
+    "Substantivo + Sufixo Possessivo"
+  ],
+  "example_translations": {
+    "ex_psuf_1": "Meu livro está na mesa."
+  },
+  "common_error_explanations": {
+    "err_psuf_1": "Anexe o sufixo diretamente ao substantivo."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "livro"
+  },
+  "locale": "pt"
+}

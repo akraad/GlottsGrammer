@@ -1,0 +1,35 @@
+{
+  "$schema": "../../../../../schemas/grammar-i18n.schema.json",
+  "locale": "de",
+  "translation_status": "draft",
+  "name": "Subjektpronomen",
+  "summary": "Subjektpronomen: Wörter, die Substantive als Subjekt eines Satzes ersetzen.",
+  "explanation": "Subjektpronomen werden verwendet, wenn wir ein Substantiv nicht wiederholen möchten. Im Englischen gibt es 7 Subjektpronomen: I, you, he, she, it, we, they. Sie werden in Singular und Plural unterteilt.",
+  "form_notes": {
+    "singular": "Singular: I (Sprecher), you (eine angesprochene Person), he (ein Mann), she (eine Frau), it (ein Ding oder Tier).",
+    "plural": "Plural: we (Sprecher und andere), you (mehrere angesprochene Personen), they (andere Personen oder Dinge)."
+  },
+  "example_translations": {
+    "ex_01": "Ich trinke Wasser.",
+    "ex_02": "Sie arbeitet jeden Tag.",
+    "ex_03": "Sie trinken Tee."
+  },
+  "common_error_explanations": {
+    "err_01": "«Him» ist ein Objektpronomen, kein Subjektpronomen. Wir verwenden «he» als Subjekt.",
+    "err_02": "«Me» ist ein Objektpronomen, kein Subjektpronomen. Wir verwenden «I» als Subjekt."
+  },
+  "vocab_glosses": {
+    "en.noun.student": "Schüler / Student",
+    "en.noun.friend": "Freund / Freundin",
+    "en.vocab.book": "Buch",
+    "en.noun.teacher": "Lehrer / Lehrerin",
+    "en.noun.tea": "Tee",
+    "en.verb.work": "arbeiten",
+    "en.verb.drink": "trinken"
+  },
+  "title": "Personalpronomen (I, You, He, She...)",
+  "rules": [
+    "Personalpronomen ersetzen Nomen als Subjekt.",
+    "I wird immer großgeschrieben."
+  ]
+}

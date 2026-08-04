@@ -1,0 +1,18 @@
+{
+  "title": "Soru Eki (mı / mi / mu / mü)",
+  "summary": "Soru cümleleri oluşturma.",
+  "explanation": "Soru eki 'mı/mi/mu/mü' kelimeden ayrı yazılır ve 4'lü ünlü uyumuna uyar. Şahıs ekleri soru ekine eklenir.",
+  "rules": [
+    "Kelime + mı / mi / mu / mü + Şahıs Eki"
+  ],
+  "example_translations": {
+    "ex_trmi_1": "Kitap okuyor musun?"
+  },
+  "common_error_explanations": {
+    "err_trmi_1": "Şahıs eklerini soru edatının üzerine ekleyin (musun)."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "okumak"
+  },
+  "locale": "tr"
+}

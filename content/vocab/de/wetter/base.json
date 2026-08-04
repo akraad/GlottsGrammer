@@ -1,0 +1,10 @@
+{
+  "id": "de.vocab.wetter",
+  "language": "de",
+  "word": "Wetter",
+  "translation": {
+    "en": "weather",
+    "fa": "هوا",
+    "tr": "hava"
+  }
+}

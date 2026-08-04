@@ -1,0 +1,18 @@
+{
+  "title": "Pluriel des Noms Terminés par une Voyelle",
+  "summary": "Pluriel des noms persans se terminant par (ا, و, ه) avec des consonnes de liaison (ی, گ).",
+  "explanation": "En ajoutant '-ان', insérez une consonne de liaison comme 'ی' (دانایان) ou 'گ' (بندگان).",
+  "rules": [
+    "Nom en Voyelle + Consonne de Liaison (ی/گ) + ان"
+  ],
+  "example_translations": {
+    "ex_vpl_1": "Les sages et orateurs du pays se sont rassemblés."
+  },
+  "common_error_explanations": {
+    "err_vpl_1": "N'oubliez pas d'insérer la consonne de liaison 'ی' ou 'گ'."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "livre"
+  },
+  "locale": "fr"
+}

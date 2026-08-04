@@ -1,0 +1,71 @@
+{
+  "schema_version": "1.0.0",
+  "id": "tr.c1.sentence.stylistic-syntactic-complexity",
+  "universal_concept_id": "sentence.stylistic.syntactic.complexity",
+  "language": "tr",
+  "cefr": "C1",
+  "app_level": "advanced",
+  "category": "sentence",
+  "status": "approved",
+  "difficulty": 5,
+  "prerequisites": [
+    "tr.c1.sentence.inversion-literary"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "embedded_clause_chain"
+        },
+        {
+          "slot": "matrix_predicate"
+        }
+      ],
+      "example": "bilindiği üzere"
+    }
+  ],
+  "vocab": [
+    "tr.vocab.okumak"
+  ],
+  "examples": [
+    {
+      "ex_c1_2": "Bilindiği üzere, edebiyat tarihimiz zengin bir mirasa sahiptir.",
+      "id": "ex_c1_2",
+      "target_text": "Bilindiği üzere, edebiyat tarihimiz zengin bir mirasa sahiptir.",
+      "tokens": [
+        {
+          "text": "Bilindiği"
+        },
+        {
+          "text": "üzere,"
+        },
+        {
+          "text": "edebiyat"
+        },
+        {
+          "text": "tarihimiz"
+        },
+        {
+          "text": "zengin"
+        },
+        {
+          "text": "bir"
+        },
+        {
+          "text": "mirasa"
+        },
+        {
+          "text": "sahiptir."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_c1_2",
+      "incorrect": "Herkes biliyor ki edebiyat tarihimiz zengin.",
+      "explanation": "Use embedded syntactic chains and participial framing ('bilindiği üzere') for ultimate C1 elegance."
+    }
+  ]
+}

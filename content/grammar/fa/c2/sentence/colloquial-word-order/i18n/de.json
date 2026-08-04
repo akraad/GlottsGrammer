@@ -1,0 +1,18 @@
+{
+  "title": "Umgangssprachliche Satzumstellung im Persischen",
+  "summary": "Flexible Wortstellung und Pronomenanbindung im gesprochenen Persisch.",
+  "explanation": "In flüssigen Alltagsgesprächen steht das Verb oft früher, direkt mit dem Objektpronomen verbunden.",
+  "rules": [
+    "Verb + Objektpronomen + Adverbien"
+  ],
+  "example_translations": {
+    "ex_cord_1": "Ich habe ihn/sie gestern auf der Straße gesehen."
+  },
+  "common_error_explanations": {
+    "err_cord_1": "Hänge das Objektpronomen für natürlichen Sprachfluss an das Verb an."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "Buch"
+  },
+  "locale": "de"
+}

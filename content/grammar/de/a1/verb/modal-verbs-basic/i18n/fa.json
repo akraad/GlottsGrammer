@@ -1,0 +1,18 @@
+{
+  "title": "افعال کمکی پایه در آلمانی",
+  "summary": "Using modal verbs with infinitives at the end.",
+  "explanation": "Using modal verbs with infinitives at the end.",
+  "rules": [
+    "Subjekt + Modalverb (Pos 2) + ... + Infinitiv (Ende)"
+  ],
+  "example_translations": {
+    "ex_de_2": "Ich kann gut schwimmen."
+  },
+  "common_error_explanations": {
+    "err_de_2": "Place the main verb in infinitive form at the end of the sentence when using modal verbs."
+  },
+  "vocab_glosses": {
+    "de.vocab.schwimmen": "schwimmen"
+  },
+  "locale": "fa"
+}

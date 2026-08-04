@@ -1,0 +1,18 @@
+{
+  "title": "Voz Reflexiva en Turco (-in / -n)",
+  "summary": "Acciones que el sujeto realiza sobre sí mismo.",
+  "explanation": "Añade '-in/-ın/-un/-ün' (o '-n' tras vocales) a la raíz verbal para indicar voz reflexiva.",
+  "rules": [
+    "Raíz Verbal + -in/-n + Tiempo"
+  ],
+  "example_translations": {
+    "ex_trref_1": "El niño se lavó inmediatamente."
+  },
+  "common_error_explanations": {
+    "err_trref_1": "Usa sufijos reflexivos cuando la acción recae sobre el propio sujeto."
+  },
+  "vocab_glosses": {
+    "tr.vocab.ev": "casa"
+  },
+  "locale": "es"
+}

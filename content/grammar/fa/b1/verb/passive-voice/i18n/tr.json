@@ -1,0 +1,18 @@
+{
+  "title": "Farsça Edilgen Çatı (Passive Voice)",
+  "summary": "Geçmiş zaman ortacı ve 'شدن' ile edilgen yapı.",
+  "explanation": "Geçmiş Zaman Ortacı + Yardımcı fiil 'شدن' çekimi.",
+  "rules": [
+    "Geçmiş Zaman Ortacı + شدن"
+  ],
+  "example_translations": {
+    "ex_pass_1": "Bu kitap okundu."
+  },
+  "common_error_explanations": {
+    "err_pass_1": "Geçmiş zaman ortacını 'شدن' fiili ile birleştirin."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "kitap"
+  },
+  "locale": "tr"
+}

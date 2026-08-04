@@ -1,0 +1,24 @@
+{
+  "title": "Verbos Copulativos en Persa (Estar/Ser)",
+  "summary": "Verbos equivalentes a 'ser/estar' en persa.",
+  "explanation": "En persa, el verbo copulativo siempre va al final de la oración.",
+  "rules": [
+    "من ... هستم",
+    "تو ... هستی",
+    "او ... است",
+    "ما ... هستیم",
+    "شما ... هستید",
+    "آن‌ها ... هستند"
+  ],
+  "example_translations": {
+    "ex_fa_cop_1": "Él/Ella está en casa."
+  },
+  "common_error_explanations": {
+    "err_fa_cop_1": "Usa 'است' para la tercera persona (او)."
+  },
+  "vocab_glosses": {
+    "fa.vocab.home": "casa",
+    "fa.vocab.hastam": "soy/estoy"
+  },
+  "locale": "es"
+}

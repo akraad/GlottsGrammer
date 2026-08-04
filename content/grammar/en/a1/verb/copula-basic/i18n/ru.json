@@ -1,0 +1,38 @@
+{
+  "$schema": "../../../../../schemas/grammar-i18n.schema.json",
+  "locale": "ru",
+  "translation_status": "draft",
+  "name": "Глагол to be (am/is/are)",
+  "summary": "Глагол 'to be' используется для описания идентичности, состояния и местоположения.",
+  "explanation": "Глагол 'to be' — самый важный глагол в английском языке. У него три формы в настоящем времени: am, is, are. Используйте 'am' с I. Используйте 'is' с he/she/it. Используйте 'are' с you/we/they. В отличие от других глаголов, 'to be' не требует 'do/does' для вопросов или отрицаний.",
+  "form_notes": {
+    "affirmative": "Подлежащее + am/is/are + дополнение (существительное, прилагательное или место). Пример: She is a teacher.",
+    "negative": "Подлежащее + am/is/are + not + дополнение. Пример: He is not happy.",
+    "question": "Am/Is/Are + подлежащее + дополнение? Пример: Are you tired?"
+  },
+  "example_translations": {
+    "ex_01": "Я студент / Я студентка.",
+    "ex_02": "Она не дома.",
+    "ex_03": "Ты сегодня счастлив(а)?"
+  },
+  "common_error_explanations": {
+    "err_01": "Всегда используйте 'am' с 'I'. Никогда не говорите 'I is'.",
+    "err_02": "Используйте 'is' с he/she/it. 'Are' только для you/we/they."
+  },
+  "vocab_glosses": {
+    "en.verb.be": "быть",
+    "en.adj.happy": "счастливый",
+    "en.adj.sad": "грустный",
+    "en.adj.tired": "уставший",
+    "en.adj.hungry": "голодный",
+    "en.vocab.home": "дом",
+    "en.noun.school": "школа",
+    "en.noun.work": "работа (место)"
+  },
+  "title": "Глагол To Be (Am / Is / Are)",
+  "rules": [
+    "I + am",
+    "He/She/It + is",
+    "You/We/They + are"
+  ]
+}

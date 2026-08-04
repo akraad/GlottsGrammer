@@ -1,0 +1,19 @@
+{
+  "title": "ペルシア語の形容詞の位置",
+  "summary": "形容詞はエザーフェを使って名詞の後ろに置かれます。",
+  "explanation": "日本語とは異なり、ペルシア語の形容詞は名詞の後ろに来ます。",
+  "rules": [
+    "名詞 + -e + 形容詞"
+  ],
+  "example_translations": {
+    "ex_adj_1": "これは大きな家です。"
+  },
+  "common_error_explanations": {
+    "err_adj_1": "形容詞は名詞の後ろに配置してください。"
+  },
+  "vocab_glosses": {
+    "fa.vocab.home": "家",
+    "fa.vocab.bozorg": "大きい"
+  },
+  "locale": "ja"
+}

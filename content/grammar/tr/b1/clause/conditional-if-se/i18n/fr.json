@@ -1,0 +1,18 @@
+{
+  "title": "Suffixe Conditionnel en Turc (-se / -sa)",
+  "summary": "Exprimer des conditions ('si').",
+  "explanation": "Ajoutez '-se/-sa' au radical ou au temps verbal, suivi des terminaisons personnelles conditionnelles.",
+  "rules": [
+    "Radical/Temps + -se/-sa + Terminaison Conditionnelle"
+  ],
+  "example_translations": {
+    "ex_trse_1": "Si tu lis ce livre, je serai très heureux."
+  },
+  "common_error_explanations": {
+    "err_trse_1": "Utilisez le suffixe conditionnel '-se/-sa' pour exprimer la condition."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "lire"
+  },
+  "locale": "fr"
+}

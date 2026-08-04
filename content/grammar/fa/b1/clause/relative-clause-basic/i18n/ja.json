@@ -1,0 +1,18 @@
+{
+  "title": "ペルシア語の関係節 (که)",
+  "summary": "関係詞 'که' (〜する...) を使った名詞の修飾。",
+  "explanation": "名詞 + 限定の 'ی' + که + 関係節。",
+  "rules": [
+    "名詞 + ی + که + 関係節"
+  ],
+  "example_translations": {
+    "ex_rel_1": "私が買った本は面白いです。"
+  },
+  "common_error_explanations": {
+    "err_rel_1": "'که' の前の名詞には限定の 'ی' を付けてください。"
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "本"
+  },
+  "locale": "ja"
+}

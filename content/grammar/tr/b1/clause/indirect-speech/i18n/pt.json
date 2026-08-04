@@ -1,0 +1,18 @@
+{
+  "title": "Discurso Indireto em Turco",
+  "summary": "Relatar o que alguém disse ou o que aconteceu.",
+  "explanation": "O turco transforma orações reportadas em estruturas nominalizadas usando sufixos particípios (-dik).",
+  "rules": [
+    "Sujeito + Verbo Nominalizado (-diğini) + Disse"
+  ],
+  "example_translations": {
+    "ex_trind_1": "Ele/Ela disse que leu o livro."
+  },
+  "common_error_explanations": {
+    "err_trind_1": "Use orações nominalizadas para o discurso indireto."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "ler"
+  },
+  "locale": "pt"
+}

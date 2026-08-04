@@ -1,0 +1,18 @@
+{
+  "title": "Türkisches Futur (-ecek / -acak)",
+  "summary": "Ausdruck von Handlungen in der Zukunft.",
+  "explanation": "Füge '-ecek/-acak' an den Verbstamm an (mit Puffer-'y' nach Vokalen), gefolgt von Personalsuffixen.",
+  "rules": [
+    "Verbstamm + -(y)ecek + Personalsuffix"
+  ],
+  "example_translations": {
+    "ex_trfut_1": "Morgen werde ich ein Buch lesen."
+  },
+  "common_error_explanations": {
+    "err_trfut_1": "Verwende das Futursuffix '-ecek/-acak' für zukünftige Aktionen."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "lesen"
+  },
+  "locale": "de"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Basic Questions in Persian",
+  "summary": "Forming Yes/No questions using 'آیا' (Aya).",
+  "explanation": "Add 'آیا' at the beginning of a statement to make it a question.",
+  "rules": [
+    "آیا + Statement?"
+  ],
+  "example_translations": {
+    "ex_q_1": "Do you read books?"
+  },
+  "common_error_explanations": {
+    "err_q_1": "Put 'آیا' at the start of the question."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "book"
+  },
+  "locale": "en"
+}

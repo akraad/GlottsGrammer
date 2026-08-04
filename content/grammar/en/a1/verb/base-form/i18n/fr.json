@@ -1,0 +1,40 @@
+{
+  "$schema": "../../../../../schemas/grammar-i18n.schema.json",
+  "locale": "fr",
+  "translation_status": "draft",
+  "name": "Forme de base du verbe",
+  "summary": "La forme de base est la forme simple du verbe, sans terminaison. Elle est utilisée avec I, you, we, they et après do/does dans les phrases négatives et interrogatives.",
+  "explanation": "Chaque verbe anglais a cinq formes : base, troisième personne du singulier (-s), prétérit, participe passé et participe présent (-ing). La forme de base est la forme du dictionnaire. Elle est utilisée après I/you/we/they, après les modaux (can, will, should) et dans les phrases négatives et interrogatives avec do/does/did.",
+  "form_notes": {
+    "base_with_i_you_we_they": "Avec I, you, we, they, utilisez la forme de base du verbe.",
+    "base_after_does_not": "Avec he/she/it à la forme négative, après does not, le verbe revient à sa forme de base.",
+    "base_after_do_question": "Dans les questions avec Do/Does, le verbe apparaît à la forme de base."
+  },
+  "example_translations": {
+    "ex_01": "Je bois de l'eau.",
+    "ex_02": "Ils ne boivent pas de thé.",
+    "ex_03": "Aime-t-elle l'eau ?"
+  },
+  "common_error_explanations": {
+    "err_01": "Avec I/you/we/they, le verbe est à la forme de base sans -s.",
+    "err_02": "Après does dans les questions, le verbe principal revient à la forme de base (pas de -s)."
+  },
+  "vocab_glosses": {
+    "en.verb.drink": "boire",
+    "en.noun.water": "eau",
+    "en.noun.tea": "thé",
+    "en.verb.like": "aimer",
+    "en.verb.want": "vouloir",
+    "en.verb.have": "avoir",
+    "en.verb.do": "faire",
+    "en.vocab.go": "aller",
+    "en.vocab.eat": "manger",
+    "en.vocab.see": "voir",
+    "en.verb.come": "venir"
+  },
+  "title": "Forme de Base du Verbe",
+  "rules": [
+    "La forme de base du verbe sans terminaison.",
+    "Utilisée après les verbes auxiliaires."
+  ]
+}

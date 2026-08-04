@@ -1,0 +1,18 @@
+{
+  "title": "نقل‌قول غیرمستقیم",
+  "summary": "برای بازگو کردن گفته‌های دیگران استفاده می‌شود.",
+  "explanation": "زمان فعل یک مرحله به گذشته برمی‌گردد (Backshift).",
+  "rules": [
+    "حال ساده -> گذشته ساده"
+  ],
+  "example_translations": {
+    "ex_rep_1": "او گفت که خوشحال است (بود)."
+  },
+  "common_error_explanations": {
+    "err_rep_1": "زمان فعل را در نقل‌قول به گذشته تغییر دهید."
+  },
+  "vocab_glosses": {
+    "en.vocab.say": "گفتن"
+  },
+  "locale": "fa"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Partícula de Pregunta en Turco (mı / mi / mu / mü)",
+  "summary": "Formar preguntas de Sí/No.",
+  "explanation": "Se escribe separada y sigue la armonía vocálica de 4 formas. Las terminaciones personales se unen a la partícula.",
+  "rules": [
+    "Declaración + mı/mi/mu/mü + Terminación"
+  ],
+  "example_translations": {
+    "ex_trmi_1": "¿Estás leyendo un libro?"
+  },
+  "common_error_explanations": {
+    "err_trmi_1": "Adjunta las terminaciones personales a la partícula de pregunta."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "leer"
+  },
+  "locale": "es"
+}

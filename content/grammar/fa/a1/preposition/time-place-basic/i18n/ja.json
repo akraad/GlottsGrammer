@@ -1,0 +1,18 @@
+{
+  "title": "ペルシア語の基本的な前置詞",
+  "summary": "場所や方向を表します (در, به, از, روی)。",
+  "explanation": "ペルシア語の前置詞は名詞の前に置かれます。",
+  "rules": [
+    "前置詞 + 名詞"
+  ],
+  "example_translations": {
+    "ex_prep_1": "アリは家にいます。"
+  },
+  "common_error_explanations": {
+    "err_prep_1": "前置詞は名詞の前に配置してください。"
+  },
+  "vocab_glosses": {
+    "fa.vocab.home": "家"
+  },
+  "locale": "ja"
+}

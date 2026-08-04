@@ -1,0 +1,23 @@
+{
+  "title": "Pronombres Personales en Persa",
+  "summary": "Pronombres sujeto en persa (من, تو, او, ما, شما, آن‌ها).",
+  "explanation": "Los pronombres persas se usan como sujeto y a menudo se omiten.",
+  "rules": [
+    "من (Yo)",
+    "تو (Tú)",
+    "او (Él/Ella)",
+    "ما (Nosotros)",
+    "شما (Vosotros/Usted)",
+    "آن‌ها (Ellos/Ellas)"
+  ],
+  "example_translations": {
+    "ex_fa_pron_1": "Yo soy profesor."
+  },
+  "common_error_explanations": {
+    "err_fa_pron_1": "Usa 'من' con 'هستم'."
+  },
+  "vocab_glosses": {
+    "fa.vocab.man": "yo"
+  },
+  "locale": "es"
+}

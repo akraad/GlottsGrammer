@@ -1,0 +1,31 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Vocabulary Item Base",
+  "description": "Schema for a vocabulary item with translations across all supported locales.",
+  "type": "object",
+  "required": ["schema_version","id","language","lemma","pos","translations"],
+  "additionalProperties": false,
+  "properties": {
+    "$schema":{"type":"string","format":"uri"},
+    "schema_version":{"type":"integer","minimum":1},
+    "id":{"type":"string"},
+    "language":{"type":"string","enum":["ar","de","en","es","fa","fr","hi","ja","pt","ru","tr"]},
+    "lemma":{"type":"string"},
+    "pos":{"type":"string"},
+    "cefr":{"type":"string","enum":["A1","A2","B1","B2","C1","C2"]},
+    "frequency_rank":{"type":"integer","minimum":1},
+    "forms":{
+      "type":"object",
+      "additionalProperties":{"type":"string"}
+    },
+    "translations":{
+      "type":"object",
+      "additionalProperties":{"type":"string"},
+      "required":["ar","de","en","es","fa","fr","hi","ja","pt","ru","tr"]
+    },
+    "tags":{
+      "type":"array",
+      "items":{"type":"string"}
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "$schema": "../../../../../schemas/grammar-i18n.schema.json",
+  "locale": "en",
+  "translation_status": "approved",
+  "name": "Verb to Be (am/is/are)",
+  "summary": "The verb 'to be' is used to describe identity, state, and location.",
+  "explanation": "The verb 'to be' is the most important verb in English. It has three forms in present tense: am, is, are. Use 'am' with I. Use 'is' with he/she/it. Use 'are' with you/we/they. Unlike other verbs, 'to be' does not need 'do/does' for questions or negatives.",
+  "form_notes": {
+    "affirmative": "Subject + am/is/are + complement (noun, adjective, or place). Example: She is a teacher.",
+    "negative": "Subject + am/is/are + not + complement. Example: He is not happy.",
+    "question": "Am/Is/Are + subject + complement? Example: Are you tired?"
+  },
+  "example_translations": {
+    "ex_01": "I am a student.",
+    "ex_02": "She is not at home.",
+    "ex_03": "Are you happy today?"
+  },
+  "common_error_explanations": {
+    "err_01": "Always use 'am' with 'I'. Never say 'I is'.",
+    "err_02": "Use 'is' with he/she/it. 'Are' is only for you/we/they."
+  },
+  "vocab_glosses": {
+    "en.verb.be": "to be",
+    "en.adj.happy": "happy",
+    "en.adj.sad": "sad",
+    "en.adj.tired": "tired",
+    "en.adj.hungry": "hungry",
+    "en.vocab.home": "home",
+    "en.noun.school": "school",
+    "en.noun.work": "work (place)"
+  }
+}

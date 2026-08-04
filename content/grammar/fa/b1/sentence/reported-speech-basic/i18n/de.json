@@ -1,0 +1,18 @@
+{
+  "title": "Persische Indirekte Rede (گفت که)",
+  "summary": "Wiedergabe von Aussagen mit 'که'.",
+  "explanation": "Subjekt + گفت + که + Indirekte Aussage.",
+  "rules": [
+    "گفت + که + Indirekte Aussage"
+  ],
+  "example_translations": {
+    "ex_rep_1": "Ali sagte, dass er nach Hause geht."
+  },
+  "common_error_explanations": {
+    "err_rep_1": "Passe Pronomen und Verbformen in der indirekten Rede nach 'که' an."
+  },
+  "vocab_glosses": {
+    "fa.vocab.home": "Zuhause"
+  },
+  "locale": "de"
+}

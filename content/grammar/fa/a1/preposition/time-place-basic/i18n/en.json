@@ -1,0 +1,18 @@
+{
+  "title": "Basic Persian Prepositions",
+  "summary": "Expressing location and direction (در, به, از, روی).",
+  "explanation": "Prepositions in Persian come BEFORE the noun.",
+  "rules": [
+    "Preposition + Noun"
+  ],
+  "example_translations": {
+    "ex_prep_1": "Ali is at home."
+  },
+  "common_error_explanations": {
+    "err_prep_1": "Put the preposition before the noun."
+  },
+  "vocab_glosses": {
+    "fa.vocab.home": "home"
+  },
+  "locale": "en"
+}

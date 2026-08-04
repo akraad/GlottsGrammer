@@ -1,0 +1,18 @@
+{
+  "title": "صيغة الوجوب واللزوم في التركية (-meli / -malı)",
+  "summary": "التعبير عن الواجب والضرورة (يجب).",
+  "explanation": "تُضاف اللاحقة '-meli/-malı' إلى جذر الفعل تليها اللاحقة الشخصية للإلزام.",
+  "rules": [
+    "جذر الفعل + -meli/malı + لاحقة الشخص"
+  ],
+  "example_translations": {
+    "ex_trmel_1": "يجب أن تقرأ هذا الكتاب بالتأكيد."
+  },
+  "common_error_explanations": {
+    "err_trmel_1": "استخدم اللاحقة '-meli/-malı' للإلزام والوجوب مباشرة."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "قراءة"
+  },
+  "locale": "ar"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "ضمائر الوصل الأساسية (Who, Which, That)",
+  "summary": "استخدم جمل الوصل لإعطاء المزيد من المعلومات عن شخص أو شيء.",
+  "explanation": "استخدم who للأشخاص، و which للأشياء، و that لكلا الأمرين.",
+  "rules": [
+    "Who -> الأشخاص",
+    "Which -> الأشياء",
+    "That -> الأشخاص والأشياء"
+  ],
+  "example_translations": {
+    "ex_rel_1": "هذا هو الكتاب الذي اشتريته."
+  },
+  "common_error_explanations": {
+    "err_rel_1": "لا تستخدم who لغير العاقل."
+  },
+  "vocab_glosses": {
+    "en.vocab.book": "كتاب"
+  },
+  "locale": "ar"
+}

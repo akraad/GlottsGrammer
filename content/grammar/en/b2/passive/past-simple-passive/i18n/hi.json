@@ -1,0 +1,19 @@
+{
+  "title": "पास्ट सिंपल पैसिव (Past Simple Passive)",
+  "summary": "अतीत की पूर्ण क्रियाओं के लिए जहाँ कर्म प्रमुख हो।",
+  "explanation": "Was/Were + Past Participle।",
+  "rules": [
+    "एकवचन -> Was + Participle",
+    "बहुवचन -> Were + Participle"
+  ],
+  "example_translations": {
+    "ex_psp_1": "यह घर 1990 में बनाया गया था।"
+  },
+  "common_error_explanations": {
+    "err_psp_1": "पैसिव में हमेशा क्रिया के तीसरे रूप का प्रयोग करें।"
+  },
+  "vocab_glosses": {
+    "en.vocab.build": "बनाना"
+  },
+  "locale": "hi"
+}

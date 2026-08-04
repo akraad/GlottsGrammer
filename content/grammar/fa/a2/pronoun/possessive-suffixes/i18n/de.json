@@ -1,0 +1,18 @@
+{
+  "title": "Persische Possessivsuffixe",
+  "summary": "Ausdruck von Besitz mit angehängten Suffixen (-م, -ت, -ش).",
+  "explanation": "Possessivsuffixe werden direkt an das Nomen angehängt (z. B. کتابم = mein Buch).",
+  "rules": [
+    "Nomen + Possessivsuffix"
+  ],
+  "example_translations": {
+    "ex_psuf_1": "Mein Buch ist auf dem Tisch."
+  },
+  "common_error_explanations": {
+    "err_psuf_1": "Hänge das Suffix direkt an das Nomen an."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "Buch"
+  },
+  "locale": "de"
+}

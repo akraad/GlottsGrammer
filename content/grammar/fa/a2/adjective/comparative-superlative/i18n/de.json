@@ -1,0 +1,19 @@
+{
+  "title": "Komparativ und Superlativ im Persischen",
+  "summary": "Steigerung von Adjektiven mit -تر und -ترین.",
+  "explanation": "Hänge '-تر' für den Komparativ an und verwende '-ترین' vor Nomen für den Superlativ.",
+  "rules": [
+    "Adjektiv + تر (Komparativ)",
+    "ترین + Nomen (Superlativ)"
+  ],
+  "example_translations": {
+    "ex_comp_1": "Dieses Haus ist größer."
+  },
+  "common_error_explanations": {
+    "err_comp_1": "Füge '-تر' ans Ende des Adjektivs an."
+  },
+  "vocab_glosses": {
+    "fa.vocab.bozorg": "groß"
+  },
+  "locale": "de"
+}

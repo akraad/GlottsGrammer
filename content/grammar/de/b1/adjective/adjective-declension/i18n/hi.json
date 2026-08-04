@@ -1,0 +1,18 @@
+{
+  "locale": "hi",
+  "title": "[HI] [HI] German Adjective Declension",
+  "summary": "[HI] [HI] German Adjective Declension",
+  "explanation": "[HI] [HI] German Adjective Declension",
+  "rules": [
+    "Artikel + Adjektivendung (-e/-en) + Nomen"
+  ],
+  "example_translations": {
+    "ex_de_b1": "Der kleine Hund spielt im Garten."
+  },
+  "common_error_explanations": {
+    "err_de_b1": "Attributive adjectives placed before nouns must take specific endings (-e or -en) depending on gender, case, and article type."
+  },
+  "vocab_glosses": {
+    "de.vocab.hund": "term"
+  }
+}

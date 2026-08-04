@@ -1,0 +1,18 @@
+{
+  "title": "Adjectifs Superlatifs en Turc (En)",
+  "summary": "Former le superlatif des adjectifs ('le plus').",
+  "explanation": "Placez le mot 'en' juste avant l'adjectif pour former le superlatif (ex. en büyük = le plus grand).",
+  "rules": [
+    "en + Adjectif"
+  ],
+  "example_translations": {
+    "ex_trsup_1": "C'est la plus grande maison de la ville."
+  },
+  "common_error_explanations": {
+    "err_trsup_1": "Utilisez 'en' avant l'adjectif pour le superlatif."
+  },
+  "vocab_glosses": {
+    "tr.vocab.ev": "maison"
+  },
+  "locale": "fr"
+}

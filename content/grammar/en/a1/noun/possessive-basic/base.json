@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0.0",
+  "id": "en.a1.noun.possessive-basic",
+  "universal_concept_id": "noun.possessive.basic",
+  "language": "en",
+  "cefr": "A1",
+  "app_level": "beginner",
+  "category": "noun",
+  "status": "approved",
+  "difficulty": 1,
+  "prerequisites": [
+    "en.a1.pronoun.personal-subject",
+    "en.a1.noun.definiteness-basic"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "noun"
+        },
+        {
+          "slot": "'s"
+        },
+        {
+          "slot": "owned_noun"
+        }
+      ],
+      "example": "This is John's car."
+    }
+  ],
+  "vocab": [
+    "en.vocab.car"
+  ],
+  "examples": [
+    {
+      "id": "ex_pos_1",
+      "target_text": "This is John's car.",
+      "tokens": [
+        {
+          "text": "This"
+        },
+        {
+          "text": "is"
+        },
+        {
+          "text": "John's"
+        },
+        {
+          "text": "car"
+        }
+      ]
+    }
+  ]
+}

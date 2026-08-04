@@ -1,0 +1,18 @@
+{
+  "title": "Verbes Modaux en Persan",
+  "summary": "Exprimer la capacité et l'obligation (توانستن, باید).",
+  "explanation": "Les verbes modaux sont suivis du verbe au subjonctif.",
+  "rules": [
+    "Verbe Modal + Verbe Subjonctif"
+  ],
+  "example_translations": {
+    "ex_mod_1": "Je peux parler persan."
+  },
+  "common_error_explanations": {
+    "err_mod_1": "Utilisez le subjonctif après les verbes modaux."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "aller"
+  },
+  "locale": "fr"
+}

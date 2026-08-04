@@ -1,0 +1,18 @@
+{
+  "title": "German Basic Word Order (V2)",
+  "summary": "The rule where the conjugated verb takes the second position in main clauses.",
+  "explanation": "The rule where the conjugated verb takes the second position in main clauses.",
+  "rules": [
+    "Position 1 + Verb (Pos 2) + Subject + Object"
+  ],
+  "example_translations": {
+    "ex_de_1": "Heute lerne ich Deutsch."
+  },
+  "common_error_explanations": {
+    "err_de_1": "Ensure the conjugated verb is always in the second position."
+  },
+  "vocab_glosses": {
+    "de.vocab.lernen": "lernen"
+  },
+  "locale": "tr"
+}

@@ -1,0 +1,35 @@
+{
+  "$schema": "../../../../../schemas/grammar-i18n.schema.json",
+  "locale": "tr",
+  "translation_status": "draft",
+  "name": "Özne zamirleri",
+  "summary": "Özne zamirleri: cümlede özne olarak isimlerin yerine geçen sözcükler.",
+  "explanation": "Özne zamirleri, bir ismi tekrar etmek istemediğimizde onun yerine kullanılır. İngilizcede 7 özne zamiri vardır: I, you, he, she, it, we, they. Tekil ve çoğul olarak ikiye ayrılırlar.",
+  "form_notes": {
+    "singular": "Tekil: I (konuşan kişi), you (hitap edilen tek kişi), he (bir erkek), she (bir kadın), it (bir şey veya hayvan).",
+    "plural": "Çoğul: we (konuşan ve diğerleri), you (birden fazla kişi), they (diğer kişiler veya şeyler)."
+  },
+  "example_translations": {
+    "ex_01": "Ben su içerim.",
+    "ex_02": "O her gün çalışır.",
+    "ex_03": "Onlar çay içer."
+  },
+  "common_error_explanations": {
+    "err_01": "«Him» nesne zamiridir, özne zamiri değil. Özne olarak «he» kullanırız.",
+    "err_02": "«Me» nesne zamiridir, özne zamiri değil. Özne olarak «I» kullanırız."
+  },
+  "vocab_glosses": {
+    "en.noun.student": "öğrenci",
+    "en.noun.friend": "arkadaş",
+    "en.vocab.book": "kitap",
+    "en.noun.teacher": "öğretmen",
+    "en.noun.tea": "çay",
+    "en.verb.work": "çalışmak",
+    "en.verb.drink": "içmek"
+  },
+  "title": "Kişi Zamirleri (I, You, He, She...)",
+  "rules": [
+    "Kişi zamirleri cümlede özne olarak isimlerin yerini alır.",
+    "I zamiri her zaman büyük harfle yazılır."
+  ]
+}

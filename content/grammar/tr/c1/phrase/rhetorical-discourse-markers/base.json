@@ -1,0 +1,62 @@
+{
+  "schema_version": "1.0.0",
+  "id": "tr.c1.phrase.rhetorical-discourse-markers",
+  "universal_concept_id": "phrase.rhetorical.discourse.markers",
+  "language": "tr",
+  "cefr": "C1",
+  "app_level": "advanced",
+  "category": "clause",
+  "status": "approved",
+  "difficulty": 5,
+  "prerequisites": [
+    "tr.c1.clause.nominalization-mamak"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "discourse_marker"
+        },
+        {
+          "slot": "main_clause"
+        }
+      ],
+      "example": "nitekim"
+    }
+  ],
+  "vocab": [
+    "tr.vocab.okumak"
+  ],
+  "examples": [
+    {
+      "ex_c1_2": "Nitekim yapılan araştırmalar bunu doğrulamaktadır.",
+      "id": "ex_c1_2",
+      "target_text": "Nitekim yapılan araştırmalar bunu doğrulamaktadır.",
+      "tokens": [
+        {
+          "text": "Nitekim"
+        },
+        {
+          "text": "yapılan"
+        },
+        {
+          "text": "araştırmalar"
+        },
+        {
+          "text": "bunu"
+        },
+        {
+          "text": "doğrulamaktadır."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_c1_2",
+      "incorrect": "Çünkü yapılan araştırmalar bunu doğrulamaktadır.",
+      "explanation": "Use sophisticated discourse connectors like 'nitekim', 'binaenaleyh', or 'ilk aba' for academic rhetoric."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0.0",
+  "id": "de.a2.adjective.comparative-superlative",
+  "universal_concept_id": "adjective.comparison.german",
+  "language": "de",
+  "cefr": "A2",
+  "app_level": "elementary",
+  "category": "adjective",
+  "status": "approved",
+  "difficulty": 2,
+  "prerequisites": [
+    "de.a1.adjective.predicative-attributes"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "adjective_comparative_er"
+        },
+        {
+          "slot": "or_superlative_am_sten"
+        }
+      ],
+      "example": "schneller / am schnellsten"
+    }
+  ],
+  "vocab": [
+    "de.vocab.schnell"
+  ],
+  "examples": [
+    {
+      "id": "ex_de_a2",
+      "target_text": "Er läuft schneller als ich.",
+      "tokens": [
+        {
+          "text": "Er"
+        },
+        {
+          "text": "läuft"
+        },
+        {
+          "text": "schneller"
+        },
+        {
+          "text": "als"
+        },
+        {
+          "text": "ich."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_de_a2",
+      "incorrect": "Er läuft mehr schnell.",
+      "explanation": "German uses suffixes (-er for comparative, am ...-sten for superlative) rather than helper words like 'mehr'."
+    }
+  ]
+}

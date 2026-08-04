@@ -1,0 +1,18 @@
+{
+  "title": "Unpersönliche Passivkonstruktionen",
+  "summary": "Fortgeschrittene unpersönliche Muster im Türkischen.",
+  "explanation": "Komplexe Strukturen für den C1-Bereich.",
+  "rules": [
+    "Embedded Participial Framing + Matrix Predicate"
+  ],
+  "example_translations": {
+    "ex_c1_2": "Es wird allgemein anerkannt, dass..."
+  },
+  "common_error_explanations": {
+    "err_c1_2": "Verwende adäquate formelle Register."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "lesen"
+  },
+  "locale": "de"
+}

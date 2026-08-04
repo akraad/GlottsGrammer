@@ -1,0 +1,18 @@
+{
+  "title": "Farsça Karmaşık Yan Cümle Bağlaçları",
+  "summary": "Gelişmiş birleşik bağlaçlar ile cümle bağlama (به‌محضِ آن‌که, همین‌که).",
+  "explanation": "Zaman uyumunu tam vermek için birleşik bağlaçlar kullanılır.",
+  "rules": [
+    "Birleşik Bağlaç + Yan Cümle + Ana Cümle"
+  ],
+  "example_translations": {
+    "ex_csub_1": "O varır varmaz toplantı başladı."
+  },
+  "common_error_explanations": {
+    "err_csub_1": "'به‌محضِ آن‌که' gibi bağlaçları tam formda kullanın."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "gitmek"
+  },
+  "locale": "tr"
+}

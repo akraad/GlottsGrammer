@@ -1,0 +1,20 @@
+{
+  "title": "प्रेजेंट परफेक्ट कंटीन्यूअस (Present Perfect Continuous)",
+  "summary": "उन क्रियाओं के लिए उपयोग करें जो अतीत में शुरू हुईं और वर्तमान तक जारी हैं।",
+  "explanation": "कर्ता + have/has + been + verb-ing।",
+  "rules": [
+    "I/You/We/They + have been + verb-ing",
+    "He/She/It + has been + verb-ing"
+  ],
+  "example_translations": {
+    "ex_ppc_1": "मैं इस शहर में रहता आ रहा हूँ।"
+  },
+  "common_error_explanations": {
+    "err_ppc_1": "have/has के बाद 'been' जोड़ना न भूलें।"
+  },
+  "vocab_glosses": {
+    "en.vocab.live": "रहना",
+    "en.vocab.city": "शहर"
+  },
+  "locale": "hi"
+}

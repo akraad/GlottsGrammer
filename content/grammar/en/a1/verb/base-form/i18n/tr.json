@@ -1,0 +1,40 @@
+{
+  "$schema": "../../../../../schemas/grammar-i18n.schema.json",
+  "locale": "tr",
+  "translation_status": "draft",
+  "name": "Fiil yalın hali",
+  "summary": "Yalın hal, bir fiilin ek almadan kullanılan en basit şeklidir. I, you, we, they ile ve olumsuz ve soru cümlelerinde do/does'tan sonra kullanılır.",
+  "explanation": "Her İngilizce fiilin beş şekli vardır: yalın hal, üçüncü tekil şahıs (-s), geçmiş zaman, ortaç ve şimdiki zaman ortacı (-ing). Yalın hal, sözlükte geçen şekildir. I/you/we/they'den sonra, kiplik fiillerden (can, will, should) sonra ve do/does/did ile olumsuz ve soru cümlelerinde kullanılır.",
+  "form_notes": {
+    "base_with_i_you_we_they": "I, you, we, they ile fiilin yalın halini kullanın.",
+    "base_after_does_not": "he/she/it ile olumsuz cümlelerde, does not'tan sonra fiil yalın haline döner.",
+    "base_after_do_question": "Do/Does ile soru cümlelerinde fiil yalın haldedir."
+  },
+  "example_translations": {
+    "ex_01": "Su içerim.",
+    "ex_02": "Çay içmezler.",
+    "ex_03": "Suyu sever mi?"
+  },
+  "common_error_explanations": {
+    "err_01": "I/you/we/they ile fiil yalın halde olur, -s almaz.",
+    "err_02": "Sorular da does'tan sonra ana fiil yalın haline döner (-s almaz)."
+  },
+  "vocab_glosses": {
+    "en.verb.drink": "içmek",
+    "en.noun.water": "su",
+    "en.noun.tea": "çay",
+    "en.verb.like": "sevmek",
+    "en.verb.want": "istemek",
+    "en.verb.have": "sahip olmak",
+    "en.verb.do": "yapmak",
+    "en.vocab.go": "gitmek",
+    "en.vocab.eat": "yemek",
+    "en.vocab.see": "görmek",
+    "en.verb.come": "gelmek"
+  },
+  "title": "Fiilin Yalın Hali (Base Form)",
+  "rules": [
+    "Fiilin hiçbir takı almamış yalın hali.",
+    "Yardımcı fiillerden sonra kullanılır."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Propositions Relatives Participiales en Turc (-en / -an)",
+  "summary": "Former des relatives actives avec '-en/-an'.",
+  "explanation": "Ajoutez '-en/-an' au radical du verbe pour former des participes attributs précédant le nom.",
+  "rules": [
+    "Radical du Verbe + -en/-an + Nom"
+  ],
+  "example_translations": {
+    "ex_tren_1": "L'enfant qui lit un livre est très intelligent."
+  },
+  "common_error_explanations": {
+    "err_tren_1": "Utilisez '-en/-an' pour modifier les noms par une action."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "lire"
+  },
+  "locale": "fr"
+}

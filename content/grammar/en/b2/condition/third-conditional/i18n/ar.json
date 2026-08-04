@@ -1,0 +1,18 @@
+{
+  "title": "الجمل الشرطية من النوع الثالث",
+  "summary": "التعبير عن الندم أو الأحداث الخيالية في الماضي.",
+  "explanation": "If + الماضي التام ، الفاعل + would have + التصريف الثالث.",
+  "rules": [
+    "جملة الشرط -> Had + التصريف الثالث"
+  ],
+  "example_translations": {
+    "ex_tc_1": "لو كنت قد درست، لنجحت."
+  },
+  "common_error_explanations": {
+    "err_tc_1": "لا تضع would have داخل جملة الشرط."
+  },
+  "vocab_glosses": {
+    "en.vocab.study": "يدرس"
+  },
+  "locale": "ar"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Pasado Continuo Narrativo en Persa",
+  "summary": "Relatar hábitos pasados según lo escuchado de otros.",
+  "explanation": "Prefijo 'می-' + Participio Pasado + Sufijos.",
+  "rules": [
+    "می- + Participio Pasado + Sufijos"
+  ],
+  "example_translations": {
+    "ex_pnarr_1": "Dicen que él/ella solía ir allí todos los días."
+  },
+  "common_error_explanations": {
+    "err_pnarr_1": "Usa el pasado narrativo para relatos indirectos."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "ir"
+  },
+  "locale": "es"
+}

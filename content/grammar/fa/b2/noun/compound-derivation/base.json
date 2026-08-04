@@ -1,0 +1,62 @@
+{
+  "schema_version": "1.0.0",
+  "id": "fa.b2.noun.compound-derivation",
+  "universal_concept_id": "noun.compound.derivation",
+  "language": "fa",
+  "cefr": "B2",
+  "app_level": "upper_intermediate",
+  "category": "noun",
+  "status": "approved",
+  "difficulty": 3,
+  "prerequisites": [
+    "fa.a1.noun.plural-basic"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "stem_or_noun_1"
+        },
+        {
+          "slot": "stem_or_noun_2"
+        }
+      ],
+      "example": "کتاب‌خانه"
+    }
+  ],
+  "vocab": [
+    "fa.vocab.book",
+    "fa.vocab.home"
+  ],
+  "examples": [
+    {
+      "id": "ex_cder_1",
+      "target_text": "او در کتاب‌خانه مطالعه می‌کند.",
+      "tokens": [
+        {
+          "text": "او"
+        },
+        {
+          "text": "در"
+        },
+        {
+          "text": "کتاب‌خانه"
+        },
+        {
+          "text": "مطالعه"
+        },
+        {
+          "text": "می‌کند"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_cder_1",
+      "incorrect": "او در کتاب خانه مطالعه می‌کند.",
+      "explanation": "In compound words like 'کتاب‌خانه', use ZWNJ (half-space) between components."
+    }
+  ]
+}

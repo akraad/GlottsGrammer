@@ -1,0 +1,20 @@
+{
+  "title": "Present Perfect Continuous",
+  "summary": "Use Present Perfect Continuous for actions that started in the past and continue up to the present.",
+  "explanation": "Subject + have/has + been + verb-ing.",
+  "rules": [
+    "I/You/We/They + have been + verb-ing",
+    "He/She/It + has been + verb-ing"
+  ],
+  "example_translations": {
+    "ex_ppc_1": "I have been living in this city."
+  },
+  "common_error_explanations": {
+    "err_ppc_1": "Always include 'been' in the present perfect continuous form."
+  },
+  "vocab_glosses": {
+    "en.vocab.live": "live",
+    "en.vocab.city": "city"
+  },
+  "locale": "en"
+}

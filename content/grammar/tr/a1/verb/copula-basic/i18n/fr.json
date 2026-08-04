@@ -1,0 +1,18 @@
+{
+  "title": "Suffixes Copulatifs en Turc ('Être')",
+  "summary": "Suffixes personnels prédicatifs attachés aux noms et adjectifs.",
+  "explanation": "En turc, le verbe 'être' s'exprime par des suffixes rattachés aux mots (-im, -sin, -dir...), selon l'harmonie vocalique à 4 formes.",
+  "rules": [
+    "Nom/Adj + Suffixe Personnel"
+  ],
+  "example_translations": {
+    "ex_tr_cop_1": "Tu es professeur."
+  },
+  "common_error_explanations": {
+    "err_tr_cop_1": "Appliquez l'harmonie vocalique quadruplée aux suffixes copulatifs."
+  },
+  "vocab_glosses": {
+    "tr.vocab.ogretmen": "professeur"
+  },
+  "locale": "fr"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "ペルシア語の使役動詞",
+  "summary": "接尾辞 '-اندن' を使った使役動詞の形成。",
+  "explanation": "自動詞の現在語幹に接尾辞 '-اندن' を付けることで使役動詞を作ります。",
+  "rules": [
+    "現在語幹 + اندن"
+  ],
+  "example_translations": {
+    "ex_caus_1": "母親は子どもを寝かせました。"
+  },
+  "common_error_explanations": {
+    "err_caus_1": "使役形を作るには '-اندن' を付けてください。"
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "行く"
+  },
+  "locale": "ja"
+}

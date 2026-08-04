@@ -1,0 +1,18 @@
+{
+  "title": "इनडायरेक्ट स्पीच (Reported Speech)",
+  "summary": "किसी अन्य व्यक्ति की बात को दोहराने के लिए उपयोग करें।",
+  "explanation": "वर्तमान काल अतीत काल में बदल जाता है।",
+  "rules": [
+    "Present Simple -> Past Simple"
+  ],
+  "example_translations": {
+    "ex_rep_1": "उसने कहा कि वह खुश था।"
+  },
+  "common_error_explanations": {
+    "err_rep_1": "क्रिया के काल को अतीत में बदलें।"
+  },
+  "vocab_glosses": {
+    "en.vocab.say": "कहना"
+  },
+  "locale": "hi"
+}

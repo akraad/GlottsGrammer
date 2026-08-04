@@ -1,0 +1,19 @@
+{
+  "locale": "pt",
+  "title": "Past Simple (Regular Verbs)",
+  "summary": "Add -ed to regular verbs to talk about completed actions in the past.",
+  "explanation": "For regular verbs, add -ed (or -d if ending in e) for past time.",
+  "rules": [
+    "Base verb + -ed -> Past Tense"
+  ],
+  "example_translations": {
+    "ex_past_1": "I walked yesterday."
+  },
+  "common_error_explanations": {
+    "err_past_1": "Always add -ed when referring to past time."
+  },
+  "vocab_glosses": {
+    "en.vocab.walk": "walk",
+    "en.vocab.yesterday": "yesterday"
+  }
+}

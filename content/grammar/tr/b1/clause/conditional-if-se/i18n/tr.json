@@ -1,0 +1,18 @@
+{
+  "title": "Şart Kipi (-se / -sa)",
+  "summary": "Eğer, şart ve koşul bildirme.",
+  "explanation": "Fiil köküne veya zaman ekine '-se/-sa' ve ardından özel şart şahıs ekleri getirilir (oku-r-sa-n = okursan).",
+  "rules": [
+    "Fiil Kökü/Zaman + -se/-sa + Şahıs Eki"
+  ],
+  "example_translations": {
+    "ex_trse_1": "Bu kitabı okursan çok sevinirim."
+  },
+  "common_error_explanations": {
+    "err_trse_1": "Şart anlamı için '-se/-sa' eklerini kullanın."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "okumak"
+  },
+  "locale": "tr"
+}

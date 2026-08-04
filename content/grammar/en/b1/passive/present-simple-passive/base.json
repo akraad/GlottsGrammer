@@ -1,0 +1,69 @@
+{
+  "schema_version": "1.0.0",
+  "id": "en.b1.passive.present-simple-passive",
+  "universal_concept_id": "passive.present.simple",
+  "language": "en",
+  "cefr": "B1",
+  "app_level": "intermediate",
+  "category": "passive",
+  "status": "approved",
+  "difficulty": 3,
+  "prerequisites": [
+    "en.a1.verb.present-simple"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "object"
+        },
+        {
+          "slot": "am_is_are"
+        },
+        {
+          "slot": "past_participle"
+        }
+      ],
+      "example": "Cars are made in this city."
+    }
+  ],
+  "vocab": [
+    "en.vocab.car",
+    "en.vocab.make",
+    "en.vocab.city"
+  ],
+  "examples": [
+    {
+      "id": "ex_pass_1",
+      "target_text": "Cars are made in this city.",
+      "tokens": [
+        {
+          "text": "Cars"
+        },
+        {
+          "text": "are"
+        },
+        {
+          "text": "made"
+        },
+        {
+          "text": "in"
+        },
+        {
+          "text": "this"
+        },
+        {
+          "text": "city"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_pass_1",
+      "incorrect": "Cars are make in this city.",
+      "explanation": "Use the past participle form (made) in passive voice."
+    }
+  ]
+}

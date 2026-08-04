@@ -1,0 +1,31 @@
+{
+  "$schema": "../../../../schemas/vocab-base.schema.json",
+  "schema_version": 1,
+  "id": "en.verb.have",
+  "language": "en",
+  "lemma": "have",
+  "pos": "verb",
+  "cefr": "A1",
+  "frequency_rank": 15,
+  "forms": {
+    "base": "have",
+    "third_person_singular": "has",
+    "past_simple": "had",
+    "past_participle": "had",
+    "present_participle": "having"
+  },
+  "translations": {
+    "ar": "يَمْلِكُ / لَدَيْهِ",
+    "de": "haben",
+    "en": "to have",
+    "es": "tener",
+    "fa": "داشتن",
+    "fr": "avoir",
+    "hi": "रखना / पास होना",
+    "ja": "持っている",
+    "pt": "ter",
+    "ru": "иметь",
+    "tr": "sahip olmak"
+  },
+  "tags": ["possession", "auxiliary", "daily"]
+}

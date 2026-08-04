@@ -1,0 +1,18 @@
+{
+  "title": "トルコ語の目的語関係節 (-dik)",
+  "summary": "修飾される名詞が目的語になる関係節の作り方 (〜した本)。",
+  "explanation": "動詞語幹に '-dik' と所有接尾辞を付けて、目的語を修飾する関係節を作ります (okuduğum kitap = 私が読んだ本)。",
+  "rules": [
+    "動詞語幹 + -dik + 所有接尾辞 + 名詞"
+  ],
+  "example_translations": {
+    "ex_trdik_1": "昨日読んだ本はとても素敵でした。"
+  },
+  "common_error_explanations": {
+    "err_trdik_1": "目的語関係節には分詞接尾辞 '-dik' と所有接尾辞を組み合わせて使用してください。"
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "読む"
+  },
+  "locale": "ja"
+}

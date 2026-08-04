@@ -1,0 +1,18 @@
+{
+  "title": "Estructuras Participiales Avanzadas",
+  "summary": "Patrones sintácticos avanzados en turco C1.",
+  "explanation": "Estructuras complejas para el nivel C1.",
+  "rules": [
+    "Verb Stem + -dikçe/-dıkça"
+  ],
+  "example_translations": {
+    "ex_c1_1": "Cuanto más se lee, más se aprende."
+  },
+  "common_error_explanations": {
+    "err_c1_1": "Usa estructuras C1 adecuadas."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "leer"
+  },
+  "locale": "es"
+}

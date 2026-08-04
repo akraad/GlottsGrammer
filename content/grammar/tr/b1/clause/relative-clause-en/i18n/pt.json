@@ -1,0 +1,18 @@
+{
+  "title": "Orações Relativas Particípiais em Turco (-en / -an)",
+  "summary": "Formar orações relativas ativas com '-en/-an'.",
+  "explanation": "Anexe '-en/-an' à raiz do verbo para criar modificadores participiais que antecedem o substantivo.",
+  "rules": [
+    "Raiz do Verbo + -en/-an + Substantivo"
+  ],
+  "example_translations": {
+    "ex_tren_1": "A criança que lê um livro é muito inteligente."
+  },
+  "common_error_explanations": {
+    "err_tren_1": "Use os sufixos participiais '-en/-an' para modificar substantivos."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "ler"
+  },
+  "locale": "pt"
+}

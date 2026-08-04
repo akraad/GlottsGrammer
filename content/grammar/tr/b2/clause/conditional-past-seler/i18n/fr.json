@@ -1,0 +1,18 @@
+{
+  "title": "Conditionnel Passé Irréel en Turc (-seydi)",
+  "summary": "Exprimer des conditions passées impossibles ou des regrets.",
+  "explanation": "Ajoutez '-seydi/-saydı' au radical du verbe pour exprimer le conditionnel passé irréel.",
+  "rules": [
+    "Radical du Verbe + -seydi/-saydı + Suffixe Personnel"
+  ],
+  "example_translations": {
+    "ex_trsed_1": "S'il était venu hier, il aurait vu le livre."
+  },
+  "common_error_explanations": {
+    "err_trsed_1": "Utilisez '-seydi' pour les conditions passées irréelles."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "lire"
+  },
+  "locale": "fr"
+}

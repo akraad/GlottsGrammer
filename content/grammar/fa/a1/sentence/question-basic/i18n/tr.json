@@ -1,0 +1,18 @@
+{
+  "title": "Farsça Temel Soru Cümleleri",
+  "summary": "'آیا' soru edatı ile soru yapma.",
+  "explanation": "Cümlenin başına 'آیا' ekleyerek soru cümlesi oluşturulur.",
+  "rules": [
+    "آیا + Cümle?"
+  ],
+  "example_translations": {
+    "ex_q_1": "Kitap okuyor musunuz?"
+  },
+  "common_error_explanations": {
+    "err_q_1": "'آیا' edatını cümlenin başına koyun."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "kitap"
+  },
+  "locale": "tr"
+}

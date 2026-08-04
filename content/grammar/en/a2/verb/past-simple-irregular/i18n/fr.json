@@ -1,0 +1,20 @@
+{
+  "locale": "fr",
+  "title": "Past Simple (Irregular Verbs)",
+  "summary": "Irregular verbs change their form completely in the past (e.g., go -> went).",
+  "explanation": "Irregular verbs do not follow the -ed rule; their past form must be memorized.",
+  "rules": [
+    "Learn special past forms (e.g., go -> went, see -> saw)."
+  ],
+  "example_translations": {
+    "ex_past_irreg_1": "I went home yesterday."
+  },
+  "common_error_explanations": {
+    "err_past_irreg_1": "Do not add -ed to irregular verbs."
+  },
+  "vocab_glosses": {
+    "en.vocab.go": "go",
+    "en.vocab.home": "home",
+    "en.vocab.yesterday": "yesterday"
+  }
+}

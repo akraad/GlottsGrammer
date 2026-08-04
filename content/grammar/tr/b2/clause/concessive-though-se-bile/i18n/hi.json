@@ -1,0 +1,18 @@
+{
+  "title": "तुर्की में रियायती उपवाक्य ('भले ही' -se bile)",
+  "summary": "'भले ही' या 'यहाँ तक कि अगर' जैसे भाव व्यक्त करना।",
+  "explanation": "शर्त प्रत्यय '-se/-sa' को 'bile' (यहाँ तक कि) शब्द के साथ मिलाकर 'भले ही' का अर्थ बनाया जाता है।",
+  "rules": [
+    "क्रिया धातु + -se/-sa + bile"
+  ],
+  "example_translations": {
+    "ex_trbile_1": "भले ही वह कल आए, मैं उसे नहीं देख पाऊँगा।"
+  },
+  "common_error_explanations": {
+    "err_trbile_1": "'भले ही' (even if) व्यक्त करने के लिए '-se bile' का प्रयोग करें।"
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "पढ़ना"
+  },
+  "locale": "hi"
+}

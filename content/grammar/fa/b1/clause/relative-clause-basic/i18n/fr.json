@@ -1,0 +1,18 @@
+{
+  "title": "Propositions Relatives en Persan (که)",
+  "summary": "Décrire des noms avec le marqueur relatif 'که' (qui/que).",
+  "explanation": "Nom + 'ی' restrictif + که + Proposition relative.",
+  "rules": [
+    "Nom + ی + که + Proposition Relative"
+  ],
+  "example_translations": {
+    "ex_rel_1": "Le livre que j'ai acheté est intéressant."
+  },
+  "common_error_explanations": {
+    "err_rel_1": "Ajoutez le 'ی' restrictif au nom avant 'که'."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "livre"
+  },
+  "locale": "fr"
+}

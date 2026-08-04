@@ -1,0 +1,19 @@
+{
+  "title": "Turkish Locative Case (-da / -de / -ta / -te)",
+  "summary": "Expressing 'in', 'on', or 'at' a location.",
+  "explanation": "Adds '-da/-de' according to vowel harmony. Becomes '-ta/-te' after unvoiced consonants (Fıstıkçı Şahap).",
+  "rules": [
+    "Noun + Locative Suffix"
+  ],
+  "example_translations": {
+    "ex_trloc_1": "Ali is at home right now."
+  },
+  "common_error_explanations": {
+    "err_trloc_1": "Check vowel harmony and consonant assimilation (evde, kitapta)."
+  },
+  "vocab_glosses": {
+    "tr.vocab.ev": "house",
+    "tr.vocab.kitap": "book"
+  },
+  "locale": "en"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Turkish Reflexive Verb Form (-in / -n)",
+  "summary": "Expressing actions the subject does to itself.",
+  "explanation": "Attach '-in/-ın/-un/-ün' (or '-n' after vowels) to verb stems to indicate reflexive actions (e.g., yıkandı = washed [him/her]self).",
+  "rules": [
+    "Verb Stem + -in/-n + Tense"
+  ],
+  "example_translations": {
+    "ex_trref_1": "The child washed himself/herself immediately."
+  },
+  "common_error_explanations": {
+    "err_trref_1": "Use reflexive suffixes when the subject acts upon itself."
+  },
+  "vocab_glosses": {
+    "tr.vocab.ev": "house"
+  },
+  "locale": "en"
+}

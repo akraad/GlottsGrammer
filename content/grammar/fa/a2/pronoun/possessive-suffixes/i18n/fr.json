@@ -1,0 +1,18 @@
+{
+  "title": "Suffixes Possessifs en Persan",
+  "summary": "Exprimer la possession avec des suffixes rattachés (-م, -ت, -ش).",
+  "explanation": "Attachez les suffixes directement aux noms pour indiquer la possession (ex. کتابم = mon livre).",
+  "rules": [
+    "Nom + Suffixe Possessif"
+  ],
+  "example_translations": {
+    "ex_psuf_1": "Mon livre est sur la table."
+  },
+  "common_error_explanations": {
+    "err_psuf_1": "Attachez le suffixe directement au nom."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "livre"
+  },
+  "locale": "fr"
+}

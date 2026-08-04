@@ -1,0 +1,19 @@
+{
+  "title": "حالة التواجد في المكان في التركية (-da / -de)",
+  "summary": "التعبير عن حروف الجر 'في'، 'على'، 'عند'.",
+  "explanation": "تُضاف اللاحقة '-da/-de' وتتحول إلى '-ta/-te' بعد الصوامت الشديدة.",
+  "rules": [
+    "الاسم + لاحقة المكان"
+  ],
+  "example_translations": {
+    "ex_trloc_1": "علي في المنزل الآن."
+  },
+  "common_error_explanations": {
+    "err_trloc_1": "انتبه للتوافق الصوتي وتحول d إلى t بعد الحروف القاسية."
+  },
+  "vocab_glosses": {
+    "tr.vocab.ev": "منزل",
+    "tr.vocab.kitap": "كتاب"
+  },
+  "locale": "ar"
+}

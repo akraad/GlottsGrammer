@@ -1,0 +1,18 @@
+{
+  "title": "Passé Narratif en Turc (-miş)",
+  "summary": "Exprimer des faits rapportés ou découverts après coup.",
+  "explanation": "Ajoutez '-miş/-mış' au radical du verbe suivi des suffixes personnels pour des actions indirectes.",
+  "rules": [
+    "Radical du Verbe + -miş + Suffixe Personnel"
+  ],
+  "example_translations": {
+    "ex_trmish_1": "Tu aurais lu ce livre (il parait)."
+  },
+  "common_error_explanations": {
+    "err_trmish_1": "Utilisez '-miş' pour les faits rapportés ou constatés tardivement."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "lire"
+  },
+  "locale": "fr"
+}

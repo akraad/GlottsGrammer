@@ -1,0 +1,18 @@
+{
+  "title": "फ़ारसी में शर्तिया वाक्य (اگر)",
+  "summary": "वास्तविक शर्तिया वाक्य बनाना।",
+  "explanation": "संयोजक 'اگر' (यदि) + शर्त वाले भाग में संभाव्य क्रिया।",
+  "rules": [
+    "اگر + Subjunctive, परिणाम"
+  ],
+  "example_translations": {
+    "ex_cond_1": "अगर मेरे पास समय होगा, तो मैं घर जाऊँगा।"
+  },
+  "common_error_explanations": {
+    "err_cond_1": "शर्त वाले वाक्य में संभाव्य क्रिया का प्रयोग करें।"
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "जाना"
+  },
+  "locale": "hi"
+}

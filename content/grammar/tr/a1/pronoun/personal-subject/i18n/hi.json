@@ -1,0 +1,23 @@
+{
+  "title": "तुर्की में पुरुषवाचक सर्वनाम (Personal Pronouns)",
+  "summary": "तुर्की के कर्ता सर्वनाम (ben, sen, o...)।",
+  "explanation": "तुर्की में 6 कर्ता सर्वनाम हैं: ben (मैं), sen (तुम), o (वह), biz (हम), siz (आप), onlar (वे)।",
+  "rules": [
+    "ben",
+    "sen",
+    "o",
+    "biz",
+    "siz",
+    "onlar"
+  ],
+  "example_translations": {
+    "ex_tr_pron_1": "मैं एक शिक्षक हूँ।"
+  },
+  "common_error_explanations": {
+    "err_tr_pron_1": "सर्वनाम के अनुसार विधेय में व्यक्तिगत प्रत्यय जोड़ना न भूलें।"
+  },
+  "vocab_glosses": {
+    "tr.vocab.ogretmen": "शिक्षक"
+  },
+  "locale": "hi"
+}

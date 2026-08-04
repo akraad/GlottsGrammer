@@ -1,0 +1,19 @@
+{
+  "title": "موقع الصفة في الفارسية",
+  "summary": "تأتي الصفة بعد الاسم باستخدام كسرة الإضافة.",
+  "explanation": "الصفة في الفارسية تأتي بعد الاسم كما في العربية.",
+  "rules": [
+    "اسم + کسره -ِ + صفة"
+  ],
+  "example_translations": {
+    "ex_adj_1": "هذا منزل كبير."
+  },
+  "common_error_explanations": {
+    "err_adj_1": "ضع الصفة بعد الاسم."
+  },
+  "vocab_glosses": {
+    "fa.vocab.home": "منزل",
+    "fa.vocab.bozorg": "كبير"
+  },
+  "locale": "ar"
+}

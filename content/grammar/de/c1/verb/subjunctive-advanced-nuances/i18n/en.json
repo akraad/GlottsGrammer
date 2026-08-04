@@ -1,0 +1,18 @@
+{
+  "locale": "en",
+  "title": "German Advanced Subjunctive Nuances",
+  "summary": "Expressing hypothetical comparisons using 'als ob' and Konjunktiv II.",
+  "explanation": "Expressing hypothetical comparisons using 'als ob' and Konjunktiv II.",
+  "rules": [
+    "Hauptsatz + , + als ob + Subjekt + ... + Konjunktiv II (Ende)"
+  ],
+  "example_translations": {
+    "ex_de_c1": "Er tut so, als ob er alles wüsste."
+  },
+  "common_error_explanations": {
+    "err_de_c1": "Use Konjunktiv II in 'als ob' clauses for unreal comparative statements."
+  },
+  "vocab_glosses": {
+    "de.vocab.wissen": "wissen"
+  }
+}

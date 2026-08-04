@@ -1,0 +1,18 @@
+{
+  "title": "ادات پرسشی در ترکی (mı / mi / mu / mü)",
+  "summary": "ساخت جملات سوالی بله/خیر.",
+  "explanation": "کلمه پرسشی جدا نوشته می‌شود و تابع هماهنگی ۴گانه مصوت‌هاست. شناسه فردی به خود ادات پرسشی متصل می‌شود (okuyor musun?).",
+  "rules": [
+    "جمله + mı / mi / mu / mü + شناسه"
+  ],
+  "example_translations": {
+    "ex_trmi_1": "آیا داری کتاب می‌خوانی؟"
+  },
+  "common_error_explanations": {
+    "err_trmi_1": "شناسه فردی را به ادات پرسشی متصل کنید (musun)."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "خواندن"
+  },
+  "locale": "fa"
+}

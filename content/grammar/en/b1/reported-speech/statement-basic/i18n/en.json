@@ -1,0 +1,18 @@
+{
+  "title": "Reported Statements",
+  "summary": "Use reported speech to tell someone what another person said.",
+  "explanation": "Shift present tenses back to past tenses.",
+  "rules": [
+    "Present Simple -> Past Simple"
+  ],
+  "example_translations": {
+    "ex_rep_1": "He said that he was happy."
+  },
+  "common_error_explanations": {
+    "err_rep_1": "Backshift the verb tense in reported speech."
+  },
+  "vocab_glosses": {
+    "en.vocab.say": "say"
+  },
+  "locale": "en"
+}

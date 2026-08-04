@@ -1,0 +1,18 @@
+{
+  "title": "Gelişmiş Aktarım ve Haber Cümleleri",
+  "summary": "Resmi ve haber dilinde dolaylı anlatım kalıpları.",
+  "explanation": "Haber ve makale dilinde gelecekle veya geçmişle ilgili aktarımlar '-eceği belirtildi' veya '...diye açıkladı' kalıplarıyla yapılır.",
+  "rules": [
+    "Aktarılan İfade + Bildirme Fiili (diye / belirtti)"
+  ],
+  "example_translations": {
+    "ex_trrep_1": "Yarın geleceğini söyledi."
+  },
+  "common_error_explanations": {
+    "err_trrep_1": "Haber ve resmi aktarımlarda gelişmiş aktarım kalıplarını kullanın."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "okumak"
+  },
+  "locale": "tr"
+}

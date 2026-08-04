@@ -1,0 +1,18 @@
+{
+  "locale": "tr",
+  "title": "German Passive Substitute Structures",
+  "summary": "Using structures like 'sein + zu + Infinitiv' instead of standard passive voice.",
+  "explanation": "Using structures like 'sein + zu + Infinitiv' instead of standard passive voice.",
+  "rules": [
+    "Subjekt + sein + ... + zu + Infinitiv"
+  ],
+  "example_translations": {
+    "ex_de_c1": "Diese Aufgabe ist leicht zu lösen."
+  },
+  "common_error_explanations": {
+    "err_de_c1": "Use passive substitute structures to express modality and necessity elegantly."
+  },
+  "vocab_glosses": {
+    "de.vocab.loesen": "lösen"
+  }
+}

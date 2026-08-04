@@ -1,0 +1,18 @@
+{
+  "locale": "en",
+  "title": "German Prepositional Verbs",
+  "summary": "Verbs requiring fixed prepositions and forming questions with wo(r)-.",
+  "explanation": "Verbs requiring fixed prepositions and forming questions with wo(r)-.",
+  "rules": [
+    "Verb + feste Präposition + Kasus / Wo(r)- + Präposition?"
+  ],
+  "example_translations": {
+    "ex_de_b2_2": "Worauf wartest du? Ich warte auf den Bus."
+  },
+  "common_error_explanations": {
+    "err_de_b2_2": "Learn verbs with their specific fixed prepositions and corresponding pronominal adverbs."
+  },
+  "vocab_glosses": {
+    "de.vocab.warten": "warten"
+  }
+}

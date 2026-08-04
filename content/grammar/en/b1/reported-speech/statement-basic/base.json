@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0.0",
+  "id": "en.b1.reported-speech.statement-basic",
+  "universal_concept_id": "reported.speech.statement",
+  "language": "en",
+  "cefr": "B1",
+  "app_level": "intermediate",
+  "category": "reported-speech",
+  "status": "approved",
+  "difficulty": 3,
+  "prerequisites": [
+    "en.a1.verb.present-simple",
+    "en.a2.verb.past-simple-regular"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "subject"
+        },
+        {
+          "slot": "said_that"
+        },
+        {
+          "slot": "past_tense"
+        }
+      ],
+      "example": "He said that he was happy."
+    }
+  ],
+  "vocab": [
+    "en.vocab.say"
+  ],
+  "examples": [
+    {
+      "id": "ex_rep_1",
+      "target_text": "He said that he was happy.",
+      "tokens": [
+        {
+          "text": "He"
+        },
+        {
+          "text": "said"
+        },
+        {
+          "text": "that"
+        },
+        {
+          "text": "he"
+        },
+        {
+          "text": "was"
+        },
+        {
+          "text": "happy"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_rep_1",
+      "incorrect": "He said that I am happy.",
+      "explanation": "Shift tenses back when reporting past speech."
+    }
+  ]
+}

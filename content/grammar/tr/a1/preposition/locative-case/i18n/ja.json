@@ -1,0 +1,19 @@
+{
+  "title": "トルコ語の所在格 (-da / -de / -ta / -te)",
+  "summary": "場所を表す「〜で」「〜に」。",
+  "explanation": "母音調和に従って '-da/-de' を付けます。無声子音の後は '-ta/-te' に変化します。",
+  "rules": [
+    "名詞 + 所在格接尾辞"
+  ],
+  "example_translations": {
+    "ex_trloc_1": "アリは今家にいます。"
+  },
+  "common_error_explanations": {
+    "err_trloc_1": "母音調和と子音同化に注意してください (evde, kitapta)。"
+  },
+  "vocab_glosses": {
+    "tr.vocab.ev": "家",
+    "tr.vocab.kitap": "本"
+  },
+  "locale": "ja"
+}

@@ -1,0 +1,67 @@
+{
+  "schema_version": "1.0.0",
+  "id": "de.b1.verb.subjunctive-ii-polite",
+  "universal_concept_id": "verb.subjunctive2.polite.german",
+  "language": "de",
+  "cefr": "B1",
+  "app_level": "intermediate",
+  "category": "verb",
+  "status": "approved",
+  "difficulty": 3,
+  "prerequisites": [
+    "de.a1.verb.modal-verbs-basic"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "subject"
+        },
+        {
+          "slot": "konjunktiv_ii_mochte_hatte"
+        },
+        {
+          "slot": "infinitive_or_noun"
+        }
+      ],
+      "example": "Ich möchte einen Kaffee"
+    }
+  ],
+  "vocab": [
+    "de.vocab.kaffee"
+  ],
+  "examples": [
+    {
+      "id": "ex_de_b1_2",
+      "target_text": "Ich hätte gern eine Tasse Kaffee.",
+      "tokens": [
+        {
+          "text": "Ich"
+        },
+        {
+          "text": "hätte"
+        },
+        {
+          "text": "gern"
+        },
+        {
+          "text": "eine"
+        },
+        {
+          "text": "Tasse"
+        },
+        {
+          "text": "Kaffee."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_de_b1_2",
+      "incorrect": "Ich habe gern eine Tasse Kaffee (for polite desire).",
+      "explanation": "Use Konjunktiv II forms like 'möchte', 'hätte', or 'wäre' for polite requests and wishes instead of indicative forms."
+    }
+  ]
+}

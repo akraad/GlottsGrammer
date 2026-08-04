@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0.0",
+  "id": "de.a1.verb.modal-verbs-basic",
+  "universal_concept_id": "verb.modal.basic.german",
+  "language": "de",
+  "cefr": "A1",
+  "app_level": "beginner",
+  "category": "verb",
+  "status": "approved",
+  "difficulty": 2,
+  "prerequisites": [
+    "de.a1.verb.present-regular"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "subject"
+        },
+        {
+          "slot": "conjugated_modal"
+        },
+        {
+          "slot": "infinitive_verb_at_end"
+        }
+      ],
+      "example": "Ich kann schwimmen"
+    }
+  ],
+  "vocab": [
+    "de.vocab.schwimmen"
+  ],
+  "examples": [
+    {
+      "id": "ex_de_2",
+      "target_text": "Ich kann gut schwimmen.",
+      "tokens": [
+        {
+          "text": "Ich"
+        },
+        {
+          "text": "kann"
+        },
+        {
+          "text": "gut"
+        },
+        {
+          "text": "schwimmen."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_de_2",
+      "incorrect": "Ich kann schwimme.",
+      "explanation": "Modal verbs take position 2 and push the main verb to the very end of the clause in infinitive form."
+    }
+  ]
+}

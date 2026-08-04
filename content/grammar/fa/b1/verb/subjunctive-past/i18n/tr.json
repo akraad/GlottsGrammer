@@ -1,0 +1,18 @@
+{
+  "title": "Farsça Öğrenilen Geçmiş Zamanın İstek Kipi",
+  "summary": "Geçmişteki şüphe veya olasılıkları ifade eder.",
+  "explanation": "Geçmiş Zaman Ortacı + 'باشم, باشی, باشد...'.",
+  "rules": [
+    "Geçmiş Zaman Ortacı + باشم"
+  ],
+  "example_translations": {
+    "ex_psubj_1": "Belki de eve gitmiştir."
+  },
+  "common_error_explanations": {
+    "err_psubj_1": "Geçmiş olasılıklar için geçmiş zaman ortacı + 'باشد' kullanın."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "gitmek"
+  },
+  "locale": "tr"
+}

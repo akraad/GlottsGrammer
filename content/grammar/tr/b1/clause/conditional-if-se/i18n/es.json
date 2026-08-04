@@ -1,0 +1,18 @@
+{
+  "title": "Sufijo Condicional en Turco (-se / -sa)",
+  "summary": "Expresar oraciones condicionales ('si').",
+  "explanation": "Añade '-se/-sa' a la raíz verbal o tiempo, seguido de terminaciones personales condicionales.",
+  "rules": [
+    "Raíz/Tiempo + -se/-sa + Terminación Condicional"
+  ],
+  "example_translations": {
+    "ex_trse_1": "Si lees este libro, me alegraré mucho."
+  },
+  "common_error_explanations": {
+    "err_trse_1": "Usa el sufijo condicional '-se/-sa' para oraciones con 'si'."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "leer"
+  },
+  "locale": "es"
+}

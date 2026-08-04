@@ -1,0 +1,28 @@
+{
+  "locale": "ja",
+  "title": "Basic Plurals",
+  "summary": "Add -s or -es to form plurals.",
+  "explanation": "Add -s to most nouns, -es to words ending in ch, sh, s, x, z.",
+  "rules": [
+    "Add -s to most nouns."
+  ],
+  "example_translations": {
+    "ex_01": "I have two books.",
+    "ex_02": "They see the buses.",
+    "ex_03": "She likes cats."
+  },
+  "vocab_glosses": {
+    "en.noun.baby": "baby",
+    "en.vocab.book": "book",
+    "en.noun.box": "box",
+    "en.noun.cat": "cat",
+    "en.noun.child": "child",
+    "en.vocab.city": "city",
+    "en.noun.man": "man",
+    "en.noun.woman": "woman"
+  },
+  "common_error_explanations": {
+    "err_01": "Do not add -s to irregular plurals.",
+    "err_02": "Use -es for words ending in -s."
+  }
+}

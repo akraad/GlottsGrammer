@@ -1,0 +1,19 @@
+{
+  "title": "Colloquial Persian Word Reductions",
+  "summary": "How spoken Persian shortens vowels and verb endings in everyday talk.",
+  "explanation": "Spoken Persian converts 'ân' sound to 'oon' (e.g. khâne -> khoone) and shortens verbs (e.g. mi-khâham -> mi-khâm).",
+  "rules": [
+    "ân sound -> oon sound (خانه -> خونه)",
+    "Verb Shortening (می‌روم -> می‌رم)"
+  ],
+  "example_translations": {
+    "ex_red_1": "I want to go home."
+  },
+  "common_error_explanations": {
+    "err_red_1": "Use natural spoken reductions in casual speech."
+  },
+  "vocab_glosses": {
+    "fa.vocab.home": "home"
+  },
+  "locale": "en"
+}

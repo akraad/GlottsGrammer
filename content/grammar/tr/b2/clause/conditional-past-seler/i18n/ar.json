@@ -1,0 +1,18 @@
+{
+  "title": "الشرط الماضي خلاف الواقع في التركية (-seydi)",
+  "summary": "التعبير عن الشروط المستحيلة أو الندم في الماضي.",
+  "explanation": "تُضاف اللاحقة '-seydi/-saydı' إلى جذر الفعل للتعبير عن الشروط غير الواقعية في الماضي (gelseydi = لو جاء).",
+  "rules": [
+    "جذر الفعل + لاحقة الشرط الماضي"
+  ],
+  "example_translations": {
+    "ex_trsed_1": "لو جاء أمس، لرأى الكتاب."
+  },
+  "common_error_explanations": {
+    "err_trsed_1": "استخدم '-seydi' للشروط الماضية المستحيلة."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "قراءة"
+  },
+  "locale": "ar"
+}

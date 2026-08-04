@@ -1,0 +1,36 @@
+{
+  "$schema": "../../../../../schemas/grammar-i18n.schema.json",
+  "locale": "tr",
+  "translation_status": "draft",
+  "name": "Belirlilik: a, an, the",
+  "summary": "Belirsiz tekil isimler için «a/an», belirli isimler için «the» kullanın; genel çoğul veya sayılamayan isimler için artikelsiz bırakın.",
+  "explanation": "İngilizcede artikeller, genel bir şeyden mi yoksa belirli bir şeyden mi bahsettiğinizi gösterir. Belirsiz referanslar için ünsüz seslerden önce «a», ünlü seslerden önce «an» kullanın. Hem konuşan hem de dinleyen neyin kastedildiğini tam olarak biliyorsa «the» kullanın.",
+  "form_notes": {
+    "indefinite-a": "Ünsüz sesle başlayan kelimelerden önce «a» kullanın (a cat, a university).",
+    "indefinite-an": "Ünlü sesle başlayan kelimelerden önce «an» kullanın (an apple, an hour).",
+    "definite-the": "Zaten bilinen veya benzersiz belirli bir isme atıfta bulunurken «the» kullanın.",
+    "zero-article": "Genel olarak konuşulduğunda çoğul veya sayılamayan isimlerle artikel kullanılmaz."
+  },
+  "example_translations": {
+    "ex_01": "Bir kedim var.",
+    "ex_02": "O bir mühendis.",
+    "ex_03": "Kedi siyah.",
+    "ex_04": "Kediler hayvandır."
+  },
+  "common_error_explanations": {
+    "err_01": "«An» sadece ünlü harflerden önce değil, ÜNLÜ SESLERDEN önce kullanılır. «Car» ünsüz sesle başlar, bu yüzden «a» kullanın.",
+    "err_02": "İngilizcede meslekler «a/an» gerektirir. «She is teacher» diyemezsiniz; «She is a teacher» olmalıdır."
+  },
+  "vocab_glosses": {
+    "en.noun.cat": "kedi",
+    "en.noun.engineer": "mühendis",
+    "en.noun.car": "araba",
+    "en.noun.teacher": "öğretmen",
+    "en.vocab.car": "car"
+  },
+  "title": "Artikeller (A / An / The)",
+  "rules": [
+    "Belirsiz isimler için a/an, belirli isimler için the kullanın.",
+    "Sesli harflerden (a, e, i, o, u) önce an kullanın."
+  ]
+}

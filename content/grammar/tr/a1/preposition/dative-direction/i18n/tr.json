@@ -1,0 +1,18 @@
+{
+  "title": "Yönelme Durumu (-a / -e)",
+  "summary": "Bir yere yönelmeyi gösteren 'e' hali.",
+  "explanation": "Kelimelerin sonuna '-a/-e' eklenir. Kelime ünlü ile bitiyorsa araya 'y' kaynaştırma harfi girer (okula, eve, sinemaya).",
+  "rules": [
+    "İsim + -(y)a / -(y)e"
+  ],
+  "example_translations": {
+    "ex_trdat_1": "Ben eve gidiyorum."
+  },
+  "common_error_explanations": {
+    "err_trdat_1": "İnce ünlülü kelimelere '-e' ekleyin."
+  },
+  "vocab_glosses": {
+    "tr.vocab.ev": "ev"
+  },
+  "locale": "tr"
+}

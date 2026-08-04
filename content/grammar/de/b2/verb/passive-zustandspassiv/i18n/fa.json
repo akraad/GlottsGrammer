@@ -1,0 +1,18 @@
+{
+  "locale": "fa",
+  "title": "مجهول حالت یا نتیجه‌ای در آلمانی",
+  "summary": "Expressing a static result or state using 'sein' and Partizip II.",
+  "explanation": "Expressing a static result or state using 'sein' and Partizip II.",
+  "rules": [
+    "Subjekt + sein (Pos 2) + ... + Partizip II (Ende)"
+  ],
+  "example_translations": {
+    "ex_de_b2": "Die Tür ist den ganzen Tag geschlossen."
+  },
+  "common_error_explanations": {
+    "err_de_b2": "Use 'sein' instead of 'werden' when expressing static states in passive voice."
+  },
+  "vocab_glosses": {
+    "de.vocab.tuer": "Tür"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "title": "फ़ारसी में स्थितिबोधक क्रियाएं (Modal Verbs)",
+  "summary": "क्षमता और बाध्यता व्यक्त करना (توانستن, باید)।",
+  "explanation": "मोडाल क्रियाओं के बाद मुख्य क्रिया का संभाव्य रूप (Subjunctive) आता है।",
+  "rules": [
+    "Modal Verb + Subjunctive Verb"
+  ],
+  "example_translations": {
+    "ex_mod_1": "मैं फ़ारसी बोल सकता हूँ।"
+  },
+  "common_error_explanations": {
+    "err_mod_1": "मोडाल क्रियाओं के बाद संभाव्य क्रिया का प्रयोग करें।"
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "जाना"
+  },
+  "locale": "hi"
+}

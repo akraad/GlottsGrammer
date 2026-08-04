@@ -1,0 +1,18 @@
+{
+  "locale": "ru",
+  "title": "[RU] German Accusative Case",
+  "summary": "[RU] German Accusative Case",
+  "explanation": "[RU] German Accusative Case",
+  "rules": [
+    "Subjekt + Verb + den/die/das + Nomen"
+  ],
+  "example_translations": {
+    "ex_de_2": "Ich sehe den Hund."
+  },
+  "common_error_explanations": {
+    "err_de_2": "In the accusative case, masculine articles change from 'der' to 'den'."
+  },
+  "vocab_glosses": {
+    "de.vocab.hund": "term"
+  }
+}

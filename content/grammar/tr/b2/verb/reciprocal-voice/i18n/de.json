@@ -1,0 +1,18 @@
+{
+  "title": "Türkisches Reziprokum (-iş)",
+  "summary": "Ausdruck gegenseitiger oder gemeinsamer Handlungen.",
+  "explanation": "Füge '-iş/-ış/-uş/-üş' an den Verbstamm an, um gegenseitiges Handeln auszudrücken (z. B. görüşmek = sich treffen).",
+  "rules": [
+    "Verbstamm + -iş + Zeitform"
+  ],
+  "example_translations": {
+    "ex_trrec_1": "Wir haben uns gestern mit dem Freund getroffen."
+  },
+  "common_error_explanations": {
+    "err_trrec_1": "Verwende das Reziprokalsuffix für gegenseitige Handlungen."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "lesen"
+  },
+  "locale": "de"
+}

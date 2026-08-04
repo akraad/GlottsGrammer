@@ -1,0 +1,18 @@
+{
+  "title": "فعل توانایی و امکان در ترکی (-ebil / -abil)",
+  "summary": "بیان توانایی، مهارت و امکان انجام کار (توانستن).",
+  "explanation": "پسوند «-ebil / -abil» (و میانجی y) به بن فعل متصل شده و سپس پسوند زمان و شناسه‌ها قرار می‌گیرند (okuyabilirim = می‌توانم بخوانم).",
+  "rules": [
+    "بن فعل + -(y)ebil + پسوند زمان + شناسه"
+  ],
+  "example_translations": {
+    "ex_trebil_1": "من می‌توانم این کتاب را بخوانم."
+  },
+  "common_error_explanations": {
+    "err_trebil_1": "پسوند توانایی را پیش از پسوند زمان قرار دهید."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "خواندن"
+  },
+  "locale": "fa"
+}

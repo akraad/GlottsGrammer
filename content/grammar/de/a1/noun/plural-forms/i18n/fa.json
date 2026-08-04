@@ -1,0 +1,18 @@
+{
+  "title": "شکل‌های جمع اسماء در آلمانی",
+  "summary": "ساخت حالت جمع اسماء آلمانی با پسوندهای مختلف.",
+  "explanation": "ساخت حالت جمع اسماء آلمانی با پسوندهای مختلف.",
+  "rules": [
+    "Nomen + Pluralendung (-e / -er / -n / -s)"
+  ],
+  "example_translations": {
+    "ex_de_1": "Ich lese gute Bücher."
+  },
+  "common_error_explanations": {
+    "err_de_1": "Use correct plural endings for German nouns."
+  },
+  "vocab_glosses": {
+    "de.vocab.buch": "آموزختن"
+  },
+  "locale": "fa"
+}

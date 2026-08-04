@@ -1,0 +1,20 @@
+{
+  "title": "Настоящее совершенное длительное время (Present Perfect Continuous)",
+  "summary": "Используйте для действий, которые начались в прошлом и продолжаются до настоящего момента.",
+  "explanation": "Подлежащее + have/has + been + глагол с -ing.",
+  "rules": [
+    "I/You/We/They + have been + verb-ing",
+    "He/She/It + has been + verb-ing"
+  ],
+  "example_translations": {
+    "ex_ppc_1": "Я живу в этом городе уже некоторое время."
+  },
+  "common_error_explanations": {
+    "err_ppc_1": "Не забывайте слово 'been'."
+  },
+  "vocab_glosses": {
+    "en.vocab.live": "жить",
+    "en.vocab.city": "город"
+  },
+  "locale": "ru"
+}

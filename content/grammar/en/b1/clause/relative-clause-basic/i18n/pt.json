@@ -1,0 +1,20 @@
+{
+  "title": "Orações Relativas Básicas (Who, Which, That)",
+  "summary": "Use orações relativas para dar mais informações sobre uma pessoa ou coisa.",
+  "explanation": "Use 'who' para pessoas, 'which' para coisas e 'that' para ambos.",
+  "rules": [
+    "Who -> Pessoas",
+    "Which -> Coisas",
+    "That -> Pessoas ou Coisas"
+  ],
+  "example_translations": {
+    "ex_rel_1": "Este é o livro que eu comprei."
+  },
+  "common_error_explanations": {
+    "err_rel_1": "Não use 'who' para objetos."
+  },
+  "vocab_glosses": {
+    "en.vocab.book": "livro"
+  },
+  "locale": "pt"
+}

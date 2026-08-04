@@ -1,0 +1,18 @@
+{
+  "title": "Passado Contínuo Conversacional em Persa",
+  "summary": "Expressar ações no meio do acontecimento no passado falado.",
+  "explanation": "O persa falado usa 'داشتن' conjugado antes do verbo no passado com 'می-'.",
+  "rules": [
+    "داشتن conjugado + Verbo com Mi-"
+  ],
+  "example_translations": {
+    "ex_dasht_1": "Eu estava indo para casa quando o/a vi."
+  },
+  "common_error_explanations": {
+    "err_dasht_1": "Conjugue ambos os verbos com a mesma terminação."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "ir"
+  },
+  "locale": "pt"
+}

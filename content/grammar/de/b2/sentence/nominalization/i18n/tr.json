@@ -1,0 +1,18 @@
+{
+  "locale": "tr",
+  "title": "German Nominalization",
+  "summary": "Converting verbs into neuter nouns with the article 'das'.",
+  "explanation": "Converting verbs into neuter nouns with the article 'das'.",
+  "rules": [
+    "das + Infinitiv mit Großbuchstaben"
+  ],
+  "example_translations": {
+    "ex_de_b2": "Das Lernen neuer Sprachen ist wichtig."
+  },
+  "common_error_explanations": {
+    "err_de_b2": "Capitalize the infinitive verb and use the neuter article 'das' to nominalize verbs."
+  },
+  "vocab_glosses": {
+    "de.vocab.lesen": "lesen"
+  }
+}

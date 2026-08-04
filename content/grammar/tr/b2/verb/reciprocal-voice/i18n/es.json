@@ -1,0 +1,18 @@
+{
+  "title": "Voz Recíproca en Turco (-iş)",
+  "summary": "Expresar acciones mutuas o recíprocas.",
+  "explanation": "Añade '-iş/-ış/-uş/-üş' a la raíz verbal para indicar acciones realizadas mutuamente.",
+  "rules": [
+    "Raíz Verbal + -iş + Tiempo"
+  ],
+  "example_translations": {
+    "ex_trrec_1": "Nos reunimos con el amigo ayer."
+  },
+  "common_error_explanations": {
+    "err_trrec_1": "Usa sufijos recíprocos para acciones mutuas."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "leer"
+  },
+  "locale": "es"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "صيغة التقدم والتدرج في التركية",
+  "summary": "التعبير عن التدرج والاستمرار في الحدث.",
+  "explanation": "تُستخدم لواحق متقدمة للتعبير عن التدرج.",
+  "rules": [
+    "Fronted Verb + Subject/Modifiers"
+  ],
+  "example_translations": {
+    "ex_c1_1": "Okudu sabaha kadar bütün kitapları."
+  },
+  "common_error_explanations": {
+    "err_c1_1": "استخدم التراكيب المتقدمة بدقة."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "قراءة"
+  },
+  "locale": "ar"
+}

@@ -1,0 +1,28 @@
+{
+  "$schema": "../../../../schemas/vocab-base.schema.json",
+  "schema_version": 1,
+  "id": "en.noun.student",
+  "language": "en",
+  "lemma": "student",
+  "pos": "noun",
+  "cefr": "A1",
+  "frequency_rank": 400,
+  "forms": {
+    "singular": "student",
+    "plural": "students"
+  },
+  "translations": {
+    "ar": "طالب",
+    "de": "Schüler",
+    "en": "student",
+    "es": "estudiante",
+    "fa": "دانش‌آموز",
+    "fr": "étudiant",
+    "hi": "छात्र",
+    "ja": "学生",
+    "pt": "estudante",
+    "ru": "студент",
+    "tr": "öğrenci"
+  },
+  "tags": ["people", "education", "A1-core"]
+}

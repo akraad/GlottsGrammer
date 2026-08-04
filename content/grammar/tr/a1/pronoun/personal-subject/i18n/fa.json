@@ -1,0 +1,23 @@
+{
+  "title": "ضمایر فاعلی در زبان ترکی",
+  "summary": "ضمایر شخصی در ترکی (ben, sen, o...).",
+  "explanation": "در زبان ترکی ۶ ضمیر فاعلی وجود دارد: ben (من)، sen (تو)، o (او)، biz (ما)، siz (شما)، onlar (آن‌ها).",
+  "rules": [
+    "ben",
+    "sen",
+    "o",
+    "biz",
+    "siz",
+    "onlar"
+  ],
+  "example_translations": {
+    "ex_tr_pron_1": "من معلم هستم."
+  },
+  "common_error_explanations": {
+    "err_tr_pron_1": "شناسه فردی متناسب را به خبر متصل کنید."
+  },
+  "vocab_glosses": {
+    "tr.vocab.ogretmen": "معلم"
+  },
+  "locale": "fa"
+}

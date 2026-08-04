@@ -1,0 +1,18 @@
+{
+  "title": "اسم الفاعل والصلة في التركية (-en / -an)",
+  "summary": "صياغة الجمل الموصولة باستخدام اللاحقة '-en/-an'.",
+  "explanation": "تُضاف اللاحقة '-en/-an' إلى جذر الفعل لصياغة اسم الفاعل الذي يسبق الاسم الموصوف (okuyan çocuk).",
+  "rules": [
+    "جذر الفعل + -en/-an + الاسم"
+  ],
+  "example_translations": {
+    "ex_tren_1": "الطفل الذي يقرأ كتاباً ذكي جداً."
+  },
+  "common_error_explanations": {
+    "err_tren_1": "استخدم '-en/-an' لوصف الأسماء بالأفعال."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "قراءة"
+  },
+  "locale": "ar"
+}

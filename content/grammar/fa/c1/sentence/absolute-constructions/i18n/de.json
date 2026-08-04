@@ -1,0 +1,18 @@
+{
+  "title": "Absolute und Adverbiale Satzkonstruktionen",
+  "summary": "Partizipiale oder verblose absolute Phrasen im gehobenen Persisch.",
+  "explanation": "Formales Persisch nutzt verblose Einschübe zur Beschreibung von Zuständen (z. B. کتاب در دست = Buch in der Hand).",
+  "rules": [
+    "Nomen + Adverbiale/Partizipiale Phrase"
+  ],
+  "example_translations": {
+    "ex_abs_1": "Ali betrat den Raum, das Buch in der Hand."
+  },
+  "common_error_explanations": {
+    "err_abs_1": "Lasse explizite Verben in literarischen absoluten Phrasen weg."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "Buch"
+  },
+  "locale": "de"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Kişi Zamirleri (Ben, Sen, O...)",
+  "summary": "Türkçedeki temel kişi zamirleri.",
+  "explanation": "Türkçede 6 kişi zamiri vardır: Ben, Sen, O, Biz, Siz, Onlar.",
+  "rules": [
+    "Ben",
+    "Sen",
+    "O",
+    "Biz",
+    "Siz",
+    "Onlar"
+  ],
+  "example_translations": {
+    "ex_tr_pron_1": "Ben öğretmenim."
+  },
+  "common_error_explanations": {
+    "err_tr_pron_1": "Zamir tek başına yeterli değildir, yükleme kişi eki eklemeyi unutmayın."
+  },
+  "vocab_glosses": {
+    "tr.vocab.ogretmen": "öğretmen"
+  },
+  "locale": "tr"
+}

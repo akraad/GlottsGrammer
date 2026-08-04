@@ -1,0 +1,18 @@
+{
+  "title": "फ़ारसी वाक्य संरचना (SOV)",
+  "summary": "कर्ता - कर्म - क्रिया (Subject - Object - Verb) संरचना।",
+  "explanation": "हिन्दी की तरह फ़ारसी में भी क्रिया वाक्य के अंत में आती है।",
+  "rules": [
+    "कर्ता + कर्म + अंत में क्रिया"
+  ],
+  "example_translations": {
+    "ex_wo_1": "मैं किताब पढ़ता हूँ।"
+  },
+  "common_error_explanations": {
+    "err_wo_1": "क्रिया को वाक्य के अंत में रखें।"
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "किताब"
+  },
+  "locale": "hi"
+}

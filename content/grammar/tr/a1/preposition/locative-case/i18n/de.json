@@ -1,0 +1,19 @@
+{
+  "title": "Türkischer Lokativ (-da / -de / -ta / -te)",
+  "summary": "Ausdruck von 'in', 'an', 'auf', 'bei'.",
+  "explanation": "Fügt '-da/-de' an. Wird nach stimmlosen Konsonanten zu '-ta/-te'.",
+  "rules": [
+    "Nomen + Lokativsuffix"
+  ],
+  "example_translations": {
+    "ex_trloc_1": "Ali ist gerade zu Hause."
+  },
+  "common_error_explanations": {
+    "err_trloc_1": "Beachte Vokalharmonie und Konsonantenassimilation (evde, kitapta)."
+  },
+  "vocab_glosses": {
+    "tr.vocab.ev": "Haus",
+    "tr.vocab.kitap": "Buch"
+  },
+  "locale": "de"
+}

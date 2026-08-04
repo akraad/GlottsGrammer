@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0.0",
+  "id": "de.a2.preposition.two-way-prepositions",
+  "universal_concept_id": "preposition.twoway.german",
+  "language": "de",
+  "cefr": "A2",
+  "app_level": "elementary",
+  "category": "preposition",
+  "status": "approved",
+  "difficulty": 3,
+  "prerequisites": [
+    "de.a1.preposition.basic-prepositions",
+    "de.a2.noun.dative-case"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "preposition_wechsel"
+        },
+        {
+          "slot": "accusative_movement_or_dative_location"
+        }
+      ],
+      "example": "auf den Tisch / auf dem Tisch"
+    }
+  ],
+  "vocab": [
+    "de.vocab.tisch"
+  ],
+  "examples": [
+    {
+      "id": "ex_de_a2_2",
+      "target_text": "Ich lege das Buch auf den Tisch.",
+      "tokens": [
+        {
+          "text": "Ich"
+        },
+        {
+          "text": "lege"
+        },
+        {
+          "text": "das"
+        },
+        {
+          "text": "Buch"
+        },
+        {
+          "text": "auf"
+        },
+        {
+          "text": "den"
+        },
+        {
+          "text": "Tisch."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_de_a2_2",
+      "incorrect": "Ich lege das Buch auf dem Tisch (for movement).",
+      "explanation": "Two-way prepositions take Accusative for movement/direction (Woher/Wohin) and Dative for static location (Wo)."
+    }
+  ]
+}

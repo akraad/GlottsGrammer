@@ -1,0 +1,18 @@
+{
+  "title": "Troisième Conditionnel",
+  "summary": "Exprimez des regrets ou des hypothèses dans le passé.",
+  "explanation": "If + Plus-que-parfait, Sujet + Would have + Participe Passé.",
+  "rules": [
+    "Proposition avec If -> Had + Participe"
+  ],
+  "example_translations": {
+    "ex_tc_1": "Si j'avais étudié, j'aurais réussi."
+  },
+  "common_error_explanations": {
+    "err_tc_1": "Pas de 'would have' dans la clause avec If."
+  },
+  "vocab_glosses": {
+    "en.vocab.study": "étudier"
+  },
+  "locale": "fr"
+}

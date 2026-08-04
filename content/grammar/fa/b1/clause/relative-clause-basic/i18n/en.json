@@ -1,0 +1,18 @@
+{
+  "title": "Basic Persian Relative Clauses (که)",
+  "summary": "Describing nouns using relative clause marker 'که' (that/which/who).",
+  "explanation": "Noun + Restrictive 'ی' + که + Relative Clause.",
+  "rules": [
+    "Noun + ی + که + Relative Clause"
+  ],
+  "example_translations": {
+    "ex_rel_1": "The book that I bought is interesting."
+  },
+  "common_error_explanations": {
+    "err_rel_1": "Attach the restrictive 'ی' to the noun before 'که'."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "book"
+  },
+  "locale": "en"
+}

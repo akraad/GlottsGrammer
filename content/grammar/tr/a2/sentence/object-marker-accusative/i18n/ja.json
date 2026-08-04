@@ -1,0 +1,18 @@
+{
+  "title": "トルコ語の対格 (特定目的語接尾辞 -i)",
+  "summary": "特定された直接目的語を示します。",
+  "explanation": "特定された目的語に '-i/-ı/-u/-ü' を付けます。",
+  "rules": [
+    "特定目的語 + -(y)i 接尾辞"
+  ],
+  "example_translations": {
+    "ex_tracc_1": "私はこの本を読んでいます。"
+  },
+  "common_error_explanations": {
+    "err_tracc_1": "特定の直接目的語には必ず対格接尾辞を付けてください。"
+  },
+  "vocab_glosses": {
+    "tr.vocab.kitap": "本"
+  },
+  "locale": "ja"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Ajustements de l'Ordre des Mots en Persan Parlé",
+  "summary": "Ordre des mots flexible et pronoms attachés en langage familier.",
+  "explanation": "En persan parlé fluide, le verbe apparaît souvent plus tôt avec le pronom objet rattaché.",
+  "rules": [
+    "Verbe + Pronom Objet Attaché + Adverbes"
+  ],
+  "example_translations": {
+    "ex_cord_1": "Je l'ai vu(e) hier dans la rue."
+  },
+  "common_error_explanations": {
+    "err_cord_1": "Rattachez le pronom objet au verbe pour une élocution naturelle."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "livre"
+  },
+  "locale": "fr"
+}

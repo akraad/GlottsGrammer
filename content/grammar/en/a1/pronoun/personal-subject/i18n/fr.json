@@ -1,0 +1,35 @@
+{
+  "$schema": "../../../../../schemas/grammar-i18n.schema.json",
+  "locale": "fr",
+  "translation_status": "draft",
+  "name": "Pronoms personnels sujets",
+  "summary": "Pronoms sujets : mots qui remplacent les noms en tant que sujet de la phrase.",
+  "explanation": "Les pronoms sujets sont utilisés à la place d'un nom quand on ne veut pas le répéter. En anglais, il y a 7 pronoms sujets : I, you, he, she, it, we, they. Ils se divisent en singulier et pluriel.",
+  "form_notes": {
+    "singular": "Singulier : I (locuteur), you (une personne à qui on parle), he (un homme), she (une femme), it (une chose ou un animal).",
+    "plural": "Pluriel : we (locuteur et autres), you (plusieurs personnes), they (autres personnes ou choses)."
+  },
+  "example_translations": {
+    "ex_01": "Je bois de l'eau.",
+    "ex_02": "Elle travaille tous les jours.",
+    "ex_03": "Ils boivent du thé."
+  },
+  "common_error_explanations": {
+    "err_01": "«Him» est un pronom complément, pas un pronom sujet. On utilise «he» comme sujet.",
+    "err_02": "«Me» est un pronom complément, pas un pronom sujet. On utilise «I» comme sujet."
+  },
+  "vocab_glosses": {
+    "en.noun.student": "élève / étudiant",
+    "en.noun.friend": "ami / amie",
+    "en.vocab.book": "livre",
+    "en.noun.teacher": "professeur",
+    "en.noun.tea": "thé",
+    "en.verb.work": "travailler",
+    "en.verb.drink": "boire"
+  },
+  "title": "Prono-Sujets (I, You, He, She...)",
+  "rules": [
+    "Les pronoms sujets remplacent les noms.",
+    "I s'écrit toujours en majuscule."
+  ]
+}

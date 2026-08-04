@@ -1,0 +1,19 @@
+{
+  "title": "Persische Pluralbildung",
+  "summary": "Pluralbildung im Persischen mit den Suffixen -ها und -ان.",
+  "explanation": "Das Suffix '-ها' wird für alle Nomen verwendet, '-ان' meist für Lebewesen.",
+  "rules": [
+    "Nomen + ها (Allgemeiner Plural)",
+    "Lebewesen + ان (Menschen/Tiere)"
+  ],
+  "example_translations": {
+    "ex_fa_pl_1": "Die Bücher sind auf dem Tisch."
+  },
+  "common_error_explanations": {
+    "err_fa_pl_1": "Verwende '-ان' nicht für Gegenstände wie Bücher."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "Buch"
+  },
+  "locale": "de"
+}

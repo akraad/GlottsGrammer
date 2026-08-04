@@ -1,0 +1,19 @@
+{
+  "title": "Stellung des Adjektivs im Persischen",
+  "summary": "Adjektive folgen dem Nomen mit Ezafe.",
+  "explanation": "Anders als im Deutschen stehen Adjektive im Persischen NACH dem Nomen.",
+  "rules": [
+    "Nomen + -e + Adjektiv"
+  ],
+  "example_translations": {
+    "ex_adj_1": "Das ist ein großes Haus."
+  },
+  "common_error_explanations": {
+    "err_adj_1": "Platziere das Adjektiv NACH dem Nomen."
+  },
+  "vocab_glosses": {
+    "fa.vocab.home": "Haus",
+    "fa.vocab.bozorg": "groß"
+  },
+  "locale": "de"
+}

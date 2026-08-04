@@ -1,0 +1,18 @@
+{
+  "title": "Ettirgen (Sebep) Çatı (-dir / -tir / -t)",
+  "summary": "Bir işi başkasına yaptırma veya geçişli yapma.",
+  "explanation": "Fiil köküne '-dir/-tır/-t' eklenerek ettirgen yapılır (oku-t-tu = okuttu / خوانداند).",
+  "rules": [
+    "Fiil Kökü + Ettirgen Ek (-dir/-t) + Zaman"
+  ],
+  "example_translations": {
+    "ex_trcau_1": "Öğretmen kitabı öğrenciye okuttu."
+  },
+  "common_error_explanations": {
+    "err_trcau_1": "Birine iş yaptırmak için ettirgen çatı eklerini kullanın."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "okumak"
+  },
+  "locale": "tr"
+}

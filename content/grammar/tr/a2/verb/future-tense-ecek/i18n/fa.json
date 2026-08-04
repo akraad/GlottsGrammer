@@ -1,0 +1,18 @@
+{
+  "title": "زمان آینده در ترکی (-ecek / -acak)",
+  "summary": "بیان کارهایی که در آینده انجام خواهند شد.",
+  "explanation": "پسوند آینده «-ecek / -acak» (و حرف میانجی y در صورت ختم به مصوت) به همراه شناسه‌ها متصل می‌شود.",
+  "rules": [
+    "بن فعل + -(y)ecek + شناسه"
+  ],
+  "example_translations": {
+    "ex_trfut_1": "فردا یک کتاب خواهم خواند."
+  },
+  "common_error_explanations": {
+    "err_trfut_1": "برای کارهای آینده از پسوند '-ecek/-acak' استفاده کنید."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "خواندن"
+  },
+  "locale": "fa"
+}

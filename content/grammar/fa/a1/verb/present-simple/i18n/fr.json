@@ -1,0 +1,18 @@
+{
+  "title": "Présent Simple en Persan",
+  "summary": "Exprimer les habitudes et les actions présentes.",
+  "explanation": "Préfixe 'می-' + Racine du présent + Terminaisons.",
+  "rules": [
+    "می- + Racine du présent + Terminaisons"
+  ],
+  "example_translations": {
+    "ex_ps_1": "Je vais à la maison."
+  },
+  "common_error_explanations": {
+    "err_ps_1": "Ajoutez le préfixe 'می-' et conjuguez."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "aller"
+  },
+  "locale": "fr"
+}

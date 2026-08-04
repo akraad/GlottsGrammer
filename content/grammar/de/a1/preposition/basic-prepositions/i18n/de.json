@@ -1,0 +1,18 @@
+{
+  "title": "Grundlegende Präpositionen",
+  "summary": "Wichtige Präpositionen mit Akkusativ und Dativ.",
+  "explanation": "Wichtige Präpositionen mit Akkusativ und Dativ.",
+  "rules": [
+    "Präposition + Kasus (Akkusativ / Dativ)"
+  ],
+  "example_translations": {
+    "ex_de_1": "Ich bin in der Schule."
+  },
+  "common_error_explanations": {
+    "err_de_1": "Match prepositions with correct case endings."
+  },
+  "vocab_glosses": {
+    "de.vocab.schule": "Schule"
+  },
+  "locale": "de"
+}

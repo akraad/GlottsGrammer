@@ -1,0 +1,18 @@
+{
+  "locale": "fr",
+  "title": "[FR] [FR] German Modal Particles",
+  "summary": "[FR] [FR] German Modal Particles",
+  "explanation": "[FR] [FR] German Modal Particles",
+  "rules": [
+    "Subjekt + Verb (Pos 2) + Modalpartikel + ..."
+  ],
+  "example_translations": {
+    "ex_de_c1_2": "Das weiß man doch!"
+  },
+  "common_error_explanations": {
+    "err_de_c1_2": "Modal particles (doch, ja, eben, wohl) do not change the core propositional meaning but express emotional tone and speaker attitude."
+  },
+  "vocab_glosses": {
+    "de.vocab.klar": "term"
+  }
+}

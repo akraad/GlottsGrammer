@@ -1,0 +1,19 @@
+{
+  "title": "Persian Plural Nouns (-ها / -ان)",
+  "summary": "How to make nouns plural in Persian.",
+  "explanation": "The suffix '-ها' (ha) is used for all nouns. The suffix '-ان' (an) is mainly for animate objects.",
+  "rules": [
+    "Noun + ها (Universal plural)",
+    "Animate Noun + ان (Human/Living)"
+  ],
+  "example_translations": {
+    "ex_fa_pl_1": "The books are on the table."
+  },
+  "common_error_explanations": {
+    "err_fa_pl_1": "Do not use '-ان' for non-living objects like books."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "book"
+  },
+  "locale": "en"
+}

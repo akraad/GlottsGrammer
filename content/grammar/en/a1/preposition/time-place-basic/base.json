@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0.0",
+  "id": "en.a1.preposition.time-place-basic",
+  "universal_concept_id": "preposition.time.place.basic",
+  "language": "en",
+  "cefr": "A1",
+  "app_level": "beginner",
+  "category": "preposition",
+  "status": "approved",
+  "difficulty": 1,
+  "prerequisites": [
+    "en.a1.noun.definiteness-basic"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "preposition"
+        },
+        {
+          "slot": "noun"
+        }
+      ],
+      "example": "at home"
+    }
+  ],
+  "vocab": [
+    "en.vocab.home"
+  ],
+  "examples": [
+    {
+      "id": "ex_prep_1",
+      "target_text": "I am at home.",
+      "tokens": [
+        {
+          "text": "I"
+        },
+        {
+          "text": "am"
+        },
+        {
+          "text": "at"
+        },
+        {
+          "text": "home"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_prep_1",
+      "incorrect": "I am in home.",
+      "explanation": "Use 'at' with home."
+    }
+  ]
+}

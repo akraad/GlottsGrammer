@@ -1,0 +1,18 @@
+{
+  "title": "Persian Past Subjunctive Mood",
+  "summary": "Expressing past doubt, possibility, or wish.",
+  "explanation": "Past Participle + Subjunctive forms of 'to be' (باشم, باشی, باشد...).",
+  "rules": [
+    "Past Participle + باشم"
+  ],
+  "example_translations": {
+    "ex_psubj_1": "Maybe he/she has gone home."
+  },
+  "common_error_explanations": {
+    "err_psubj_1": "Use past participle + 'باشد' for past possibility."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "go"
+  },
+  "locale": "en"
+}

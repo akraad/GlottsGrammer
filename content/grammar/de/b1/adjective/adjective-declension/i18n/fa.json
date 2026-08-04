@@ -1,0 +1,18 @@
+{
+  "locale": "fa",
+  "title": "صرف صفت قبل از اسم در آلمانی",
+  "summary": "Declension endings of adjectives placed before nouns.",
+  "explanation": "Declension endings of adjectives placed before nouns.",
+  "rules": [
+    "Artikel + Adjektivendung (-e/-en) + Nomen"
+  ],
+  "example_translations": {
+    "ex_de_b1": "Der kleine Hund spielt im Garten."
+  },
+  "common_error_explanations": {
+    "err_de_b1": "Ensure adjectives take correct declension endings based on gender, case, and article."
+  },
+  "vocab_glosses": {
+    "de.vocab.hund": "Hund"
+  }
+}

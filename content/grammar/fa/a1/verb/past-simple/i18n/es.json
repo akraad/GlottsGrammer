@@ -1,0 +1,18 @@
+{
+  "title": "Pasado Simple en Persa",
+  "summary": "Expresar acciones completadas en el pasado.",
+  "explanation": "Raíz del Pasado + Sufijos Personales.",
+  "rules": [
+    "Raíz del Pasado + Sufijos"
+  ],
+  "example_translations": {
+    "ex_past_1": "Ayer fui a casa."
+  },
+  "common_error_explanations": {
+    "err_past_1": "Usa la raíz del pasado para acciones pasadas."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "ir"
+  },
+  "locale": "es"
+}

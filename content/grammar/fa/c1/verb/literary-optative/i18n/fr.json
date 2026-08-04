@@ -1,0 +1,18 @@
+{
+  "title": "Mode Optatif Littéraire en Persan",
+  "summary": "Exprimer des vœux, bénédictions ou malédictions dans la littérature classique.",
+  "explanation": "Formé en ajoutant le suffixe '-اد' à la racine du présent (ex. باد = Qu'il en soit ainsi).",
+  "rules": [
+    "Racine du Présent + -اد"
+  ],
+  "example_translations": {
+    "ex_opt_1": "Que le nom de l'Iran soit éternel à jamais."
+  },
+  "common_error_explanations": {
+    "err_opt_1": "Ne mélangez pas les optatifs archaïques avec le subjonctif moderne."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "aller"
+  },
+  "locale": "fr"
+}

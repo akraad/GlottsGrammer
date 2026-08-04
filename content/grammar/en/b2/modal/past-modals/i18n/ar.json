@@ -1,0 +1,18 @@
+{
+  "title": "الأفعال الناقصة في الماضي",
+  "summary": "التعبير عن الندم أو الانتقاد حول الماضي.",
+  "explanation": "الفاعل + should have + التصريف الثالث.",
+  "rules": [
+    "Should have + التصريف الثالث"
+  ],
+  "example_translations": {
+    "ex_pm_1": "كان ينبغي علي أن أدرس أكثر."
+  },
+  "common_error_explanations": {
+    "err_pm_1": "استخدم should have وليس should of."
+  },
+  "vocab_glosses": {
+    "en.vocab.study": "يدرس"
+  },
+  "locale": "ar"
+}

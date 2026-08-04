@@ -1,0 +1,20 @@
+{
+  "title": "Passiv im Present Simple",
+  "summary": "Verwende das Passiv, wenn die Handlung wichtiger ist als der Ausführende.",
+  "explanation": "Wird mit am/is/are + Partizip Perfekt (Past Participle) gebildet.",
+  "rules": [
+    "Subjekt + am/is/are + Partizip Perfekt"
+  ],
+  "example_translations": {
+    "ex_pass_1": "Autos werden in dieser Stadt gebaut."
+  },
+  "common_error_explanations": {
+    "err_pass_1": "Verwende im Passiv immer das Partizip Perfekt."
+  },
+  "vocab_glosses": {
+    "en.vocab.car": "Auto",
+    "en.vocab.make": "bauen / herstellen",
+    "en.vocab.city": "Stadt"
+  },
+  "locale": "de"
+}

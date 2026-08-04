@@ -1,0 +1,18 @@
+{
+  "locale": "pt",
+  "title": "[PT] [PT] German Adverbial Conjunctions",
+  "summary": "[PT] [PT] German Adverbial Conjunctions",
+  "explanation": "[PT] [PT] German Adverbial Conjunctions",
+  "rules": [
+    "Satz 1 + , + deshalb (Pos 1) + Verb (Pos 2) + Subjekt"
+  ],
+  "example_translations": {
+    "ex_de_b1_2": "Es regnet, deshalb bleibe ich zu Hause."
+  },
+  "common_error_explanations": {
+    "err_de_b1_2": "Adverbial conjunctions like 'deshalb' or 'trotzdem' take position 1 in the clause, meaning the conjugated verb must immediately follow in position 2."
+  },
+  "vocab_glosses": {
+    "de.vocab.haus": "term"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "title": "トルコ語の現在進行形 (-iyor)",
+  "summary": "今行われている動作を表します。",
+  "explanation": "動詞の語幹に '-iyor' を付け、その後に人称接尾辞を続けます。",
+  "rules": [
+    "動詞語幹 + -iyor + 人称接尾辞"
+  ],
+  "example_translations": {
+    "ex_tryor_1": "私は今本を読んでいます。"
+  },
+  "common_error_explanations": {
+    "err_tryor_1": "人称接尾辞は '-yor' の直後に付けてください。"
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "読む"
+  },
+  "locale": "ja"
+}

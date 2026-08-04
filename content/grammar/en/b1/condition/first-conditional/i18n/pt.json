@@ -1,0 +1,20 @@
+{
+  "title": "Primeira Condicional",
+  "summary": "Use a Primeira Condicional para possibilidades reais no futuro.",
+  "explanation": "Estrutura: If + Presente Simples, Sujeito + Will + Verbo Base.",
+  "rules": [
+    "Oração com If -> Presente Simples",
+    "Oração principal -> Will + Verbo Base"
+  ],
+  "example_translations": {
+    "ex_fc_1": "Se chover, eu ficarei em casa."
+  },
+  "common_error_explanations": {
+    "err_fc_1": "Nunca use 'will' dentro da oração com 'if'."
+  },
+  "vocab_glosses": {
+    "en.vocab.rain": "chover",
+    "en.vocab.home": "casa"
+  },
+  "locale": "pt"
+}

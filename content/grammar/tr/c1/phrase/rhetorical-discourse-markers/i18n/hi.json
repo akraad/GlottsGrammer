@@ -1,0 +1,18 @@
+{
+  "title": "अवैयक्तिक निष्क्रिय संरचनाएं (Impersonal Passive)",
+  "summary": "औपचारिक और अकादमिक तुर्की में अवैयक्तिक प्रयोग।",
+  "explanation": "C1 स्तर के लिए जटिल संरचनाएं।",
+  "rules": [
+    "Discourse Marker + Argumentative Clause"
+  ],
+  "example_translations": {
+    "ex_c1_2": "यह सर्वमान्य है कि..."
+  },
+  "common_error_explanations": {
+    "err_c1_2": "औपचारिक और उन्नत रूपों का प्रयोग करें।"
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "पढ़ना"
+  },
+  "locale": "hi"
+}

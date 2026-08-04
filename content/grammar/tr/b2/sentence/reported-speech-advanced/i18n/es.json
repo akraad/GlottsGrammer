@@ -1,0 +1,18 @@
+{
+  "title": "Formatos Avanzados de Discurso Indirecto",
+  "summary": "Estilo periodístico y formal de reporte en turco.",
+  "explanation": "Los medios de comunicación reportan afirmaciones usando estructuras avanzadas como '-eceği belirtildi' o '...diye'.",
+  "rules": [
+    "Oración Reportada + Verbo de Reporte Formal (diye / belirtti)"
+  ],
+  "example_translations": {
+    "ex_trrep_1": "Declaró que vendrá mañana."
+  },
+  "common_error_explanations": {
+    "err_trrep_1": "Usa plantillas de reporte avanzadas para estilos formales."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "leer"
+  },
+  "locale": "es"
+}

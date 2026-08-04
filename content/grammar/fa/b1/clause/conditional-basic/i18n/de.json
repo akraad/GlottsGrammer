@@ -1,0 +1,18 @@
+{
+  "title": "Persische Konditionalsätze (اگر)",
+  "summary": "Bildung von Realkonditionalsätzen.",
+  "explanation": "'اگر' (Wenn/Falls) + Konjunktiv im Bedingungssatz + Präsens/Futur im Hauptsatz.",
+  "rules": [
+    "اگر + Konjunktiv, Hauptsatz"
+  ],
+  "example_translations": {
+    "ex_cond_1": "Wenn ich Zeit habe, gehe ich nach Hause."
+  },
+  "common_error_explanations": {
+    "err_cond_1": "Verwende den Konjunktiv im 'Wenn'-Satz."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "gehen"
+  },
+  "locale": "de"
+}

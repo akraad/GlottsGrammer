@@ -1,0 +1,31 @@
+{
+  "$schema": "../../../../../schemas/grammar-i18n.schema.json",
+  "locale": "tr",
+  "translation_status": "draft",
+  "name": "Geniş zaman",
+  "summary": "Geniş zaman: alışkanlıklar, gerçekler ve rutinler için kullanılır.",
+  "explanation": "İngilizcede Present Simple, alışkanlıklardan, genel doğrulardan ve düzenli olarak gerçekleşen eylemlerden bahsetmek için kullanılır.",
+  "form_notes": {
+    "affirmative": "Özne + fiilin yalın hali. İngilizcede he/she/it ile fiile genellikle -s veya -es eklenir.",
+    "negative": "Özne + do/does + not + fiilin yalın hali.",
+    "question": "Do/Does + özne + fiilin yalın hali?"
+  },
+  "example_translations": {
+    "ex_01": "Her gün su içerim.",
+    "ex_02": "O kahve içmez.",
+    "ex_03": "Her gün su içer misin?"
+  },
+  "common_error_explanations": {
+    "err_01": "İngilizcede Present Simple'da özne he, she veya it ise fiile genellikle -s veya -es eklenir."
+  },
+  "vocab_glosses": {
+    "en.verb.drink": "içmek",
+    "en.noun.water": "su",
+    "en.phrase.every-day": "her gün"
+  },
+  "title": "Geniş Zaman (Present Simple)",
+  "rules": [
+    "Alışkanlıklar ve genel gerçekler için kullanılır.",
+    "he/she/it için fiile s/es takısı ekleyin."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Türkischer Genitiv (-in / -ın / -un / -ün)",
+  "summary": "Bildung von Genitiv-Zuordnungen.",
+  "explanation": "Füge das Genitivsuffix '-in/-ın/-un/-ün' an das besitzende Nomen und ein Possessivsuffix an das besessene Nomen an.",
+  "rules": [
+    "Besitzer + -(n)in + Besessenes + Possessivsuffix"
+  ],
+  "example_translations": {
+    "ex_trgen_1": "Die Tür dieses Hauses ist sehr groß."
+  },
+  "common_error_explanations": {
+    "err_trgen_1": "Verwende den Genitiv am ersten und ein Possessivsuffix am zweiten Nomen."
+  },
+  "vocab_glosses": {
+    "tr.vocab.ev": "Haus"
+  },
+  "locale": "de"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Presente Continuo en Turco (-iyor)",
+  "summary": "Expresar acciones que están ocurriendo ahora.",
+  "explanation": "Añade '-iyor' a la raíz verbal seguido de las terminaciones personales.",
+  "rules": [
+    "Raíz Verbal + -iyor + Terminación Personal"
+  ],
+  "example_translations": {
+    "ex_tryor_1": "Estoy leyendo un libro ahora mismo."
+  },
+  "common_error_explanations": {
+    "err_tryor_1": "Adjunta los sufijos personales directamente después de '-yor'."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "leer"
+  },
+  "locale": "es"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Farsça Zıtlık / Bağlaşım Cümleleri (اگرچه)",
+  "summary": "'اگرچه' veya 'با اینکه' (Her ne kadar ... ise de) ile zıtlık bildirme.",
+  "explanation": "'اگرچه' edatını zıtlık bildiren cümlenin başına getirin.",
+  "rules": [
+    "اگرچه + Yan Cümle, اما + Ana Cümle"
+  ],
+  "example_translations": {
+    "ex_conc_1": "Yağmur yağmasına rağmen dışarı çıktı."
+  },
+  "common_error_explanations": {
+    "err_conc_1": "İki zıt düşünceyi bağlamak için 'اگرچه' kullanın."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "gitmek"
+  },
+  "locale": "tr"
+}

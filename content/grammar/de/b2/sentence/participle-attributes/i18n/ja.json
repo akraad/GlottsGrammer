@@ -1,0 +1,18 @@
+{
+  "locale": "ja",
+  "title": "[JA] [JA] German Participle Attributes",
+  "summary": "[JA] [JA] German Participle Attributes",
+  "explanation": "[JA] [JA] German Participle Attributes",
+  "rules": [
+    "Erweitertes Partizip (I/II) mit Endung + Nomen"
+  ],
+  "example_translations": {
+    "ex_de_b2_2": "Der von ihm geschriebene Brief liegt auf dem Tisch."
+  },
+  "common_error_explanations": {
+    "err_de_b2_2": "Participle attributes pack relative clauses into descriptive adjective phrases placed directly before the noun."
+  },
+  "vocab_glosses": {
+    "de.vocab.brief": "term"
+  }
+}

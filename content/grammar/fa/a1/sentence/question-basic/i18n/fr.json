@@ -1,0 +1,18 @@
+{
+  "title": "Questions de Base en Persan",
+  "summary": "Former des questions Oui/Non avec 'آیا'.",
+  "explanation": "Ajoutez 'آیا' au début d'une phrase pour poser une question.",
+  "rules": [
+    "آیا + Phrase?"
+  ],
+  "example_translations": {
+    "ex_q_1": "Lisez-vous un livre ?"
+  },
+  "common_error_explanations": {
+    "err_q_1": "Mettez 'آیا' au début de la question."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "livre"
+  },
+  "locale": "fr"
+}

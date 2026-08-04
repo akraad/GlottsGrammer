@@ -1,0 +1,18 @@
+{
+  "title": "तुर्की में उन्नत जटिल उपवाक्य (Advanced Subordination)",
+  "summary": "औपचारिक और अकादमिक फ़ारसी/तुर्की में जटिल उपवाक्य।",
+  "explanation": "औपचारिक और अकादमिक लेखन में कारण-प्रभाव दर्शाने के लिए '-duğundan dolayı' या '-dığı için' जैसी उन्नत संरचनाओं का उपयोग किया जाता है।",
+  "rules": [
+    "उपवाक्य (-duğundan) + संबंधसूचक अव्यय"
+  ],
+  "example_translations": {
+    "ex_trcomp_1": "किताबें पढ़ने के कारण वह बहुत सफल है।"
+  },
+  "common_error_explanations": {
+    "err_trcomp_1": "औपचारिक लेखन में उन्नत अधीनस्थ पदों का प्रयोग करें।"
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "पढ़ना"
+  },
+  "locale": "hi"
+}

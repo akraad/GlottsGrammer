@@ -1,0 +1,18 @@
+{
+  "title": "Modo Subjuntivo Passado em Persa",
+  "summary": "Expressar dúvida ou possibilidade sobre o passado.",
+  "explanation": "Particípio Passado + Formas do subjuntivo de 'ser/estar' (باشم, باشی, باشد...).",
+  "rules": [
+    "Particípio Passado + باشم"
+  ],
+  "example_translations": {
+    "ex_psubj_1": "Talvez ele/ela tenha ido para casa."
+  },
+  "common_error_explanations": {
+    "err_psubj_1": "Use o particípio passado + 'باشد' para possibilidade passada."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "ir"
+  },
+  "locale": "pt"
+}

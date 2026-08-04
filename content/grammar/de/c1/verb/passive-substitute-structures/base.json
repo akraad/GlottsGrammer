@@ -1,0 +1,64 @@
+{
+  "schema_version": "1.0.0",
+  "id": "de.c1.verb.passive-substitute-structures",
+  "universal_concept_id": "verb.passive.substitute.german",
+  "language": "de",
+  "cefr": "C1",
+  "app_level": "advanced",
+  "category": "verb",
+  "status": "approved",
+  "difficulty": 5,
+  "prerequisites": [
+    "de.b1.verb.passive-voice-prasez"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "subject"
+        },
+        {
+          "slot": "sein_or_modal_zu_infinitive"
+        }
+      ],
+      "example": "Das Problem ist leicht zu lösen"
+    }
+  ],
+  "vocab": [
+    "de.vocab.loesen"
+  ],
+  "examples": [
+    {
+      "id": "ex_de_c1",
+      "target_text": "Diese Aufgabe ist leicht zu lösen.",
+      "tokens": [
+        {
+          "text": "Diese"
+        },
+        {
+          "text": "Aufgabe"
+        },
+        {
+          "text": "ist"
+        },
+        {
+          "text": "leicht"
+        },
+        {
+          "text": "zu"
+        },
+        {
+          "text": "löst."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_de_c1",
+      "incorrect": "Diese Aufgabe kann leicht gelöst werden (when using passive substitute).",
+      "explanation": "Passive substitute structures like 'sein + zu + Infinitiv' express necessity or capability with active forms."
+    }
+  ]
+}

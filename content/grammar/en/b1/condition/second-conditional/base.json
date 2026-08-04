@@ -1,0 +1,86 @@
+{
+  "schema_version": "1.0.0",
+  "id": "en.b1.condition.second-conditional",
+  "universal_concept_id": "condition.second.conditional",
+  "language": "en",
+  "cefr": "B1",
+  "app_level": "intermediate",
+  "category": "condition",
+  "status": "approved",
+  "difficulty": 3,
+  "prerequisites": [
+    "en.b1.condition.first-conditional",
+    "en.a2.verb.past-simple-regular"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "if"
+        },
+        {
+          "slot": "past_simple"
+        },
+        {
+          "slot": "would"
+        },
+        {
+          "slot": "verb_base"
+        }
+      ],
+      "example": "If I won the lottery, I would buy a car."
+    }
+  ],
+  "vocab": [
+    "en.vocab.win",
+    "en.vocab.lottery",
+    "en.vocab.buy",
+    "en.vocab.car"
+  ],
+  "examples": [
+    {
+      "id": "ex_sc_1",
+      "target_text": "If I won the lottery, I would buy a car.",
+      "tokens": [
+        {
+          "text": "If"
+        },
+        {
+          "text": "I"
+        },
+        {
+          "text": "won"
+        },
+        {
+          "text": "the"
+        },
+        {
+          "text": "lottery"
+        },
+        {
+          "text": "I"
+        },
+        {
+          "text": "would"
+        },
+        {
+          "text": "buy"
+        },
+        {
+          "text": "a"
+        },
+        {
+          "text": "car"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_sc_1",
+      "incorrect": "If I would win the lottery, I bought a car.",
+      "explanation": "Use Past Simple in the 'if' clause and 'would + verb' in the main clause."
+    }
+  ]
+}

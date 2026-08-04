@@ -1,0 +1,70 @@
+{
+  "schema_version": "1.0.0",
+  "id": "de.b1.conjunction.adverbial-conjunctions",
+  "universal_concept_id": "conjunction.adverbial.german",
+  "language": "de",
+  "cefr": "B1",
+  "app_level": "intermediate",
+  "category": "conjunction",
+  "status": "approved",
+  "difficulty": 4,
+  "prerequisites": [
+    "de.a2.sentence.subordinate-weil"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "main_clause_1"
+        },
+        {
+          "slot": "adverbial_conjunction_pos1_or_3"
+        },
+        {
+          "slot": "conjugated_verb_pos2"
+        }
+      ],
+      "example": "Deshalb bleibe ich zu Hause"
+    }
+  ],
+  "vocab": [
+    "de.vocab.haus"
+  ],
+  "examples": [
+    {
+      "id": "ex_de_b1_2",
+      "target_text": "Es regnet, deshalb bleibe ich zu Hause.",
+      "tokens": [
+        {
+          "text": "Es"
+        },
+        {
+          "text": "regnet,"
+        },
+        {
+          "text": "deshalb"
+        },
+        {
+          "text": "bleibe"
+        },
+        {
+          "text": "ich"
+        },
+        {
+          "text": "zu"
+        },
+        {
+          "text": "Hause."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_de_b1_2",
+      "incorrect": "Es regnet, deshalb ich bleibe zu Hause.",
+      "explanation": "Adverbial conjunctions like 'deshalb' or 'trotzdem' take position 1 in the clause, meaning the conjugated verb must immediately follow in position 2."
+    }
+  ]
+}

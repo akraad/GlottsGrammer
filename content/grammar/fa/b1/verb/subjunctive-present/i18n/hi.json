@@ -1,0 +1,18 @@
+{
+  "title": "फ़ारसी में संभाव्य वर्तमान (Present Subjunctive)",
+  "summary": "इच्छा, संदेह और आवश्यकता व्यक्त करना।",
+  "explanation": "उपसर्ग 'بـ' + वर्तमान धातु + पुरुषवाचक प्रत्यय।",
+  "rules": [
+    "بـ + वर्तमान धातु + प्रत्यय"
+  ],
+  "example_translations": {
+    "ex_subj_1": "मैं घर जाना चाहता हूँ।"
+  },
+  "common_error_explanations": {
+    "err_subj_1": "इच्छा दर्शाने वाली क्रियाओं के बाद संभाव्य रूप का प्रयोग करें।"
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "जाना"
+  },
+  "locale": "hi"
+}

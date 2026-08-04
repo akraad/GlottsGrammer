@@ -1,0 +1,18 @@
+{
+  "title": "Erweiterte Indirekte Rede in Nachrichten",
+  "summary": "Formelle und journalistische Berichterstattung im Türkischen.",
+  "explanation": "In den Medien werden Aussagen durch erweiterte Nominalstrukturen wie '-eceği belirtildi' oder '...diye' wiedergegeben.",
+  "rules": [
+    "Berichtterstattungssatz + Formales Verb (diye / belirtti)"
+  ],
+  "example_translations": {
+    "ex_trrep_1": "Er/Sie erklärte, dass er/sie morgen kommen werde."
+  },
+  "common_error_explanations": {
+    "err_trrep_1": "Verwende erweiterte Berichtsformen für formelle Medien."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "lesen"
+  },
+  "locale": "de"
+}

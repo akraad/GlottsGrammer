@@ -1,0 +1,18 @@
+{
+  "title": "پیچیدگی‌های نحوی و ساختارهای ترکیبی چندلایه",
+  "summary": "مدیریت بندهای تو در تو و قالب‌های نحوی چندلایه در متون فاخر.",
+  "explanation": "مدیریت بندهای تو در تو و قالب‌های نحوی چندلایه در متون فاخر.",
+  "rules": [
+    "Embedded Participial Framing + Matrix Predicate"
+  ],
+  "example_translations": {
+    "ex_c1_2": "Bilindiği üzere, edebiyat tarihimiz zengin bir mirasa sahiptir."
+  },
+  "common_error_explanations": {
+    "err_c1_2": "Use embedded syntactic framing instead of basic subordinate clauses."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "خواندن"
+  },
+  "locale": "fa"
+}

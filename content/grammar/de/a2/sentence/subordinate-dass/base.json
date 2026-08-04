@@ -1,0 +1,70 @@
+{
+  "schema_version": "1.0.0",
+  "id": "de.a2.sentence.subordinate-dass",
+  "universal_concept_id": "sentence.subordinate.dass.german",
+  "language": "de",
+  "cefr": "A2",
+  "app_level": "elementary",
+  "category": "sentence",
+  "status": "approved",
+  "difficulty": 3,
+  "prerequisites": [
+    "de.a2.sentence.subordinate-weil"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "main_clause"
+        },
+        {
+          "slot": "conjunction_dass"
+        },
+        {
+          "slot": "subject"
+        },
+        {
+          "slot": "conjugated_verb_at_end"
+        }
+      ],
+      "example": "Ich weiß, dass du lernst"
+    }
+  ],
+  "vocab": [
+    "de.vocab.wissen"
+  ],
+  "examples": [
+    {
+      "id": "ex_de_a2_2",
+      "target_text": "Ich weiß, dass du Deutsch lernst.",
+      "tokens": [
+        {
+          "text": "Ich"
+        },
+        {
+          "text": "weiß,"
+        },
+        {
+          "text": "dass"
+        },
+        {
+          "text": "du"
+        },
+        {
+          "text": "Deutsch"
+        },
+        {
+          "text": "lernst."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_de_a2_2",
+      "incorrect": "Ich weiß, dass du lernst Deutsch.",
+      "explanation": "In 'dass' clauses, the conjugated verb is pushed to the very end of the subclause."
+    }
+  ]
+}

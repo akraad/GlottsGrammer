@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0.0",
+  "id": "tr.c1.clause.nominalization-mamak",
+  "universal_concept_id": "clause.nominalization.mamak",
+  "language": "tr",
+  "cefr": "C1",
+  "app_level": "advanced",
+  "category": "clause",
+  "status": "approved",
+  "difficulty": 5,
+  "prerequisites": [
+    "tr.b1.clause.indirect-speech"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "verb_stem"
+        },
+        {
+          "slot": "mek_mak_suffix"
+        }
+      ],
+      "example": "okumak"
+    }
+  ],
+  "vocab": [
+    "tr.vocab.okumak"
+  ],
+  "examples": [
+    {
+      "id": "ex_c1_1",
+      "target_text": "Kitap okumak, zihni geliştirir.",
+      "tokens": [
+        {
+          "text": "Kitap"
+        },
+        {
+          "text": "okumak,"
+        },
+        {
+          "text": "zihni"
+        },
+        {
+          "text": "geliştirir."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_c1_1",
+      "incorrect": "Kitap okuur zihni geliştirir.",
+      "explanation": "Use advanced nominalized infinitive forms ('-mek/-mak') as subjects or philosophical statements."
+    }
+  ]
+}

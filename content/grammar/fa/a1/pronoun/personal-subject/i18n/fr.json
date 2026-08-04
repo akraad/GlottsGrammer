@@ -1,0 +1,23 @@
+{
+  "title": "Pronoms Personnels en Perse",
+  "summary": "Pronoms sujets en persan (من, تو, او, ما, شما, آن‌ها).",
+  "explanation": "Les pronoms persans sont utilisés comme sujets et sont souvent omis.",
+  "rules": [
+    "من (Je)",
+    "تو (Tu)",
+    "او (Il/Elle)",
+    "ما (Nous)",
+    "شما (Vous)",
+    "آن‌ها (Ils/Elles)"
+  ],
+  "example_translations": {
+    "ex_fa_pron_1": "Je suis professeur."
+  },
+  "common_error_explanations": {
+    "err_fa_pron_1": "Accordez 'من' avec 'هستم'."
+  },
+  "vocab_glosses": {
+    "fa.vocab.man": "je"
+  },
+  "locale": "fr"
+}

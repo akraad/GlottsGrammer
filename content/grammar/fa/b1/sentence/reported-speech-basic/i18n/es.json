@@ -1,0 +1,18 @@
+{
+  "title": "Estilo Indirecto en Persa (گفت که)",
+  "summary": "Transmitir palabras de alguien usando 'که'.",
+  "explanation": "Sujeto + گفت + که + Declaración indirecta.",
+  "rules": [
+    "گفت + که + Declaración Indirecta"
+  ],
+  "example_translations": {
+    "ex_rep_1": "Ali dijo que iba a casa."
+  },
+  "common_error_explanations": {
+    "err_rep_1": "Ajusta pronombres y verbos en el estilo indirecto con 'که'."
+  },
+  "vocab_glosses": {
+    "fa.vocab.home": "casa"
+  },
+  "locale": "es"
+}

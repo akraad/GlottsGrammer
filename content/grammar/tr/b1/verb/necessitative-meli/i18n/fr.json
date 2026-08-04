@@ -1,0 +1,18 @@
+{
+  "title": "Mode Nécessitatif en Turc (-meli / -malı)",
+  "summary": "Exprimer l'obligation ou la nécessité ('devoir').",
+  "explanation": "Ajoutez '-meli/-malı' au radical du verbe suivi des suffixes personnels pour marquer le devoir.",
+  "rules": [
+    "Radical du Verbe + -meli/malı + Suffixe Personnel"
+  ],
+  "example_translations": {
+    "ex_trmel_1": "Tu dois absolument lire ce livre."
+  },
+  "common_error_explanations": {
+    "err_trmel_1": "Utilisez '-meli/-malı' directement sur le radical pour l'obligation."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "lire"
+  },
+  "locale": "fr"
+}

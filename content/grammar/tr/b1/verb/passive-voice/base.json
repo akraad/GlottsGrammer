@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0.0",
+  "id": "tr.b1.verb.passive-voice",
+  "universal_concept_id": "verb.passive.voice",
+  "language": "tr",
+  "cefr": "B1",
+  "app_level": "intermediate",
+  "category": "verb",
+  "status": "approved",
+  "difficulty": 3,
+  "prerequisites": [
+    "tr.a1.verb.present-continuous-yor"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "verb_stem"
+        },
+        {
+          "slot": "passive_suffix"
+        },
+        {
+          "slot": "tense_suffix"
+        }
+      ],
+      "example": "okundu"
+    }
+  ],
+  "vocab": [
+    "tr.vocab.okumak"
+  ],
+  "examples": [
+    {
+      "id": "ex_trpas_1",
+      "target_text": "Bu kitap dün okundu.",
+      "tokens": [
+        {
+          "text": "Bu"
+        },
+        {
+          "text": "kitap"
+        },
+        {
+          "text": "dün"
+        },
+        {
+          "text": "okundu."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_trpas_1",
+      "incorrect": "Bu kitap dün okudu.",
+      "explanation": "Use passive suffix '-il/-ıl/-ul/-ül' or '-in/-ın' on verb stems when the agent is omitted or secondary."
+    }
+  ]
+}

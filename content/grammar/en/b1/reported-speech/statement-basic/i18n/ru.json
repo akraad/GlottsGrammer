@@ -1,0 +1,18 @@
+{
+  "title": "Косвенная речь (Reported Speech)",
+  "summary": "Используется для передачи слов другого человека.",
+  "explanation": "Время глагола смещается на шаг назад в прошлое.",
+  "rules": [
+    "Present Simple -> Past Simple"
+  ],
+  "example_translations": {
+    "ex_rep_1": "Он сказал, что счастлив."
+  },
+  "common_error_explanations": {
+    "err_rep_1": "Смещайте время глагола в прошлое."
+  },
+  "vocab_glosses": {
+    "en.vocab.say": "говорить"
+  },
+  "locale": "ru"
+}

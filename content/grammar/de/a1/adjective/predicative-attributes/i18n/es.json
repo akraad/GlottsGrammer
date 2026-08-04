@@ -1,0 +1,18 @@
+{
+  "locale": "es",
+  "title": "[ES] German Predicative Adjectives",
+  "summary": "[ES] German Predicative Adjectives",
+  "explanation": "[ES] German Predicative Adjectives",
+  "rules": [
+    "Subjekt + sein + Adjektiv (unverändert)"
+  ],
+  "example_translations": {
+    "ex_de_2": "Das Auto ist schnell."
+  },
+  "common_error_explanations": {
+    "err_de_2": "Predicative adjectives that follow linking verbs like 'sein' do not take adjective endings."
+  },
+  "vocab_glosses": {
+    "de.vocab.auto": "term"
+  }
+}

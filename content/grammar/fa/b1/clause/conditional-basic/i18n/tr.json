@@ -1,0 +1,18 @@
+{
+  "title": "Farsça Koşul Cümleleri (اگر)",
+  "summary": "Gerçekleşebilir şart cümleleri kurma.",
+  "explanation": "'اگر' (Eğer) + Şart cümlesinde İstek/Dilek kipi + Sonuç cümlesi.",
+  "rules": [
+    "اگر + İstek Kipi, Sonuç Cümlesi"
+  ],
+  "example_translations": {
+    "ex_cond_1": "Vaktim olursa eve gideceğim."
+  },
+  "common_error_explanations": {
+    "err_cond_1": "Eğer yanındaki yan cümlede istek kipini kullanın."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "gitmek"
+  },
+  "locale": "tr"
+}

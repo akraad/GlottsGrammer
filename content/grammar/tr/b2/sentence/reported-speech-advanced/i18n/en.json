@@ -1,0 +1,18 @@
+{
+  "title": "Advanced Reported Speech Formats",
+  "summary": "Formal and news-style indirect reporting in Turkish.",
+  "explanation": "News and formal media report statements using advanced nominalization and quotation markers like '-eceği belirtildi' or '...diye açıkladı'.",
+  "rules": [
+    "Reported Clause + Formal Reporting Verb (diye / belirtti)"
+  ],
+  "example_translations": {
+    "ex_trrep_1": "He/She stated that he/she will come tomorrow."
+  },
+  "common_error_explanations": {
+    "err_trrep_1": "Use advanced reported templates for formal media and news styles."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "read"
+  },
+  "locale": "en"
+}

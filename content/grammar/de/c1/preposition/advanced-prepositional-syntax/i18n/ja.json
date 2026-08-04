@@ -1,0 +1,18 @@
+{
+  "locale": "ja",
+  "title": "[JA] [JA] German Advanced Prepositional Syntax",
+  "summary": "[JA] [JA] German Advanced Prepositional Syntax",
+  "explanation": "[JA] [JA] German Advanced Prepositional Syntax",
+  "rules": [
+    "Komplexe Präposition + Genitiv-Nomen"
+  ],
+  "example_translations": {
+    "ex_de_c1_2": "Anhand der Ergebnisse lässt sich die Hypothese bestätigen."
+  },
+  "common_error_explanations": {
+    "err_de_c1_2": "Advanced prepositional constructs like 'anhand', 'mithilfe', or 'aufgrund' strictly govern the Genitive case in formal German."
+  },
+  "vocab_glosses": {
+    "de.vocab.ergebnis": "term"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0.0",
+  "id": "de.a1.noun.plural-forms",
+  "universal_concept_id": "noun.plural.german",
+  "language": "de",
+  "cefr": "A1",
+  "app_level": "beginner",
+  "category": "noun",
+  "status": "approved",
+  "difficulty": 2,
+  "prerequisites": [],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "noun"
+        },
+        {
+          "slot": "plural_suffix_or_umlaut"
+        }
+      ],
+      "example": "Bücher"
+    }
+  ],
+  "vocab": [
+    "de.vocab.buch"
+  ],
+  "examples": [
+    {
+      "id": "ex_de_1",
+      "target_text": "Ich lese gute Bücher.",
+      "tokens": [
+        {
+          "text": "Ich"
+        },
+        {
+          "text": "lese"
+        },
+        {
+          "text": "gute"
+        },
+        {
+          "text": "Bücher."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_de_1",
+      "incorrect": "Ich lese gute Buch.",
+      "explanation": "German nouns change their plural endings (-e, -er, -n, -s, or Umlaut) depending on the noun gender/group."
+    }
+  ]
+}

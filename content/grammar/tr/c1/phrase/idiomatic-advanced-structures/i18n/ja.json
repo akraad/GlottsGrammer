@@ -1,0 +1,18 @@
+{
+  "title": "高度な分詞構文と統語構造",
+  "summary": "C1レベルの高度なトルコ語構文。",
+  "explanation": "上級レベルの複雑な表現方法。",
+  "rules": [
+    "Advanced Idiomatic Metaphor Phrase"
+  ],
+  "example_translations": {
+    "ex_c1_1": "読めば読むほど、多くのことを学びます。"
+  },
+  "common_error_explanations": {
+    "err_c1_1": "適切なC1上級構造を使用してください。"
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "読む"
+  },
+  "locale": "ja"
+}

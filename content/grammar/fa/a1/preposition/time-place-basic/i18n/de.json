@@ -1,0 +1,18 @@
+{
+  "title": "Grundlegende persische Präpositionen",
+  "summary": "Ort und Richtung ausdrücken (در, به, از, روی).",
+  "explanation": "Präpositionen stehen im Persischen VOR dem Nomen.",
+  "rules": [
+    "Präposition + Nomen"
+  ],
+  "example_translations": {
+    "ex_prep_1": "Ali ist zu Hause."
+  },
+  "common_error_explanations": {
+    "err_prep_1": "Setze die Präposition vor das Nomen."
+  },
+  "vocab_glosses": {
+    "fa.vocab.home": "Zuhause"
+  },
+  "locale": "de"
+}

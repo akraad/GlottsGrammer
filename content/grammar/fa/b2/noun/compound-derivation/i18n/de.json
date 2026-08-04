@@ -1,0 +1,19 @@
+{
+  "title": "Persische Komposita (Zusammengesetzte Nomen)",
+  "summary": "Kombination von Wörtern zur Bildung neuer Nomen.",
+  "explanation": "Verbindung von Nomen + Nomen oder Nomen + Stamm (z. B. کتاب‌خانه = Bibliothek).",
+  "rules": [
+    "Nomen + Nomen/Stamm"
+  ],
+  "example_translations": {
+    "ex_cder_1": "Er/Sie lernt in der Bibliothek."
+  },
+  "common_error_explanations": {
+    "err_cder_1": "Verwende das geschützte Leerzeichen (ZWNJ) bei Komposita."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "Buch",
+    "fa.vocab.home": "Zuhause"
+  },
+  "locale": "de"
+}

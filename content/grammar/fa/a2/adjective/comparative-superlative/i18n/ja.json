@@ -1,0 +1,19 @@
+{
+  "title": "ペルシア語の比較級・最上級",
+  "summary": "-تر と -ترین を使った形容詞の比較。",
+  "explanation": "比較級には接尾辞 '-تر' を付け、最上級には名詞の前に '-ترین' を置きます。",
+  "rules": [
+    "形容詞 + تر (比較級)",
+    "ترین + 名詞 (最上級)"
+  ],
+  "example_translations": {
+    "ex_comp_1": "この家の方が大きいです。"
+  },
+  "common_error_explanations": {
+    "err_comp_1": "形容詞の末尾に '-تر' を付けてください。"
+  },
+  "vocab_glosses": {
+    "fa.vocab.bozorg": "大きい"
+  },
+  "locale": "ja"
+}

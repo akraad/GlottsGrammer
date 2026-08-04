@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0.0",
+  "id": "en.b2.condition.third-conditional",
+  "universal_concept_id": "condition.third.conditional",
+  "language": "en",
+  "cefr": "B2",
+  "app_level": "upper_intermediate",
+  "category": "condition",
+  "status": "approved",
+  "difficulty": 4,
+  "prerequisites": [
+    "en.b1.condition.second-conditional"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "if"
+        },
+        {
+          "slot": "past_perfect"
+        },
+        {
+          "slot": "would_have"
+        },
+        {
+          "slot": "past_participle"
+        }
+      ],
+      "example": "If I had studied, I would have passed."
+    }
+  ],
+  "vocab": [
+    "en.vocab.study"
+  ],
+  "examples": [
+    {
+      "id": "ex_tc_1",
+      "target_text": "If I had studied, I would have passed.",
+      "tokens": [
+        {
+          "text": "If"
+        },
+        {
+          "text": "I"
+        },
+        {
+          "text": "had"
+        },
+        {
+          "text": "studied"
+        },
+        {
+          "text": "I"
+        },
+        {
+          "text": "would"
+        },
+        {
+          "text": "have"
+        },
+        {
+          "text": "passed"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_tc_1",
+      "incorrect": "If I would have studied, I passed.",
+      "explanation": "Use 'had + past participle' in the if-clause."
+    }
+  ]
+}

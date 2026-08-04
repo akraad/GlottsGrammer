@@ -1,0 +1,18 @@
+{
+  "title": "Persian Causative Verbs (-اندن)",
+  "summary": "Forming causative/transitive verbs using suffix '-اندن'.",
+  "explanation": "Add suffix '-اندن' or '-انیدن' to the present stem of intransitive verbs to make them causative.",
+  "rules": [
+    "Present Stem + اندن"
+  ],
+  "example_translations": {
+    "ex_caus_1": "The mother put the child to sleep."
+  },
+  "common_error_explanations": {
+    "err_caus_1": "Use suffix '-اندن' to convert intransitive verbs into causative ones."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "go"
+  },
+  "locale": "en"
+}

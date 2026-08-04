@@ -1,0 +1,70 @@
+{
+  "schema_version": "1.0.0",
+  "id": "de.c1.verb.subjunctive-advanced-nuances",
+  "universal_concept_id": "verb.subjunctive.advanced.german",
+  "language": "de",
+  "cefr": "C1",
+  "app_level": "advanced",
+  "category": "verb",
+  "status": "approved",
+  "difficulty": 5,
+  "prerequisites": [
+    "de.b2.verb.indirect-speech"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "hypothetical_comparison_als_ob"
+        },
+        {
+          "slot": "konjunktiv_ii_at_end"
+        }
+      ],
+      "example": "Er tut so, als ob er alles wüsste"
+    }
+  ],
+  "vocab": [
+    "de.vocab.wissen"
+  ],
+  "examples": [
+    {
+      "id": "ex_de_c1",
+      "target_text": "Er tut so, als ob er alles wüsste.",
+      "tokens": [
+        {
+          "text": "Er"
+        },
+        {
+          "text": "tut"
+        },
+        {
+          "text": "so,"
+        },
+        {
+          "text": "als"
+        },
+        {
+          "text": "ob"
+        },
+        {
+          "text": "er"
+        },
+        {
+          "text": "alles"
+        },
+        {
+          "text": "wüsste."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_de_c1",
+      "incorrect": "Er tut so, als ob er alles weiß (with indicative).",
+      "explanation": "'Als ob' clauses require Konjunktiv II to express unreal or hypothetical comparisons."
+    }
+  ]
+}

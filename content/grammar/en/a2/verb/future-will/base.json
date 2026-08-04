@@ -1,0 +1,69 @@
+{
+  "schema_version": "1.0.0",
+  "id": "en.a2.verb.future-will",
+  "universal_concept_id": "verb.future.will",
+  "language": "en",
+  "cefr": "A2",
+  "app_level": "elementary",
+  "category": "verb",
+  "status": "approved",
+  "difficulty": 2,
+  "prerequisites": [
+    "en.a1.verb.present-simple"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "subject"
+        },
+        {
+          "slot": "will"
+        },
+        {
+          "slot": "verb_base"
+        }
+      ],
+      "example": "I will buy a car tomorrow."
+    }
+  ],
+  "vocab": [
+    "en.vocab.buy",
+    "en.vocab.car",
+    "en.vocab.tomorrow"
+  ],
+  "examples": [
+    {
+      "id": "ex_will_1",
+      "target_text": "I will buy a car tomorrow.",
+      "tokens": [
+        {
+          "text": "I"
+        },
+        {
+          "text": "will"
+        },
+        {
+          "text": "buy"
+        },
+        {
+          "text": "a"
+        },
+        {
+          "text": "car"
+        },
+        {
+          "text": "tomorrow"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_will_1",
+      "incorrect": "I will to buy a car.",
+      "explanation": "Use the base verb directly after 'will' without 'to'."
+    }
+  ]
+}

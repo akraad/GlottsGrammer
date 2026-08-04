@@ -1,0 +1,18 @@
+{
+  "title": "Persisches Präteritum Progressiv",
+  "summary": "Ausdruck von andauernden Handlungen in der Vergangenheit.",
+  "explanation": "Präfix 'می-' + Vergangenheitsstamm + Personalendungen.",
+  "rules": [
+    "می- + Vergangenheitsstamm + Endungen"
+  ],
+  "example_translations": {
+    "ex_pcont_1": "Ich habe ein Buch gelesen."
+  },
+  "common_error_explanations": {
+    "err_pcont_1": "Verwende das Präfix 'می-' vor dem Vergangenheitsstamm."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "gehen"
+  },
+  "locale": "de"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Türkische Personalpronomen",
+  "summary": "Subjektpronomen im Türkischen (ben, sen, o...).",
+  "explanation": "Im Türkischen gibt es 6 Personalpronomen: ben (ich), sen (du), o (er/sie/es), biz (wir), siz (ihr/Sie), onlar (sie).",
+  "rules": [
+    "ben",
+    "sen",
+    "o",
+    "biz",
+    "siz",
+    "onlar"
+  ],
+  "example_translations": {
+    "ex_tr_pron_1": "Ich bin Lehrer/in."
+  },
+  "common_error_explanations": {
+    "err_tr_pron_1": "Füge immer das passende Personalsuffix an das Prädikat an."
+  },
+  "vocab_glosses": {
+    "tr.vocab.ogretmen": "Lehrer/in"
+  },
+  "locale": "de"
+}

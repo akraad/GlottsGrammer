@@ -1,0 +1,18 @@
+{
+  "title": "Oraciones de Participio Relativo en Turco (-en / -an)",
+  "summary": "Formar cláusulas relativas activas con '-en/-an'.",
+  "explanation": "Añade '-en/-an' a la raíz verbal para crear modificadores participiales que preceden al sustantivo.",
+  "rules": [
+    "Raíz Verbal + -en/-an + Sustantivo"
+  ],
+  "example_translations": {
+    "ex_tren_1": "El niño que lee un libro es muy inteligente."
+  },
+  "common_error_explanations": {
+    "err_tren_1": "Usa sufijos participios '-en/-an' para modificar sustantivos."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "leer"
+  },
+  "locale": "es"
+}

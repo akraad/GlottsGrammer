@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0.0",
+  "id": "fa.b1.verb.subjunctive-present",
+  "universal_concept_id": "verb.subjunctive.present",
+  "language": "fa",
+  "cefr": "B1",
+  "app_level": "intermediate",
+  "category": "verb",
+  "status": "approved",
+  "difficulty": 3,
+  "prerequisites": [
+    "fa.a1.verb.present-simple"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "be_prefix"
+        },
+        {
+          "slot": "present_stem"
+        },
+        {
+          "slot": "personal_suffix"
+        }
+      ],
+      "example": "بروم"
+    }
+  ],
+  "vocab": [
+    "fa.vocab.raftan"
+  ],
+  "examples": [
+    {
+      "id": "ex_subj_1",
+      "target_text": "می‌خواهم به خانه بروم.",
+      "tokens": [
+        {
+          "text": "می‌خواهم"
+        },
+        {
+          "text": "به"
+        },
+        {
+          "text": "خانه"
+        },
+        {
+          "text": "بروم"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_subj_1",
+      "incorrect": "می‌خواهم به خانه می‌روم.",
+      "explanation": "Use present subjunctive prefix 'بـ' after verbs of desire, necessity, or doubt."
+    }
+  ]
+}

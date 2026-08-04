@@ -1,0 +1,18 @@
+{
+  "locale": "pt",
+  "title": "[PT] German Basic Prepositions",
+  "summary": "[PT] German Basic Prepositions",
+  "explanation": "[PT] German Basic Prepositions",
+  "rules": [
+    "Präposition + Kasus (Akkusativ / Dativ)"
+  ],
+  "example_translations": {
+    "ex_de_1": "Ich bin in der Schule."
+  },
+  "common_error_explanations": {
+    "err_de_1": "Basic prepositions govern specific cases (Accusative or Dative) depending on whether there is movement or static position."
+  },
+  "vocab_glosses": {
+    "de.vocab.schule": "term"
+  }
+}

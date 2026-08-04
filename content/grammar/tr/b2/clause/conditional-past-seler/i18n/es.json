@@ -1,0 +1,18 @@
+{
+  "title": "Condicional Pasado Contrafáctico en Turco (-seydi)",
+  "summary": "Expresar condiciones pasadas imposibles o irreales.",
+  "explanation": "Añade '-seydi/-saydı' a la raíz verbal para expresar hipótesis irreales en el pasado.",
+  "rules": [
+    "Raíz Verbal + -seydi/-saydı + Sufijo Personal"
+  ],
+  "example_translations": {
+    "ex_trsed_1": "Si hubiera venido ayer, habría visto el libro."
+  },
+  "common_error_explanations": {
+    "err_trsed_1": "Usa '-seydi' para escenarios condicionales pasados irreales."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "leer"
+  },
+  "locale": "es"
+}

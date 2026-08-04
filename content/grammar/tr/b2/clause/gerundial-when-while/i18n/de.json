@@ -1,0 +1,18 @@
+{
+  "title": "Türkische Gerundialsätze (-ken / -ince)",
+  "summary": "Ausdruck von 'während' oder 'als' bei gleichzeitigen Handlungen.",
+  "explanation": "Füge '-ken' an Verben oder Nomen an, um Gleichzeitigkeit auszudrücken (z. B. gelirken = beim Kommen / während ich kam).",
+  "rules": [
+    "Verb/Nomen + -ken"
+  ],
+  "example_translations": {
+    "ex_trken_1": "Ich habe auf dem Heimweg Brot gekauft."
+  },
+  "common_error_explanations": {
+    "err_trken_1": "Verwende '-ken' direkt für gleichzeitige Handlungen."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "lesen"
+  },
+  "locale": "de"
+}

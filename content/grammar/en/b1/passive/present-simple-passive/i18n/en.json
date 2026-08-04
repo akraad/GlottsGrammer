@@ -1,0 +1,20 @@
+{
+  "locale": "en",
+  "title": "Present Simple Passive",
+  "summary": "Use the passive voice when the action is more important than who does it.",
+  "explanation": "Form it with am/is/are + Past Participle (3rd form of the verb).",
+  "rules": [
+    "Subject + am/is/are + Past Participle"
+  ],
+  "example_translations": {
+    "ex_pass_1": "Cars are made in this city."
+  },
+  "common_error_explanations": {
+    "err_pass_1": "Always use the past participle verb form in passive voice."
+  },
+  "vocab_glosses": {
+    "en.vocab.car": "car",
+    "en.vocab.make": "make",
+    "en.vocab.city": "city"
+  }
+}

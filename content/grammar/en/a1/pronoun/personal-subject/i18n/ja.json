@@ -1,0 +1,35 @@
+{
+  "$schema": "../../../../../schemas/grammar-i18n.schema.json",
+  "locale": "ja",
+  "translation_status": "draft",
+  "name": "主語代名詞",
+  "summary": "主語代名詞：文の主語として名詞を置き換える言葉。",
+  "explanation": "主語代名詞は、名詞を繰り返したくないときにその代わりに使われます。英語には7つの主語代名詞があります：I、you、he、she、it、we、they。単数と複数に分かれます。",
+  "form_notes": {
+    "singular": "単数：I（話し手）、you（話している相手1人）、he（男性1人）、she（女性1人）、it（物や動物1つ）。",
+    "plural": "複数：we（話し手と他の人々）、you（2人以上の相手）、they（他の人々や物）。"
+  },
+  "example_translations": {
+    "ex_01": "私は水を飲みます。",
+    "ex_02": "彼女は毎日働きます。",
+    "ex_03": "彼らはお茶を飲みます。"
+  },
+  "common_error_explanations": {
+    "err_01": "«Him»は目的語代名詞であり、主語代名詞ではありません。主語には«he»を使います。",
+    "err_02": "«Me»は目的語代名詞であり、主語代名詞ではありません。主語には«I»を使います。"
+  },
+  "vocab_glosses": {
+    "en.noun.student": "生徒 / 学生",
+    "en.noun.friend": "友達 / 友人",
+    "en.vocab.book": "本",
+    "en.noun.teacher": "先生 / 教師",
+    "en.noun.tea": "お茶 / 茶",
+    "en.verb.work": "働く",
+    "en.verb.drink": "飲む"
+  },
+  "title": "人称代名詞 (I, You, He, She...)",
+  "rules": [
+    "人称代名詞は主語として名詞の代わりに使用されます。",
+    "I は常に大文字で書きます。"
+  ]
+}

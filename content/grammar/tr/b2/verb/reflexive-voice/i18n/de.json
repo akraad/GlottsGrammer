@@ -1,0 +1,18 @@
+{
+  "title": "Türkisches Reflexivum (-in / -n)",
+  "summary": "Ausdruck von Handlungen, die das Subjekt an sich selbst ausübt.",
+  "explanation": "Füge '-in/-ın/-un/-ün' (bzw. '-n' nach Vokalen) an den Verbstamm an, um Reflexivität auszudrücken (z. B. yıkandı = er/sie hat sich gewaschen).",
+  "rules": [
+    "Verbstamm + -in/-n + Zeitform"
+  ],
+  "example_translations": {
+    "ex_trref_1": "Das Kind hat sich sofort gewaschen."
+  },
+  "common_error_explanations": {
+    "err_trref_1": "Verwende reflexive Suffixe, wenn sich die Handlung auf das Subjekt bezieht."
+  },
+  "vocab_glosses": {
+    "tr.vocab.ev": "Haus"
+  },
+  "locale": "de"
+}

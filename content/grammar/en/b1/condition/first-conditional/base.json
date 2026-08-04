@@ -1,0 +1,72 @@
+{
+  "schema_version": "1.0.0",
+  "id": "en.b1.condition.first-conditional",
+  "universal_concept_id": "condition.first.conditional",
+  "language": "en",
+  "cefr": "B1",
+  "app_level": "intermediate",
+  "category": "condition",
+  "status": "approved",
+  "difficulty": 3,
+  "prerequisites": [
+    "en.a1.verb.present-simple",
+    "en.a2.verb.future-will"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "if"
+        },
+        {
+          "slot": "present_simple"
+        },
+        {
+          "slot": "future_will"
+        }
+      ],
+      "example": "If it rains, I will stay at home."
+    }
+  ],
+  "vocab": [
+    "en.vocab.rain",
+    "en.vocab.home"
+  ],
+  "examples": [
+    {
+      "id": "ex_fc_1",
+      "target_text": "If it rains, I will stay home.",
+      "tokens": [
+        {
+          "text": "If"
+        },
+        {
+          "text": "it"
+        },
+        {
+          "text": "rains"
+        },
+        {
+          "text": "I"
+        },
+        {
+          "text": "will"
+        },
+        {
+          "text": "stay"
+        },
+        {
+          "text": "home"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_fc_1",
+      "incorrect": "If it will rain, I stay home.",
+      "explanation": "Use present simple in the 'if' clause, not 'will'."
+    }
+  ]
+}

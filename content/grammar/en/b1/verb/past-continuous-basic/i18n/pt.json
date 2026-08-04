@@ -1,0 +1,20 @@
+{
+  "title": "Passado Contínuo",
+  "summary": "Use was/were + verb-ing para ações que estavam acontecendo em um momento específico do passado.",
+  "explanation": "O passado contínuo é formado com was/were mais a forma -ing do verbo.",
+  "rules": [
+    "I/He/She/It + was + verb-ing",
+    "You/We/They + were + verb-ing"
+  ],
+  "example_translations": {
+    "ex_pcont_1": "Eu estava caminhando ontem."
+  },
+  "common_error_explanations": {
+    "err_pcont_1": "Use 'was' para sujeitos no singular."
+  },
+  "vocab_glosses": {
+    "en.vocab.walk": "caminhar",
+    "en.vocab.yesterday": "ontem"
+  },
+  "locale": "pt"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Passé Continu en Persan",
+  "summary": "Exprimer des actions continues dans le passé.",
+  "explanation": "Préfixe 'می-' + Racine du passé + Suffixes personnels.",
+  "rules": [
+    "می- + Racine du passé + Suffixes"
+  ],
+  "example_translations": {
+    "ex_pcont_1": "J'étais en train de lire un livre."
+  },
+  "common_error_explanations": {
+    "err_pcont_1": "Utilisez le préfixe 'می-' avec le radical du passé."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "aller"
+  },
+  "locale": "fr"
+}

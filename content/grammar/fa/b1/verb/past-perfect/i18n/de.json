@@ -1,0 +1,18 @@
+{
+  "title": "Persisches Plusquamperfekt",
+  "summary": "Ausdruck von Handlungen перед einem anderen Vergangenheitsereignis.",
+  "explanation": "Partizip Perfekt + konjugierte Formen von 'بودن' im Präteritum.",
+  "rules": [
+    "Partizip Perfekt + بودم"
+  ],
+  "example_translations": {
+    "ex_pperf_1": "Ich war vor ihm/ihr nach Hause gegangen."
+  },
+  "common_error_explanations": {
+    "err_pperf_1": "Verwende das Partizip Perfekt vor 'بودم'."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "gehen"
+  },
+  "locale": "de"
+}

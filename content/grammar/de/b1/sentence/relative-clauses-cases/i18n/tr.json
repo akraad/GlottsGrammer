@@ -1,0 +1,18 @@
+{
+  "locale": "tr",
+  "title": "German Relative Clauses with Cases",
+  "summary": "Using relative pronouns governed by prepositions and cases.",
+  "explanation": "Using relative pronouns governed by prepositions and cases.",
+  "rules": [
+    "Nomen + Komma + Präposition + Relativpronomen (Dativ/Akk) + ... + Verb (Ende)"
+  ],
+  "example_translations": {
+    "ex_de_b1_2": "Das ist der Mann, mit dem ich spreche."
+  },
+  "common_error_explanations": {
+    "err_de_b1_2": "Match relative pronouns with the correct case required by prepositions."
+  },
+  "vocab_glosses": {
+    "de.vocab.sprechen": "sprechen"
+  }
+}

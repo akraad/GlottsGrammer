@@ -1,0 +1,18 @@
+{
+  "title": "Persian Present Perfect Tense",
+  "summary": "Expressing past actions with relevance to the present.",
+  "explanation": "Past Participle (Past Stem + ﻩ) + Conjugated suffixes (-ام, -ای, است, -ایم, -اید, -اند).",
+  "rules": [
+    "Past Participle + Suffixes"
+  ],
+  "example_translations": {
+    "ex_perf_1": "I have read this book."
+  },
+  "common_error_explanations": {
+    "err_perf_1": "Use present perfect for actions with present relevance."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "go"
+  },
+  "locale": "en"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Личные местоимения в турецком языке",
+  "summary": "Местоимения в роли подлежащего (ben, sen, o...).",
+  "explanation": "В турецком языке 6 личных местоимений: ben (я), sen (ты), o (он/она/оно), biz (мы), siz (вы), onlar (они).",
+  "rules": [
+    "ben",
+    "sen",
+    "o",
+    "biz",
+    "siz",
+    "onlar"
+  ],
+  "example_translations": {
+    "ex_tr_pron_1": "Я учитель."
+  },
+  "common_error_explanations": {
+    "err_tr_pron_1": "Всегда прибавляйте соответствующий сказуемому личный аффикс."
+  },
+  "vocab_glosses": {
+    "tr.vocab.ogretmen": "учитель"
+  },
+  "locale": "ru"
+}

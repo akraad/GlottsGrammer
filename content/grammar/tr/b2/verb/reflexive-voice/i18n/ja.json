@@ -1,0 +1,18 @@
+{
+  "title": "トルコ語の再帰態 (-in / -n)",
+  "summary": "主語が自分自身に対して行う動作を表します。",
+  "explanation": "動詞語幹に '-in/-ın/-un/-ün' (母音終わりの場合は '-n') を付けて再帰動詞を作ります (例: yıkandı = 洗った/身を清めた)。",
+  "rules": [
+    "動詞語幹 + 再帰接尾辞 + 時制"
+  ],
+  "example_translations": {
+    "ex_trref_1": "子供はすぐに体を洗いました。"
+  },
+  "common_error_explanations": {
+    "err_trref_1": "主語が自分自身に動作を行う場合は再帰接尾辞を使用してください。"
+  },
+  "vocab_glosses": {
+    "tr.vocab.ev": "家"
+  },
+  "locale": "ja"
+}

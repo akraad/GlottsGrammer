@@ -1,0 +1,70 @@
+{
+  "schema_version": "1.0.0",
+  "id": "fa.c1.noun.vocalic-pluralization",
+  "universal_concept_id": "noun.vocalic.pluralization",
+  "language": "fa",
+  "cefr": "C1",
+  "app_level": "advanced",
+  "category": "noun",
+  "status": "approved",
+  "difficulty": 3,
+  "prerequisites": [
+    "fa.a1.noun.plural-basic"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "vowel_ending_noun"
+        },
+        {
+          "slot": "glide_consonant"
+        },
+        {
+          "slot": "an_or_ha_suffix"
+        }
+      ],
+      "example": "دانایان"
+    }
+  ],
+  "vocab": [
+    "fa.vocab.book"
+  ],
+  "examples": [
+    {
+      "id": "ex_vpl_1",
+      "target_text": "دانایان و سخنوران کشور گرد هم آمدند.",
+      "tokens": [
+        {
+          "text": "دانایان"
+        },
+        {
+          "text": "و"
+        },
+        {
+          "text": "سخنوران"
+        },
+        {
+          "text": "کشور"
+        },
+        {
+          "text": "گرد"
+        },
+        {
+          "text": "هم"
+        },
+        {
+          "text": "آمدند"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_vpl_1",
+      "incorrect": "داناان و سخنوران کشور گرد هم آمدند.",
+      "explanation": "Insert the glide consonant 'ی' or 'گ' when pluralizing vowel-ending nouns with '-ان' (e.g., دانا -> دانایان)."
+    }
+  ]
+}

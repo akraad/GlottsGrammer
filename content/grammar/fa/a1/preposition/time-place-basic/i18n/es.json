@@ -1,0 +1,18 @@
+{
+  "title": "Preposiciones Básicas en Persa",
+  "summary": "Expresar lugar y dirección (در, به, از, روی).",
+  "explanation": "Las preposiciones en persa van ANTES del sustantivo.",
+  "rules": [
+    "Preposición + Sustantivo"
+  ],
+  "example_translations": {
+    "ex_prep_1": "Ali está en casa."
+  },
+  "common_error_explanations": {
+    "err_prep_1": "Coloca la preposición antes del sustantivo."
+  },
+  "vocab_glosses": {
+    "fa.vocab.home": "casa"
+  },
+  "locale": "es"
+}

@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.0.0",
+  "id": "tr.a1.preposition.locative-case",
+  "universal_concept_id": "preposition.locative.case",
+  "language": "tr",
+  "cefr": "A1",
+  "app_level": "beginner",
+  "category": "preposition",
+  "status": "approved",
+  "difficulty": 1,
+  "prerequisites": [
+    "tr.a1.noun.vowel-harmony-plural"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "noun_stem"
+        },
+        {
+          "slot": "locative_suffix"
+        }
+      ],
+      "example": "evde"
+    }
+  ],
+  "vocab": [
+    "tr.vocab.ev",
+    "tr.vocab.kitap"
+  ],
+  "examples": [
+    {
+      "id": "ex_trloc_1",
+      "target_text": "Ali şu an evde.",
+      "tokens": [
+        {
+          "text": "Ali"
+        },
+        {
+          "text": "şu"
+        },
+        {
+          "text": "an"
+        },
+        {
+          "text": "evde."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_trloc_1",
+      "incorrect": "Ali şu an evda.",
+      "explanation": "Use '-de' for front vowels (e, i, ö, ü) and '-da' for back vowels (a, ı, o, u). Change 'd' to 't' after unvoiced consonants."
+    }
+  ]
+}

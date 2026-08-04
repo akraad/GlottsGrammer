@@ -1,0 +1,19 @@
+{
+  "title": "Réductions de Mots en Persan Parlé",
+  "summary": "Comment le persan parlé raccourcit les voyelles et les verbes au quotidien.",
+  "explanation": "Le persan parlé transforme le son 'ân' en 'oon' (ex. خانه -> خونه) et simplifie les verbes.",
+  "rules": [
+    "Son ân -> Son oon",
+    "Raccourcissement verbal (می‌روم -> می‌رم)"
+  ],
+  "example_translations": {
+    "ex_red_1": "Je veux rentrer chez moi."
+  },
+  "common_error_explanations": {
+    "err_red_1": "Utilisez les réductions parlées dans les conversations informelles."
+  },
+  "vocab_glosses": {
+    "fa.vocab.home": "maison"
+  },
+  "locale": "fr"
+}

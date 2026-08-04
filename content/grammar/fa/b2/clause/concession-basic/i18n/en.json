@@ -1,0 +1,18 @@
+{
+  "title": "Concessive Clauses in Persian (اگرچه)",
+  "summary": "Expressing contrast or concession using 'اگرچه' or 'با اینکه' (Although/Even though).",
+  "explanation": "Place 'اگرچه' at the start of the concessive clause, often paired with 'اما' in the main clause.",
+  "rules": [
+    "اگرچه + Concessive Clause, اما + Main Clause"
+  ],
+  "example_translations": {
+    "ex_conc_1": "Although it was rainy, he/she went out."
+  },
+  "common_error_explanations": {
+    "err_conc_1": "Use 'اگرچه' or 'با اینکه' to show contrast between two statements."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "go"
+  },
+  "locale": "en"
+}

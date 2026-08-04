@@ -1,0 +1,64 @@
+{
+  "schema_version": "1.0.0",
+  "id": "fa.b1.verb.subjunctive-past",
+  "universal_concept_id": "verb.subjunctive.past",
+  "language": "fa",
+  "cefr": "B1",
+  "app_level": "intermediate",
+  "category": "verb",
+  "status": "approved",
+  "difficulty": 4,
+  "prerequisites": [
+    "fa.b1.verb.subjunctive-present"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "past_participle"
+        },
+        {
+          "slot": "basham_auxiliary"
+        }
+      ],
+      "example": "رفته باشم"
+    }
+  ],
+  "vocab": [
+    "fa.vocab.raftan"
+  ],
+  "examples": [
+    {
+      "id": "ex_psubj_1",
+      "target_text": "شاید او به خانه رفته باشد.",
+      "tokens": [
+        {
+          "text": "شاید"
+        },
+        {
+          "text": "او"
+        },
+        {
+          "text": "به"
+        },
+        {
+          "text": "خانه"
+        },
+        {
+          "text": "رفته"
+        },
+        {
+          "text": "باشد"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_psubj_1",
+      "incorrect": "شاید او به خانه رفت است.",
+      "explanation": "Express past doubt or possibility using Past Participle + 'باشم/باشی/باشد'."
+    }
+  ]
+}

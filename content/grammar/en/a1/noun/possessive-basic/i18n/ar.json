@@ -1,0 +1,15 @@
+{
+  "locale": "ar",
+  "title": "Possessive Nouns",
+  "summary": "Add 's to show possession.",
+  "explanation": "Use 's for singular nouns.",
+  "rules": [
+    "Add 's to singular nouns."
+  ],
+  "example_translations": {
+    "ex_pos_1": "This is John's car."
+  },
+  "vocab_glosses": {
+    "en.vocab.car": "car"
+  }
+}

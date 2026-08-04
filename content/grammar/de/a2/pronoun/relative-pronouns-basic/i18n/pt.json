@@ -1,0 +1,18 @@
+{
+  "locale": "pt",
+  "title": "[PT] [PT] German Basic Relative Pronouns",
+  "summary": "[PT] [PT] German Basic Relative Pronouns",
+  "explanation": "[PT] [PT] German Basic Relative Pronouns",
+  "rules": [
+    "Nomen + Komma + Relativpronomen + ... + Verb (Ende)"
+  ],
+  "example_translations": {
+    "ex_de_a2_2": "Das ist der Mann, der dort wohnt."
+  },
+  "common_error_explanations": {
+    "err_de_a2_2": "Relative clauses require relative pronouns (der, die, das) matching the gender/case, pushing the verb to the end."
+  },
+  "vocab_glosses": {
+    "de.vocab.mann": "term"
+  }
+}

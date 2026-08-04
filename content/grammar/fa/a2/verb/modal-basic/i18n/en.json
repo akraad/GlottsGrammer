@@ -1,0 +1,18 @@
+{
+  "title": "Basic Persian Modal Verbs",
+  "summary": "Expressing ability, obligation, and desire (توانستن, باید).",
+  "explanation": "Modal verbs are followed by the main verb in the subjunctive mood.",
+  "rules": [
+    "Modal Verb + Subjunctive Verb"
+  ],
+  "example_translations": {
+    "ex_mod_1": "I can speak Persian."
+  },
+  "common_error_explanations": {
+    "err_mod_1": "Use subjunctive mood after modal verbs like 'می‌توانم'."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "go"
+  },
+  "locale": "en"
+}

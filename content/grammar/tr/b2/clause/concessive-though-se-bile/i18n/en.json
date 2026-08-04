@@ -1,0 +1,18 @@
+{
+  "title": "Turkish Concessive Clause ('Even If' -se bile)",
+  "summary": "Expressing concessive 'even if' conditions.",
+  "explanation": "Combine the conditional suffix '-se/-sa' with the word 'bile' (even) to mean 'even if' (e.g., gelse bile = even if he/she comes).",
+  "rules": [
+    "Verb Stem + -se/-sa + bile"
+  ],
+  "example_translations": {
+    "ex_trbile_1": "Even if he/she comes tomorrow, I won't be able to see him/her."
+  },
+  "common_error_explanations": {
+    "err_trbile_1": "Use '-se bile' to express 'even if' conditions."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "read"
+  },
+  "locale": "en"
+}

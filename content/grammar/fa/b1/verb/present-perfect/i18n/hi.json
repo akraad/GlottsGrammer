@@ -1,0 +1,18 @@
+{
+  "title": "फ़ारसी में आसन्न भूतकाल (Present Perfect)",
+  "summary": "अतीत के कार्यों को व्यक्त करना जिनका प्रभाव वर्तमान में है।",
+  "explanation": "कृदंत (Past Participle) + प्रत्यय (-ام, -ای, است...)।",
+  "rules": [
+    "कृदंत + प्रत्यय"
+  ],
+  "example_translations": {
+    "ex_perf_1": "मैंने यह किताब पढ़ी है।"
+  },
+  "common_error_explanations": {
+    "err_perf_1": "वर्तमान से जुड़े कार्यों के लिए आसन्न भूतकाल का प्रयोग करें।"
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "जाना"
+  },
+  "locale": "hi"
+}

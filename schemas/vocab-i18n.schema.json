@@ -1,0 +1,16 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Vocabulary i18n",
+  "description": "Schema for a locale-specific translation record of a vocabulary item (used if translations are stored separately from the base record).",
+  "type": "object",
+  "required": ["locale","translation"],
+  "additionalProperties": false,
+  "properties": {
+    "$schema":{"type":"string","format":"uri"},
+    "locale":{"type":"string","enum":["ar","de","en","es","fa","fr","hi","ja","pt","ru","tr"]},
+    "translation":{"type":"string","minLength":1},
+    "notes":{"type":["string","null"]},
+    "example_translation":{"type":"string"},
+    "status":{"type":"string","enum":["draft","translated","reviewed","approved"]}
+  }
+}

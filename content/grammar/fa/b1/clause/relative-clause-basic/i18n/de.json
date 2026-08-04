@@ -1,0 +1,18 @@
+{
+  "title": "Persische Relativsätze (که)",
+  "summary": "Beschreiben von Nomen mit der Relativpartikel 'که'.",
+  "explanation": "Nomen + einschränkendes 'ی' + که + Relativsatz.",
+  "rules": [
+    "Nomen + ی + که + Relativsatz"
+  ],
+  "example_translations": {
+    "ex_rel_1": "Das Buch, das ich gekauft habe, ist interessant."
+  },
+  "common_error_explanations": {
+    "err_rel_1": "Füge das einschränkende 'ی' vor 'که' an das Nomen an."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "Buch"
+  },
+  "locale": "de"
+}

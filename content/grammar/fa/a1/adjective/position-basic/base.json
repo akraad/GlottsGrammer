@@ -1,0 +1,65 @@
+{
+  "schema_version": "1.0.0",
+  "id": "fa.a1.adjective.position-basic",
+  "universal_concept_id": "adjective.position.basic",
+  "language": "fa",
+  "cefr": "A1",
+  "app_level": "beginner",
+  "category": "adjective",
+  "status": "approved",
+  "difficulty": 1,
+  "prerequisites": [
+    "fa.a1.noun.ezafe-construction"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "noun"
+        },
+        {
+          "slot": "ezafe"
+        },
+        {
+          "slot": "adjective"
+        }
+      ],
+      "example": "خانهٔ بزرگ"
+    }
+  ],
+  "vocab": [
+    "fa.vocab.home",
+    "fa.vocab.bozorg"
+  ],
+  "examples": [
+    {
+      "id": "ex_adj_1",
+      "target_text": "این یک خانهٔ بزرگ است.",
+      "tokens": [
+        {
+          "text": "این"
+        },
+        {
+          "text": "یک"
+        },
+        {
+          "text": "خانهٔ"
+        },
+        {
+          "text": "بزرگ"
+        },
+        {
+          "text": "است"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_adj_1",
+      "incorrect": "این یک بزرگ خانه است.",
+      "explanation": "In Persian, adjectives follow nouns, connected by Ezafe."
+    }
+  ]
+}

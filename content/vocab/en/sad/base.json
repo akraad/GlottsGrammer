@@ -1,0 +1,27 @@
+{
+  "id": "en.adj.sad",
+  "language": "en",
+  "lemma": "sad",
+  "pos": "adjective",
+  "cefr": "A1",
+  "frequency_rank": 900,
+  "comparative": "sadder",
+  "superlative": "saddest",
+  "tags": [
+    "emotion",
+    "feeling"
+  ],
+  "translations": {
+    "ar": "حزين",
+    "de": "traurig",
+    "en": "sad",
+    "es": "triste",
+    "fa": "غمگین",
+    "fr": "triste",
+    "hi": "दुखी",
+    "ja": "悲しい",
+    "pt": "triste",
+    "ru": "грустный",
+    "tr": "üzgün"
+  }
+}

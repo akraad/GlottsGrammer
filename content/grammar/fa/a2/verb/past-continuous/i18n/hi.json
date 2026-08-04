@@ -1,0 +1,18 @@
+{
+  "title": "फ़ारसी में अपूर्ण भूतकाल (Past Continuous)",
+  "summary": "अतीत के निरंतर कार्यों को व्यक्त करना।",
+  "explanation": "उपसर्ग 'می-' + भूतकाल धातु + पुरुषवाचक प्रत्यय।",
+  "rules": [
+    "می- + भूतकाल धातु + प्रत्यय"
+  ],
+  "example_translations": {
+    "ex_pcont_1": "मैं किताब पढ़ रहा था।"
+  },
+  "common_error_explanations": {
+    "err_pcont_1": "भूतकाल धातु से पहले 'می-' उपसर्ग का प्रयोग करें।"
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "जाना"
+  },
+  "locale": "hi"
+}

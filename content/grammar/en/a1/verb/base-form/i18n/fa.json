@@ -1,0 +1,40 @@
+{
+  "$schema": "../../../../../schemas/grammar-i18n.schema.json",
+  "locale": "fa",
+  "translation_status": "draft",
+  "name": "شکل ساده‌ی فعل",
+  "summary": "شکل ساده‌ی فعل، ساده‌ترین شکل فعل بدون هیچ پسوندی است. با I، you، we، they و بعد از do/does در جمله‌های منفی و سوالی استفاده می‌شود.",
+  "explanation": "هر فعل انگلیسی پنج شکل دارد: ساده، سوم شخص مفرد (-s)، گذشته، اسم مفعول و حال فاعلی (-ing). شکل ساده همان شکلی است که در فرهنگ‌لغت می‌آید. این شکل بعد از I/you/we/they، بعد از افعال کمکی (can, will, should) و در جمله‌های منفی و سوالی با do/does/did استفاده می‌شود.",
+  "form_notes": {
+    "base_with_i_you_we_they": "با I، you، we، they از شکل ساده‌ی فعل استفاده کنید.",
+    "base_after_does_not": "با he/she/it در جمله‌ی منفی، بعد از does not فعل به شکل ساده برمی‌گردد.",
+    "base_after_do_question": "در جمله‌ی سوالی با Do/Does، فعل به شکل ساده می‌آید."
+  },
+  "example_translations": {
+    "ex_01": "من آب می‌نوشم.",
+    "ex_02": "آن‌ها چای نمی‌نوشند.",
+    "ex_03": "آیا او آب دوست دارد؟"
+  },
+  "common_error_explanations": {
+    "err_01": "با I/you/we/they فعل به شکل ساده می‌آید و s نمی‌گیرد.",
+    "err_02": "بعد از does در سوال، فعل اصلی به شکل ساده برمی‌گردد و s نمی‌گیرد."
+  },
+  "vocab_glosses": {
+    "en.verb.drink": "نوشیدن",
+    "en.noun.water": "آب",
+    "en.noun.tea": "چای",
+    "en.verb.like": "دوست داشتن",
+    "en.verb.want": "خواستن",
+    "en.verb.have": "داشتن",
+    "en.verb.do": "انجام دادن",
+    "en.vocab.go": "رفتن",
+    "en.vocab.eat": "خوردن",
+    "en.vocab.see": "دیدن",
+    "en.verb.come": "آمدن"
+  },
+  "title": "شکل پایه و مصدر فعل",
+  "rules": [
+    "شکل ساده و اولیه فعل بدون هیچ پسوندی.",
+    "بعد از افعال کمکی از شکل پایه استفاده می‌شود."
+  ]
+}

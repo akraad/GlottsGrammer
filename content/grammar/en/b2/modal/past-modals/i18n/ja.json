@@ -1,0 +1,18 @@
+{
+  "title": "過去の助動詞 (Should have)",
+  "summary": "過去の出来事に対する後悔や批判を表します。",
+  "explanation": "主語 + should have + 過去分詞。",
+  "rules": [
+    "Should have + 過去分詞"
+  ],
+  "example_translations": {
+    "ex_pm_1": "もっと勉強しておくべきでした。"
+  },
+  "common_error_explanations": {
+    "err_pm_1": "should of ではなく should have と書いてください。"
+  },
+  "vocab_glosses": {
+    "en.vocab.study": "勉強する"
+  },
+  "locale": "ja"
+}

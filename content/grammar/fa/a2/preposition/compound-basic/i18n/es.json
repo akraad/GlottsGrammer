@@ -1,0 +1,18 @@
+{
+  "title": "Preposiciones Compuestas en Persa",
+  "summary": "Uso de preposiciones que requieren Ezafe (دربارهٔ, برایِ, بدونِ).",
+  "explanation": "Las preposiciones compuestas se conectan al sustantivo mediante Ezafe.",
+  "rules": [
+    "Preposición Compuesta + Ezafe + Sustantivo"
+  ],
+  "example_translations": {
+    "ex_cprep_1": "Hablamos sobre este libro."
+  },
+  "common_error_explanations": {
+    "err_cprep_1": "No omitas el Ezafe al conectar preposiciones compuestas."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "libro"
+  },
+  "locale": "es"
+}

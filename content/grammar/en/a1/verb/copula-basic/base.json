@@ -1,0 +1,97 @@
+{
+  "$schema": "../../../../../schemas/grammar-base.schema.json",
+  "schema_version": 1,
+  "id": "en.a1.verb.copula-basic",
+  "universal_concept_id": "verb.copula.basic",
+  "language": "en",
+  "cefr": "A1",
+  "app_level": "beginner",
+  "category": "verb",
+  "subcategory": "copula",
+  "status": "draft",
+  "difficulty": 2,
+  "prerequisites": [
+    "en.a1.pronoun.personal-subject"
+  ],
+  "forms": [
+    {
+      "id": "affirmative",
+      "type": "affirmative",
+      "pattern": [
+        "subject",
+        "am/is/are",
+        "complement"
+      ],
+      "example": "I am a student."
+    },
+    {
+      "id": "negative",
+      "type": "negative",
+      "pattern": [
+        "subject",
+        "am/is/are",
+        "not",
+        "complement"
+      ],
+      "example": "She is not at home."
+    },
+    {
+      "id": "question",
+      "type": "question",
+      "pattern": [
+        "Am/Is/Are",
+        "subject",
+        "complement"
+      ],
+      "example": "Are you happy today?"
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex_01",
+      "target_text": "I am a student.",
+      "reading": null,
+      "audio": null
+    },
+    {
+      "id": "ex_02",
+      "target_text": "She is not at home.",
+      "reading": null,
+      "audio": null
+    },
+    {
+      "id": "ex_03",
+      "target_text": "Are you happy today?",
+      "reading": null,
+      "audio": null
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_01",
+      "wrong": "I is a student.",
+      "correct": "I am a student."
+    },
+    {
+      "id": "err_02",
+      "wrong": "He are happy.",
+      "correct": "He is happy."
+    }
+  ],
+  "vocab": [
+    "en.verb.be",
+    "en.adj.happy",
+    "en.adj.sad",
+    "en.adj.tired",
+    "en.adj.hungry",
+    "en.vocab.home",
+    "en.noun.school",
+    "en.noun.work"
+  ],
+  "tags": [
+    "to be",
+    "identity",
+    "description",
+    "state"
+  ]
+}

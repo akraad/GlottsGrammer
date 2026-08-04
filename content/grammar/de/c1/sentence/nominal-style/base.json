@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0.0",
+  "id": "de.c1.sentence.nominal-style",
+  "universal_concept_id": "sentence.nominal.style.german",
+  "language": "de",
+  "cefr": "C1",
+  "app_level": "advanced",
+  "category": "sentence",
+  "status": "approved",
+  "difficulty": 5,
+  "prerequisites": [
+    "de.b2.sentence.nominalization"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "preposition_with_genitive_or_dative"
+        },
+        {
+          "slot": "nominalized_noun_phrase"
+        }
+      ],
+      "example": "Nach Abschluss des Studiums"
+    }
+  ],
+  "vocab": [
+    "de.vocab.studium"
+  ],
+  "examples": [
+    {
+      "id": "ex_de_c1",
+      "target_text": "Nach Abschluss des Studiums begann er zu arbeiten.",
+      "tokens": [
+        {
+          "text": "Nach"
+        },
+        {
+          "text": "Abschluss"
+        },
+        {
+          "text": "des"
+        },
+        {
+          "text": "Studiums..."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_de_c1",
+      "incorrect": "Nachdem er das Studium abgeschlossen hatte, begann er...",
+      "explanation": "In advanced academic writing (Nominalstil), subordinate clauses are often replaced by dense nominal phrases."
+    }
+  ]
+}

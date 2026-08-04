@@ -1,0 +1,18 @@
+{
+  "locale": "hi",
+  "title": "modal verbs (बुनियादी)",
+  "summary": "वाक्य के अंत में इन्फिनिटी वर्ब के साथ मॉडल वर्ब का उपयोग करना।",
+  "explanation": "वाक्य के अंत में इन्फिनिटी वर्ब के साथ मॉडल वर्ब का उपयोग करना।",
+  "rules": [
+    "Subject + Modal verb (Pos 2) + ... + Infinitive (End)"
+  ],
+  "example_translations": {
+    "ex_de_2": "Ich kann gut schwimmen."
+  },
+  "common_error_explanations": {
+    "err_de_2": "मॉडल वर्ब का उपयोग करते समय मुख्य क्रिया को अंत में रखें।"
+  },
+  "vocab_glosses": {
+    "de.vocab.schwimmen": "तरना"
+  }
+}

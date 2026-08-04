@@ -1,0 +1,18 @@
+{
+  "title": "التراكيب غير الشخصية والمتقدمة في التركية",
+  "summary": "استخدام التراكيب البلاغية والغير شخصية.",
+  "explanation": "تراكيب متقدمة للمستوى C1.",
+  "rules": [
+    "Embedded Participial Framing + Matrix Predicate"
+  ],
+  "example_translations": {
+    "ex_c1_2": "Bilindiği üzere, edebiyat tarihimiz zengin bir mirasa sahiptir."
+  },
+  "common_error_explanations": {
+    "err_c1_2": "استخدم التراكيب الرسمية المناسبة."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "قراءة"
+  },
+  "locale": "ar"
+}

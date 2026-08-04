@@ -1,0 +1,18 @@
+{
+  "title": "Oraciones de Relativo de Objeto en Turco (-dik)",
+  "summary": "Formar relativas donde el sustantivo es el objeto.",
+  "explanation": "Añade '-dik' y sufijos posesivos a la raíz verbal para crear cláusulas relativas de objeto.",
+  "rules": [
+    "Raíz Verbal + -dik + Posesivo + Sustantivo"
+  ],
+  "example_translations": {
+    "ex_trdik_1": "El libro que leí ayer era muy bonito."
+  },
+  "common_error_explanations": {
+    "err_trdik_1": "Usa el sufijo de participio de objeto '-dik' con posesivos."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "leer"
+  },
+  "locale": "es"
+}

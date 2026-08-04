@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0.0",
+  "id": "fa.b2.verb.causative-form",
+  "universal_concept_id": "verb.causative.form",
+  "language": "fa",
+  "cefr": "B2",
+  "app_level": "upper_intermediate",
+  "category": "verb",
+  "status": "approved",
+  "difficulty": 4,
+  "prerequisites": [
+    "fa.a1.verb.present-simple"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "present_stem"
+        },
+        {
+          "slot": "and_suffix"
+        },
+        {
+          "slot": "verb_conjugation"
+        }
+      ],
+      "example": "خوراندن"
+    }
+  ],
+  "vocab": [
+    "fa.vocab.raftan"
+  ],
+  "examples": [
+    {
+      "id": "ex_caus_1",
+      "target_text": "مادر کودک را خواباند.",
+      "tokens": [
+        {
+          "text": "مادر"
+        },
+        {
+          "text": "کودک"
+        },
+        {
+          "text": "را"
+        },
+        {
+          "text": "خواباند"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_caus_1",
+      "incorrect": "مادر کودک را خوابید.",
+      "explanation": "Attach '-اندن' or '-انیدن' to present stems to form transitives/causatives."
+    }
+  ]
+}

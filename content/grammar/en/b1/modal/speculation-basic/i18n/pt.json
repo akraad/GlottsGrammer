@@ -1,0 +1,18 @@
+{
+  "title": "Especulação (Might, May, Could)",
+  "summary": "Use might, may ou could para expressar possibilidade.",
+  "explanation": "Sujeito + might/may/could + verbo base.",
+  "rules": [
+    "Nunca use 'to' após esses modais."
+  ],
+  "example_translations": {
+    "ex_spec_1": "Pode ser que chova hoje."
+  },
+  "common_error_explanations": {
+    "err_spec_1": "Não use 'to' depois de might."
+  },
+  "vocab_glosses": {
+    "en.vocab.rain": "chover"
+  },
+  "locale": "pt"
+}

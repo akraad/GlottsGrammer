@@ -1,0 +1,19 @@
+{
+  "title": "Cümlede Zarfın Yeri",
+  "summary": "Zaman ve yer zarflarının doğru sıralanışı.",
+  "explanation": "Zaman zarfları özneden sonra, yer zarfları ise zaman zarfından sonra gelir.",
+  "rules": [
+    "Özne + Zaman Zarfı + Yer Zarfı + Nesne + Yüklem"
+  ],
+  "example_translations": {
+    "ex_advp_1": "Dün evde kitap okudum."
+  },
+  "common_error_explanations": {
+    "err_advp_1": "Zarfları nesne ve fiilden önce kullanın."
+  },
+  "vocab_glosses": {
+    "fa.vocab.home": "ev",
+    "fa.vocab.raftan": "gitmek"
+  },
+  "locale": "tr"
+}

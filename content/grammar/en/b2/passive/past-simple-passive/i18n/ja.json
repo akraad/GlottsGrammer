@@ -1,0 +1,19 @@
+{
+  "title": "過去形の受動態",
+  "summary": "目的語に焦点を当てた過去の動作を表します。",
+  "explanation": "Was/Were + 過去分詞。",
+  "rules": [
+    "単数 -> Was + 過去分詞",
+    "複数 -> Were + 過去分詞"
+  ],
+  "example_translations": {
+    "ex_psp_1": "この家は1990年に建てられました。"
+  },
+  "common_error_explanations": {
+    "err_psp_1": "受動態では必ず過去分詞形を使用してください。"
+  },
+  "vocab_glosses": {
+    "en.vocab.build": " me建て"
+  },
+  "locale": "ja"
+}

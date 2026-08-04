@@ -1,0 +1,19 @@
+{
+  "title": "Position de l'Adjectif en Persan",
+  "summary": "Les adjectifs suivent le nom grâce à l'Ezafe.",
+  "explanation": "Comme en français, l'adjectif se place APRÈS le nom.",
+  "rules": [
+    "Nom + -e + Adjectif"
+  ],
+  "example_translations": {
+    "ex_adj_1": "C'est une grande maison."
+  },
+  "common_error_explanations": {
+    "err_adj_1": "Placez l'adjectif APRÈS le nom."
+  },
+  "vocab_glosses": {
+    "fa.vocab.home": "maison",
+    "fa.vocab.bozorg": "grand"
+  },
+  "locale": "fr"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Turkish Question Particle (mı / mi / mu / mü)",
+  "summary": "Forming Yes/No questions in Turkish.",
+  "explanation": "Written separately from the preceding word, following 4-way vowel harmony. Personal endings attach to the particle (e.g., okuyor musun?).",
+  "rules": [
+    "Statement + mı/mi/mu/mü + Ending"
+  ],
+  "example_translations": {
+    "ex_trmi_1": "Are you reading a book?"
+  },
+  "common_error_explanations": {
+    "err_trmi_1": "Attach personal endings to the question particle, not the verb."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "read"
+  },
+  "locale": "en"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Türkische Fragepartikel (mı / mi / mu / mü)",
+  "summary": "Ja/Nein-Fragen bilden.",
+  "explanation": "Wird getrennt geschrieben und folgt der 4-fachen Vokalharmonie. Personalsuffixe werden an die Partikel angehängt (z. B. okuyor musun?).",
+  "rules": [
+    "Aussage + mı/mi/mu/mü + Endung"
+  ],
+  "example_translations": {
+    "ex_trmi_1": "Liest du ein Buch?"
+  },
+  "common_error_explanations": {
+    "err_trmi_1": "Hänge Personalsuffixe an die Fragepartikel an."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "lesen"
+  },
+  "locale": "de"
+}

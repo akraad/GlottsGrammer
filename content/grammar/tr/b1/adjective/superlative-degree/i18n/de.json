@@ -1,0 +1,18 @@
+{
+  "title": "Türkischer Superlativ (En)",
+  "summary": "Bildung des Superlativs ('der/die/das größte').",
+  "explanation": "Setze das Wort 'en' direkt vor das Adjektiv, um den Superlativ zu bilden (z. B. en büyük = der größte).",
+  "rules": [
+    "en + Adjektiv"
+  ],
+  "example_translations": {
+    "ex_trsup_1": "Dies ist das größte Haus in der Stadt."
+  },
+  "common_error_explanations": {
+    "err_trsup_1": "Verwende 'en' vor dem Adjektiv für den Superlativ."
+  },
+  "vocab_glosses": {
+    "tr.vocab.ev": "Haus"
+  },
+  "locale": "de"
+}

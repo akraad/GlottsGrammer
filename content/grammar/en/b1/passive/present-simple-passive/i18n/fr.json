@@ -1,0 +1,20 @@
+{
+  "title": "Voix Passive au Présent Simple",
+  "summary": "Utilisez la voix passive lorsque l'action est plus importante que l'auteur.",
+  "explanation": "Formé avec am/is/are + Participe Passé.",
+  "rules": [
+    "Sujet + am/is/are + Participe Passé"
+  ],
+  "example_translations": {
+    "ex_pass_1": "Les voitures sont fabriquées dans cette ville."
+  },
+  "common_error_explanations": {
+    "err_pass_1": "Utilisez toujours le participe passé à la voix passive."
+  },
+  "vocab_glosses": {
+    "en.vocab.car": "voiture",
+    "en.vocab.make": "fabriquer / faire",
+    "en.vocab.city": "ville"
+  },
+  "locale": "fr"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Advanced Idiomatic and Proverbial Structures",
+  "summary": "Mastering high-level idiomatic metaphors and proverbs in Turkish.",
+  "explanation": "Mastering high-level idiomatic metaphors and proverbs in Turkish.",
+  "rules": [
+    "Advanced Idiomatic Metaphor Phrase"
+  ],
+  "example_translations": {
+    "ex_c1_1": "As one reads more, one learns more."
+  },
+  "common_error_explanations": {
+    "err_c1_1": "Use appropriate C1 advanced syntactic markers."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "read"
+  },
+  "locale": "en"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Zarf-Fiil / Ulama Ekleri (-ken / -ince)",
+  "summary": "'ken' (در حالِ / وقتی که) ile eşzamanlı durumlar.",
+  "explanation": "Fiil köklerine veya isimlere '-ken' eklenerek '-ken / در حالی که' ساخته می‌شود (gelir-ken = در حال آمدن).",
+  "rules": [
+    "Fiil/İsim + -ken (-ince/-ınca)"
+  ],
+  "example_translations": {
+    "ex_trken_1": "Eve gelirken ekmek aldım."
+  },
+  "common_error_explanations": {
+    "err_trken_1": "Eşzamanlı eylemler için '-ken' ekini doğrudan kullanın."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "okumak"
+  },
+  "locale": "tr"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Discurso Indireto",
+  "summary": "Use o discurso indireto para relatar o que outra pessoa disse.",
+  "explanation": "O tempo verbal recua para o passado.",
+  "rules": [
+    "Presente -> Passado"
+  ],
+  "example_translations": {
+    "ex_rep_1": "Ele disse que estava feliz."
+  },
+  "common_error_explanations": {
+    "err_rep_1": "Mude o tempo verbal para o passado."
+  },
+  "vocab_glosses": {
+    "en.vocab.say": "dizer"
+  },
+  "locale": "pt"
+}

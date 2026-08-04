@@ -1,0 +1,18 @@
+{
+  "title": "Erweiterte Komplexe Subordination",
+  "summary": "Komplexe Nebensätze im formellen und akademischen Türkisch.",
+  "explanation": "Erweiterte syntaktische Strukturen wie '-duğundan dolayı' oder '-dığı için' werden im formellen und akademischen Schreiben für kausale Beziehungen genutzt.",
+  "rules": [
+    "Nebensatz (-duğundan) + Postposition (dolayı / için)"
+  ],
+  "example_translations": {
+    "ex_trcomp_1": "Er/Sie ist sehr erfolgreich, weil er/sie Bücher liest."
+  },
+  "common_error_explanations": {
+    "err_trcomp_1": "Verwende erweiterte subordinierende Postpositionen im formellen Schreibstil."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "lesen"
+  },
+  "locale": "de"
+}

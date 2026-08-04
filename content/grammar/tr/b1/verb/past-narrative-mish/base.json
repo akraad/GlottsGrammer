@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0.0",
+  "id": "tr.b1.verb.past-narrative-mish",
+  "universal_concept_id": "verb.past.narrative.mish",
+  "language": "tr",
+  "cefr": "B1",
+  "app_level": "intermediate",
+  "category": "verb",
+  "status": "approved",
+  "difficulty": 3,
+  "prerequisites": [
+    "tr.a1.verb.present-continuous-yor"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "verb_stem"
+        },
+        {
+          "slot": "mish_suffix"
+        },
+        {
+          "slot": "personal_suffix"
+        }
+      ],
+      "example": "okumuşum"
+    }
+  ],
+  "vocab": [
+    "tr.vocab.okumak"
+  ],
+  "examples": [
+    {
+      "id": "ex_trmish_1",
+      "target_text": "Sen bu kitabı okumuşsun.",
+      "tokens": [
+        {
+          "text": "Sen"
+        },
+        {
+          "text": "bu"
+        },
+        {
+          "text": "kitabı"
+        },
+        {
+          "text": "okumuşsun."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_trmish_1",
+      "incorrect": "Sen bu kitabı okudun.",
+      "explanation": "Use '-miş/-muş/-müş/-mış' for reported actions, hearsay, or unexpected discoveries."
+    }
+  ]
+}

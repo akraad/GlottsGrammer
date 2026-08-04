@@ -1,0 +1,20 @@
+{
+  "title": "Suffixes du Pluriel en Turc (-lar / -ler)",
+  "summary": "Former le pluriel selon l'harmonie vocalique majeure.",
+  "explanation": "Ajoutez '-lar' si la dernière voyelle est sombre (a, ı, o, u), et '-ler' si elle est claire (e, i, ö, ü).",
+  "rules": [
+    "Voyelles Sombres (a, ı, o, u) -> -lar",
+    "Voyelles Claires (e, i, ö, ü) -> -ler"
+  ],
+  "example_translations": {
+    "ex_tr_pl_1": "Il y a des livres sur la table."
+  },
+  "common_error_explanations": {
+    "err_tr_pl_1": "N'attachez pas '-ler' aux mots ayant des voyelles sombres."
+  },
+  "vocab_glosses": {
+    "tr.vocab.kitap": "livre",
+    "tr.vocab.ev": "maison"
+  },
+  "locale": "fr"
+}

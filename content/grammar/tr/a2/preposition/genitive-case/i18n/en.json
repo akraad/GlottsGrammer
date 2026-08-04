@@ -1,0 +1,18 @@
+{
+  "title": "Turkish Genitive Case Suffix (-in)",
+  "summary": "Forming noun-to-noun possessive compounds.",
+  "explanation": "Attach genitive suffix '-in/-ın/-un/-ün' to the possessor noun, and a possessive suffix to the possessed noun.",
+  "rules": [
+    "Possessor + -(n)in + Possessed + Possessive Suffix"
+  ],
+  "example_translations": {
+    "ex_trgen_1": "This house's door is very big."
+  },
+  "common_error_explanations": {
+    "err_trgen_1": "Use genitive on the first noun and possessive suffix on the second noun."
+  },
+  "vocab_glosses": {
+    "tr.vocab.ev": "house"
+  },
+  "locale": "en"
+}

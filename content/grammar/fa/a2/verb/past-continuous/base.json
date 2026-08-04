@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0.0",
+  "id": "fa.a2.verb.past-continuous",
+  "universal_concept_id": "verb.past.continuous",
+  "language": "fa",
+  "cefr": "A2",
+  "app_level": "elementary",
+  "category": "verb",
+  "status": "approved",
+  "difficulty": 3,
+  "prerequisites": [
+    "fa.a1.verb.past-simple"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "mi_prefix"
+        },
+        {
+          "slot": "past_stem"
+        },
+        {
+          "slot": "personal_suffix"
+        }
+      ],
+      "example": "می‌رفتم"
+    }
+  ],
+  "vocab": [
+    "fa.vocab.raftan"
+  ],
+  "examples": [
+    {
+      "id": "ex_pcont_1",
+      "target_text": "من داشتم کتاب می‌خواندم.",
+      "tokens": [
+        {
+          "text": "من"
+        },
+        {
+          "text": "داشتم"
+        },
+        {
+          "text": "کتاب"
+        },
+        {
+          "text": "می‌خواندم"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_pcont_1",
+      "incorrect": "من کتاب رفتم دیروز.",
+      "explanation": "Use prefix 'می-' with past stem to show ongoing or habitual past actions."
+    }
+  ]
+}

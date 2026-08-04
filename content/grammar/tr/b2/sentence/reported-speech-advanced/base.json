@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0.0",
+  "id": "tr.b2.sentence.reported-speech-advanced",
+  "universal_concept_id": "sentence.reported.speech.advanced",
+  "language": "tr",
+  "cefr": "B2",
+  "app_level": "upper-intermediate",
+  "category": "sentence",
+  "status": "approved",
+  "difficulty": 4,
+  "prerequisites": [
+    "tr.b1.clause.indirect-speech"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "reported_clause"
+        },
+        {
+          "slot": "diye_or_olduğunu_connector"
+        }
+      ],
+      "example": "geleceğini söyledi"
+    }
+  ],
+  "vocab": [
+    "tr.vocab.okumak"
+  ],
+  "examples": [
+    {
+      "id": "ex_trrep_1",
+      "target_text": "Yarın geleceğini söyledi.",
+      "tokens": [
+        {
+          "text": "Yarın"
+        },
+        {
+          "text": "geleceğini"
+        },
+        {
+          "text": "söyledی"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_trrep_1",
+      "incorrect": "Yarın gelecektir dedi resmi olmayan.",
+      "explanation": "Use advanced reported structures withfuture/past nominalization markers (e.g., '-eceğini söyledi' or '...diye belirtti')."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Persian Conditional Sentences (اگر)",
+  "summary": "Forming real conditional sentences in Persian.",
+  "explanation": "Conjunction 'اگر' (If) + Subjunctive mood in condition + Present/Future in result.",
+  "rules": [
+    "اگر + Subjunctive, Result Clause"
+  ],
+  "example_translations": {
+    "ex_cond_1": "If I have time, I will go home."
+  },
+  "common_error_explanations": {
+    "err_cond_1": "Use subjunctive verb in the 'if' clause."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "go"
+  },
+  "locale": "en"
+}

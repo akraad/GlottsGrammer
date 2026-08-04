@@ -1,0 +1,18 @@
+{
+  "title": "Pluralización de Sustantivos Terminados en Vocal",
+  "summary": "Pluralizar sustantivos terminados en (ا, و, ه) usando consonantes de enlace (ی, گ).",
+  "explanation": "Al añadir '-ان', inserta consonantes de enlace como 'ی' (دانا -> دانایان) o 'گ' (بنده -> بندگان).",
+  "rules": [
+    "Sustantivo en Vocal + Consonante de Enlace (ی/گ) + ان"
+  ],
+  "example_translations": {
+    "ex_vpl_1": "Los sabios y oradores del país se reunieron."
+  },
+  "common_error_explanations": {
+    "err_vpl_1": "Inserta la consonante de enlace 'ی' o 'گ' al pluralizar."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "libro"
+  },
+  "locale": "es"
+}

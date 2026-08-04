@@ -1,0 +1,18 @@
+{
+  "title": "Persische Modalverben",
+  "summary": "Ausdruck von Fähigkeit und Pflicht (توانستن, باید).",
+  "explanation": "Auf Modalverben folgt das Hauptverb im Konjunktiv (التزامی).",
+  "rules": [
+    "Modalverb + Konjunktiv-Verb"
+  ],
+  "example_translations": {
+    "ex_mod_1": "Ich kann Persisch sprechen."
+  },
+  "common_error_explanations": {
+    "err_mod_1": "Verwende den Konjunktiv nach Modalverben."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "gehen"
+  },
+  "locale": "de"
+}

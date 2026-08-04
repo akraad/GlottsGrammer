@@ -1,0 +1,18 @@
+{
+  "title": "Pasado Continuo Conversacional en Persa",
+  "summary": "Expresar acciones en pleno desarrollo en el pasado en el habla cotidiana.",
+  "explanation": "El persa hablado usa 'داشتن' conjugado justo antes del verbo pasado con 'می-' (ej. داشتم می‌رفتم).",
+  "rules": [
+    "داشتن conjugado + Verbo pasado con Mi-"
+  ],
+  "example_translations": {
+    "ex_dasht_1": "Estaba yendo a casa cuando lo/la vi."
+  },
+  "common_error_explanations": {
+    "err_dasht_1": "Conjuga ambos verbos con las mismas terminaciones personales."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "ir"
+  },
+  "locale": "es"
+}

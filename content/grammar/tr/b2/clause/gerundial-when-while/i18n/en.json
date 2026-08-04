@@ -1,0 +1,18 @@
+{
+  "title": "Turkish Gerundial Clauses (-ken / -ince)",
+  "summary": "Expressing 'while', 'when', or simultaneous actions.",
+  "explanation": "Attach '-ken' (or '-ince/-ınca') to verb stems or nouns to mean 'while doing something' or 'when something happened'.",
+  "rules": [
+    "Verb/Noun + -ken"
+  ],
+  "example_translations": {
+    "ex_trken_1": "I bought bread while coming home."
+  },
+  "common_error_explanations": {
+    "err_trken_1": "Use suffix '-ken' directly to express simultaneous actions."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "read"
+  },
+  "locale": "en"
+}

@@ -1,0 +1,64 @@
+{
+  "schema_version": "1.0.0",
+  "id": "de.b2.sentence.nominalization",
+  "universal_concept_id": "sentence.nominalization.german",
+  "language": "de",
+  "cefr": "B2",
+  "app_level": "upper-intermediate",
+  "category": "sentence",
+  "status": "approved",
+  "difficulty": 4,
+  "prerequisites": [
+    "de.a1.noun.plural-forms"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "neuter_article_das"
+        },
+        {
+          "slot": "capitalized_infinitive_verb"
+        }
+      ],
+      "example": "Das Lesen macht Spaß"
+    }
+  ],
+  "vocab": [
+    "de.vocab.lesen"
+  ],
+  "examples": [
+    {
+      "id": "ex_de_b2",
+      "target_text": "Das Lernen neuer Sprachen ist wichtig.",
+      "tokens": [
+        {
+          "text": "Das"
+        },
+        {
+          "text": "Lernen"
+        },
+        {
+          "text": "neuer"
+        },
+        {
+          "text": "Sprachen"
+        },
+        {
+          "text": "ist"
+        },
+        {
+          "text": "wichtig."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_de_b2",
+      "incorrect": "Lernen neuer Sprachen ist wichtig (without article 'das').",
+      "explanation": "Verbs converted into nouns (nominalization) always become neuter nouns preceded by the article 'das'."
+    }
+  ]
+}

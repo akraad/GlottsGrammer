@@ -1,0 +1,18 @@
+{
+  "title": "Orações Subordinadas Complexas em Persa",
+  "summary": "Conectar orações usando conjunções avançadas (به‌محضِ آن‌که, همین‌که).",
+  "explanation": "O persa avançado utiliza conjunções compostas para relações temporais precisas.",
+  "rules": [
+    "Conjunção Complexa + Oração Subordinada + Oração Principal"
+  ],
+  "example_translations": {
+    "ex_csub_1": "Assim que ele/ela chegou, a reunião começou."
+  },
+  "common_error_explanations": {
+    "err_csub_1": "Certifique-se de usar formas completas como 'به‌محضِ آن‌که'."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "ir"
+  },
+  "locale": "pt"
+}

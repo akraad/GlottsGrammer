@@ -1,0 +1,18 @@
+{
+  "title": "トルコ語の属格 (所有・連体接尾辞 -in)",
+  "summary": "名詞と名詞の所有関係を表します。",
+  "explanation": "所有者側の名詞に属格接尾辞 '-in/-ın/-un/-ün' を付け、所有される側の名詞に所有接尾辞を付けます。",
+  "rules": [
+    "所有者 + -(n)in + 所有物 + 所有接尾辞"
+  ],
+  "example_translations": {
+    "ex_trgen_1": "この家のドアはとても大きいです。"
+  },
+  "common_error_explanations": {
+    "err_trgen_1": "最初の名詞に属格、2番目の名詞に所有接尾辞を付けてください。"
+  },
+  "vocab_glosses": {
+    "tr.vocab.ev": "家"
+  },
+  "locale": "ja"
+}

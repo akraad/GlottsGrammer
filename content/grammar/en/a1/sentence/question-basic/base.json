@@ -1,0 +1,64 @@
+{
+  "schema_version": "1.0.0",
+  "id": "en.a1.sentence.question-basic",
+  "universal_concept_id": "sentence.question.basic",
+  "language": "en",
+  "cefr": "A1",
+  "app_level": "beginner",
+  "category": "sentence",
+  "status": "approved",
+  "difficulty": 1,
+  "prerequisites": [
+    "en.a1.verb.present-simple"
+  ],
+  "forms": [
+    {
+      "type": "interrogative",
+      "pattern": [
+        {
+          "slot": "auxiliary_do"
+        },
+        {
+          "slot": "subject"
+        },
+        {
+          "slot": "verb_base"
+        }
+      ],
+      "example": "Do you speak English?"
+    }
+  ],
+  "vocab": [
+    "en.vocab.book"
+  ],
+  "examples": [
+    {
+      "id": "ex_q_1",
+      "target_text": "Do you have a book?",
+      "tokens": [
+        {
+          "text": "Do"
+        },
+        {
+          "text": "you"
+        },
+        {
+          "text": "have"
+        },
+        {
+          "text": "a"
+        },
+        {
+          "text": "book"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_q_1",
+      "incorrect": "You have a book?",
+      "explanation": "Start questions with Do or Does."
+    }
+  ]
+}

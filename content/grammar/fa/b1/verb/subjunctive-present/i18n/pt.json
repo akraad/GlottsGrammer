@@ -1,0 +1,18 @@
+{
+  "title": "Modo Subjuntivo Presente em Persa",
+  "summary": "Expressar desejos, dúvidas e necessidade.",
+  "explanation": "Prefixo 'بـ' + Raiz do Presente + Sufixos Pessoais.",
+  "rules": [
+    "بـ + Raiz do Presente + Sufixos"
+  ],
+  "example_translations": {
+    "ex_subj_1": "Quero ir para casa."
+  },
+  "common_error_explanations": {
+    "err_subj_1": "Use o subjuntivo após verbos de desejo."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "ir"
+  },
+  "locale": "pt"
+}

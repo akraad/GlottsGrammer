@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0.0",
+  "id": "en.b1.modal.speculation-basic",
+  "universal_concept_id": "modal.speculation.basic",
+  "language": "en",
+  "cefr": "B1",
+  "app_level": "intermediate",
+  "category": "modal",
+  "status": "approved",
+  "difficulty": 3,
+  "prerequisites": [
+    "en.a1.modal.can-basic"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "subject"
+        },
+        {
+          "slot": "might_may_could"
+        },
+        {
+          "slot": "verb_base"
+        }
+      ],
+      "example": "It might rain."
+    }
+  ],
+  "vocab": [
+    "en.vocab.rain"
+  ],
+  "examples": [
+    {
+      "id": "ex_spec_1",
+      "target_text": "It might rain today.",
+      "tokens": [
+        {
+          "text": "It"
+        },
+        {
+          "text": "might"
+        },
+        {
+          "text": "rain"
+        },
+        {
+          "text": "today"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_spec_1",
+      "incorrect": "It might to rain.",
+      "explanation": "Do not use 'to' after might, may, or could."
+    }
+  ]
+}

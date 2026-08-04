@@ -1,0 +1,63 @@
+{
+  "schema_version": "1.0.0",
+  "id": "en.b1.verb.past-continuous-basic",
+  "universal_concept_id": "verb.past.continuous.basic",
+  "language": "en",
+  "cefr": "B1",
+  "app_level": "intermediate",
+  "category": "verb",
+  "status": "approved",
+  "difficulty": 3,
+  "prerequisites": [
+    "en.a1.verb.present-continuous",
+    "en.a2.verb.past-simple-be"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "subject"
+        },
+        {
+          "slot": "was_were"
+        },
+        {
+          "slot": "verb_ing"
+        }
+      ],
+      "example": "I was walking."
+    }
+  ],
+  "vocab": [
+    "en.vocab.walk",
+    "en.vocab.yesterday"
+  ],
+  "examples": [
+    {
+      "id": "ex_pcont_1",
+      "target_text": "I was walking yesterday.",
+      "tokens": [
+        {
+          "text": "I"
+        },
+        {
+          "text": "was"
+        },
+        {
+          "text": "walking"
+        },
+        {
+          "text": "yesterday"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_pcont_1",
+      "incorrect": "I were walking yesterday.",
+      "explanation": "Use 'was' with I, he, she, and it."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "title": "トルコ語の可能表現 (-ebil / -abil)",
+  "summary": "能力や許可を表します (〜できる)。",
+  "explanation": "動詞語幹に '-ebil/-abil' (母音終わりの場合は 'y') を付け、その後に時制と人称接尾辞を続けます。",
+  "rules": [
+    "動詞語幹 + -(y)ebil + 時制 + 人称接尾辞"
+  ],
+  "example_translations": {
+    "ex_trebil_1": "私はこの本を読むことができます。"
+  },
+  "common_error_explanations": {
+    "err_trebil_1": "可能の接尾辞は時制マーカーの前に配置してください。"
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "読む"
+  },
+  "locale": "ja"
+}

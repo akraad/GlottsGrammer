@@ -1,0 +1,18 @@
+{
+  "title": "Discurso Indireto em Persa (گفت که)",
+  "summary": "Relatar as palavras de alguém usando 'که'.",
+  "explanation": "Sujeito + گفت + که + Declaração indireta.",
+  "rules": [
+    "گفت + که + Declaração Indireta"
+  ],
+  "example_translations": {
+    "ex_rep_1": "Ali disse que estava indo para casa."
+  },
+  "common_error_explanations": {
+    "err_rep_1": "Ajuste os pronomes e verbos no discurso indireto com 'که'."
+  },
+  "vocab_glosses": {
+    "fa.vocab.home": "casa"
+  },
+  "locale": "pt"
+}

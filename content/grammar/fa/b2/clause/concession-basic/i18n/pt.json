@@ -1,0 +1,18 @@
+{
+  "title": "Frases Concessivas em Persa (اگرچه)",
+  "summary": "Expressar contraste usando 'اگرچه' ou 'با اینکه' (Embora/Apesar de).",
+  "explanation": "Coloque 'اگرچه' no início da oração concessiva.",
+  "rules": [
+    "اگرچه + Oração Concessiva, اما + Oração Principal"
+  ],
+  "example_translations": {
+    "ex_conc_1": "Embora estivesse chovendo, ele/ela saiu."
+  },
+  "common_error_explanations": {
+    "err_conc_1": "Use 'اگرچه' para mostrar contraste entre frases."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "ir"
+  },
+  "locale": "pt"
+}

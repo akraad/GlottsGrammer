@@ -1,0 +1,18 @@
+{
+  "title": "Ajustes na Ordem das Palavras na Fala Cotidiana",
+  "summary": "Ordem flexível e anexo de pronomes no persa falado.",
+  "explanation": "No persa falado fluente, os verbos costumam vir antes, anexados ao pronome objeto.",
+  "rules": [
+    "Verbo + Pronome Objeto + Advérbios"
+  ],
+  "example_translations": {
+    "ex_cord_1": "Eu o/a vi ontem na rua."
+  },
+  "common_error_explanations": {
+    "err_cord_1": "Anexe o pronome objeto ao verbo para maior fluidez."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "livro"
+  },
+  "locale": "pt"
+}

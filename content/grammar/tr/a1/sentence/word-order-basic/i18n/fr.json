@@ -1,0 +1,19 @@
+{
+  "title": "L'Ordre des Mots en Turc (SOV)",
+  "summary": "Structure Sujet - Objet - Verbe.",
+  "explanation": "Le turc standard suit l'ordre Sujet - Objet - Verbe. Le verbe se place obligatoirement à la fin.",
+  "rules": [
+    "Sujet + Objet + Verbe à la Fin"
+  ],
+  "example_translations": {
+    "ex_tr_wo_1": "Je lis un livre."
+  },
+  "common_error_explanations": {
+    "err_tr_wo_1": "Placez toujours le verbe à la FIN de la phrase."
+  },
+  "vocab_glosses": {
+    "tr.vocab.kitap": "livre",
+    "tr.vocab.okumak": "lire"
+  },
+  "locale": "fr"
+}

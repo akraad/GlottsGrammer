@@ -1,0 +1,20 @@
+{
+  "title": "Sufixos de Plural em Turco (-lar / -ler)",
+  "summary": "Formar plurais seguindo a harmonia vocálica maior.",
+  "explanation": "Adicione '-lar' se a última vogal for posterior (a, ı, o, u), e '-ler' se for anterior (e, i, ö, ü).",
+  "rules": [
+    "Vogais Posteriores (a, ı, o, u) -> -lar",
+    "Vogais Anteriores (e, i, ö, ü) -> -ler"
+  ],
+  "example_translations": {
+    "ex_tr_pl_1": "Há livros na mesa."
+  },
+  "common_error_explanations": {
+    "err_tr_pl_1": "Não anexe '-ler' a palavras com vogais posteriores."
+  },
+  "vocab_glosses": {
+    "tr.vocab.kitap": "livro",
+    "tr.vocab.ev": "casa"
+  },
+  "locale": "pt"
+}

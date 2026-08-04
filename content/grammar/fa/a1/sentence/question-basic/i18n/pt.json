@@ -1,0 +1,18 @@
+{
+  "title": "Perguntas Básicas em Persa",
+  "summary": "Formar perguntas de Sim/Não usando 'آیا'.",
+  "explanation": "Adicione 'آیا' no início da frase para criar uma pergunta.",
+  "rules": [
+    "آیا + Frase?"
+  ],
+  "example_translations": {
+    "ex_q_1": "Você lê um livro?"
+  },
+  "common_error_explanations": {
+    "err_q_1": "Coloque 'آیا' no início da pergunta."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "livro"
+  },
+  "locale": "pt"
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../../../../schemas/grammar-i18n.schema.json",
+  "locale": "es",
+  "translation_status": "draft",
+  "name": "Forma base del verbo",
+  "summary": "La forma base es la forma simple del verbo, sin terminaciones. Se usa con I, you, we, they y después de do/does en oraciones negativas e interrogativas.",
+  "explanation": "Cada verbo inglés tiene cinco formas: base, tercera persona singular (-s), pasado, participio pasado y participio presente (-ing). La forma base es la forma del diccionario. Se usa después de I/you/we/they, después de verbos modales (can, will, should) y en oraciones negativas e interrogativas con do/does/did.",
+  "form_notes": {
+    "base_with_i_you_we_they": "Con I, you, we, they, usa la forma base del verbo.",
+    "base_after_does_not": "Con he/she/it en negaciones, después de does not el verbo vuelve a la forma base.",
+    "base_after_do_question": "En preguntas con Do/Does, el verbo aparece en forma base."
+  },
+  "example_translations": {
+    "ex_01": "Bebo agua.",
+    "ex_02": "No beben té.",
+    "ex_03": "¿Le gusta a ella el agua?"
+  },
+  "common_error_explanations": {
+    "err_01": "Con I/you/we/they, el verbo va en forma base sin -s.",
+    "err_02": "Después de does en preguntas, el verbo principal vuelve a la forma base (sin -s)."
+  },
+  "vocab_glosses": {
+    "en.verb.drink": "beber",
+    "en.noun.water": "agua",
+    "en.noun.tea": "té",
+    "en.verb.like": "gustar",
+    "en.verb.want": "querer",
+    "en.verb.have": "tener",
+    "en.verb.do": "hacer",
+    "en.vocab.go": "ir",
+    "en.vocab.eat": "comer",
+    "en.vocab.see": "ver",
+    "en.verb.come": "venir"
+  },
+  "title": "Forma Base del Verbo",
+  "rules": [
+    "La forma básica del verbo sin terminaciones.",
+    "Se usa después de verbos auxiliares."
+  ]
+}

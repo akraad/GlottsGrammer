@@ -1,0 +1,18 @@
+{
+  "title": "Turkish Participle Relative Clauses (-en / -an)",
+  "summary": "Forming active relative clauses using '-en/-an'.",
+  "explanation": "Attach '-en/-an' to verb stems to create participial modifiers that precede the noun (e.g., okuyan çocuk = the child who is reading).",
+  "rules": [
+    "Verb Stem + -en/-an + Noun"
+  ],
+  "example_translations": {
+    "ex_tren_1": "The child reading a book is very smart."
+  },
+  "common_error_explanations": {
+    "err_tren_1": "Use participial suffixes '-en/-an' for modifying nouns with actions."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "read"
+  },
+  "locale": "en"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Discours Indirect en Turc",
+  "summary": "Rapporter les propos de quelqu'un ou un fait.",
+  "explanation": "Le turc transforme les subordonnées rapportées en structures nominalisées avec des suffixes participes (-dik).",
+  "rules": [
+    "Sujet + Proposition Nominalisée (-diğini) + A dit"
+  ],
+  "example_translations": {
+    "ex_trind_1": "Il/Elle a dit qu'il/elle avait lu le livre."
+  },
+  "common_error_explanations": {
+    "err_trind_1": "Utilisez des propositions nominalisées pour le discours indirect."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "lire"
+  },
+  "locale": "fr"
+}

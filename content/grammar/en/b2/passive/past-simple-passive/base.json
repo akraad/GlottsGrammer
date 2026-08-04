@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0.0",
+  "id": "en.b2.passive.past-simple-passive",
+  "universal_concept_id": "passive.past.simple",
+  "language": "en",
+  "cefr": "B2",
+  "app_level": "upper_intermediate",
+  "category": "passive",
+  "status": "approved",
+  "difficulty": 4,
+  "prerequisites": [
+    "en.b1.passive.present-simple-passive",
+    "en.a2.verb.past-simple-be"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "object"
+        },
+        {
+          "slot": "was_were"
+        },
+        {
+          "slot": "past_participle"
+        }
+      ],
+      "example": "The house was built."
+    }
+  ],
+  "vocab": [
+    "en.vocab.build"
+  ],
+  "examples": [
+    {
+      "id": "ex_psp_1",
+      "target_text": "This house was built in 1990.",
+      "tokens": [
+        {
+          "text": "This"
+        },
+        {
+          "text": "house"
+        },
+        {
+          "text": "was"
+        },
+        {
+          "text": "built"
+        },
+        {
+          "text": "in"
+        },
+        {
+          "text": "1990"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_psp_1",
+      "incorrect": "This house was build in 1990.",
+      "explanation": "Use past participle (built) in passive voice."
+    }
+  ]
+}

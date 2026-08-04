@@ -1,0 +1,18 @@
+{
+  "title": "التكهن والاحتمال",
+  "summary": "استخدم might أو may أو could للتعبير عن الاحتمالية.",
+  "explanation": "الفاعل + might/may/could + المصدر.",
+  "rules": [
+    "لا تضع to بعد هذه الأفعال."
+  ],
+  "example_translations": {
+    "ex_spec_1": "قد تمطر اليوم."
+  },
+  "common_error_explanations": {
+    "err_spec_1": "لا تضع to بعد might."
+  },
+  "vocab_glosses": {
+    "en.vocab.rain": "تمطر"
+  },
+  "locale": "ar"
+}

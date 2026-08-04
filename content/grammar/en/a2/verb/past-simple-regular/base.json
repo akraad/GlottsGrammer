@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0.0",
+  "id": "en.a2.verb.past-simple-regular",
+  "universal_concept_id": "verb.past.simple.regular",
+  "language": "en",
+  "cefr": "A2",
+  "app_level": "elementary",
+  "category": "verb",
+  "status": "approved",
+  "difficulty": 2,
+  "prerequisites": [
+    "en.a1.verb.present-simple"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "subject"
+        },
+        {
+          "slot": "verb_ed"
+        }
+      ],
+      "example": "I walked yesterday."
+    }
+  ],
+  "vocab": [
+    "en.vocab.walk",
+    "en.vocab.yesterday"
+  ],
+  "examples": [
+    {
+      "id": "ex_past_1",
+      "target_text": "I walked yesterday.",
+      "tokens": [
+        {
+          "text": "I"
+        },
+        {
+          "text": "walked"
+        },
+        {
+          "text": "yesterday"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_past_1",
+      "incorrect": "I walk yesterday.",
+      "explanation": "Use past tense form (-ed) for past actions."
+    }
+  ]
+}

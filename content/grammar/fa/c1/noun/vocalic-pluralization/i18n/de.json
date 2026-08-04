@@ -1,0 +1,18 @@
+{
+  "title": "Pluralbildung von auf Vokalen endenden Nomen",
+  "summary": "Pluralisierung von Nomen auf (ا, و, ه) mit Übergangskonsonanten (ی, گ).",
+  "explanation": "Beim Anhängen von '-ان' an vokalisch endende Nomen wird ein Gleitlaut eingefügt (z. B. دانا -> دانایان).",
+  "rules": [
+    "Vokal-Nomen + Gleitlaut (ی/گ) + ان"
+  ],
+  "example_translations": {
+    "ex_vpl_1": "Die Weisen und Redner des Landes kamen zusammen."
+  },
+  "common_error_explanations": {
+    "err_vpl_1": "Füge den Gleitlaut 'ی' oder 'گ' bei der Pluralbildung ein."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "Buch"
+  },
+  "locale": "de"
+}

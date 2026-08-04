@@ -1,0 +1,19 @@
+{
+  "title": "Plural en Persa (-ها / -ان)",
+  "summary": "Cómo formar el plural en persa.",
+  "explanation": "El sufijo '-ها' se usa para todos los sustantivos. El sufijo '-ان' se usa para seres vivos.",
+  "rules": [
+    "Sustantivo + ها (Plural universal)",
+    "Ser vivo + ان (Personas/Animales)"
+  ],
+  "example_translations": {
+    "ex_fa_pl_1": "Los libros están sobre la mesa."
+  },
+  "common_error_explanations": {
+    "err_fa_pl_1": "No uses '-ان' para objetos inanimados."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "libro"
+  },
+  "locale": "es"
+}

@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0.0",
+  "id": "de.b2.conjunction.advanced-connectors",
+  "universal_concept_id": "conjunction.advanced.german",
+  "language": "de",
+  "cefr": "B2",
+  "app_level": "upper-intermediate",
+  "category": "conjunction",
+  "status": "approved",
+  "difficulty": 4,
+  "prerequisites": [
+    "de.b1.conjunction.adverbial-conjunctions"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "connector_part_1"
+        },
+        {
+          "slot": "clause_1"
+        },
+        {
+          "slot": "connector_part_2"
+        },
+        {
+          "slot": "clause_2"
+        }
+      ],
+      "example": "Je mehr man übt, desto besser spricht man"
+    }
+  ],
+  "vocab": [
+    "de.vocab.sprechen"
+  ],
+  "examples": [
+    {
+      "id": "ex_de_b2",
+      "target_text": "Je mehr man übt, desto besser spricht man.",
+      "tokens": [
+        {
+          "text": "Je"
+        },
+        {
+          "text": "mehr"
+        },
+        {
+          "text": "man"
+        },
+        {
+          "text": "übt,"
+        },
+        {
+          "text": "desto"
+        },
+        {
+          "text": "besser"
+        },
+        {
+          "text": "spricht"
+        },
+        {
+          "text": "man."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_de_b2",
+      "incorrect": "Je mehr man übt, desto man spricht besser.",
+      "explanation": "In 'je... desto' clauses, the 'je' clause sends the verb to the end, while the 'desto' clause starts directly with the comparative followed by the conjugated verb."
+    }
+  ]
+}

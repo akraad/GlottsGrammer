@@ -1,0 +1,18 @@
+{
+  "title": "Geçmiş Zaman Modalları (Should have)",
+  "summary": "Geçmişle ilgili pişmanlık veya eleştiri ifade eder.",
+  "explanation": "Özne + should have + fiilin 3. hali.",
+  "rules": [
+    "Should have + Fiilin 3. hali"
+  ],
+  "example_translations": {
+    "ex_pm_1": "Daha fazla ders çalışmalıydım."
+  },
+  "common_error_explanations": {
+    "err_pm_1": "'should of' değil, 'should have' yazın."
+  },
+  "vocab_glosses": {
+    "en.vocab.study": "ders çalışmak"
+  },
+  "locale": "tr"
+}

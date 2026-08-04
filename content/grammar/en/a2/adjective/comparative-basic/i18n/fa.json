@@ -1,0 +1,19 @@
+{
+  "locale": "fa",
+  "title": "Comparative Adjectives",
+  "summary": "Add -er to short adjectives to compare two things.",
+  "explanation": "Use 'adjective + er + than' to compare two objects.",
+  "rules": [
+    "Short adj + -er + than"
+  ],
+  "example_translations": {
+    "ex_comp_1": "This car is bigger than that car."
+  },
+  "common_error_explanations": {
+    "err_comp_1": "Do not use 'more' with short adjectives."
+  },
+  "vocab_glosses": {
+    "en.vocab.car": "car",
+    "en.vocab.big": "big"
+  }
+}

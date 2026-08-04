@@ -1,0 +1,18 @@
+{
+  "title": "Persische Kausativverben (-اندن)",
+  "summary": "Bildung von Kausativverben mit dem Suffix '-اندن'.",
+  "explanation": "Hänge das Suffix '-اندن' an den Präsensstamm an, um ein Verb kausativ/transitiv zu machen.",
+  "rules": [
+    "Präsensstamm + اندن"
+  ],
+  "example_translations": {
+    "ex_caus_1": "Die Mutter brachte das Kind zum Schlafen."
+  },
+  "common_error_explanations": {
+    "err_caus_1": "Verwende das Suffix '-اندن' für kausative Verben."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "gehen"
+  },
+  "locale": "de"
+}

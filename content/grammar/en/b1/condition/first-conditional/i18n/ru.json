@@ -1,0 +1,20 @@
+{
+  "title": "Первое условное предложение (First Conditional)",
+  "summary": "Используйте First Conditional для реальных событий в будущем.",
+  "explanation": "Структура: If + Present Simple, Подлежащее + Will + Основной глагол.",
+  "rules": [
+    "Придаточное с If -> Present Simple",
+    "Главное предложение -> Will + Глагол"
+  ],
+  "example_translations": {
+    "ex_fc_1": "Если пойдет дождь, я останусь дома."
+  },
+  "common_error_explanations": {
+    "err_fc_1": "Никогда не используйте 'will' внутри части с 'if'."
+  },
+  "vocab_glosses": {
+    "en.vocab.rain": "идти (о дожде)",
+    "en.vocab.home": "дом"
+  },
+  "locale": "ru"
+}

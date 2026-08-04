@@ -1,0 +1,18 @@
+{
+  "locale": "pt",
+  "title": "Verbos modais (Básico)",
+  "summary": "Uso de verbos modais com verbos no infinitivo no final.",
+  "explanation": "Uso de verbos modais com verbos no infinitivo no final.",
+  "rules": [
+    "Sujeito + Verbo modal (Pos 2) + ... + Infinitivo (Fim)"
+  ],
+  "example_translations": {
+    "ex_de_2": "Ich kann gut schwimmen."
+  },
+  "common_error_explanations": {
+    "err_de_2": "Coloque o verbo principal no infinitivo no final."
+  },
+  "vocab_glosses": {
+    "de.vocab.schwimmen": "nadar"
+  }
+}

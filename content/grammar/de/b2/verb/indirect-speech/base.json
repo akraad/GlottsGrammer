@@ -1,0 +1,67 @@
+{
+  "schema_version": "1.0.0",
+  "id": "de.b2.verb.indirect-speech",
+  "universal_concept_id": "verb.indirect.speech.german",
+  "language": "de",
+  "cefr": "B2",
+  "app_level": "upper-intermediate",
+  "category": "verb",
+  "status": "approved",
+  "difficulty": 5,
+  "prerequisites": [
+    "de.b1.verb.subjunctive-ii-polite"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "subject"
+        },
+        {
+          "slot": "reporting_verb"
+        },
+        {
+          "slot": "konjunktiv_i_verb"
+        }
+      ],
+      "example": "Er sagt, er habe Zeit"
+    }
+  ],
+  "vocab": [
+    "de.vocab.sagen"
+  ],
+  "examples": [
+    {
+      "id": "ex_de_b2_2",
+      "target_text": "Er sagt, er habe keine Zeit.",
+      "tokens": [
+        {
+          "text": "Er"
+        },
+        {
+          "text": "sagt,"
+        },
+        {
+          "text": "er"
+        },
+        {
+          "text": "habe"
+        },
+        {
+          "text": "keine"
+        },
+        {
+          "text": "Zeit."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_de_b2_2",
+      "incorrect": "Er sagt, er hat keine Zeit (formal journalistic indirect speech).",
+      "explanation": "In formal indirect speech (reported speech), use Konjunktiv I forms (e.g., habe, sei) to attribute statements neutrally."
+    }
+  ]
+}

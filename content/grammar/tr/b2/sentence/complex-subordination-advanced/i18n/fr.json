@@ -1,0 +1,18 @@
+{
+  "title": "Subordination Complexe Avancée",
+  "summary": "Propositions subordonnées complexes en turc formel et académique.",
+  "explanation": "Des structures syntaxiques avancées telles que '-duğundan dolayı' ou '-dığı için' sont utilisées dans l'écriture formelle et académique.",
+  "rules": [
+    "Proposition Subordonnée (-duğundan) + Postposition (dolayı / için)"
+  ],
+  "example_translations": {
+    "ex_trcomp_1": "Il/Elle a beaucoup de succès parce qu'il/elle lit des livres."
+  },
+  "common_error_explanations": {
+    "err_trcomp_1": "Utilisez des postpositions subordonnées avancées dans l'écriture formelle."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "lire"
+  },
+  "locale": "fr"
+}

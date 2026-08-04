@@ -1,0 +1,70 @@
+{
+  "schema_version": "1.0.0",
+  "id": "en.b1.clause.relative-clause-basic",
+  "universal_concept_id": "clause.relative.basic",
+  "language": "en",
+  "cefr": "B1",
+  "app_level": "intermediate",
+  "category": "clause",
+  "status": "approved",
+  "difficulty": 3,
+  "prerequisites": [
+    "en.a1.noun.definiteness-basic"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "noun"
+        },
+        {
+          "slot": "relative_pronoun"
+        },
+        {
+          "slot": "clause"
+        }
+      ],
+      "example": "the book that I read"
+    }
+  ],
+  "vocab": [
+    "en.vocab.book"
+  ],
+  "examples": [
+    {
+      "id": "ex_rel_1",
+      "target_text": "This is the book that I bought.",
+      "tokens": [
+        {
+          "text": "This"
+        },
+        {
+          "text": "is"
+        },
+        {
+          "text": "the"
+        },
+        {
+          "text": "book"
+        },
+        {
+          "text": "that"
+        },
+        {
+          "text": "I"
+        },
+        {
+          "text": "bought"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_rel_1",
+      "incorrect": "This is the book who I bought.",
+      "explanation": "Use 'who' for people and 'which' or 'that' for objects/things."
+    }
+  ]
+}

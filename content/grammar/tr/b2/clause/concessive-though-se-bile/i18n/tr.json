@@ -1,0 +1,18 @@
+{
+  "title": "Darlık / İtiraz ve Taviz Cümlecikleri (-se bile)",
+  "summary": "حتی اگر / با وجود اینکه (حتی اگر بیاید...).",
+  "explanation": "Şart eki '-se/-sa' ve 'bile' kelimesi birleştirilerek 'حتی اگر' ساخته می‌شود (gelse bile = даже если придет).",
+  "rules": [
+    "Fiil Kökü + -se/-sa + bile"
+  ],
+  "example_translations": {
+    "ex_trbile_1": "Yarın gelse bile onu göremeyeceğim."
+  },
+  "common_error_explanations": {
+    "err_trbile_1": "'حتی اگر' anlamı için '-se bile' kalıbını kullanın."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "okumak"
+  },
+  "locale": "tr"
+}

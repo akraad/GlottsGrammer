@@ -1,0 +1,20 @@
+{
+  "locale": "en",
+  "title": "Past Continuous",
+  "summary": "Use was/were + verb-ing for actions happening at a specific moment in the past.",
+  "explanation": "Form it using was/were and the -ing form of the main verb.",
+  "rules": [
+    "I/He/She/It + was + verb-ing",
+    "You/We/They + were + verb-ing"
+  ],
+  "example_translations": {
+    "ex_pcont_1": "I was walking yesterday."
+  },
+  "common_error_explanations": {
+    "err_pcont_1": "Use 'was' for singular subjects."
+  },
+  "vocab_glosses": {
+    "en.vocab.walk": "walk",
+    "en.vocab.yesterday": "yesterday"
+  }
+}

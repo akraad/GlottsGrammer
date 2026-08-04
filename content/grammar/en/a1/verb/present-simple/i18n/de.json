@@ -1,0 +1,31 @@
+{
+  "$schema": "../../../../../schemas/grammar-i18n.schema.json",
+  "locale": "de",
+  "translation_status": "draft",
+  "name": "Präsens",
+  "summary": "Präsens (Simple Present): wird für Gewohnheiten, Fakten und regelmäßige Handlungen verwendet.",
+  "explanation": "Im Englischen verwenden wir das Present Simple, um über Gewohnheiten, Fakten und Handlungen zu sprechen, die regelmäßig stattfinden.",
+  "form_notes": {
+    "affirmative": "Subjekt + Grundform des Verbs. Bei he/she/it wird im Englischen in der Regel -s oder -es an das Verb angehängt.",
+    "negative": "Subjekt + do/does + not + Grundform des Verbs.",
+    "question": "Do/Does + Subjekt + Grundform des Verbs?"
+  },
+  "example_translations": {
+    "ex_01": "Ich trinke jeden Tag Wasser.",
+    "ex_02": "Sie trinkt keinen Kaffee.",
+    "ex_03": "Trinkst du jeden Tag Wasser?"
+  },
+  "common_error_explanations": {
+    "err_01": "Im Englischen Present Simple bekommt das Verb nach he/she/it normalerweise die Endung -s oder -es."
+  },
+  "vocab_glosses": {
+    "en.verb.drink": "trinken",
+    "en.noun.water": "Wasser",
+    "en.phrase.every-day": "jeden Tag"
+  },
+  "title": "Präsens (Present Simple)",
+  "rules": [
+    "Wird für Gewohnheiten und allgemeine Fakten verwendet.",
+    "Füge s/es bei he/she/it an das Verb an."
+  ]
+}

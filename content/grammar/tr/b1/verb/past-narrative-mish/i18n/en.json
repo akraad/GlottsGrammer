@@ -1,0 +1,18 @@
+{
+  "title": "Turkish Narrative Past Tense (-miş)",
+  "summary": "Expressing hearsay, indirect, or unexpected past events.",
+  "explanation": "Attach '-miş/-mış/-muş/-müş' to the verb stem followed by personal suffixes for reported or inferred past actions.",
+  "rules": [
+    "Verb Stem + -miş + Personal Suffix"
+  ],
+  "example_translations": {
+    "ex_trmish_1": "You have reportedly read this book (or I noticed you did)."
+  },
+  "common_error_explanations": {
+    "err_trmish_1": "Use '-miş' for hearsay or newly discovered past facts."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "read"
+  },
+  "locale": "en"
+}

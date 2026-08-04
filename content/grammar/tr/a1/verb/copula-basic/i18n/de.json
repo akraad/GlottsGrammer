@@ -1,0 +1,18 @@
+{
+  "title": "Kopulasuffixe im Türkischen ('Sein')",
+  "summary": "Personalsuffixe an Nomen und Adjektiven.",
+  "explanation": "Im Türkischen wird 'sein' durch direkte Suffixe an Nomen/Adjektiven ausgedrückt (-im, -sin, -dir...), gefolgt der 4-fachen Vokalharmonie.",
+  "rules": [
+    "Nomen/Adj + Personalsuffix"
+  ],
+  "example_translations": {
+    "ex_tr_cop_1": "Du bist ein Lehrer."
+  },
+  "common_error_explanations": {
+    "err_tr_cop_1": "Beachte die 4-fache Vokalharmonie bei Kopulasuffixen."
+  },
+  "vocab_glosses": {
+    "tr.vocab.ogretmen": "Lehrer"
+  },
+  "locale": "de"
+}

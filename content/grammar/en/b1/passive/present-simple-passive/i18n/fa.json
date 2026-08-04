@@ -1,0 +1,20 @@
+{
+  "title": "مجهول حال ساده",
+  "summary": "وقتی انجام عمل مهم‌تر از انجام‌دهنده آن باشد، از حالت مجهول استفاده می‌کنیم.",
+  "explanation": "ساختار مجهول حال ساده با am/is/are به همراه قسمت سوم فعل (Past Participle) ساخته می‌شود.",
+  "rules": [
+    "مفعول + am/is/are + قسمت سوم فعل"
+  ],
+  "example_translations": {
+    "ex_pass_1": "خودروها در این شهر ساخته می‌شوند."
+  },
+  "common_error_explanations": {
+    "err_pass_1": "در حالت مجهول همیشه باید از قسمت سوم فعل استفاده کنید."
+  },
+  "vocab_glosses": {
+    "en.vocab.car": "خودرو",
+    "en.vocab.make": "ساختن",
+    "en.vocab.city": "شهر"
+  },
+  "locale": "fa"
+}

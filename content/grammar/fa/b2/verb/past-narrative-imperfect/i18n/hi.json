@@ -1,0 +1,18 @@
+{
+  "title": "फ़ारसी में वृत्तांत अपूर्ण भूतकाल (Narrative Past Continuous)",
+  "summary": "दूसरों से सुने अतीत के अभ्यस्त कार्यों को व्यक्त करना।",
+  "explanation": "उपसर्ग 'می-' + कृदंत + प्रत्यय।",
+  "rules": [
+    "می- + कृदंत + प्रत्यय"
+  ],
+  "example_translations": {
+    "ex_pnarr_1": "कहते हैं कि वह हर रोज वहां जाता था।"
+  },
+  "common_error_explanations": {
+    "err_pnarr_1": "परोक्ष वृत्तांत के लिए 'می‌رفته است' का प्रयोग करें।"
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "जाना"
+  },
+  "locale": "hi"
+}

@@ -1,0 +1,28 @@
+{
+  "$schema": "../../../../../schemas/vocab-base.schema.json",
+  "schema_version": 1,
+  "id": "en.noun.water",
+  "language": "en",
+  "lemma": "water",
+  "pos": "noun",
+  "cefr": "A1",
+  "frequency_rank": 80,
+  "forms": {
+    "singular": "water",
+    "plural": "waters"
+  },
+  "translations": {
+    "ar": "ماء",
+    "de": "Wasser",
+    "en": "water",
+    "es": "agua",
+    "fa": "آب",
+    "fr": "eau",
+    "hi": "पानी",
+    "ja": "水",
+    "pt": "água",
+    "ru": "вода",
+    "tr": "su"
+  },
+  "tags": ["food and drink","natural elements"]
+}

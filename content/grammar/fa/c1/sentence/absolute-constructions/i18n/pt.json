@@ -1,0 +1,18 @@
+{
+  "title": "Construções Absolutas e Adverbiais",
+  "summary": "Frases absolutas sem verbo para descrever estados no persa formal.",
+  "explanation": "O persa formal utiliza frases parentéticas sem verbo para descrever estados simultâneos (ex. کتاب در دست = livro na mão).",
+  "rules": [
+    "Substantivo + Frase Adverbial"
+  ],
+  "example_translations": {
+    "ex_abs_1": "Ali entrou na sala, livro na mão."
+  },
+  "common_error_explanations": {
+    "err_abs_1": "Omita verbos explícitos em frases absolutas literárias."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "livro"
+  },
+  "locale": "pt"
+}

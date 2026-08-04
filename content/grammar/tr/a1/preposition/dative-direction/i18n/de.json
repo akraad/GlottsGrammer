@@ -1,0 +1,18 @@
+{
+  "title": "Türkischer Dativ / Richtung (-a / -e)",
+  "summary": "Ausdruck von 'zu', 'nach', 'in Richtung'.",
+  "explanation": "Fügt '-a/-e' an. Endet das Wort auf einen Vokal, wird das Puffer-'y' eingefügt (z. B. eve, okula).",
+  "rules": [
+    "Nomen + -(y)a / -(y)e"
+  ],
+  "example_translations": {
+    "ex_trdat_1": "Ich gehe nach Hause."
+  },
+  "common_error_explanations": {
+    "err_trdat_1": "Verwende '-e' bei hellen Vokalen."
+  },
+  "vocab_glosses": {
+    "tr.vocab.ev": "Haus"
+  },
+  "locale": "de"
+}

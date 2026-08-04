@@ -1,0 +1,18 @@
+{
+  "locale": "ja",
+  "title": "[JA] [JA] German Passive Voice (Präteritum)",
+  "summary": "[JA] [JA] German Passive Voice (Präteritum)",
+  "explanation": "[JA] [JA] German Passive Voice (Präteritum)",
+  "rules": [
+    "Subjekt + wurde (Pos 2) + ... + Partizip II (Ende)"
+  ],
+  "example_translations": {
+    "ex_de_b1_2": "Der Brief wurde gestern geschrieben."
+  },
+  "common_error_explanations": {
+    "err_de_b1_2": "In narrative past passive, use 'wurde' in position 2 with Partizip II at the end."
+  },
+  "vocab_glosses": {
+    "de.vocab.brief": "term"
+  }
+}

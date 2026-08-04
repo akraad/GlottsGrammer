@@ -1,0 +1,18 @@
+{
+  "title": "Phrases Conditionnelles en Persan (اگر)",
+  "summary": "Former des phrases conditionnelles réelles.",
+  "explanation": "Jonction 'اگر' (Si) + Subjonctif dans la condition + Résultat.",
+  "rules": [
+    "اگر + Subjonctif, Clause de résultat"
+  ],
+  "example_translations": {
+    "ex_cond_1": "Si j'ai le temps, j'irai à la maison."
+  },
+  "common_error_explanations": {
+    "err_cond_1": "Utilisez le subjonctif dans la clause 'si'."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "aller"
+  },
+  "locale": "fr"
+}

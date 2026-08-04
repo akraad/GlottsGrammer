@@ -1,0 +1,30 @@
+{
+  "$schema": "../../../../../schemas/grammar-i18n.schema.json",
+  "locale": "en",
+  "translation_status": "draft",
+  "name": "Subject Pronouns",
+  "summary": "Subject pronouns: words that replace nouns as the subject of a sentence.",
+  "explanation": "Subject pronouns are used instead of a noun when we don't want to repeat it. In English, there are 7 subject pronouns: I, you, he, she, it, we, they. They are divided into singular and plural.",
+  "form_notes": {
+    "singular": "Singular pronouns: I (speaker), you (one person you speak to), he (one male), she (one female), it (one thing or animal).",
+    "plural": "Plural pronouns: we (speaker and others), you (more than one person), they (other people or things)."
+  },
+  "example_translations": {
+    "ex_01": "I drink water.",
+    "ex_02": "She works every day.",
+    "ex_03": "They drink tea."
+  },
+  "common_error_explanations": {
+    "err_01": "«Him» is an object pronoun, not a subject pronoun. Use «he» as the subject.",
+    "err_02": "«Me» is an object pronoun, not a subject pronoun. Use «I» as the subject."
+  },
+  "vocab_glosses": {
+    "en.noun.student": "student",
+    "en.noun.friend": "friend",
+    "en.vocab.book": "book",
+    "en.noun.teacher": "teacher",
+    "en.noun.tea": "tea",
+    "en.verb.work": "to work",
+    "en.verb.drink": "to drink"
+  }
+}

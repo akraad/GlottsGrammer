@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0.0",
+  "id": "fa.a1.verb.past-simple",
+  "universal_concept_id": "verb.past.simple",
+  "language": "fa",
+  "cefr": "A1",
+  "app_level": "beginner",
+  "category": "verb",
+  "status": "approved",
+  "difficulty": 2,
+  "prerequisites": [
+    "fa.a1.verb.present-simple"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "past_stem"
+        },
+        {
+          "slot": "personal_suffix"
+        }
+      ],
+      "example": "رفتم"
+    }
+  ],
+  "vocab": [
+    "fa.vocab.raftan"
+  ],
+  "examples": [
+    {
+      "id": "ex_past_1",
+      "target_text": "من دیروز به خانه رفتم.",
+      "tokens": [
+        {
+          "text": "من"
+        },
+        {
+          "text": "دیروز"
+        },
+        {
+          "text": "به"
+        },
+        {
+          "text": "خانه"
+        },
+        {
+          "text": "رفتم"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_past_1",
+      "incorrect": "من دیروز به خانه می‌روم.",
+      "explanation": "Use past stem (رفت) instead of present stem for completed past actions."
+    }
+  ]
+}

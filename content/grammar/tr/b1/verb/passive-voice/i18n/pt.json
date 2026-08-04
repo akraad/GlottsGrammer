@@ -1,0 +1,18 @@
+{
+  "title": "Voz Passiva em Turco (-il / -in)",
+  "summary": "Formar verbos passivos em turco.",
+  "explanation": "Anexe '-il/-ıl/-ul/-ül' (ou '-in' após vogais) à raiz do verbo para indicar voz passiva.",
+  "rules": [
+    "Raiz do Verbo + -il/-in + Tempo"
+  ],
+  "example_translations": {
+    "ex_trpas_1": "Este livro foi lido ontem."
+  },
+  "common_error_explanations": {
+    "err_trpas_1": "Use o sufixo passivo quando o agente for desconhecido."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "ler"
+  },
+  "locale": "pt"
+}

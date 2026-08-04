@@ -1,0 +1,64 @@
+{
+  "schema_version": "1.0.0",
+  "id": "fa.a1.noun.ezafe-construction",
+  "universal_concept_id": "noun.ezafe.construction",
+  "language": "fa",
+  "cefr": "A1",
+  "app_level": "beginner",
+  "category": "noun",
+  "status": "approved",
+  "difficulty": 2,
+  "prerequisites": [
+    "fa.a1.noun.plural-basic"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "noun"
+        },
+        {
+          "slot": "ezafe_vowel"
+        },
+        {
+          "slot": "modifier"
+        }
+      ],
+      "example": "کتابِ علی"
+    }
+  ],
+  "vocab": [
+    "fa.vocab.book"
+  ],
+  "examples": [
+    {
+      "id": "ex_ezafe_1",
+      "target_text": "کتابِ علی روی میز است.",
+      "tokens": [
+        {
+          "text": "کتابِ"
+        },
+        {
+          "text": "علی"
+        },
+        {
+          "text": "روی"
+        },
+        {
+          "text": "میز"
+        },
+        {
+          "text": "است"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_ezafe_1",
+      "incorrect": "کتاب علی روی میز است.",
+      "explanation": "Do not omit the Ezafe vowel (-e) when connecting a noun to a possessor or adjective."
+    }
+  ]
+}

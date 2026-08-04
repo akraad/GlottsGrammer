@@ -1,0 +1,18 @@
+{
+  "title": "トルコ語の 疑問粒子 (mı / mi / mu / mü)",
+  "summary": "はい/いいえ 疑問文の作り方。",
+  "explanation": "前の単語と離して書き、4母音調和に従います。人称接尾辞は疑問粒子に直接付きます (例: okuyor musun?)。",
+  "rules": [
+    "平叙文 + mı/mi/mu/mü + 語尾"
+  ],
+  "example_translations": {
+    "ex_trmi_1": "本を読んでいますか？"
+  },
+  "common_error_explanations": {
+    "err_trmi_1": "人称接尾辞は動詞ではなく疑問粒子に付けてください。"
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "読む"
+  },
+  "locale": "ja"
+}

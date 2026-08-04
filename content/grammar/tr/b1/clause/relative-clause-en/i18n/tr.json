@@ -1,0 +1,18 @@
+{
+  "title": "Sıfat-Fiil ve Ortaçlar (-en / -an)",
+  "summary": "'-en / -an' ekleriyle sıfat cümleciği ve ortaç yapma.",
+  "explanation": "Fiil köküne '-en/-an' eklenerek sıfat görevinde ortaçlar oluşturulur (kitap okuyan çocuk = kitap okuyan çocuk).",
+  "rules": [
+    "Fiil Kökü + -en/-an + İsim"
+  ],
+  "example_translations": {
+    "ex_tren_1": "Kitap okuyan çocuk çok akıllı."
+  },
+  "common_error_explanations": {
+    "err_tren_1": "İsmi niteleyen eylemler için '-en/-an' eklerini kullanın."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "okumak"
+  },
+  "locale": "tr"
+}

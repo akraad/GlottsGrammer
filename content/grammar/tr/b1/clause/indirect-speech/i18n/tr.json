@@ -1,0 +1,18 @@
+{
+  "title": "Dolaylı Anlatım / Bildirme Cümleleri",
+  "summary": "Başkasının söylediğini veya bir durumu aktarma.",
+  "explanation": "Fiil köklerine sıfat-fiil ekleri (-diği) ve iyelik + belirtme ekleri getirilerek cümleler isimleştirilir ve aktarılır.",
+  "rules": [
+    "Özne + İsimleşmiş Fiil (-diğini) + Söyledi"
+  ],
+  "example_translations": {
+    "ex_trind_1": "Kitap okuduğunu söyledi."
+  },
+  "common_error_explanations": {
+    "err_trind_1": "Aktarılan cümleleri sıfat-fiil ve iyelik ekleriyle bağlayın."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "okumak"
+  },
+  "locale": "tr"
+}

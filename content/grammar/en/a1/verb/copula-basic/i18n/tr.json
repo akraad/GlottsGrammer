@@ -1,0 +1,38 @@
+{
+  "$schema": "../../../../../schemas/grammar-i18n.schema.json",
+  "locale": "tr",
+  "translation_status": "draft",
+  "name": "to be fiili (am/is/are)",
+  "summary": "'To be' fiili kimlik, durum ve konum açıklamak için kullanılır.",
+  "explanation": "'To be' fiili İngilizce'deki en önemli fiildir. Şimdiki zamanda üç hali vardır: am, is, are. I ile 'am' kullanın. he/she/it ile 'is' kullanın. you/we/they ile 'are' kullanın. Diğer fiillerin aksine, 'to be' sorular veya olumsuzluklar için 'do/does'a ihtiyaç duymaz.",
+  "form_notes": {
+    "affirmative": "Özne + am/is/are + tamlayıcı (isim, sıfat veya yer). Örnek: She is a teacher.",
+    "negative": "Özne + am/is/are + not + tamlayıcı. Örnek: He is not happy.",
+    "question": "Am/Is/Are + özne + tamlayıcı? Örnek: Are you tired?"
+  },
+  "example_translations": {
+    "ex_01": "Ben bir öğrenciyim.",
+    "ex_02": "O evde değil.",
+    "ex_03": "Bugün mutlu musun?"
+  },
+  "common_error_explanations": {
+    "err_01": "'I' ile her zaman 'am' kullanın. Asla 'I is' demeyin.",
+    "err_02": "he/she/it ile 'is' kullanın. 'Are' sadece you/we/they içindir."
+  },
+  "vocab_glosses": {
+    "en.verb.be": "olmak",
+    "en.adj.happy": "mutlu",
+    "en.adj.sad": "üzgün",
+    "en.adj.tired": "yorgun",
+    "en.adj.hungry": "aç",
+    "en.vocab.home": "ev",
+    "en.noun.school": "okul",
+    "en.noun.work": "iş (yer)"
+  },
+  "title": "To Be Fiilleri (Am / Is / Are)",
+  "rules": [
+    "I + am",
+    "He/She/It + is",
+    "You/We/They + are"
+  ]
+}

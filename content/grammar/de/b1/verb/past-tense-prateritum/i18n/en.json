@@ -1,0 +1,18 @@
+{
+  "locale": "en",
+  "title": "German Präteritum Tense",
+  "summary": "Simple past tense used mainly in narrative and written contexts.",
+  "explanation": "Simple past tense used mainly in narrative and written contexts.",
+  "rules": [
+    "Subjekt + Präteritum-Verb (Pos 2) + ..."
+  ],
+  "example_translations": {
+    "ex_de_b1": "Ich war früher in dieser Stadt."
+  },
+  "common_error_explanations": {
+    "err_de_b1": "Use Präteritum for narrative past tense contexts, especially with auxiliary and modal verbs."
+  },
+  "vocab_glosses": {
+    "de.vocab.stadt": "Stadt"
+  }
+}

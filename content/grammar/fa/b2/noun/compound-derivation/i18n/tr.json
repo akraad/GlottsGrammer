@@ -1,0 +1,19 @@
+{
+  "title": "Farsça Birleşik İsim Oluşturma",
+  "summary": "Yeni isimler türetmek için kelimeleri veya kökleri birleştirme.",
+  "explanation": "İsim + İsim veya İsim + Fiil Kökü birleşimi ile türetilir (örn. کتاب‌خانه = kütüphane).",
+  "rules": [
+    "İsim + İsim/Kök"
+  ],
+  "example_translations": {
+    "ex_cder_1": "Kütüphanede ders çalışıyor."
+  },
+  "common_error_explanations": {
+    "err_cder_1": "Birleşik sözcük bileşenleri arasında yarım boşluk (ZWNJ) kullanın."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "kitap",
+    "fa.vocab.home": "ev"
+  },
+  "locale": "tr"
+}

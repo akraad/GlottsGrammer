@@ -1,0 +1,18 @@
+{
+  "title": "Négation Verbale en Persan",
+  "summary": "Nier les verbes avec le préfixe 'نـ'.",
+  "explanation": "En persan, ajoutez le préfixe 'نـ' directement au début du verbe.",
+  "rules": [
+    "نـ + Verbe"
+  ],
+  "example_translations": {
+    "ex_neg_1": "Je ne vais pas à la maison."
+  },
+  "common_error_explanations": {
+    "err_neg_1": "Ajoutez 'نـ' au début du verbe."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "aller"
+  },
+  "locale": "fr"
+}

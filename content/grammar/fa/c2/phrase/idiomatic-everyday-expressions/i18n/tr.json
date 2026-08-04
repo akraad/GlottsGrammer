@@ -1,0 +1,18 @@
+{
+  "title": "Günlük Farsça Deyimler ve Nezaket İfadeleri",
+  "summary": "'دستت درد نکنه' (Eline sağlık / Teşekkürler) gibi temel günlük kalıplar.",
+  "explanation": "Farsça konuşanlar günlük hayatta teşekkür ve selamlama için zengin kültürel kalıplar kullanır.",
+  "rules": [
+    "Doğal Günlük Nezaket Kalıpları"
+  ],
+  "example_translations": {
+    "ex_exp_1": "Eline sağlık, çok incelik ettin!"
+  },
+  "common_error_explanations": {
+    "err_exp_1": "Birebir çeviriler yerine doğal günlük deyimleri kullanın."
+  },
+  "vocab_glosses": {
+    "fa.vocab.home": "ev"
+  },
+  "locale": "tr"
+}

@@ -1,0 +1,98 @@
+{
+  "$schema": "../../../../../schemas/grammar-base.schema.json",
+  "schema_version": 1,
+  "id": "en.a1.noun.basic-plural",
+  "universal_concept_id": "noun.number.basic",
+  "language": "en",
+  "cefr": "A1",
+  "app_level": "beginner",
+  "category": "noun",
+  "subcategory": "number",
+  "status": "draft",
+  "difficulty": 1,
+  "prerequisites": [
+    "en.a1.pronoun.personal-subject",
+    "en.a1.noun.definiteness-basic"
+  ],
+  "forms": [
+    {
+      "id": "regular-s",
+      "type": "regular",
+      "pattern": [
+        "noun + s"
+      ],
+      "example": "cat → cats"
+    },
+    {
+      "id": "es-ending",
+      "type": "sibilant",
+      "pattern": [
+        "noun ending in s/x/z/ch/sh + es"
+      ],
+      "example": "box → boxes"
+    },
+    {
+      "id": "consonant-y",
+      "type": "y-change",
+      "pattern": [
+        "noun ending in consonant+y → i+es"
+      ],
+      "example": "baby → babies"
+    },
+    {
+      "id": "irregular",
+      "type": "irregular",
+      "pattern": [
+        "memorize"
+      ],
+      "example": "man → men, child → children"
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex_01",
+      "target_text": "I have two cats.",
+      "reading": null,
+      "audio": null
+    },
+    {
+      "id": "ex_02",
+      "target_text": "She has three boxes.",
+      "reading": null,
+      "audio": null
+    },
+    {
+      "id": "ex_03",
+      "target_text": "The men are here.",
+      "reading": null,
+      "audio": null
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_01",
+      "wrong": "I have two cat.",
+      "correct": "I have two cats."
+    },
+    {
+      "id": "err_02",
+      "wrong": "She has many boxs.",
+      "correct": "She has many boxes."
+    }
+  ],
+  "vocab": [
+    "en.noun.cat",
+    "en.noun.box",
+    "en.noun.baby",
+    "en.noun.man",
+    "en.noun.woman",
+    "en.noun.child",
+    "en.vocab.book",
+    "en.vocab.city"
+  ],
+  "tags": [
+    "plural",
+    "noun",
+    "morphology"
+  ]
+}

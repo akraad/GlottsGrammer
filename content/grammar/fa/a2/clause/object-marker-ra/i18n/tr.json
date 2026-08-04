@@ -1,0 +1,18 @@
+{
+  "title": "Belirtme Hali Eki 'را' (Ra)",
+  "summary": "Farsçada belirli nesneleri gösterme.",
+  "explanation": "'را' edatı belirli nesnenin hemen ARDINDAN gelir.",
+  "rules": [
+    "Belirli Nesne + را"
+  ],
+  "example_translations": {
+    "ex_ra_1": "Kitabı okudum."
+  },
+  "common_error_explanations": {
+    "err_ra_1": "'را' edatını nesnenin hemen ARDINA koyun."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "kitap"
+  },
+  "locale": "tr"
+}

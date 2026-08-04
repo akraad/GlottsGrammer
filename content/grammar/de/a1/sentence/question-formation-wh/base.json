@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0.0",
+  "id": "de.a1.sentence.question-formation-wh",
+  "universal_concept_id": "sentence.question.wh.german",
+  "language": "de",
+  "cefr": "A1",
+  "app_level": "beginner",
+  "category": "sentence",
+  "status": "approved",
+  "difficulty": 1,
+  "prerequisites": [
+    "de.a1.sentence.word-order-v2"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "wh_word_W_Frage"
+        },
+        {
+          "slot": "conjugated_verb"
+        },
+        {
+          "slot": "subject"
+        }
+      ],
+      "example": "Wo wohnst du?"
+    }
+  ],
+  "vocab": [
+    "de.vocab.wohnen"
+  ],
+  "examples": [
+    {
+      "id": "ex_de_2",
+      "target_text": "Wo wohnst du?",
+      "tokens": [
+        {
+          "text": "Wo"
+        },
+        {
+          "text": "wohnst"
+        },
+        {
+          "text": "du?"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_de_2",
+      "incorrect": "Wo du wohnst?",
+      "explanation": "WH-questions start with the question word, followed immediately by the conjugated verb in position 2."
+    }
+  ]
+}

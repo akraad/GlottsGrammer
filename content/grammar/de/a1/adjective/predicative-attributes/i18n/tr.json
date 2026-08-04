@@ -1,0 +1,18 @@
+{
+  "title": "German Predicative Adjectives",
+  "summary": "Using uninflected adjectives after linking verbs like 'sein'.",
+  "explanation": "Using uninflected adjectives after linking verbs like 'sein'.",
+  "rules": [
+    "Subjekt + sein + Adjektiv (unverändert)"
+  ],
+  "example_translations": {
+    "ex_de_2": "Das Auto ist schnell."
+  },
+  "common_error_explanations": {
+    "err_de_2": "Do not add endings to adjectives when they follow linking verbs."
+  },
+  "vocab_glosses": {
+    "de.vocab.auto": "Auto"
+  },
+  "locale": "tr"
+}

@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0.0",
+  "id": "en.a1.pronoun.demonstrative-basic",
+  "universal_concept_id": "pronoun.demonstrative.basic",
+  "language": "en",
+  "cefr": "A1",
+  "app_level": "beginner",
+  "category": "pronoun",
+  "status": "approved",
+  "difficulty": 1,
+  "prerequisites": [
+    "en.a1.noun.definiteness-basic"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "demonstrative"
+        },
+        {
+          "slot": "copula"
+        },
+        {
+          "slot": "noun"
+        }
+      ],
+      "example": "This is a pen."
+    }
+  ],
+  "vocab": [
+    "en.vocab.pen"
+  ],
+  "examples": [
+    {
+      "id": "ex_demo_1",
+      "target_text": "This is a pen.",
+      "tokens": [
+        {
+          "text": "This"
+        },
+        {
+          "text": "is"
+        },
+        {
+          "text": "a"
+        },
+        {
+          "text": "pen"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_demo_1",
+      "incorrect": "These is a pen.",
+      "explanation": "Use 'This' with singular and 'These' with plural."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "$schema": "../../../../../schemas/grammar-i18n.schema.json",
+  "locale": "de",
+  "translation_status": "draft",
+  "name": "Bestimmtheit: a, an, the",
+  "summary": "Verwenden Sie „a/an“ für unbestimmte Singularnomen, „the“ für bestimmte Nomen und keinen Artikel für allgemeine Plural- oder unzählbare Nomen.",
+  "explanation": "Im Englischen geben Artikel an, ob Sie über etwas Allgemeines oder Spezifisches sprechen. Verwenden Sie „a“ vor Konsonantenlauten und „an“ vor Vokallauten für unbestimmte Referenzen. Verwenden Sie „the“, wenn sowohl Sprecher als auch Zuhörer wissen, worum es genau geht.",
+  "form_notes": {
+    "indefinite-a": "Verwenden Sie „a“ vor Wörtern, die mit einem Konsonantenlaut beginnen (a cat, a university).",
+    "indefinite-an": "Verwenden Sie „an“ vor Wörtern, die mit einem Vokallaut beginnen (an apple, an hour).",
+    "definite-the": "Verwenden Sie „the“, wenn Sie sich auf ein bestimmtes Nomen beziehen, das bereits bekannt oder einzigartig ist.",
+    "zero-article": "Kein Artikel wird bei Plural- oder unzählbaren Nomen verwendet, wenn allgemein gesprochen wird."
+  },
+  "example_translations": {
+    "ex_01": "Ich habe eine Katze.",
+    "ex_02": "Sie ist Ingenieurin.",
+    "ex_03": "Die Katze ist schwarz.",
+    "ex_04": "Katzen sind Tiere."
+  },
+  "common_error_explanations": {
+    "err_01": "„An“ wird vor VokalLAUTEN verwendet, nicht nur vor Vokalbuchstaben. „Car“ beginnt mit einem Konsonantenlaut, also verwenden Sie „a“.",
+    "err_02": "Berufe erfordern im Englischen „a/an“. Man kann nicht „She is teacher“ sagen; es muss „She is a teacher“ heißen."
+  },
+  "vocab_glosses": {
+    "en.noun.cat": "Katze",
+    "en.noun.engineer": "Ingenieur",
+    "en.noun.car": "Auto",
+    "en.noun.teacher": "Lehrer",
+    "en.vocab.car": "car"
+  },
+  "title": "Artikel (A / An / The)",
+  "rules": [
+    "Verwende a/an für unbestimmte und the für bestimmte Nomen.",
+    "Verwende an vor Vokalen (a, e, i, o, u)."
+  ]
+}

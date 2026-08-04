@@ -1,0 +1,23 @@
+{
+  "title": "Persische Personalpronomen",
+  "summary": "Subjektpronomen im Persischen (من, تو, او, ما, شما, آن‌ها).",
+  "explanation": "Persische Pronomen werden als Subjekt verwendet und können oft weggelassen werden.",
+  "rules": [
+    "من (Ich)",
+    "تو (Du)",
+    "او (Er/Sie)",
+    "ما (Wir)",
+    "شما (Ihr/Sie)",
+    "آن‌ها (Sie - Plural)"
+  ],
+  "example_translations": {
+    "ex_fa_pron_1": "Ich bin Lehrer."
+  },
+  "common_error_explanations": {
+    "err_fa_pron_1": "Kombiniere 'من' immer mit 'هستم'."
+  },
+  "vocab_glosses": {
+    "fa.vocab.man": "ich"
+  },
+  "locale": "de"
+}

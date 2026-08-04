@@ -1,0 +1,18 @@
+{
+  "title": "Turkish Passive Voice (-il / -in)",
+  "summary": "Forming passive verbs where the object becomes the subject.",
+  "explanation": "Attach '-il/-ıl/-ul/-ül' (or '-in' after vowels) to the verb stem to make it passive (e.g., okundu = was read).",
+  "rules": [
+    "Verb Stem + -il/-in + Tense Suffix"
+  ],
+  "example_translations": {
+    "ex_trpas_1": "This book was read yesterday."
+  },
+  "common_error_explanations": {
+    "err_trpas_1": "Use passive suffixes when the actor is unknown or secondary."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "read"
+  },
+  "locale": "en"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Verbos Causativos em Persa (-اندن)",
+  "summary": "Formar verbos causativos com o sufixo '-اندن'.",
+  "explanation": "Adicione '-اندن' à raiz do presente para criar verbos causativos.",
+  "rules": [
+    "Raiz do Presente + اندن"
+  ],
+  "example_translations": {
+    "ex_caus_1": "A mãe fez a criança dormir."
+  },
+  "common_error_explanations": {
+    "err_caus_1": "Use o sufixo '-اندن' para formar verbos causativos."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "ir"
+  },
+  "locale": "pt"
+}

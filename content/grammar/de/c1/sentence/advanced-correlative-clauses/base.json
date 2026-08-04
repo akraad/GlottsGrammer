@@ -1,0 +1,70 @@
+{
+  "schema_version": "1.0.0",
+  "id": "de.c1.sentence.advanced-correlative-clauses",
+  "universal_concept_id": "sentence.correlative.c1.german",
+  "language": "de",
+  "cefr": "C1",
+  "app_level": "advanced",
+  "category": "sentence",
+  "status": "approved",
+  "difficulty": 5,
+  "prerequisites": [
+    "de.b2.conjunction.advanced-connectors"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "main_clause"
+        },
+        {
+          "slot": "anstatt_ohne_zu_infinitive"
+        }
+      ],
+      "example": "Er ging, ohne ein Wort zu sagen"
+    }
+  ],
+  "vocab": [
+    "de.vocab.wort"
+  ],
+  "examples": [
+    {
+      "id": "ex_de_c1",
+      "target_text": "Er ging weg, ohne ein Wort zu sagen.",
+      "tokens": [
+        {
+          "text": "Er"
+        },
+        {
+          "text": "ging"
+        },
+        {
+          "text": "weg,"
+        },
+        {
+          "text": "ohne"
+        },
+        {
+          "text": "ein"
+        },
+        {
+          "text": "Wort"
+        },
+        {
+          "text": "zu"
+        },
+        {
+          "text": "sagen."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_de_c1",
+      "incorrect": "Er ging weg, ohne dass er ein Wort sagte (when subject is identical).",
+      "explanation": "Use 'ohne... zu' or 'anstatt... zu' infinitive clauses instead of finite subclauses when the subject is identical."
+    }
+  ]
+}

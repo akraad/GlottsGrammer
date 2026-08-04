@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0.0",
+  "id": "fa.a2.verb.modal-basic",
+  "universal_concept_id": "verb.modal.basic",
+  "language": "fa",
+  "cefr": "A2",
+  "app_level": "elementary",
+  "category": "verb",
+  "status": "approved",
+  "difficulty": 2,
+  "prerequisites": [
+    "fa.a1.verb.present-simple"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "modal_verb"
+        },
+        {
+          "slot": "subjunctive_verb"
+        }
+      ],
+      "example": "می‌توانم بروم"
+    }
+  ],
+  "vocab": [
+    "fa.vocab.raftan"
+  ],
+  "examples": [
+    {
+      "id": "ex_mod_1",
+      "target_text": "من می‌توانم فارسی صحبت کنم.",
+      "tokens": [
+        {
+          "text": "من"
+        },
+        {
+          "text": "می‌توانم"
+        },
+        {
+          "text": "فارسی"
+        },
+        {
+          "text": "صحبت"
+        },
+        {
+          "text": "کنم"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_mod_1",
+      "incorrect": "من باید رفتن.",
+      "explanation": "In Persian, modal verbs are followed by the subjunctive form of the main verb."
+    }
+  ]
+}

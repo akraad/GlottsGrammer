@@ -1,0 +1,64 @@
+{
+  "schema_version": "1.0.0",
+  "id": "en.a1.adjective.basic-attributive",
+  "universal_concept_id": "adjective.basic",
+  "language": "en",
+  "cefr": "A1",
+  "app_level": "beginner",
+  "category": "adjective",
+  "status": "approved",
+  "difficulty": 1,
+  "prerequisites": [
+    "en.a1.noun.definiteness-basic"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "article"
+        },
+        {
+          "slot": "adjective"
+        },
+        {
+          "slot": "noun"
+        }
+      ],
+      "example": "a red car"
+    }
+  ],
+  "vocab": [
+    "en.vocab.car"
+  ],
+  "examples": [
+    {
+      "id": "ex_adj_1",
+      "target_text": "This is a red car.",
+      "tokens": [
+        {
+          "text": "This"
+        },
+        {
+          "text": "is"
+        },
+        {
+          "text": "a"
+        },
+        {
+          "text": "red"
+        },
+        {
+          "text": "car"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_adj_1",
+      "incorrect": "a car red",
+      "explanation": "Adjectives go before nouns in English."
+    }
+  ]
+}

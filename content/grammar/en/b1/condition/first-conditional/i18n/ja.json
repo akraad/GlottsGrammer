@@ -1,0 +1,20 @@
+{
+  "title": "第1条件法 (First Conditional)",
+  "summary": "将来起こる可能性が高い現実的な条件には第1条件法を使用します。",
+  "explanation": "構造: If + 現在形, 主語 + Will + 動詞の原形。",
+  "rules": [
+    "If節 -> 現在形",
+    "主節 -> Will + 動詞の原形"
+  ],
+  "example_translations": {
+    "ex_fc_1": "もし雨が降れば、私は家にいます。"
+  },
+  "common_error_explanations": {
+    "err_fc_1": "If節の中で will を使ってはいけません。"
+  },
+  "vocab_glosses": {
+    "en.vocab.rain": "雨が降る",
+    "en.vocab.home": "家"
+  },
+  "locale": "ja"
+}

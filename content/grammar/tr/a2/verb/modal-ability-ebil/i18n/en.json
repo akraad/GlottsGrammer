@@ -1,0 +1,18 @@
+{
+  "title": "Turkish Ability Modal (-ebil / -abil)",
+  "summary": "Expressing ability, capability, or permission ('can').",
+  "explanation": "Attach '-ebil/-abil' (with buffer 'y' if verb stem ends in a vowel) right after the verb stem, followed by tense and personal suffixes.",
+  "rules": [
+    "Verb Stem + -(y)ebil + Tense + Personal Suffix"
+  ],
+  "example_translations": {
+    "ex_trebil_1": "I can read this book."
+  },
+  "common_error_explanations": {
+    "err_trebil_1": "Place the ability suffix '-ebil/-abil' before the tense marker."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "read"
+  },
+  "locale": "en"
+}

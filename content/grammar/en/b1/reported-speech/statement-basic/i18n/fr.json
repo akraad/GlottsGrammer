@@ -1,0 +1,18 @@
+{
+  "title": "Discours Rapporté",
+  "summary": "Utilisez le discours rapporté pour dire ce que quelqu'un d'autre a dit.",
+  "explanation": "Le temps du verbe recule d'un cran dans le passé.",
+  "rules": [
+    "Présent -> Passé"
+  ],
+  "example_translations": {
+    "ex_rep_1": "Il a dit qu'il était heureux."
+  },
+  "common_error_explanations": {
+    "err_rep_1": "Changez le temps du verbe au passé."
+  },
+  "vocab_glosses": {
+    "en.vocab.say": "dire"
+  },
+  "locale": "fr"
+}

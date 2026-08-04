@@ -1,0 +1,64 @@
+{
+  "schema_version": "1.0.0",
+  "id": "de.c1.verb.modal-particles",
+  "universal_concept_id": "verb.modal.particles.german",
+  "language": "de",
+  "cefr": "C1",
+  "app_level": "advanced",
+  "category": "verb",
+  "status": "approved",
+  "difficulty": 5,
+  "prerequisites": [
+    "de.b1.verb.subjunctive-ii-polite"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "subject"
+        },
+        {
+          "slot": "conjugated_verb"
+        },
+        {
+          "slot": "modal_particle_doch_ja_eben"
+        },
+        {
+          "slot": "rest"
+        }
+      ],
+      "example": "Das ist doch klar!"
+    }
+  ],
+  "vocab": [
+    "de.vocab.klar"
+  ],
+  "examples": [
+    {
+      "id": "ex_de_c1_2",
+      "target_text": "Das weiß man doch!",
+      "tokens": [
+        {
+          "text": "Das"
+        },
+        {
+          "text": "weiß"
+        },
+        {
+          "text": "man"
+        },
+        {
+          "text": "doch!"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_de_c1_2",
+      "incorrect": "Treating modal particles as direct literal dictionary translations.",
+      "explanation": "Modal particles (doch, ja, eben, wohl) do not change the core propositional meaning but express emotional tone and speaker attitude."
+    }
+  ]
+}

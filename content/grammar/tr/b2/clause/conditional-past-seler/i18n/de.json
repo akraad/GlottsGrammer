@@ -1,0 +1,18 @@
+{
+  "title": "Irreales Konditional in der Vergangenheit (-seydi)",
+  "summary": "Ausdruck von nicht verwirklichten Bedingungen der Vergangenheit.",
+  "explanation": "Füge '-seydi/-saydı' an den Verbstamm an, um vergangene irreale Bedingungen auszudrücken (z. B. gelseydi = wenn er gekommen wäre).",
+  "rules": [
+    "Verbstamm + -seydi/-saydı + Personalsuffix"
+  ],
+  "example_translations": {
+    "ex_trsed_1": "Wenn er gestern gekommen wäre, hätte er das Buch gesehen."
+  },
+  "common_error_explanations": {
+    "err_trsed_1": "Verwende '-seydi' für irreale Bedingungen in der Vergangenheit."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "lesen"
+  },
+  "locale": "de"
+}

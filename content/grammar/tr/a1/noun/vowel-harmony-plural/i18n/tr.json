@@ -1,0 +1,20 @@
+{
+  "title": "Çoğul Eki (-lar / -ler) ve Ünlü Uyumu",
+  "summary": "İsimleri çoğul yapma ve 2'li büyük ünlü uyumu.",
+  "explanation": "Son ünlüsü kalın (a, ı, o, u) olan kelimelere '-lar', ince (e, i, ö, ü) olan kelimelere '-ler' eklenir.",
+  "rules": [
+    "Kalın ünlüler (a, ı, o, u) -> -lar",
+    "İnce ünlüler (e, i, ö, ü) -> -ler"
+  ],
+  "example_translations": {
+    "ex_tr_pl_1": "Masada kitaplar var."
+  },
+  "common_error_explanations": {
+    "err_tr_pl_1": "Kalın ünlü içeren kelimelere '-ler' eklemeyin."
+  },
+  "vocab_glosses": {
+    "tr.vocab.kitap": "kitap",
+    "tr.vocab.ev": "ev"
+  },
+  "locale": "tr"
+}

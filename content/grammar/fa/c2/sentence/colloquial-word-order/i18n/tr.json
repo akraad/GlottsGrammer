@@ -1,0 +1,18 @@
+{
+  "title": "Farsça Konuşma Dilinde Cümle Sıralaması",
+  "summary": "Günlük konuşmada esnek cümle yapısı ve zamir birleşimi.",
+  "explanation": "Akıcı konuşmada fiil genellikle cümlenin daha başında yer alır ve nesne zamiri fiile eklenir.",
+  "rules": [
+    "Fiil + Bitişik Nesne Zamiri + Zarflar"
+  ],
+  "example_translations": {
+    "ex_cord_1": "Dün onu caddede gördüm."
+  },
+  "common_error_explanations": {
+    "err_cord_1": "Doğal konuşma akışı için nesne zamirini fiile birleştirin."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "kitap"
+  },
+  "locale": "tr"
+}

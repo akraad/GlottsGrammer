@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0.0",
+  "id": "de.b1.adjective.adjective-declension",
+  "universal_concept_id": "adjective.declension.german",
+  "language": "de",
+  "cefr": "B1",
+  "app_level": "intermediate",
+  "category": "adjective",
+  "status": "approved",
+  "difficulty": 4,
+  "prerequisites": [
+    "de.a1.adjective.predicative-attributes",
+    "de.a2.noun.dative-case"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "article"
+        },
+        {
+          "slot": "declined_adjective_ending_e_en"
+        },
+        {
+          "slot": "noun"
+        }
+      ],
+      "example": "Der kleine Hund"
+    }
+  ],
+  "vocab": [
+    "de.vocab.hund"
+  ],
+  "examples": [
+    {
+      "id": "ex_de_b1",
+      "target_text": "Der kleine Hund spielt im Garten.",
+      "tokens": [
+        {
+          "text": "Der"
+        },
+        {
+          "text": "kleine"
+        },
+        {
+          "text": "Hund"
+        },
+        {
+          "text": "spielt"
+        },
+        {
+          "text": "im"
+        },
+        {
+          "text": "Garten."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_de_b1",
+      "incorrect": "Der klein Hund spielt.",
+      "explanation": "Attributive adjectives placed before nouns must take specific endings (-e or -en) depending on gender, case, and article type."
+    }
+  ]
+}

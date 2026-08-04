@@ -1,0 +1,19 @@
+{
+  "title": "Farsçada Sıfatın Yeri",
+  "summary": "Farsçada sıfatlar İzafet ile isimden sonra gelir.",
+  "explanation": "Türkçenin aksine Farsçada sıfat isimden SONRA gelir.",
+  "rules": [
+    "İsim + -e + Sıfat"
+  ],
+  "example_translations": {
+    "ex_adj_1": "Bu büyük bir evdir."
+  },
+  "common_error_explanations": {
+    "err_adj_1": "Sıfatı isimden SONRA kullanın."
+  },
+  "vocab_glosses": {
+    "fa.vocab.home": "ev",
+    "fa.vocab.bozorg": "büyük"
+  },
+  "locale": "tr"
+}

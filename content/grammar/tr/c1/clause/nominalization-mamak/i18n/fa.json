@@ -1,0 +1,18 @@
+{
+  "title": "اسم مصدرهای پیشرفته و ساختارهای فلسفی (-mek / -mak)",
+  "summary": "تبدیل افعال به اسم مصدرهای کلان در جملات انتزاعی.",
+  "explanation": "تبدیل افعال به اسم مصدرهای کلان در جملات انتزاعی.",
+  "rules": [
+    "Verb Stem + -mek/-mak"
+  ],
+  "example_translations": {
+    "ex_c1_1": "Kitap okumak, zihni geliştirir."
+  },
+  "common_error_explanations": {
+    "err_c1_1": "Use infinitive nominalization for abstract propositions."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "خواندن"
+  },
+  "locale": "fa"
+}

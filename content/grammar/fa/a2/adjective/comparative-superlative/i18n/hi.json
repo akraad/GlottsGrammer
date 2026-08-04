@@ -1,0 +1,19 @@
+{
+  "title": "तुलनात्मक विशेषण (Comparative & Superlative)",
+  "summary": "फ़ारसी में -تر और -ترین का प्रयोग।",
+  "explanation": "तुलना के लिए '-تر' जोड़ें और उत्तम अवस्था के लिए संज्ञा से पहले '-ترین' लगाएं।",
+  "rules": [
+    "विशेषण + تر (Comparative)",
+    "ترین + संज्ञा (Superlative)"
+  ],
+  "example_translations": {
+    "ex_comp_1": "यह घर बड़ा है।"
+  },
+  "common_error_explanations": {
+    "err_comp_1": "विशेषण के अंत में '-تر' प्रत्यय जोड़ें।"
+  },
+  "vocab_glosses": {
+    "fa.vocab.bozorg": "बड़ा"
+  },
+  "locale": "hi"
+}

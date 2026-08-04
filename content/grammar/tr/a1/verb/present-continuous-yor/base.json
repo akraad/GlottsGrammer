@@ -1,0 +1,64 @@
+{
+  "schema_version": "1.0.0",
+  "id": "tr.a1.verb.present-continuous-yor",
+  "universal_concept_id": "verb.present.continuous.yor",
+  "language": "tr",
+  "cefr": "A1",
+  "app_level": "beginner",
+  "category": "verb",
+  "status": "approved",
+  "difficulty": 2,
+  "prerequisites": [
+    "tr.a1.sentence.word-order-basic"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "verb_stem"
+        },
+        {
+          "slot": "iyor_suffix"
+        },
+        {
+          "slot": "personal_suffix"
+        }
+      ],
+      "example": "okuyorum"
+    }
+  ],
+  "vocab": [
+    "tr.vocab.okumak"
+  ],
+  "examples": [
+    {
+      "id": "ex_tryor_1",
+      "target_text": "Ben şu an kitap okuyorum.",
+      "tokens": [
+        {
+          "text": "Ben"
+        },
+        {
+          "text": "şu"
+        },
+        {
+          "text": "an"
+        },
+        {
+          "text": "kitap"
+        },
+        {
+          "text": "okuyorum."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_tryor_1",
+      "incorrect": "Ben kitap okuyorum ben.",
+      "explanation": "The suffix '-yor' always takes personal suffixes directly (e.g., okuyo-rum)."
+    }
+  ]
+}

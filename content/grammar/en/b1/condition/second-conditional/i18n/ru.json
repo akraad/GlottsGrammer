@@ -1,0 +1,22 @@
+{
+  "title": "Второе условное предложение (Second Conditional)",
+  "summary": "Используйте Second Conditional для гипотетических и нереальных ситуаций.",
+  "explanation": "Структура: If + Past Simple, Подлежащее + Would + Основной глагол.",
+  "rules": [
+    "Придаточное с If -> Past Simple",
+    "Главное предложение -> Would + Глагол"
+  ],
+  "example_translations": {
+    "ex_sc_1": "Если бы я выиграл в лотерею, я бы купил машину."
+  },
+  "common_error_explanations": {
+    "err_sc_1": "Никогда не используйте 'would' внутри части с 'if'."
+  },
+  "vocab_glosses": {
+    "en.vocab.win": "выигрывать",
+    "en.vocab.lottery": "лотерея",
+    "en.vocab.buy": "покупать",
+    "en.vocab.car": "машина"
+  },
+  "locale": "ru"
+}

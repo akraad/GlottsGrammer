@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0.0",
+  "id": "tr.a2.sentence.object-marker-accusative",
+  "universal_concept_id": "sentence.object.marker.accusative",
+  "language": "tr",
+  "cefr": "A2",
+  "app_level": "elementary",
+  "category": "sentence",
+  "status": "approved",
+  "difficulty": 2,
+  "prerequisites": [
+    "tr.a1.noun.vowel-harmony-plural"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "definite_object"
+        },
+        {
+          "slot": "accusative_suffix"
+        }
+      ],
+      "example": "kitabı"
+    }
+  ],
+  "vocab": [
+    "tr.vocab.kitap"
+  ],
+  "examples": [
+    {
+      "id": "ex_tracc_1",
+      "target_text": "Ben bu kitabı okuyorum.",
+      "tokens": [
+        {
+          "text": "Ben"
+        },
+        {
+          "text": "bu"
+        },
+        {
+          "text": "kitabı"
+        },
+        {
+          "text": "okuyorum."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_tracc_1",
+      "incorrect": "Ben bu kitap okuyorum.",
+      "explanation": "Attach the definite accusative suffix ('-i/-ı/-u/-ü' or '-(y)ı') to specific direct objects."
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "$schema": "../../../../../schemas/grammar-base.schema.json",
+  "schema_version": 1,
+  "id": "en.a1.noun.definiteness-basic",
+  "universal_concept_id": "noun.definiteness.basic",
+  "language": "en",
+  "cefr": "A1",
+  "app_level": "beginner",
+  "category": "noun",
+  "subcategory": "definiteness",
+  "status": "draft",
+  "difficulty": 2,
+  "prerequisites": [
+    "en.a1.pronoun.personal-subject"
+  ],
+  "forms": [
+    {
+      "id": "indefinite-a",
+      "type": "indefinite",
+      "pattern": [
+        "a",
+        "singular_countable_noun"
+      ],
+      "example": "I have a cat."
+    },
+    {
+      "id": "indefinite-an",
+      "type": "indefinite",
+      "pattern": [
+        "an",
+        "singular_countable_noun_vowel_sound"
+      ],
+      "example": "She is an engineer."
+    },
+    {
+      "id": "definite-the",
+      "type": "definite",
+      "pattern": [
+        "the",
+        "noun"
+      ],
+      "example": "The cat is black."
+    },
+    {
+      "id": "zero-article",
+      "type": "zero",
+      "pattern": [
+        "plural_or_uncountable_noun"
+      ],
+      "example": "Cats are animals."
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex_01",
+      "target_text": "I have a cat.",
+      "reading": null,
+      "audio": null
+    },
+    {
+      "id": "ex_02",
+      "target_text": "She is an engineer.",
+      "reading": null,
+      "audio": null
+    },
+    {
+      "id": "ex_03",
+      "target_text": "The cat is black.",
+      "reading": null,
+      "audio": null
+    },
+    {
+      "id": "ex_04",
+      "target_text": "Cats are animals.",
+      "reading": null,
+      "audio": null
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_01",
+      "wrong": "I have an car.",
+      "correct": "I have a car."
+    },
+    {
+      "id": "err_02",
+      "wrong": "She is teacher.",
+      "correct": "She is a teacher."
+    }
+  ],
+  "vocab": [
+    "en.noun.cat",
+    "en.noun.engineer",
+    "en.vocab.car",
+    "en.noun.teacher"
+  ],
+  "tags": [
+    "articles",
+    "definiteness",
+    "a-an-the"
+  ]
+}

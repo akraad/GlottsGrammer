@@ -1,0 +1,18 @@
+{
+  "title": "Subjonctif Passé en Persan",
+  "summary": "Exprimer le doute ou la possibilité dans le passé.",
+  "explanation": "Participe Passé + Formes du subjonctif de 'être' (باشم, باشی, باشد...).",
+  "rules": [
+    "Participe Passé + باشم"
+  ],
+  "example_translations": {
+    "ex_psubj_1": "Peut-être qu'il/elle est allé(e) à la maison."
+  },
+  "common_error_explanations": {
+    "err_psubj_1": "Utilisez le participe passé + 'باشد' pour une possibilité passée."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "aller"
+  },
+  "locale": "fr"
+}

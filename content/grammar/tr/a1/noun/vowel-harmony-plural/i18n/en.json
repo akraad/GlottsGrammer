@@ -1,0 +1,20 @@
+{
+  "title": "Turkish Plural Suffixes (-lar / -ler)",
+  "summary": "Forming plurals using 2-way Major Vowel Harmony.",
+  "explanation": "Add '-lar' if the last vowel is a back vowel (a, ı, o, u), and '-ler' if it is a front vowel (e, i, ö, ü).",
+  "rules": [
+    "Back Vowels (a, ı, o, u) -> -lar",
+    "Front Vowels (e, i, ö, ü) -> -ler"
+  ],
+  "example_translations": {
+    "ex_tr_pl_1": "There are books on the table."
+  },
+  "common_error_explanations": {
+    "err_tr_pl_1": "Do not attach '-ler' to words containing back vowels."
+  },
+  "vocab_glosses": {
+    "tr.vocab.kitap": "book",
+    "tr.vocab.ev": "house"
+  },
+  "locale": "en"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Posición del Adverbio en la Oración",
+  "summary": "Ordenar adverbios de tiempo y lugar.",
+  "explanation": "Los adverbios de tiempo van después del sujeto, seguidos por los de lugar y el verbo.",
+  "rules": [
+    "Sujeto + Adverbio de Tiempo + Adverbio de Lugar + Objeto + Verbo"
+  ],
+  "example_translations": {
+    "ex_advp_1": "Leí un libro en casa ayer."
+  },
+  "common_error_explanations": {
+    "err_advp_1": "Coloca los adverbios antes del objeto y el verbo final."
+  },
+  "vocab_glosses": {
+    "fa.vocab.home": "casa",
+    "fa.vocab.raftan": "ir"
+  },
+  "locale": "es"
+}

@@ -1,0 +1,89 @@
+{
+  "$schema": "../../../../../schemas/grammar-base.schema.json",
+  "schema_version": 1,
+  "id": "en.a1.verb.present-simple",
+  "universal_concept_id": "verb.tense.present_habitual",
+  "language": "en",
+  "cefr": "A1",
+  "app_level": "beginner",
+  "category": "verb",
+  "subcategory": "tense",
+  "status": "draft",
+  "difficulty": 1,
+  "prerequisites": [
+    "en.a1.pronoun.personal-subject",
+    "en.a1.verb.base-form"
+  ],
+  "forms": [
+    {
+      "id": "affirmative",
+      "type": "affirmative",
+      "pattern": [
+        "subject",
+        "verb_base"
+      ],
+      "example": "I drink water."
+    },
+    {
+      "id": "negative",
+      "type": "negative",
+      "pattern": [
+        "subject",
+        "do/does",
+        "not",
+        "verb_base"
+      ],
+      "example": "I do not drink coffee."
+    },
+    {
+      "id": "question",
+      "type": "question",
+      "pattern": [
+        "do/does",
+        "subject",
+        "verb_base"
+      ],
+      "example": "Do you drink water?"
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex_01",
+      "target_text": "I drink water every day.",
+      "reading": null,
+      "transliteration": null,
+      "audio": "audio/en/a1/verb/present-simple/ex_01.mp3"
+    },
+    {
+      "id": "ex_02",
+      "target_text": "She does not drink coffee.",
+      "reading": null,
+      "transliteration": null,
+      "audio": "audio/en/a1/verb/present-simple/ex_02.mp3"
+    },
+    {
+      "id": "ex_03",
+      "target_text": "Do you drink water every day?",
+      "reading": null,
+      "transliteration": null,
+      "audio": "audio/en/a1/verb/present-simple/ex_03.mp3"
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_01",
+      "wrong": "He drink water.",
+      "correct": "He drinks water."
+    }
+  ],
+  "vocab": [
+    "en.verb.drink",
+    "en.noun.water",
+    "en.phrase.every-day"
+  ],
+  "tags": [
+    "routine",
+    "habits",
+    "present"
+  ]
+}

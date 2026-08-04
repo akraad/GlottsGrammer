@@ -1,0 +1,40 @@
+{
+  "id": "en.verb.be",
+  "language": "en",
+  "lemma": "be",
+  "pos": "verb",
+  "cefr": "A1",
+  "frequency_rank": 1,
+  "forms": {
+    "base": "be",
+    "third_person_singular": null,
+    "present_participle": "being",
+    "past_simple": "was/were",
+    "past_participle": "been"
+  },
+  "conjugation_present": {
+    "I": "am",
+    "you": "are",
+    "he/she/it": "is",
+    "we": "are",
+    "they": "are"
+  },
+  "tags": [
+    "copula",
+    "auxiliary",
+    "essential"
+  ],
+  "translations": {
+    "ar": "يكون",
+    "de": "sein",
+    "en": "to be",
+    "es": "ser/estar",
+    "fa": "بودن",
+    "fr": "être",
+    "hi": "होना",
+    "ja": "〜である",
+    "pt": "ser/estar",
+    "ru": "быть",
+    "tr": "olmak"
+  }
+}

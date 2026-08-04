@@ -1,0 +1,18 @@
+{
+  "title": "Farsça Temel Edatlar (Prepositions)",
+  "summary": "Yer ve yön bildirme (در, به, از, روی).",
+  "explanation": "Farsçada edatlar/ön ekler isimden ÖNCE gelir.",
+  "rules": [
+    "Edat + İsim"
+  ],
+  "example_translations": {
+    "ex_prep_1": "Ali evdedir."
+  },
+  "common_error_explanations": {
+    "err_prep_1": "Edatı isimden önce kullanın."
+  },
+  "vocab_glosses": {
+    "fa.vocab.home": "ev"
+  },
+  "locale": "tr"
+}

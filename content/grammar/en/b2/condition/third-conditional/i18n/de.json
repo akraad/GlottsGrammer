@@ -1,0 +1,18 @@
+{
+  "title": "Dritter Konditionalsatz (Third Conditional)",
+  "summary": "Ausdruck von Bedauern oder unmöglichen Bedingungen in der Vergangenheit.",
+  "explanation": "If + Plusquamperfekt, Subjekt + would have + Partizip Perfekt.",
+  "rules": [
+    "If-Satz -> Had + Partizip Perfekt"
+  ],
+  "example_translations": {
+    "ex_tc_1": "Wenn ich gelernt hätte, hätte ich bestanden."
+  },
+  "common_error_explanations": {
+    "err_tc_1": "Verwende kein 'would have' im If-Satz."
+  },
+  "vocab_glosses": {
+    "en.vocab.study": "lernen"
+  },
+  "locale": "de"
+}

@@ -1,0 +1,28 @@
+{
+  "$schema": "../../../../schemas/vocab-base.schema.json",
+  "schema_version": 1,
+  "id": "en.noun.teacher",
+  "language": "en",
+  "lemma": "teacher",
+  "pos": "noun",
+  "cefr": "A1",
+  "frequency_rank": 500,
+  "forms": {
+    "singular": "teacher",
+    "plural": "teachers"
+  },
+  "translations": {
+    "ar": "معلم",
+    "de": "Lehrer",
+    "en": "teacher",
+    "es": "profesor",
+    "fa": "معلم",
+    "fr": "professeur",
+    "hi": "शिक्षक",
+    "ja": "先生",
+    "pt": "professor",
+    "ru": "учитель",
+    "tr": "öğretmen"
+  },
+  "tags": ["people", "education", "A1-core"]
+}

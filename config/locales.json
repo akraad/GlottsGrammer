@@ -1,0 +1,101 @@
+[
+  {
+    "code": "ar",
+    "name": "Arabic",
+    "native_name": "العربية",
+    "direction": "rtl",
+    "script": "Arab",
+    "fallback": "en",
+    "default_variant": "MSA"
+  },
+  {
+    "code": "de",
+    "name": "German",
+    "native_name": "Deutsch",
+    "direction": "ltr",
+    "script": "Latn",
+    "fallback": "en",
+    "default_variant": null
+  },
+  {
+    "code": "en",
+    "name": "English",
+    "native_name": "English",
+    "direction": "ltr",
+    "script": "Latn",
+    "fallback": null,
+    "default_variant": null
+  },
+  {
+    "code": "es",
+    "name": "Spanish",
+    "native_name": "Español",
+    "direction": "ltr",
+    "script": "Latn",
+    "fallback": "en",
+    "default_variant": null
+  },
+  {
+    "code": "fa",
+    "name": "Persian (Farsi)",
+    "native_name": "فارسی",
+    "direction": "rtl",
+    "script": "Arab",
+    "fallback": "en",
+    "default_variant": "IR"
+  },
+  {
+    "code": "fr",
+    "name": "French",
+    "native_name": "Français",
+    "direction": "ltr",
+    "script": "Latn",
+    "fallback": "en",
+    "default_variant": null
+  },
+  {
+    "code": "hi",
+    "name": "Hindi",
+    "native_name": "हिन्दी",
+    "direction": "ltr",
+    "script": "Deva",
+    "fallback": "en",
+    "default_variant": null
+  },
+  {
+    "code": "ja",
+    "name": "Japanese",
+    "native_name": "日本語",
+    "direction": "ltr",
+    "script": "Jpan",
+    "fallback": "en",
+    "default_variant": null
+  },
+  {
+    "code": "pt",
+    "name": "Portuguese",
+    "native_name": "Português",
+    "direction": "ltr",
+    "script": "Latn",
+    "fallback": "en",
+    "default_variant": "BR"
+  },
+  {
+    "code": "ru",
+    "name": "Russian",
+    "native_name": "Русский",
+    "direction": "ltr",
+    "script": "Cyrl",
+    "fallback": "en",
+    "default_variant": null
+  },
+  {
+    "code": "tr",
+    "name": "Turkish",
+    "native_name": "Türkçe",
+    "direction": "ltr",
+    "script": "Latn",
+    "fallback": "en",
+    "default_variant": null
+  }
+]

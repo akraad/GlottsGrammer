@@ -1,0 +1,18 @@
+{
+  "locale": "de",
+  "title": "Konditionalsätze mit wenn",
+  "summary": "Expressing conditions using 'wenn' where the main clause starts with the verb.",
+  "explanation": "Expressing conditions using 'wenn' where the main clause starts with the verb.",
+  "rules": [
+    "Wenn + Subjekt + ... + Verb (Ende), + Verb (Pos 1) + Subjekt..."
+  ],
+  "example_translations": {
+    "ex_de_b1": "Wenn ich Zeit habe, komme ich."
+  },
+  "common_error_explanations": {
+    "err_de_b1": "Place the verb at the end of the 'wenn' clause and start the main clause with the conjugated verb."
+  },
+  "vocab_glosses": {
+    "de.vocab.zeit": "Zeit"
+  }
+}

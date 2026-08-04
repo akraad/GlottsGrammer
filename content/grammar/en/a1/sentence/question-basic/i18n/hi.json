@@ -1,0 +1,18 @@
+{
+  "locale": "hi",
+  "title": "Basic Questions",
+  "summary": "Form questions using Do/Does at the beginning.",
+  "explanation": "In present simple, put Do or Does before the subject.",
+  "rules": [
+    "Use Do for I/you/we/they, Does for he/she/it."
+  ],
+  "example_translations": {
+    "ex_q_1": "Do you have a book?"
+  },
+  "common_error_explanations": {
+    "err_q_1": "Always add Do/Does to ask a question."
+  },
+  "vocab_glosses": {
+    "en.vocab.book": "book"
+  }
+}

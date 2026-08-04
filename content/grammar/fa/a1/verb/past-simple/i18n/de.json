@@ -1,0 +1,18 @@
+{
+  "title": "Persisches Präteritum (Past Simple)",
+  "summary": "Ausdruck abgeschlossener Handlungen in der Vergangenheit.",
+  "explanation": "Vergangenheitsstamm + Personalendungen.",
+  "rules": [
+    "Vergangenheitsstamm + Endungen"
+  ],
+  "example_translations": {
+    "ex_past_1": "Gestern bin ich nach Hause gegangen."
+  },
+  "common_error_explanations": {
+    "err_past_1": "Verwende den Vergangenheitsstamm für vergangene Aktionen."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "gehen"
+  },
+  "locale": "de"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "ペルシア語の過去完了形",
+  "summary": "過去の別の出来事より前に完了した動作を表します。",
+  "explanation": "過去分詞 + 'بودن' の過去活用形。",
+  "rules": [
+    "過去分詞 + بودم"
+  ],
+  "example_translations": {
+    "ex_pperf_1": "私は彼/彼女より前に家に帰っていました。"
+  },
+  "common_error_explanations": {
+    "err_pperf_1": "'بودم' の前には過去分詞を使用してください。"
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "行く"
+  },
+  "locale": "ja"
+}

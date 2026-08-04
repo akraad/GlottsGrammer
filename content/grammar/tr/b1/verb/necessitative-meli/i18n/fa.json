@@ -1,0 +1,18 @@
+{
+  "title": "فعل ضرورت و باید در ترکی (-meli / -malı)",
+  "summary": "بیان الزام، وظیفه و اجبار (باید).",
+  "explanation": "پسوند «-meli / -malı» به بن فعل متصل شده و سپس شناسه‌ها می‌آیند (okumalısın = باید بخوانی).",
+  "rules": [
+    "بن فعل + -meli/malı + شناسه"
+  ],
+  "example_translations": {
+    "ex_trmel_1": "تو حتماً باید این کتاب را بخوانی."
+  },
+  "common_error_explanations": {
+    "err_trmel_1": "برای بیان ضرورت مستقیماً از پسوند '-meli/-malı' روی بن فعل استفاده کنید."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "خواندن"
+  },
+  "locale": "fa"
+}

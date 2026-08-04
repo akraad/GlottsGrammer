@@ -1,0 +1,18 @@
+{
+  "title": "Verbos Modales en Persa",
+  "summary": "Expresar capacidad y obligación (توانستن, باید).",
+  "explanation": "Los verbos modales van seguidos del verbo principal en subjuntivo.",
+  "rules": [
+    "Verbo Modal + Verbo Subjuntivo"
+  ],
+  "example_translations": {
+    "ex_mod_1": "Puedo hablar persa."
+  },
+  "common_error_explanations": {
+    "err_mod_1": "Usa el modo subjuntivo después de los verbos modales."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "ir"
+  },
+  "locale": "es"
+}

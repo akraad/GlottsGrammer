@@ -1,0 +1,20 @@
+{
+  "title": "Birinci Tip Koşul Cümlesi (First Conditional)",
+  "summary": "Gelecekteki gerçek olasılıklar için First Conditional yapısını kullanın.",
+  "explanation": "Yapı: If + Geniş Zaman (Present Simple), Özne + Will + Yalın Fiil.",
+  "rules": [
+    "If cümlesi -> Geniş Zaman",
+    "Ana cümle -> Will + Yalın Fiil"
+  ],
+  "example_translations": {
+    "ex_fc_1": "Yağmur yağarsa evde kalacağım."
+  },
+  "common_error_explanations": {
+    "err_fc_1": "If cümlesinin içinde asla 'will' kullanmayın."
+  },
+  "vocab_glosses": {
+    "en.vocab.rain": "yağmur yağması",
+    "en.vocab.home": "ev"
+  },
+  "locale": "tr"
+}

@@ -1,0 +1,126 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Grammar Point Base",
+  "description": "Schema for the base definition of a grammar point.",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "id",
+    "universal_concept_id",
+    "language",
+    "cefr",
+    "app_level",
+    "category",
+    "status",
+    "difficulty",
+    "prerequisites",
+    "forms",
+    "examples",
+    "vocab"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "$schema": {
+      "type": "string",
+      "format": "uri"
+    },
+    "schema_version": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z]{2}\\.(a1|a2|b1|b2|c1|c2)\\.[a-z_]+\\.[a-z0-9-]+$"
+    },
+    "universal_concept_id": {
+      "type": "string"
+    },
+    "language": {
+      "type": "string",
+      "enum": ["ar","de","en","es","fa","fr","hi","ja","pt","ru","tr"]
+    },
+    "cefr": {
+      "type": "string",
+      "enum": ["A1","A2","B1","B2","C1","C2"]
+    },
+    "app_level": {
+      "type": "string",
+      "enum": ["beginner","elementary","intermediate","upper_intermediate","advanced","professional"]
+    },
+    "category": {
+      "type": "string"
+    },
+    "subcategory": {
+      "type": ["string","null"]
+    },
+    "status": {
+      "type": "string",
+      "enum": ["draft","content_review","linguist_review","translation_review","ready","published","archived"]
+    },
+    "difficulty": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 5
+    },
+    "prerequisites": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "forms": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id","type","pattern"],
+        "additionalProperties": false,
+        "properties": {
+          "id": {"type":"string"},
+          "type": {"type":"string"},
+          "pattern": {"type":"array","items":{"type":"string"}},
+          "example": {"type":"string"}
+        }
+      }
+    },
+    "examples": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id","target_text"],
+        "additionalProperties": false,
+        "properties": {
+          "id": {"type":"string"},
+          "target_text": {"type":"string"},
+          "reading": {"type":["string","null"]},
+          "transliteration": {"type":["string","null"]},
+          "audio": {"type":"string"}
+        }
+      }
+    },
+    "common_errors": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id","wrong","correct"],
+        "additionalProperties": false,
+        "properties": {
+          "id": {"type":"string"},
+          "wrong": {"type":"string"},
+          "correct": {"type":"string"}
+        }
+      }
+    },
+    "vocab": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  }
+}

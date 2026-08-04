@@ -1,0 +1,18 @@
+{
+  "title": "A Construção Ezafe (-e)",
+  "summary": "Conectar substantivos a adjetivos ou possuidores em persa.",
+  "explanation": "Ezafe é uma vogal curta (-e) usada para conectar substantivos a adjetivos.",
+  "rules": [
+    "Substantivo + -e + Adjetivo / Possuidor"
+  ],
+  "example_translations": {
+    "ex_ezafe_1": "O livro de Ali está na mesa."
+  },
+  "common_error_explanations": {
+    "err_ezafe_1": "Não omita a vogal Ezafe (-e)."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "livro"
+  },
+  "locale": "pt"
+}

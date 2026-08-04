@@ -1,0 +1,18 @@
+{
+  "title": "Propositions Relatives Objet en Turc (-dik)",
+  "summary": "Former des relatives objet ('le livre que j'ai lu').",
+  "explanation": "Ajoutez '-dik' et des suffixes possessifs au radical du verbe pour former des relatives objet.",
+  "rules": [
+    "Radical du Verbe + -dik + Possessif + Nom"
+  ],
+  "example_translations": {
+    "ex_trdik_1": "Le livre que j'ai lu hier était très beau."
+  },
+  "common_error_explanations": {
+    "err_trdik_1": "Utilisez '-dik' combiné aux possessifs pour les relatives objet."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "lire"
+  },
+  "locale": "fr"
+}

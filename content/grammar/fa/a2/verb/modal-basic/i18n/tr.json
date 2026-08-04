@@ -1,0 +1,18 @@
+{
+  "title": "Farsça Kiplik Fiilleri (Modal Verbs)",
+  "summary": "Yeterlilik ve zorunluluk bildirme (توانستن, باید).",
+  "explanation": "Kiplik fiillerinden sonra istek/istek-istek kipi (dilek kipi) gelir.",
+  "rules": [
+    "Kiplik Fiil + İstek Kipi Fiil"
+  ],
+  "example_translations": {
+    "ex_mod_1": "Farsça konuşabiliyorum."
+  },
+  "common_error_explanations": {
+    "err_mod_1": "Kiplik fiillerinden sonra istek kipi kullanın."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "gitmek"
+  },
+  "locale": "tr"
+}

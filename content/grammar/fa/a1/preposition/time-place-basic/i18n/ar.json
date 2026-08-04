@@ -1,0 +1,18 @@
+{
+  "title": "حروف الجر الأساسية في الفارسية",
+  "summary": "التعبير عن المكان والاتجاه (در، به، از، روی).",
+  "explanation": "تأتي حروف الجر في الفارسية قبل الاسم.",
+  "rules": [
+    "حرف الجر + الاسم"
+  ],
+  "example_translations": {
+    "ex_prep_1": "علي في المنزل."
+  },
+  "common_error_explanations": {
+    "err_prep_1": "ضع حرف الجر قبل الاسم."
+  },
+  "vocab_glosses": {
+    "fa.vocab.home": "منزل"
+  },
+  "locale": "ar"
+}

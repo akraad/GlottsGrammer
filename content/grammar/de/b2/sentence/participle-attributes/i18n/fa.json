@@ -1,0 +1,18 @@
+{
+  "locale": "fa",
+  "title": "صفات فاعلی و مفعولی به عنوان شبه‌جمله (Partizipialattribute) در آلمانی",
+  "summary": "Using expanded participle phrases as descriptive attributes before nouns.",
+  "explanation": "Using expanded participle phrases as descriptive attributes before nouns.",
+  "rules": [
+    "Erweitertes Partizip (I/II) mit Endung + Nomen"
+  ],
+  "example_translations": {
+    "ex_de_b2_2": "Der von ihm geschriebene Brief liegt auf dem Tisch."
+  },
+  "common_error_explanations": {
+    "err_de_b2_2": "Treat expanded participles as declined adjectives placed directly before the noun."
+  },
+  "vocab_glosses": {
+    "de.vocab.brief": "Brief"
+  }
+}

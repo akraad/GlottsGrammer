@@ -1,0 +1,18 @@
+{
+  "locale": "ru",
+  "title": "[RU] [RU] German Konjunktiv II Polite Forms",
+  "summary": "[RU] [RU] German Konjunktiv II Polite Forms",
+  "explanation": "[RU] [RU] German Konjunktiv II Polite Forms",
+  "rules": [
+    "Subjekt + hätte/möchte (Pos 2) + ... + gern"
+  ],
+  "example_translations": {
+    "ex_de_b1_2": "Ich hätte gern eine Tasse Kaffee."
+  },
+  "common_error_explanations": {
+    "err_de_b1_2": "Use Konjunktiv II forms like 'möchte', 'hätte', or 'wäre' for polite requests and wishes instead of indicative forms."
+  },
+  "vocab_glosses": {
+    "de.vocab.kaffee": "term"
+  }
+}

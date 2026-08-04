@@ -1,0 +1,18 @@
+{
+  "title": "अनुमान (Might, May, Could)",
+  "summary": "संभावना व्यक्त करने के लिए might, may या could का उपयोग करें।",
+  "explanation": "कर्ता + might/may/could + मूल क्रिया।",
+  "rules": [
+    "इनके बाद 'to' का प्रयोग न करें।"
+  ],
+  "example_translations": {
+    "ex_spec_1": "आज बारिश हो सकती है।"
+  },
+  "common_error_explanations": {
+    "err_spec_1": "might के बाद 'to' न लगाएं।"
+  },
+  "vocab_glosses": {
+    "en.vocab.rain": "बारिश होना"
+  },
+  "locale": "hi"
+}

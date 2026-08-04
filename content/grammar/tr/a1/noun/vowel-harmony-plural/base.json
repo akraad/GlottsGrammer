@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0.0",
+  "id": "tr.a1.noun.vowel-harmony-plural",
+  "universal_concept_id": "noun.basic.plural",
+  "language": "tr",
+  "cefr": "A1",
+  "app_level": "beginner",
+  "category": "noun",
+  "status": "approved",
+  "difficulty": 1,
+  "prerequisites": [],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "noun_stem"
+        },
+        {
+          "slot": "lar_ler_suffix"
+        }
+      ],
+      "example": "kitaplar"
+    }
+  ],
+  "vocab": [
+    "tr.vocab.kitap",
+    "tr.vocab.ev"
+  ],
+  "examples": [
+    {
+      "id": "ex_tr_pl_1",
+      "target_text": "Masada kitaplar var.",
+      "tokens": [
+        {
+          "text": "Masada"
+        },
+        {
+          "text": "kitaplar"
+        },
+        {
+          "text": "var."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_tr_pl_1",
+      "incorrect": "Masada kitapler var.",
+      "explanation": "Use '-lar' after back vowels (a, ı, o, u) and '-ler' after front vowels (e, i, ö, ü)."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "locale": "de",
+  "title": "Erweiterte Infinitivgruppen",
+  "summary": "Using advanced infinitive groups like 'ohne zu' and 'anstatt zu'.",
+  "explanation": "Using advanced infinitive groups like 'ohne zu' and 'anstatt zu'.",
+  "rules": [
+    "Hauptsatz + , + ohne/anstatt/statt + ... + zu + Infinitiv (Ende)"
+  ],
+  "example_translations": {
+    "ex_de_c1": "Er ging weg, ohne ein Wort zu sagen."
+  },
+  "common_error_explanations": {
+    "err_de_c1": "Use infinitive constructions with 'zu' when the subject of both clauses is identical."
+  },
+  "vocab_glosses": {
+    "de.vocab.wort": "Wort"
+  }
+}

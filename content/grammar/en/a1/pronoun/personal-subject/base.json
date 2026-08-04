@@ -1,0 +1,88 @@
+{
+  "$schema": "../../../../../schemas/grammar-base.schema.json",
+  "schema_version": 1,
+  "id": "en.a1.pronoun.personal-subject",
+  "universal_concept_id": "pronoun.personal_subject",
+  "language": "en",
+  "cefr": "A1",
+  "app_level": "beginner",
+  "category": "pronoun",
+  "subcategory": "personal",
+  "status": "draft",
+  "difficulty": 1,
+  "prerequisites": [],
+  "forms": [
+    {
+      "id": "singular",
+      "type": "singular",
+      "pattern": [
+        "I",
+        "you",
+        "he",
+        "she",
+        "it"
+      ],
+      "example": "I drink water. You work. He drinks tea."
+    },
+    {
+      "id": "plural",
+      "type": "plural",
+      "pattern": [
+        "we",
+        "you",
+        "they"
+      ],
+      "example": "We work. You drink tea. They work every day."
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex_01",
+      "target_text": "I drink water.",
+      "reading": null,
+      "transliteration": null,
+      "audio": "audio/en/a1/pronoun/personal-subject/ex_01.mp3"
+    },
+    {
+      "id": "ex_02",
+      "target_text": "She works every day.",
+      "reading": null,
+      "transliteration": null,
+      "audio": "audio/en/a1/pronoun/personal-subject/ex_02.mp3"
+    },
+    {
+      "id": "ex_03",
+      "target_text": "They drink tea.",
+      "reading": null,
+      "transliteration": null,
+      "audio": "audio/en/a1/pronoun/personal-subject/ex_03.mp3"
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_01",
+      "wrong": "Him works every day.",
+      "correct": "He works every day."
+    },
+    {
+      "id": "err_02",
+      "wrong": "Me drink water.",
+      "correct": "I drink water."
+    }
+  ],
+  "vocab": [
+    "en.noun.student",
+    "en.noun.friend",
+    "en.vocab.book",
+    "en.noun.teacher",
+    "en.noun.tea",
+    "en.verb.work",
+    "en.verb.drink"
+  ],
+  "tags": [
+    "pronouns",
+    "basics",
+    "subject",
+    "A1-core"
+  ]
+}

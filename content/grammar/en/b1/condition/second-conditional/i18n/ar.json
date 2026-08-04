@@ -1,0 +1,22 @@
+{
+  "title": "الجمل الشرطية من النوع الثاني",
+  "summary": "استخدم النوع الثاني للمواقف الخيالية أو غير الواقعية في الحاضر أو المستقبل.",
+  "explanation": "If + الماضي البسيط ، الفاعل + Would + المصدر.",
+  "rules": [
+    "جملة الشرط -> ماضي بسيط",
+    "الجملة الرئيسية -> Would + المصدر"
+  ],
+  "example_translations": {
+    "ex_sc_1": "لو فزت باليانصيب، لاشتريت سيارة."
+  },
+  "common_error_explanations": {
+    "err_sc_1": "لا تضع would داخل جملة الشرط نفسه."
+  },
+  "vocab_glosses": {
+    "en.vocab.win": "يفوز",
+    "en.vocab.lottery": "يانصيب",
+    "en.vocab.buy": "يشتري",
+    "en.vocab.car": "سيارة"
+  },
+  "locale": "ar"
+}

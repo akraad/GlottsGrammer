@@ -1,0 +1,18 @@
+{
+  "title": "Farsça Fiil Olumsuzluğu",
+  "summary": "'نـ' ön eki ile fiilleri olumsuz yapma.",
+  "explanation": "Farsçada fiilin başına 'نـ' ön eki getirilerek olumsuz yapılır.",
+  "rules": [
+    "نـ + Fiil"
+  ],
+  "example_translations": {
+    "ex_neg_1": "Eve gitmiyorum."
+  },
+  "common_error_explanations": {
+    "err_neg_1": "Fiilin başına 'نـ' ön ekini ekleyin."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "gitmek"
+  },
+  "locale": "tr"
+}

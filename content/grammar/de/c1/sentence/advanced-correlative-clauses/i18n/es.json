@@ -1,0 +1,18 @@
+{
+  "locale": "es",
+  "title": "[ES] [ES] German Advanced Correlative Clauses",
+  "summary": "[ES] [ES] German Advanced Correlative Clauses",
+  "explanation": "[ES] [ES] German Advanced Correlative Clauses",
+  "rules": [
+    "Hauptsatz + , + ohne/anstatt/statt + ... + zu + Infinitiv (Ende)"
+  ],
+  "example_translations": {
+    "ex_de_c1": "Er ging weg, ohne ein Wort zu sagen."
+  },
+  "common_error_explanations": {
+    "err_de_c1": "Use 'ohne... zu' or 'anstatt... zu' infinitive clauses instead of finite subclauses when the subject is identical."
+  },
+  "vocab_glosses": {
+    "de.vocab.wort": "term"
+  }
+}

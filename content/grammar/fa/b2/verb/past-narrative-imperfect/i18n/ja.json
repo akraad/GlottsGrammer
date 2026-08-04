@@ -1,0 +1,18 @@
+{
+  "title": "ペルシア語の伝闻過去進行形",
+  "summary": "伝聞による過去の習慣的動作を表します。",
+  "explanation": "接頭辞 'می-' + 過去分詞 + 人称接尾辞。",
+  "rules": [
+    "می- + 過去分詞 + 接尾辞"
+  ],
+  "example_translations": {
+    "ex_pnarr_1": "彼/彼女は毎日そこへ通っていたそうです。"
+  },
+  "common_error_explanations": {
+    "err_pnarr_1": "伝聞の過去進行形には 'می‌رفته است' を使用します。"
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "行く"
+  },
+  "locale": "ja"
+}

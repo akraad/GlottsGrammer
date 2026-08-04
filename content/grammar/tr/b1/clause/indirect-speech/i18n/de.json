@@ -1,0 +1,18 @@
+{
+  "title": "Indirekte Rede im Türkischen",
+  "summary": "Wiedergabe von Aussagen oder Berichten.",
+  "explanation": "Das Türkische wandelt indirekte Rede in nominalisierte Nebensätze mit Partizipialsuffixen (-dik) um.",
+  "rules": [
+    "Subjekt + Nominalisiertes Verb (-diğini) + Sagte"
+  ],
+  "example_translations": {
+    "ex_trind_1": "Er/Sie hat gesagt, dass er/sie das Buch gelesen hat."
+  },
+  "common_error_explanations": {
+    "err_trind_1": "Verwende nominalisierte Nebensätze für die indirekte Rede."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "lesen"
+  },
+  "locale": "de"
+}

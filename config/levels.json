@@ -1,0 +1,32 @@
+[
+  {
+    "cefr": "A1",
+    "app_level": "beginner",
+    "order": 1
+  },
+  {
+    "cefr": "A2",
+    "app_level": "elementary",
+    "order": 2
+  },
+  {
+    "cefr": "B1",
+    "app_level": "intermediate",
+    "order": 3
+  },
+  {
+    "cefr": "B2",
+    "app_level": "upper_intermediate",
+    "order": 4
+  },
+  {
+    "cefr": "C1",
+    "app_level": "advanced",
+    "order": 5
+  },
+  {
+    "cefr": "C2",
+    "app_level": "professional",
+    "order": 6
+  }
+]

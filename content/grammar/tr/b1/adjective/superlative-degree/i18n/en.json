@@ -1,0 +1,18 @@
+{
+  "title": "Turkish Superlative Adjectives (En)",
+  "summary": "Forming superlative adjectives ('the most' / 'the -est').",
+  "explanation": "Place the word 'en' right before the adjective to form the superlative degree in Turkish (e.g., en büyük = the biggest).",
+  "rules": [
+    "en + Adjective"
+  ],
+  "example_translations": {
+    "ex_trsup_1": "This is the biggest house in the city."
+  },
+  "common_error_explanations": {
+    "err_trsup_1": "Use 'en' before adjectives for superlatives."
+  },
+  "vocab_glosses": {
+    "tr.vocab.ev": "house"
+  },
+  "locale": "en"
+}

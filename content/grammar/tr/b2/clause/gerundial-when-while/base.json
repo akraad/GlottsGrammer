@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0.0",
+  "id": "tr.b2.clause.gerundial-when-while",
+  "universal_concept_id": "clause.gerundial.when.while",
+  "language": "tr",
+  "cefr": "B2",
+  "app_level": "upper-intermediate",
+  "category": "clause",
+  "status": "approved",
+  "difficulty": 3,
+  "prerequisites": [
+    "tr.a1.verb.present-continuous-yor"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "verb_or_noun"
+        },
+        {
+          "slot": "ken_suffix"
+        }
+      ],
+      "example": "gelirken"
+    }
+  ],
+  "vocab": [
+    "tr.vocab.okumak"
+  ],
+  "examples": [
+    {
+      "id": "ex_trken_1",
+      "target_text": "Eve gelirken ekmek aldım.",
+      "tokens": [
+        {
+          "text": "Eve"
+        },
+        {
+          "text": "gelirken"
+        },
+        {
+          "text": "ekmek"
+        },
+        {
+          "text": "aldım."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_trken_1",
+      "incorrect": "Eve geldi iken ekmek aldım.",
+      "explanation": "Use suffix '-ken' (or '-ince/-ınca') directly to express 'while' or 'when' simultaneous actions."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "title": "トルコ語の人称代名詞",
+  "summary": "トルコ語の主格代名詞 (ben, sen, o...)。",
+  "explanation": "トルコ語には6つの人称代名詞があります: ben (私), sen (あなた), o (彼/彼女), biz (私たち), siz (あなたたち), onlar (彼ら)。",
+  "rules": [
+    "ben",
+    "sen",
+    "o",
+    "biz",
+    "siz",
+    "onlar"
+  ],
+  "example_translations": {
+    "ex_tr_pron_1": "私は教師です。"
+  },
+  "common_error_explanations": {
+    "err_tr_pron_1": "述語には代名詞に対応する人称接尾辞を付けてください。"
+  },
+  "vocab_glosses": {
+    "tr.vocab.ogretmen": "教師"
+  },
+  "locale": "ja"
+}

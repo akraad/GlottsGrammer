@@ -1,0 +1,18 @@
+{
+  "title": "German WH-Questions",
+  "summary": "Forming questions with interrogative words (where, what, who).",
+  "explanation": "Forming questions with interrogative words (where, what, who).",
+  "rules": [
+    "W-Wort + Verb (Pos 2) + Subjekt?"
+  ],
+  "example_translations": {
+    "ex_de_2": "Wo wohnst du?"
+  },
+  "common_error_explanations": {
+    "err_de_2": "Place the conjugated verb immediately after the WH-question word."
+  },
+  "vocab_glosses": {
+    "de.vocab.wohnen": "wohnen"
+  },
+  "locale": "tr"
+}

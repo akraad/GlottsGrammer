@@ -1,0 +1,20 @@
+{
+  "title": "प्रेजेंट सिंपल पैसिव (Present Simple Passive)",
+  "summary": "पैसिव वॉइस का उपयोग तब करें जब कर्ता की तुलना में क्रिया अधिक महत्वपूर्ण हो।",
+  "explanation": "इसका निर्माण am/is/are + Past Participle (क्रिया का तीसरा रूप) से होता है।",
+  "rules": [
+    "कर्ता + am/is/are + Past Participle"
+  ],
+  "example_translations": {
+    "ex_pass_1": "इस शहर में कारें बनाई जाती हैं।"
+  },
+  "common_error_explanations": {
+    "err_pass_1": "पैसिव वॉइस में हमेशा क्रिया के तीसरे रूप का प्रयोग करें।"
+  },
+  "vocab_glosses": {
+    "en.vocab.car": "कार",
+    "en.vocab.make": "बनाना",
+    "en.vocab.city": "शहर"
+  },
+  "locale": "hi"
+}

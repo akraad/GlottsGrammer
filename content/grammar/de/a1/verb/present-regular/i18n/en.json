@@ -1,0 +1,18 @@
+{
+  "title": "German Regular Present Tense",
+  "summary": "Conjugating regular verbs in the present tense.",
+  "explanation": "Conjugating regular verbs in the present tense.",
+  "rules": [
+    "Verbstamm + Personalendungen (-e, -st, -t, -en)"
+  ],
+  "example_translations": {
+    "ex_de_1": "I learn German every day."
+  },
+  "common_error_explanations": {
+    "err_de_1": "Conjugate verb endings properly matching the subject pronoun."
+  },
+  "vocab_glosses": {
+    "de.vocab.lernen": "learn"
+  },
+  "locale": "en"
+}

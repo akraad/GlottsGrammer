@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0.0",
+  "id": "tr.b1.adjective.superlative-degree",
+  "universal_concept_id": "adjective.comparative.superlative",
+  "language": "tr",
+  "cefr": "B1",
+  "app_level": "intermediate",
+  "category": "adjective",
+  "status": "approved",
+  "difficulty": 2,
+  "prerequisites": [
+    "tr.a1.noun.vowel-harmony-plural"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "en_word"
+        },
+        {
+          "slot": "adjective"
+        }
+      ],
+      "example": "en büyük"
+    }
+  ],
+  "vocab": [
+    "tr.vocab.ev"
+  ],
+  "examples": [
+    {
+      "id": "ex_trsup_1",
+      "target_text": "Bu şehirdeki en büyük ev.",
+      "tokens": [
+        {
+          "text": "Bu"
+        },
+        {
+          "text": "şehirdeki"
+        },
+        {
+          "text": "en"
+        },
+        {
+          "text": "büyük"
+        },
+        {
+          "text": "ev."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_trsup_1",
+      "incorrect": "Bu şehirdeki daha büyük ev.",
+      "explanation": "Use 'en' before adjectives to form the superlative degree ('the most' / 'best')."
+    }
+  ]
+}

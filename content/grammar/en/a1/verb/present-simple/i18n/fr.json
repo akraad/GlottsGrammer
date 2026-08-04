@@ -1,0 +1,31 @@
+{
+  "$schema": "../../../../../schemas/grammar-i18n.schema.json",
+  "locale": "fr",
+  "translation_status": "draft",
+  "name": "Présent simple",
+  "summary": "Présent simple : utilisé pour exprimer les habitudes, les faits et les routines.",
+  "explanation": "En anglais, on utilise le Present Simple pour parler d'habitudes, de vérités générales et d'actions qui se répètent régulièrement.",
+  "form_notes": {
+    "affirmative": "Sujet + forme de base du verbe. Avec he/she/it, on ajoute généralement -s ou -es au verbe.",
+    "negative": "Sujet + do/does + not + forme de base du verbe.",
+    "question": "Do/Does + sujet + forme de base du verbe ?"
+  },
+  "example_translations": {
+    "ex_01": "Je bois de l'eau tous les jours.",
+    "ex_02": "Elle ne boit pas de café.",
+    "ex_03": "Est-ce que tu bois de l'eau tous les jours ?"
+  },
+  "common_error_explanations": {
+    "err_01": "Au Present Simple, lorsque le sujet est he, she ou it, le verbe prend généralement -s ou -es."
+  },
+  "vocab_glosses": {
+    "en.verb.drink": "boire",
+    "en.noun.water": "eau",
+    "en.phrase.every-day": "tous les jours"
+  },
+  "title": "Présent Simple",
+  "rules": [
+    "Utilisé pour les habitudes et les vérités générales.",
+    "Ajoutez s/es au verbe pour he/she/it."
+  ]
+}

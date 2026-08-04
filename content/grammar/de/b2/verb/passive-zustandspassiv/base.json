@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0.0",
+  "id": "de.b2.verb.passive-zustandspassiv",
+  "universal_concept_id": "verb.passive.zustand.german",
+  "language": "de",
+  "cefr": "B2",
+  "app_level": "upper-intermediate",
+  "category": "verb",
+  "status": "approved",
+  "difficulty": 4,
+  "prerequisites": [
+    "de.b1.verb.passive-voice-prasez"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "subject"
+        },
+        {
+          "slot": "conjugated_sein_pos2"
+        },
+        {
+          "slot": "partizip_ii_at_end"
+        }
+      ],
+      "example": "Die Tür ist geöffnet"
+    }
+  ],
+  "vocab": [
+    "de.vocab.tuer"
+  ],
+  "examples": [
+    {
+      "id": "ex_de_b2",
+      "target_text": "Die Tür ist den ganzen Tag geschlossen.",
+      "tokens": [
+        {
+          "text": "Die"
+        },
+        {
+          "text": "Tür"
+        },
+        {
+          "text": "ist"
+        },
+        {
+          "text": "geschlossen."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_de_b2",
+      "incorrect": "Die Tür wird den ganzen Tag geschlossen (for static state).",
+      "explanation": "Zustandspassiv expresses a completed state using 'sein' + Partizip II, unlike Vorgangspassiv which uses 'werden' for actions."
+    }
+  ]
+}

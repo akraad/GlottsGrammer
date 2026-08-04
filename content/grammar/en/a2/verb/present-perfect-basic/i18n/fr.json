@@ -1,0 +1,18 @@
+{
+  "locale": "fr",
+  "title": "Present Perfect Basic",
+  "summary": "Use have/has + past participle for past actions connected to the present.",
+  "explanation": "Form it with have/has and the 3rd form of the verb (past participle).",
+  "rules": [
+    "Subject + have/has + Past Participle"
+  ],
+  "example_translations": {
+    "ex_pref_1": "I have finished my work."
+  },
+  "common_error_explanations": {
+    "err_pref_1": "Always use the past participle form after have or has."
+  },
+  "vocab_glosses": {
+    "en.vocab.finish": "finish"
+  }
+}

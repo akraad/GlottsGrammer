@@ -1,0 +1,18 @@
+{
+  "title": "Türkisches Indirektes Präteritum (-miş)",
+  "summary": "Ausdruck von Hörensagen oder unerwartet entdeckten Vergangenheiten.",
+  "explanation": "Füge '-miş/-mış' an den Verbstamm an, gefolgt von Personalsuffixen für vermutete oder gehörte Handlungen.",
+  "rules": [
+    "Verbstamm + -miş + Personalsuffix"
+  ],
+  "example_translations": {
+    "ex_trmish_1": "Du hast dieses Buch offenbar gelesen."
+  },
+  "common_error_explanations": {
+    "err_trmish_1": "Verwende '-miş' für Hörensagen oder neu entdeckte Tatsachen."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "lesen"
+  },
+  "locale": "de"
+}

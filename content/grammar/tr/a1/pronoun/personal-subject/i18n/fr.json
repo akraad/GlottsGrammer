@@ -1,0 +1,23 @@
+{
+  "title": "Pronom Personnels en Turc",
+  "summary": "Pronom sujets en turc (ben, sen, o...).",
+  "explanation": "Le turc compte 6 pronoms sujets : ben (je), sen (tu), o (il/elle), biz (nous), siz (vous), onlar (ils/elles).",
+  "rules": [
+    "ben",
+    "sen",
+    "o",
+    "biz",
+    "siz",
+    "onlar"
+  ],
+  "example_translations": {
+    "ex_tr_pron_1": "Je suis professeur."
+  },
+  "common_error_explanations": {
+    "err_tr_pron_1": "Ajoutez toujours le suffixe personnel correspondant au prédicat."
+  },
+  "vocab_glosses": {
+    "tr.vocab.ogretmen": "professeur"
+  },
+  "locale": "fr"
+}

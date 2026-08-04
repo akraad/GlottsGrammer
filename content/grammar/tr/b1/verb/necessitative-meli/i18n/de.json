@@ -1,0 +1,18 @@
+{
+  "title": "Türkischer Notwendigkeitsmodus (-meli / -malı)",
+  "summary": "Ausdruck von Pflicht oder Notwendigkeit ('müssen', 'sollten').",
+  "explanation": "Füge '-meli/-malı' an den Verbstamm an, gefolgt von Personalsuffixen für Verpflichtungen.",
+  "rules": [
+    "Verbstamm + -meli/malı + Personalsuffix"
+  ],
+  "example_translations": {
+    "ex_trmel_1": "Du musst dieses Buch unbedingt lesen."
+  },
+  "common_error_explanations": {
+    "err_trmel_1": "Verwende '-meli/-malı' direkt am Verbstamm für Verpflichtungen."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "lesen"
+  },
+  "locale": "de"
+}

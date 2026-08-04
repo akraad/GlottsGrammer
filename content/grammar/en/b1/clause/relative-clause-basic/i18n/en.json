@@ -1,0 +1,20 @@
+{
+  "title": "Basic Relative Clauses (Who, Which, That)",
+  "summary": "Use relative clauses to give more information about a person or thing.",
+  "explanation": "Use 'who' for people, 'which' for things, and 'that' for both.",
+  "rules": [
+    "Who -> People",
+    "Which -> Things",
+    "That -> People or Things"
+  ],
+  "example_translations": {
+    "ex_rel_1": "This is the book that I bought."
+  },
+  "common_error_explanations": {
+    "err_rel_1": "Do not use 'who' for non-human objects."
+  },
+  "vocab_glosses": {
+    "en.vocab.book": "book"
+  },
+  "locale": "en"
+}

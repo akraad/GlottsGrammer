@@ -1,0 +1,18 @@
+{
+  "title": "نشانگرهای گفتمان رسانه‌ای و استدلال‌های منطقی",
+  "summary": "تسلط بر ربط‌دهنده‌های فاخر و استدلال‌های تخصصی.",
+  "explanation": "تسلط بر ربط‌دهنده‌های فاخر و استدلال‌های تخصصی.",
+  "rules": [
+    "Discourse Marker + Argumentative Clause"
+  ],
+  "example_translations": {
+    "ex_c1_2": "Nitekim yapılan araştırmalar bunu doğrulamaktadır."
+  },
+  "common_error_explanations": {
+    "err_c1_2": "Use high-register discourse markers instead of basic conjunctions."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "خواندن"
+  },
+  "locale": "fa"
+}

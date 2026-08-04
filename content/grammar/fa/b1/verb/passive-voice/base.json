@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0.0",
+  "id": "fa.b1.verb.passive-voice",
+  "universal_concept_id": "verb.passive.voice",
+  "language": "fa",
+  "cefr": "B1",
+  "app_level": "intermediate",
+  "category": "verb",
+  "status": "approved",
+  "difficulty": 4,
+  "prerequisites": [
+    "fa.b1.verb.present-perfect"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "past_participle"
+        },
+        {
+          "slot": "shodan_verb"
+        }
+      ],
+      "example": "خوانده شد"
+    }
+  ],
+  "vocab": [
+    "fa.vocab.book"
+  ],
+  "examples": [
+    {
+      "id": "ex_pass_1",
+      "target_text": "این کتاب خوانده شد.",
+      "tokens": [
+        {
+          "text": "این"
+        },
+        {
+          "text": "کتاب"
+        },
+        {
+          "text": "خوانده"
+        },
+        {
+          "text": "شد"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_pass_1",
+      "incorrect": "این کتاب خواندن شد.",
+      "explanation": "Form passive voice using Past Participle + conjugated auxiliary verb 'شدن'."
+    }
+  ]
+}

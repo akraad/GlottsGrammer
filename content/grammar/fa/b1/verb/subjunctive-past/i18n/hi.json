@@ -1,0 +1,18 @@
+{
+  "title": "फ़ारसी में संभाव्य भूतकाल (Past Subjunctive)",
+  "summary": "अतीत की शंका, संभावना या इच्छा को व्यक्त करना।",
+  "explanation": "कृदंत (Past Participle) + 'باشم, باشی, باشد...'।",
+  "rules": [
+    "कृदंत + باشم"
+  ],
+  "example_translations": {
+    "ex_psubj_1": "शायद वह घर चला गया हो।"
+  },
+  "common_error_explanations": {
+    "err_psubj_1": "अतीत की संभावना के लिए कृदंत + 'باشد' का उपयोग करें।"
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "जाना"
+  },
+  "locale": "hi"
+}

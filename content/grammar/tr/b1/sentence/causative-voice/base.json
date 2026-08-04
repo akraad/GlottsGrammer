@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0.0",
+  "id": "tr.b1.sentence.causative-voice",
+  "universal_concept_id": "sentence.causative.voice",
+  "language": "tr",
+  "cefr": "B1",
+  "app_level": "intermediate",
+  "category": "sentence",
+  "status": "approved",
+  "difficulty": 4,
+  "prerequisites": [
+    "tr.a1.verb.present-continuous-yor"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "verb_stem"
+        },
+        {
+          "slot": "causative_suffix"
+        },
+        {
+          "slot": "tense_suffix"
+        }
+      ],
+      "example": "okutmak"
+    }
+  ],
+  "vocab": [
+    "tr.vocab.okumak"
+  ],
+  "examples": [
+    {
+      "id": "ex_trcau_1",
+      "target_text": "Öğretmen kitabı öğrenciye okuttu.",
+      "tokens": [
+        {
+          "text": "Öğretmen"
+        },
+        {
+          "text": "kitabı"
+        },
+        {
+          "text": "öğrenciye"
+        },
+        {
+          "text": "okuttu."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_trcau_1",
+      "incorrect": "Öğretmen kitabı öğrenciye okudu.",
+      "explanation": "Use causative suffixes ('-dir/-tir', '-t', '-iz') to make verbs transitive or cause someone else to perform an action."
+    }
+  ]
+}

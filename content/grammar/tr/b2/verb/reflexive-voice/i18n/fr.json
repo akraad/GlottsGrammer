@@ -1,0 +1,18 @@
+{
+  "title": "Voix Réfléchie en Turc (-in / -n)",
+  "summary": "Actions que le sujet fait sur lui-même.",
+  "explanation": "Ajoutez '-in/-ın/-un/-ün' (ou '-n' après une voyelle) au radical du verbe pour exprimer la réflexivité.",
+  "rules": [
+    "Radical du Verbe + -in/-n + Temps"
+  ],
+  "example_translations": {
+    "ex_trref_1": "L'enfant s'est lavé immédiatement."
+  },
+  "common_error_explanations": {
+    "err_trref_1": "Utilisez le suffixe réfléchi lorsque le sujet agit sur lui-même."
+  },
+  "vocab_glosses": {
+    "tr.vocab.ev": "maison"
+  },
+  "locale": "fr"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Propositions Subordonnées Complexes en Persan",
+  "summary": "Lier des propositions avec des conjonctions avancées (به‌محضِ آن‌که, همین‌که).",
+  "explanation": "Le persan avancé utilise des conjonctions composées pour exprimer la simultanéité exacte.",
+  "rules": [
+    "Conjonction Complexe + Proposition Subordonnée + Proposition Principale"
+  ],
+  "example_translations": {
+    "ex_csub_1": "Dès qu'il/elle est arrivé(e), la réunion a commencé."
+  },
+  "common_error_explanations": {
+    "err_csub_1": "Utilisez les formes complètes des conjonctions composées."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "aller"
+  },
+  "locale": "fr"
+}

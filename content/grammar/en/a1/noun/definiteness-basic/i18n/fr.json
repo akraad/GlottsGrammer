@@ -1,0 +1,36 @@
+{
+  "$schema": "../../../../../schemas/grammar-i18n.schema.json",
+  "locale": "fr",
+  "translation_status": "draft",
+  "name": "Définition : a, an, the",
+  "summary": "Utilisez « a/an » pour les noms singuliers indéfinis, « the » pour les noms définis et aucun article pour les pluriels ou indénombrables généraux.",
+  "explanation": "En anglais, les articles indiquent si vous parlez de quelque chose de général ou de spécifique. Utilisez « a » devant les sons consonantiques et « an » devant les sons vocaliques pour les références indéfinies. Utilisez « the » lorsque le locuteur et l'auditeur savent exactement de quoi il s'agit.",
+  "form_notes": {
+    "indefinite-a": "Utilisez « a » devant les mots commençant par un son consonantique (a cat, a university).",
+    "indefinite-an": "Utilisez « an » devant les mots commençant par un son vocalique (an apple, an hour).",
+    "definite-the": "Utilisez « the » lorsque vous faites référence à un nom spécifique déjà connu ou unique.",
+    "zero-article": "Aucun article n'est utilisé avec les noms pluriels ou indénombrables lorsqu'on parle de manière générale."
+  },
+  "example_translations": {
+    "ex_01": "J'ai un chat.",
+    "ex_02": "Elle est ingénieure.",
+    "ex_03": "Le chat est noir.",
+    "ex_04": "Les chats sont des animaux."
+  },
+  "common_error_explanations": {
+    "err_01": "« An » s'utilise devant les SONS vocaliques, pas seulement les lettres voyelles. « Car » commence par un son consonantique, donc utilisez « a ».",
+    "err_02": "Les professions en anglais nécessitent « a/an ». On ne peut pas dire « She is teacher » ; il faut dire « She is a teacher »."
+  },
+  "vocab_glosses": {
+    "en.noun.cat": "chat",
+    "en.noun.engineer": "ingénieur",
+    "en.noun.car": "voiture",
+    "en.noun.teacher": "professeur",
+    "en.vocab.car": "car"
+  },
+  "title": "Articles (A / An / The)",
+  "rules": [
+    "Utilisez a/an pour les noms indéfinis et the pour les définis.",
+    "Utilisez an devant les voyelles (a, e, i, o, u)."
+  ]
+}

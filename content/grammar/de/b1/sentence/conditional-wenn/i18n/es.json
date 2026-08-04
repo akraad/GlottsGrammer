@@ -1,0 +1,18 @@
+{
+  "locale": "es",
+  "title": "[ES] [ES] German Conditional Clauses with wenn",
+  "summary": "[ES] [ES] German Conditional Clauses with wenn",
+  "explanation": "[ES] [ES] German Conditional Clauses with wenn",
+  "rules": [
+    "Wenn + Subjekt + ... + Verb (Ende), + Verb (Pos 1) + Subjekt..."
+  ],
+  "example_translations": {
+    "ex_de_b1": "Wenn ich Zeit habe, komme ich."
+  },
+  "common_error_explanations": {
+    "err_de_b1": "In 'wenn' clauses, the verb goes to the end, and the main clause following it starts immediately with the conjugated verb."
+  },
+  "vocab_glosses": {
+    "de.vocab.zeit": "term"
+  }
+}

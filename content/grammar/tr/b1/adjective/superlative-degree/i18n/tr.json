@@ -1,0 +1,18 @@
+{
+  "title": "Üstünlük Derecesi (En)",
+  "summary": "Sıfatlarda en üstünlük bildirme.",
+  "explanation": "Sıfatların önüne 'en' kelimesi getirilerek en üstünlük derecesi oluşturulur (en büyük = بزرگ‌ترین).",
+  "rules": [
+    "en + Sıfat"
+  ],
+  "example_translations": {
+    "ex_trsup_1": "Bu şehirdeki en büyük ev."
+  },
+  "common_error_explanations": {
+    "err_trsup_1": "En üstünlük için sıfatın önüne 'en' kelimesini ekleyin."
+  },
+  "vocab_glosses": {
+    "tr.vocab.ev": "ev"
+  },
+  "locale": "tr"
+}

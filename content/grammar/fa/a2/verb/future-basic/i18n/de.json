@@ -1,0 +1,18 @@
+{
+  "title": "Persisches Futur (Zukunft)",
+  "summary": "Ausdruck von Handlungen in der Zukunft.",
+  "explanation": "Hilfsverb 'خواه' + Endung + Vergangenheitsstamm.",
+  "rules": [
+    "خواه + Endung + Vergangenheitsstamm"
+  ],
+  "example_translations": {
+    "ex_fut_1": "Ich werde morgen nach Hause gehen."
+  },
+  "common_error_explanations": {
+    "err_fut_1": "Verwende den Vergangenheitsstamm nach 'خواه'."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "gehen"
+  },
+  "locale": "de"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Premier Conditionnel",
+  "summary": "Utilisez le premier conditionnel pour des possibilités réelles dans le futur.",
+  "explanation": "Structure : If + Présent Simple, Sujet + Will + Verbe de base.",
+  "rules": [
+    "Proposition avec If -> Présent Simple",
+    "Proposition principale -> Will + Verbe"
+  ],
+  "example_translations": {
+    "ex_fc_1": "S'il pleut, je resterai à la maison."
+  },
+  "common_error_explanations": {
+    "err_fc_1": "N'utilisez jamais 'will' directement après 'if'."
+  },
+  "vocab_glosses": {
+    "en.vocab.rain": "pleuvoir",
+    "en.vocab.home": "maison"
+  },
+  "locale": "fr"
+}

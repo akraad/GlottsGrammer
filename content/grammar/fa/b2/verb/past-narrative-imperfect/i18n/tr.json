@@ -1,0 +1,18 @@
+{
+  "title": "Farsça Rivayetli Şimdiki Zamanın Hikayesi",
+  "summary": "Başkasından duyulan geçmiş zaman alışkanlıklarını anlatır.",
+  "explanation": "'می-' ön eki + Geçmiş Zaman Ortacı + Ekler.",
+  "rules": [
+    "می- + Geçmiş Zaman Ortacı + Ekler"
+  ],
+  "example_translations": {
+    "ex_pnarr_1": "Söylendiğine göre her gün oraya gidiyormuş."
+  },
+  "common_error_explanations": {
+    "err_pnarr_1": "Duyulan geçmiş alışkanlıklar için rivayetli yapıyı kullanın."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "gitmek"
+  },
+  "locale": "tr"
+}

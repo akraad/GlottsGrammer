@@ -1,0 +1,18 @@
+{
+  "title": "मूल फ़ारसी पूर्वसर्ग (Prepositions)",
+  "summary": "स्थान और दिशा व्यक्त करना (در, به, از, روی)।",
+  "explanation": "फ़ारसी में पूर्वसर्ग संज्ञा से पहले आते हैं।",
+  "rules": [
+    "पूर्वसर्ग + संज्ञा"
+  ],
+  "example_translations": {
+    "ex_prep_1": "अली घर पर है।"
+  },
+  "common_error_explanations": {
+    "err_prep_1": "पूर्वसर्ग को संज्ञा से पहले रखें।"
+  },
+  "vocab_glosses": {
+    "fa.vocab.home": "घर"
+  },
+  "locale": "hi"
+}

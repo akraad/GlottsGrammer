@@ -1,0 +1,19 @@
+{
+  "title": "トルコ語の語順 (SOV)",
+  "summary": "主語 - 目的語 - 動詞 の語順構造。",
+  "explanation": "日本語と同様に、トルコ語の標準的な語順は 主語 + 目的語 + 動詞 であり、動詞は必ず文末に来ます。",
+  "rules": [
+    "主語 + 目的語 + 最後に動詞"
+  ],
+  "example_translations": {
+    "ex_tr_wo_1": "私は本を読んでいます。"
+  },
+  "common_error_explanations": {
+    "err_tr_wo_1": "動詞は必ず文末に配置してください。"
+  },
+  "vocab_glosses": {
+    "tr.vocab.kitap": "本",
+    "tr.vocab.okumak": "読む"
+  },
+  "locale": "ja"
+}

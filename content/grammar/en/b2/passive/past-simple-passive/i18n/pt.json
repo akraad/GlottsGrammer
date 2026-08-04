@@ -1,0 +1,19 @@
+{
+  "title": "Voz Passiva no Passado Simples",
+  "summary": "Use a passiva no passado para ações concluídas focando no objeto.",
+  "explanation": "Was/Were + Particípio Passado.",
+  "rules": [
+    "Singular -> Was + Particípio",
+    "Plural -> Were + Particípio"
+  ],
+  "example_translations": {
+    "ex_psp_1": "Esta casa foi construída em 1990."
+  },
+  "common_error_explanations": {
+    "err_psp_1": "Sempre use o particípio passado na voz passiva."
+  },
+  "vocab_glosses": {
+    "en.vocab.build": "construir"
+  },
+  "locale": "pt"
+}

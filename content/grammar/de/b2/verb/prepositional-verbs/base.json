@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0.0",
+  "id": "de.b2.verb.prepositional-verbs",
+  "universal_concept_id": "verb.prepositional.german",
+  "language": "de",
+  "cefr": "B2",
+  "app_level": "upper-intermediate",
+  "category": "verb",
+  "status": "approved",
+  "difficulty": 4,
+  "prerequisites": [
+    "de.a1.noun.accusative-case"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "subject"
+        },
+        {
+          "slot": "verb_with_fixed_preposition"
+        },
+        {
+          "slot": "case_object"
+        },
+        {
+          "slot": "or_pronominal_adverb_worauf"
+        }
+      ],
+      "example": "Ich warte auf den Bus / Worauf wartest du?"
+    }
+  ],
+  "vocab": [
+    "de.vocab.warten"
+  ],
+  "examples": [
+    {
+      "id": "ex_de_b2_2",
+      "target_text": "Worauf wartest du? Ich warte auf den Bus.",
+      "tokens": [
+        {
+          "text": "Worauf"
+        },
+        {
+          "text": "wartest"
+        },
+        {
+          "text": "du?"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_de_b2_2",
+      "incorrect": "Ich warte den Bus (missing fixed preposition).",
+      "explanation": "Many German verbs require a specific fixed preposition and case, and questions for things use pronominal adverbs like 'wo(r)- + preposition'."
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "schema_version": "1.0.0",
+  "id": "de.a2.noun.dative-case",
+  "universal_concept_id": "noun.case.dative.german",
+  "language": "de",
+  "cefr": "A2",
+  "app_level": "elementary",
+  "category": "noun",
+  "status": "approved",
+  "difficulty": 3,
+  "prerequisites": [
+    "de.a1.noun.accusative-case"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "subject"
+        },
+        {
+          "slot": "dative_verb"
+        },
+        {
+          "slot": "dative_article_dem_der"
+        },
+        {
+          "slot": "noun"
+        }
+      ],
+      "example": "Ich helfe dem Mann"
+    }
+  ],
+  "vocab": [
+    "de.vocab.helfen"
+  ],
+  "examples": [
+    {
+      "id": "ex_de_a2",
+      "target_text": "Ich helfe dem Mann.",
+      "tokens": [
+        {
+          "text": "Ich"
+        },
+        {
+          "text": "helfe"
+        },
+        {
+          "text": "dem"
+        },
+        {
+          "text": "Mann."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_de_a2",
+      "incorrect": "Ich helfe den Mann.",
+      "explanation": "Dative verbs and prepositions require dative articles (der/das -> dem, die -> der)."
+    }
+  ]
+}

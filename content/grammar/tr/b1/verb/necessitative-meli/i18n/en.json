@@ -1,0 +1,18 @@
+{
+  "title": "Turkish Necessitative Mood (-meli / -malı)",
+  "summary": "Expressing obligation or necessity ('must', 'should').",
+  "explanation": "Attach '-meli/-malı' to the verb stem followed by personal suffixes to indicate duty or necessity.",
+  "rules": [
+    "Verb Stem + -meli/malı + Personal Suffix"
+  ],
+  "example_translations": {
+    "ex_trmel_1": "You must definitely read this book."
+  },
+  "common_error_explanations": {
+    "err_trmel_1": "Use the suffix '-meli/-malı' directly on verb stems for obligations."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "read"
+  },
+  "locale": "en"
+}

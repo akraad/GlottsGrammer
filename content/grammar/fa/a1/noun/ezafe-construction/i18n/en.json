@@ -1,0 +1,18 @@
+{
+  "title": "The Ezafe Construction (-e)",
+  "summary": "Connecting nouns to adjectives or possessors in Persian.",
+  "explanation": "Ezafe is a short vowel (-e) used to connect nouns to adjectives or possessors.",
+  "rules": [
+    "Noun + -e + Adjective / Possessor"
+  ],
+  "example_translations": {
+    "ex_ezafe_1": "Ali's book is on the table."
+  },
+  "common_error_explanations": {
+    "err_ezafe_1": "Pronounce or write the Ezafe vowel (-e) when linking words."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "book"
+  },
+  "locale": "en"
+}

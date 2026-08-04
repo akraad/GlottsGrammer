@@ -1,0 +1,18 @@
+{
+  "title": "Futuro em Turco (-ecek / -acak)",
+  "summary": "Expressar ações que acontecerão no futuro.",
+  "explanation": "Anexe '-ecek/-acak' à raiz do verbo (com 'y' de ligação se terminar em vogal) seguido de sufixos pessoais.",
+  "rules": [
+    "Raiz do Verbo + -(y)ecek + Sufixo Pessoal"
+  ],
+  "example_translations": {
+    "ex_trfut_1": "Amanhã eu lerei um livro."
+  },
+  "common_error_explanations": {
+    "err_trfut_1": "Use o sufixo de futuro para ações futuras."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "ler"
+  },
+  "locale": "pt"
+}

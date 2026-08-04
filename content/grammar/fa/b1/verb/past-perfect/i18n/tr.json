@@ -1,0 +1,18 @@
+{
+  "title": "Farsça Miş'li Geçmiş Zamanın Hikayesi (-miş'ti)",
+  "summary": "Geçmişteki başka bir eylemden önce tamamlanmış eylemleri anlatır.",
+  "explanation": "Geçmiş Zaman Ortacı + 'بودن' fiilinin geçmiş zaman çekimi.",
+  "rules": [
+    "Geçmiş Zaman Ortacı + بودم"
+  ],
+  "example_translations": {
+    "ex_pperf_1": "Ondan önce eve gitmiştim."
+  },
+  "common_error_explanations": {
+    "err_pperf_1": "'بودم' ekinden önce geçmiş zaman ortacını kullanın."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "gitmek"
+  },
+  "locale": "tr"
+}

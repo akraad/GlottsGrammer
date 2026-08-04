@@ -1,0 +1,18 @@
+{
+  "title": "Passé Continu Conversationnel en Persan",
+  "summary": "Exprimer des actions en cours dans le passé en langage parlé.",
+  "explanation": "Le persan parlé combine 'داشتن' conjugué juste devant le verbe au passé avec 'می-'.",
+  "rules": [
+    "داشتن conjugué + Verbe au passé avec Mi-"
+  ],
+  "example_translations": {
+    "ex_dasht_1": "J'étais en train de rentrer chez moi quand je l'ai vu(e)."
+  },
+  "common_error_explanations": {
+    "err_dasht_1": "Conjuguez les deux verbes avec les mêmes personnes."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "aller"
+  },
+  "locale": "fr"
+}

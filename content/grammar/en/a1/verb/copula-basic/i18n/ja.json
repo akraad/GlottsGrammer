@@ -1,0 +1,38 @@
+{
+  "$schema": "../../../../../schemas/grammar-i18n.schema.json",
+  "locale": "ja",
+  "translation_status": "draft",
+  "name": "to be動詞 (am/is/are)",
+  "summary": "動詞「to be」は、アイデンティティ、状態、場所を表すために使われます。",
+  "explanation": "動詞「to be」は英語で最も重要な動詞です。現在形で3つの形があります：am, is, are。Iには「am」を使います。he/she/itには「is」を使います。you/we/theyには「are」を使います。他の動詞とは異なり、「to be」は疑問文や否定文で「do/does」を必要としません。",
+  "form_notes": {
+    "affirmative": "主語 + am/is/are + 補語（名詞、形容詞、または場所）。例: She is a teacher.",
+    "negative": "主語 + am/is/are + not + 補語。例: He is not happy.",
+    "question": "Am/Is/Are + 主語 + 補語? 例: Are you tired?"
+  },
+  "example_translations": {
+    "ex_01": "私は学生です。",
+    "ex_02": "彼女は家にいません。",
+    "ex_03": "今日はお元気ですか？"
+  },
+  "common_error_explanations": {
+    "err_01": "「I」には常に「am」を使います。「I is」と決して言わないでください。",
+    "err_02": "he/she/itには「is」を使います。「are」はyou/we/theyのみです。"
+  },
+  "vocab_glosses": {
+    "en.verb.be": "〜である",
+    "en.adj.happy": "幸せな",
+    "en.adj.sad": "悲しい",
+    "en.adj.tired": "疲れた",
+    "en.adj.hungry": "空腹の",
+    "en.vocab.home": "家",
+    "en.noun.school": "学校",
+    "en.noun.work": "仕事（場所）"
+  },
+  "title": "be動詞 (Am / Is / Are)",
+  "rules": [
+    "I + am",
+    "He/She/It + is",
+    "You/We/They + are"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../../../../schemas/grammar-i18n.schema.json",
+  "locale": "de",
+  "translation_status": "draft",
+  "name": "Verb-Grundform",
+  "summary": "Die Grundform ist die einfache Form eines Verbs ohne Endungen. Sie wird mit I, you, we, they und nach do/does in Verneinungen und Fragen verwendet.",
+  "explanation": "Jedes englische Verb hat fünf Formen: Grundform, 3. Person Singular (-s), Vergangenheit, Partizip Perfekt und Partizip Präsens (-ing). Die Grundform ist die Wörterbuchform. Sie wird nach I/you/we/they, nach Modalverben (can, will, should) und in verneinten Sätzen und Fragen mit do/does/did verwendet.",
+  "form_notes": {
+    "base_with_i_you_we_they": "Bei I, you, we, they wird die Grundform des Verbs verwendet.",
+    "base_after_does_not": "Bei he/she/it in verneinten Sätzen kehrt das Verb nach does not zur Grundform zurück.",
+    "base_after_do_question": "In Fragen mit Do/Does steht das Verb in der Grundform."
+  },
+  "example_translations": {
+    "ex_01": "Ich trinke Wasser.",
+    "ex_02": "Sie trinken keinen Tee.",
+    "ex_03": "Mag sie Wasser?"
+  },
+  "common_error_explanations": {
+    "err_01": "Bei I/you/we/they steht das Verb in der Grundform ohne -s.",
+    "err_02": "Nach does in Fragen kehrt das Hauptverb zur Grundform zurück (kein -s)."
+  },
+  "vocab_glosses": {
+    "en.verb.drink": "trinken",
+    "en.noun.water": "Wasser",
+    "en.noun.tea": "Tee",
+    "en.verb.like": "mögen",
+    "en.verb.want": "wollen",
+    "en.verb.have": "haben",
+    "en.verb.do": "tun",
+    "en.vocab.go": "gehen",
+    "en.vocab.eat": "essen",
+    "en.vocab.see": "sehen",
+    "en.verb.come": "kommen"
+  },
+  "title": "Grundform des Verbs (Infinitiv)",
+  "rules": [
+    "Die Grundform des Verbs ohne Endungen.",
+    "Wird nach Modalverben verwendet."
+  ]
+}

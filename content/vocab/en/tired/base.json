@@ -1,0 +1,27 @@
+{
+  "id": "en.adj.tired",
+  "language": "en",
+  "lemma": "tired",
+  "pos": "adjective",
+  "cefr": "A1",
+  "frequency_rank": 600,
+  "comparative": "more tired",
+  "superlative": "most tired",
+  "tags": [
+    "feeling",
+    "physical state"
+  ],
+  "translations": {
+    "ar": "متعب",
+    "de": "müde",
+    "en": "tired",
+    "es": "cansado",
+    "fa": "خسته",
+    "fr": "fatigué",
+    "hi": "थका हुआ",
+    "ja": "疲れた",
+    "pt": "cansado",
+    "ru": "уставший",
+    "tr": "yorgun"
+  }
+}

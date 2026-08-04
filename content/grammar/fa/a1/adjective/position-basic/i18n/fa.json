@@ -1,0 +1,19 @@
+{
+  "title": "جایگاه صفت در فارسی",
+  "summary": "صفت بعد از اسم با استفاده از کسره اضافه قرار می‌گیرد.",
+  "explanation": "برعکس انگلیسی، صفت در فارسی همیشه بعد از اسم می‌آید.",
+  "rules": [
+    "اسم + -ِ + صفت"
+  ],
+  "example_translations": {
+    "ex_adj_1": "این یک خانهٔ بزرگ است."
+  },
+  "common_error_explanations": {
+    "err_adj_1": "صفت را بعد از اسم قرار دهید."
+  },
+  "vocab_glosses": {
+    "fa.vocab.home": "خانه",
+    "fa.vocab.bozorg": "بزرگ"
+  },
+  "locale": "fa"
+}

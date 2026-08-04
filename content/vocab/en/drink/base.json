@@ -1,0 +1,31 @@
+{
+  "$schema": "../../../../../schemas/vocab-base.schema.json",
+  "schema_version": 1,
+  "id": "en.verb.drink",
+  "language": "en",
+  "lemma": "drink",
+  "pos": "verb",
+  "cefr": "A1",
+  "frequency_rank": 450,
+  "forms": {
+    "base": "drink",
+    "third_person_singular": "drinks",
+    "present_participle": "drinking",
+    "past_simple": "drank",
+    "past_participle": "drunk"
+  },
+  "translations": {
+    "ar": "يشرب",
+    "de": "trinken",
+    "en": "to drink",
+    "es": "beber",
+    "fa": "نوشیدن",
+    "fr": "boire",
+    "hi": "पीना",
+    "ja": "飲む",
+    "pt": "beber",
+    "ru": "пить",
+    "tr": "içmek"
+  },
+  "tags": ["daily routine","food and drink"]
+}

@@ -1,0 +1,18 @@
+{
+  "title": "ペルシア語の現在接続法",
+  "summary": "願望、疑念、必要性を表します。",
+  "explanation": "接頭辞 'بـ' + 現在語幹 + 人称語尾。",
+  "rules": [
+    "بـ + 現在語幹 + 語尾"
+  ],
+  "example_translations": {
+    "ex_subj_1": "私は家に帰りたいです。"
+  },
+  "common_error_explanations": {
+    "err_subj_1": "願望を表す動詞の後には接続法を使用してください。"
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "行く"
+  },
+  "locale": "ja"
+}

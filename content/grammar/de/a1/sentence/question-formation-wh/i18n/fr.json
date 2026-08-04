@@ -1,0 +1,18 @@
+{
+  "locale": "fr",
+  "title": "[FR] German WH-Questions",
+  "summary": "[FR] German WH-Questions",
+  "explanation": "[FR] German WH-Questions",
+  "rules": [
+    "W-Wort + Verb (Pos 2) + Subjekt?"
+  ],
+  "example_translations": {
+    "ex_de_2": "Wo wohnst du?"
+  },
+  "common_error_explanations": {
+    "err_de_2": "WH-questions start with the question word, followed immediately by the conjugated verb in position 2."
+  },
+  "vocab_glosses": {
+    "de.vocab.wohnen": "term"
+  }
+}

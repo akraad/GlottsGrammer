@@ -1,0 +1,18 @@
+{
+  "title": "Pretérito Mais-Que-Perfeito em Persa",
+  "summary": "Expressar ações concluídas antes de outro evento passado.",
+  "explanation": "Particípio Passado + Formas conjugadas de 'بودن' no passado.",
+  "rules": [
+    "Particípio Passado + بودم"
+  ],
+  "example_translations": {
+    "ex_pperf_1": "Eu tinha ido para casa antes dele/dela."
+  },
+  "common_error_explanations": {
+    "err_pperf_1": "Use o particípio passado antes de 'بودم'."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "ir"
+  },
+  "locale": "pt"
+}

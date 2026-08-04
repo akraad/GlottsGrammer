@@ -1,0 +1,62 @@
+{
+  "schema_version": "1.0.0",
+  "id": "de.b2.sentence.participle-attributes",
+  "universal_concept_id": "sentence.participle.attribute.german",
+  "language": "de",
+  "cefr": "B2",
+  "app_level": "upper-intermediate",
+  "category": "sentence",
+  "status": "approved",
+  "difficulty": 5,
+  "prerequisites": [
+    "de.b1.adjective.adjective-declension",
+    "de.a2.verb.past-tense-perfekt"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "expanded_participle_phrase"
+        },
+        {
+          "slot": "noun"
+        }
+      ],
+      "example": "Der von ihm geschriebene Brief"
+    }
+  ],
+  "vocab": [
+    "de.vocab.brief"
+  ],
+  "examples": [
+    {
+      "id": "ex_de_b2_2",
+      "target_text": "Der von ihm geschriebene Brief liegt auf dem Tisch.",
+      "tokens": [
+        {
+          "text": "Der"
+        },
+        {
+          "text": "von"
+        },
+        {
+          "text": "ihm"
+        },
+        {
+          "text": "geschriebene"
+        },
+        {
+          "text": "Brief..."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_de_b2_2",
+      "incorrect": "Der Brief, der von ihm geschrieben wurde, liegt (instead of participle attribute).",
+      "explanation": "Participle attributes pack relative clauses into descriptive adjective phrases placed directly before the noun."
+    }
+  ]
+}

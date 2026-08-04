@@ -1,0 +1,18 @@
+{
+  "title": "非人称受動態と高度な統語構造",
+  "summary": "C1レベルの公式・学術的非人称表現。",
+  "explanation": "上級レベルの洗練された表現方法。",
+  "rules": [
+    "Intransitive Verb Stem + Passive Suffix (-ildi)"
+  ],
+  "example_translations": {
+    "ex_c1_2": "〜ということは一般に認められています。"
+  },
+  "common_error_explanations": {
+    "err_c1_2": "適切な公式非人称表現を使用してください。"
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "読む"
+  },
+  "locale": "ja"
+}

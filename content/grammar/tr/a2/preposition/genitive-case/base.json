@@ -1,0 +1,67 @@
+{
+  "schema_version": "1.0.0",
+  "id": "tr.a2.preposition.genitive-case",
+  "universal_concept_id": "preposition.genitive.case",
+  "language": "tr",
+  "cefr": "A2",
+  "app_level": "elementary",
+  "category": "preposition",
+  "status": "approved",
+  "difficulty": 2,
+  "prerequisites": [
+    "tr.a1.noun.vowel-harmony-plural"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "possessor_noun"
+        },
+        {
+          "slot": "genitive_suffix"
+        },
+        {
+          "slot": "possessed_noun"
+        },
+        {
+          "slot": "possessive_suffix"
+        }
+      ],
+      "example": "evin kapısı"
+    }
+  ],
+  "vocab": [
+    "tr.vocab.ev"
+  ],
+  "examples": [
+    {
+      "id": "ex_trgen_1",
+      "target_text": "Bu evin kapısı çok büyük.",
+      "tokens": [
+        {
+          "text": "Bu"
+        },
+        {
+          "text": "evin"
+        },
+        {
+          "text": "kapısı"
+        },
+        {
+          "text": "çok"
+        },
+        {
+          "text": "büyük."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_trgen_1",
+      "incorrect": "Bu ev kapısı çok büyük.",
+      "explanation": "Use genitive suffix ('-in/-ın/-un/-ün' or '-(n)in') on the possessor noun and possessive suffix on the possessed noun."
+    }
+  ]
+}

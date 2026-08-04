@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0.0",
+  "id": "en.a2.modal.should-must-basic",
+  "universal_concept_id": "modal.should.must.basic",
+  "language": "en",
+  "cefr": "A2",
+  "app_level": "elementary",
+  "category": "modal",
+  "status": "approved",
+  "difficulty": 2,
+  "prerequisites": [
+    "en.a1.modal.can-basic"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "subject"
+        },
+        {
+          "slot": "modal"
+        },
+        {
+          "slot": "verb_base"
+        }
+      ],
+      "example": "You should study."
+    }
+  ],
+  "vocab": [
+    "en.vocab.study"
+  ],
+  "examples": [
+    {
+      "id": "ex_mod_1",
+      "target_text": "You should study every day.",
+      "tokens": [
+        {
+          "text": "You"
+        },
+        {
+          "text": "should"
+        },
+        {
+          "text": "study"
+        },
+        {
+          "text": "every day"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_mod_1",
+      "incorrect": "You should to study.",
+      "explanation": "Do not use 'to' after modal verbs like should or must."
+    }
+  ]
+}

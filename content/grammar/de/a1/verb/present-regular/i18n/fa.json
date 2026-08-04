@@ -1,0 +1,18 @@
+{
+  "title": "زمان حال افعال باقاعده در آلمانی",
+  "summary": "صرف افعال باقاعده در زمان حال ساده آلمانی.",
+  "explanation": "صرف افعال باقاعده در زمان حال ساده آلمانی.",
+  "rules": [
+    "Verbstamm + Personalendungen (-e, -st, -t, -en)"
+  ],
+  "example_translations": {
+    "ex_de_1": "Ich lerne jeden Tag Deutsch."
+  },
+  "common_error_explanations": {
+    "err_de_1": "Conjugate verb endings properly matching the subject pronoun."
+  },
+  "vocab_glosses": {
+    "de.vocab.lernen": "آموزختن"
+  },
+  "locale": "fa"
+}

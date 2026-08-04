@@ -1,0 +1,18 @@
+{
+  "title": "Farsça Edebi Dilek-Dua Kipi (Optatif)",
+  "summary": "Klasik edebiyatta dua ve dilek bildirme (باد, مباد).",
+  "explanation": "Geniş zaman köküne '-اد' eki getirilerek yapılır (örn. باد = olsun).",
+  "rules": [
+    "Geniş Zaman Kökü + -اد"
+  ],
+  "example_translations": {
+    "ex_opt_1": "İran'ın adı sonsuza kadar daim olsun."
+  },
+  "common_error_explanations": {
+    "err_opt_1": "Eski dua kipini modern istek kipleriyle karıştırmayın."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "gitmek"
+  },
+  "locale": "tr"
+}

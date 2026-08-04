@@ -1,0 +1,27 @@
+{
+  "id": "en.adj.happy",
+  "language": "en",
+  "lemma": "happy",
+  "pos": "adjective",
+  "cefr": "A1",
+  "frequency_rank": 800,
+  "comparative": "happier",
+  "superlative": "happiest",
+  "tags": [
+    "emotion",
+    "feeling"
+  ],
+  "translations": {
+    "ar": "سعيد",
+    "de": "glücklich",
+    "en": "happy",
+    "es": "feliz",
+    "fa": "خوشحال",
+    "fr": "heureux",
+    "hi": "खुश",
+    "ja": "幸せな",
+    "pt": "feliz",
+    "ru": "счастливый",
+    "tr": "mutlu"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "title": "第3条件法 (Third Conditional)",
+  "summary": "過去の後悔や非現実的な過去の仮定を表します。",
+  "explanation": "If + 過去完了形, 主語 + Would have + 過去分詞。",
+  "rules": [
+    "If節 -> Had + 過去分詞"
+  ],
+  "example_translations": {
+    "ex_tc_1": "勉強していたら合格していただろうに。"
+  },
+  "common_error_explanations": {
+    "err_tc_1": "If節の中に would have を使用しないでください。"
+  },
+  "vocab_glosses": {
+    "en.vocab.study": "勉強する"
+  },
+  "locale": "ja"
+}

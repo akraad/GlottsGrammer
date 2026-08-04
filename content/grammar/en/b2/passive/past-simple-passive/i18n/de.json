@@ -1,0 +1,19 @@
+{
+  "title": "Passiv im Präteritum (Past Simple Passive)",
+  "summary": "Verwende das Vergangenheits-Passiv für abgeschlossene Handlungen.",
+  "explanation": "Was/Were + Partizip Perfekt.",
+  "rules": [
+    "Einzahl -> Was + Partizip",
+    "Mehrzahl -> Were + Partizip"
+  ],
+  "example_translations": {
+    "ex_psp_1": "Dieses Haus wurde 1990 gebaut."
+  },
+  "common_error_explanations": {
+    "err_psp_1": "Verwende stets das Partizip Perfekt."
+  },
+  "vocab_glosses": {
+    "en.vocab.build": "bauen"
+  },
+  "locale": "de"
+}

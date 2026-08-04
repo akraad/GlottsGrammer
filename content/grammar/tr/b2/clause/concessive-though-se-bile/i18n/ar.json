@@ -1,0 +1,18 @@
+{
+  "title": "جمل الاستدراك والتسليم في التركية ('حتى لو' -se bile)",
+  "summary": "التعبير عن 'حتى لو' أو 'رغم أن'.",
+  "explanation": "يُدمج لاحقة الشرط '-se/-sa' مع كلمة 'bile' (حتى) لتكوين معنى 'حتى لو' (gelse bile).",
+  "rules": [
+    "جذر الفعل + -se/-sa + bile"
+  ],
+  "example_translations": {
+    "ex_trbile_1": "حتى لو جاء غداً فلن أتمكن من رؤيته."
+  },
+  "common_error_explanations": {
+    "err_trbile_1": "استخدم '-sebile' للتعبير عن 'حتى لو'."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "قراءة"
+  },
+  "locale": "ar"
+}

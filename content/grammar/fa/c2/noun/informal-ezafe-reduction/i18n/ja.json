@@ -1,0 +1,19 @@
+{
+  "title": "ペルシア語口語の単語の短縮表現",
+  "summary": "日常会話で母音や動詞の語尾が短縮される仕組み。",
+  "explanation": "話し言葉では 'ân' 音が 'oon' に変化し (例: خانه -> خونه)、動詞も短縮されます (例: می‌خواهم -> می‌خوام)。",
+  "rules": [
+    "ân 音 -> oon 音の変更",
+    "動詞の短縮 (می‌روم -> می‌رم)"
+  ],
+  "example_translations": {
+    "ex_red_1": "家に帰りたいです。"
+  },
+  "common_error_explanations": {
+    "err_red_1": "日常の会話では自然な口語短縮形を使用してください。"
+  },
+  "vocab_glosses": {
+    "fa.vocab.home": "家"
+  },
+  "locale": "ja"
+}

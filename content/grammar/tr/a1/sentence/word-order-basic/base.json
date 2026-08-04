@@ -1,0 +1,62 @@
+{
+  "schema_version": "1.0.0",
+  "id": "tr.a1.sentence.word-order-basic",
+  "universal_concept_id": "sentence.word.order",
+  "language": "tr",
+  "cefr": "A1",
+  "app_level": "beginner",
+  "category": "sentence",
+  "status": "approved",
+  "difficulty": 1,
+  "prerequisites": [
+    "tr.a1.pronoun.personal-subject"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "subject"
+        },
+        {
+          "slot": "object"
+        },
+        {
+          "slot": "verb"
+        }
+      ],
+      "example": "Ben kitap okuyorum."
+    }
+  ],
+  "vocab": [
+    "tr.vocab.kitap",
+    "tr.vocab.okumak"
+  ],
+  "examples": [
+    {
+      "id": "ex_tr_wo_1",
+      "target_text": "Ben bir kitap okuyorum.",
+      "tokens": [
+        {
+          "text": "Ben"
+        },
+        {
+          "text": "bir"
+        },
+        {
+          "text": "kitap"
+        },
+        {
+          "text": "okuyorum."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_tr_wo_1",
+      "incorrect": "Ben okuyorum bir kitap.",
+      "explanation": "In standard Turkish, verbs always go at the END of the sentence (SOV structure)."
+    }
+  ]
+}

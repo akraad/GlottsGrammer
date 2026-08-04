@@ -1,0 +1,74 @@
+{
+  "schema_version": "1.0.0",
+  "id": "fa.a2.sentence.adverb-position",
+  "universal_concept_id": "sentence.adverb.position",
+  "language": "fa",
+  "cefr": "A2",
+  "app_level": "elementary",
+  "category": "adverb",
+  "status": "approved",
+  "difficulty": 2,
+  "prerequisites": [
+    "fa.a1.sentence.word-order-basic"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "subject"
+        },
+        {
+          "slot": "time_adverb"
+        },
+        {
+          "slot": "place_adverb"
+        },
+        {
+          "slot": "object"
+        },
+        {
+          "slot": "verb"
+        }
+      ],
+      "example": "من دیروز به خانه رفتم"
+    }
+  ],
+  "vocab": [
+    "fa.vocab.home",
+    "fa.vocab.raftan"
+  ],
+  "examples": [
+    {
+      "id": "ex_advp_1",
+      "target_text": "من دیروز در خانه کتاب خواندم.",
+      "tokens": [
+        {
+          "text": "من"
+        },
+        {
+          "text": "دیروز"
+        },
+        {
+          "text": "در"
+        },
+        {
+          "text": "خانه"
+        },
+        {
+          "text": "کتاب"
+        },
+        {
+          "text": "خواندم"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_advp_1",
+      "incorrect": "من کتاب خواندم دیروز در خانه.",
+      "explanation": "Adverbs usually come before the object and verb in standard Persian sentences."
+    }
+  ]
+}

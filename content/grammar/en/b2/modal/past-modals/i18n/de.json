@@ -1,0 +1,18 @@
+{
+  "title": "Modalverben der Vergangenheit (Should have)",
+  "summary": "Ausdruck von Bedauern oder Kritik bezüglich der Vergangenheit.",
+  "explanation": "Subjekt + should have + Partizip Perfekt.",
+  "rules": [
+    "Should have + Partizip Perfekt"
+  ],
+  "example_translations": {
+    "ex_pm_1": "Ich hätte mehr lernen sollen."
+  },
+  "common_error_explanations": {
+    "err_pm_1": "Schreibe niemals 'should of', sondern 'should have'."
+  },
+  "vocab_glosses": {
+    "en.vocab.study": "lernen"
+  },
+  "locale": "de"
+}

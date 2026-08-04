@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0.0",
+  "id": "fa.a1.noun.plural-basic",
+  "universal_concept_id": "noun.basic.plural",
+  "language": "fa",
+  "cefr": "A1",
+  "app_level": "beginner",
+  "category": "noun",
+  "status": "approved",
+  "difficulty": 1,
+  "prerequisites": [],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "noun"
+        },
+        {
+          "slot": "ha_suffix"
+        }
+      ],
+      "example": "کتاب‌ها"
+    }
+  ],
+  "vocab": [
+    "fa.vocab.book"
+  ],
+  "examples": [
+    {
+      "id": "ex_fa_pl_1",
+      "target_text": "کتاب‌ها روی میز هستند.",
+      "tokens": [
+        {
+          "text": "کتاب‌ها"
+        },
+        {
+          "text": "روی"
+        },
+        {
+          "text": "میز"
+        },
+        {
+          "text": "هستند"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_fa_pl_1",
+      "incorrect": "کتابان روی میز هستند.",
+      "explanation": "Use suffix '-ها' for inanimate objects like books."
+    }
+  ]
+}

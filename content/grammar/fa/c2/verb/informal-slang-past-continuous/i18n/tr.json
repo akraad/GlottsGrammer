@@ -1,0 +1,18 @@
+{
+  "title": "Farsça Konuşma Dilinde Şimdiki Zamanın Hikayesi",
+  "summary": "Günlük konuşmada geçmişte tam o anda yapılan eylemleri anlatır.",
+  "explanation": "Konuşma dilinde 'داشتن' fiili 'می-'li geçmiş zaman fiilinin önüne getirilir.",
+  "rules": [
+    "Çekimlenmiş داشتن + Mi-'li Fiil"
+  ],
+  "example_translations": {
+    "ex_dasht_1": "Tam eve gidiyordum ki onu gördüm."
+  },
+  "common_error_explanations": {
+    "err_dasht_1": "Her iki fiili de aynı şahsa göre çekimleyin."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "gitmek"
+  },
+  "locale": "tr"
+}

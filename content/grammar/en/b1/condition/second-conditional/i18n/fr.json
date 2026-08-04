@@ -1,0 +1,22 @@
+{
+  "title": "Second Conditionnel",
+  "summary": "Utilisez le second conditionnel pour des situations hypothétiques ou imaginaires.",
+  "explanation": "If + Passé Simple, Sujet + Would + Verbe de base.",
+  "rules": [
+    "Proposition avec If -> Passé Simple",
+    "Proposition principale -> Would + Verbe"
+  ],
+  "example_translations": {
+    "ex_sc_1": "Si je gagnais à la loterie, j'achèterais une voiture."
+  },
+  "common_error_explanations": {
+    "err_sc_1": "N'utilisez jamais 'would' directement dans la proposition avec 'if'."
+  },
+  "vocab_glosses": {
+    "en.vocab.win": "gagner",
+    "en.vocab.lottery": "loterie",
+    "en.vocab.buy": "acheter",
+    "en.vocab.car": "voiture"
+  },
+  "locale": "fr"
+}

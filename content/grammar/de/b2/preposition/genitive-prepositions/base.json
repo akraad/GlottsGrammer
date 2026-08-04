@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.0.0",
+  "id": "de.b2.preposition.genitive-prepositions",
+  "universal_concept_id": "preposition.genitive.german",
+  "language": "de",
+  "cefr": "B2",
+  "app_level": "upper-intermediate",
+  "category": "preposition",
+  "status": "approved",
+  "difficulty": 4,
+  "prerequisites": [
+    "de.a1.preposition.basic-prepositions",
+    "de.a2.noun.dative-case"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "genitive_preposition_wegen_trotz"
+        },
+        {
+          "slot": "genitive_noun_des_der"
+        }
+      ],
+      "example": "Wegen des Regens"
+    }
+  ],
+  "vocab": [
+    "de.vocab.regen"
+  ],
+  "examples": [
+    {
+      "id": "ex_de_b2_2",
+      "target_text": "Wegen des starken Regens bleiben wir zu Hause.",
+      "tokens": [
+        {
+          "text": "Wegen"
+        },
+        {
+          "text": "des"
+        },
+        {
+          "text": "starken"
+        },
+        {
+          "text": "Regens..."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_de_b2_2",
+      "incorrect": "Wegen dem starken Regen (colloquial error).",
+      "explanation": "Prepositions like wegen, trotz, während, and statt formally govern the Genitive case (des/der)."
+    }
+  ]
+}

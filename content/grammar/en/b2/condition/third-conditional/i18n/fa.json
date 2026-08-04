@@ -1,0 +1,18 @@
+{
+  "title": "جملات شرطی نوع سوم",
+  "summary": "بیان حسرت یا موقعیت‌های غیرممکن در گذشته.",
+  "explanation": "If + گذشته کامل، فاعل + would have + قسمت سوم فعل.",
+  "rules": [
+    "عبارت شرطی -> Had + قسمت سوم فعل"
+  ],
+  "example_translations": {
+    "ex_tc_1": "اگر درس خوانده بودم، قبول می‌شدم."
+  },
+  "common_error_explanations": {
+    "err_tc_1": "در عبارت شرطی از would have استفاده نکنید."
+  },
+  "vocab_glosses": {
+    "en.vocab.study": "درس خواندن"
+  },
+  "locale": "fa"
+}

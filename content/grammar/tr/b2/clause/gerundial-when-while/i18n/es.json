@@ -1,0 +1,18 @@
+{
+  "title": "Cláusulas Gerundiales en Turco (-ken / -ince)",
+  "summary": "Expresar acciones simultáneas ('mientras', 'cuando').",
+  "explanation": "Añade '-ken' (o '-ince/-ınca') a verbos o sustantivos para indicar simultaneidad.",
+  "rules": [
+    "Verbo/Sustantivo + -ken"
+  ],
+  "example_translations": {
+    "ex_trken_1": "Compré pan mientras venía a casa."
+  },
+  "common_error_explanations": {
+    "err_trken_1": "Usa el sufijo '-ken' directamente para acciones simultáneas."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "leer"
+  },
+  "locale": "es"
+}

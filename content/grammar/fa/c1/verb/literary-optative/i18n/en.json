@@ -1,0 +1,18 @@
+{
+  "title": "Persian Literary Optative Mood",
+  "summary": "Expressing formal wishes, blessings, or curses in classical Persian (باد, مباد).",
+  "explanation": "Formed historically by adding suffix '-اد' to present stems (e.g. باد = May it be, مباد = May it not be).",
+  "rules": [
+    "Present Stem + -اد"
+  ],
+  "example_translations": {
+    "ex_opt_1": "May the name of Iran be eternal forever."
+  },
+  "common_error_explanations": {
+    "err_opt_1": "Do not mix archaic optatives with modern subjunctive forms."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "go"
+  },
+  "locale": "en"
+}

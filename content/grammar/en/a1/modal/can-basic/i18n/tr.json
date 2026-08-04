@@ -1,0 +1,18 @@
+{
+  "locale": "tr",
+  "title": "Ability with Can",
+  "summary": "Use 'can' to express abilities or options.",
+  "explanation": "Follow 'can' directly with the base form of a verb.",
+  "rules": [
+    "Subject + can + base verb"
+  ],
+  "example_translations": {
+    "ex_can_1": "I can swim."
+  },
+  "common_error_explanations": {
+    "err_can_1": "Never add 'to' after can."
+  },
+  "vocab_glosses": {
+    "en.vocab.swim": "swim"
+  }
+}

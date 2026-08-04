@@ -1,0 +1,18 @@
+{
+  "title": "Constructions Passives Impersonnelles",
+  "summary": "Modèles impersonnels avancés en turc C1.",
+  "explanation": "Structures formelles de niveau C1.",
+  "rules": [
+    "Embedded Participial Framing + Matrix Predicate"
+  ],
+  "example_translations": {
+    "ex_c1_2": "Il est universellement reconnu que..."
+  },
+  "common_error_explanations": {
+    "err_c1_2": "Utilisez des registres formels appropriés."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "lire"
+  },
+  "locale": "fr"
+}

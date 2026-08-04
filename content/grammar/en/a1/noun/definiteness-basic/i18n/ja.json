@@ -1,0 +1,36 @@
+{
+  "$schema": "../../../../../schemas/grammar-i18n.schema.json",
+  "locale": "ja",
+  "translation_status": "draft",
+  "name": "限定詞: a, an, the",
+  "summary": "不特定の単数名詞には「a/an」、特定の名詞には「the」を使い、一般的な複数形や不可算名詞には冠詞を使いません。",
+  "explanation": "英語では、冠詞が一般的なものを指しているか特定のものを指しているかを示します。不特定の参照には子音の前に「a」、母音の前に「an」を使います。「the」は話し手と聞き手の両方が何を指しているか正確に知っている場合に使います。",
+  "form_notes": {
+    "indefinite-a": "子音で始まる単語の前には「a」を使います（a cat, a university）。",
+    "indefinite-an": "母音で始まる単語の前には「an」を使います（an apple, an hour）。",
+    "definite-the": "すでに知られているまたは固有の特定の名詞を指す場合は「the」を使います。",
+    "zero-article": "一般的に話す場合、複数形や不可算名詞には冠詞を使いません。"
+  },
+  "example_translations": {
+    "ex_01": "私は猫を飼っています。",
+    "ex_02": "彼女はエンジニアです。",
+    "ex_03": "その猫は黒いです。",
+    "ex_04": "猫は動物です。"
+  },
+  "common_error_explanations": {
+    "err_01": "「an」は母音の文字だけでなく、母音の「音」の前に使われます。「car」は子音で始まるので「a」を使います。",
+    "err_02": "英語では職業を表す際に「a/an」が必要です。「She is teacher」とは言えず、「She is a teacher」としなければなりません。"
+  },
+  "vocab_glosses": {
+    "en.noun.cat": "猫",
+    "en.noun.engineer": "エンジニア",
+    "en.noun.car": "車",
+    "en.noun.teacher": "教師",
+    "en.vocab.car": "car"
+  },
+  "title": "冠詞 (A / An / The)",
+  "rules": [
+    "不特定の名詞には a/an、特定の名詞には the を使用します。",
+    "母音 (a, e, i, o, u) の前には an を使用します。"
+  ]
+}

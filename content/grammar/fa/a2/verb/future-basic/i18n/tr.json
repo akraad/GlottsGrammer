@@ -1,0 +1,18 @@
+{
+  "title": "Farsça Gelecek Zaman (Gelecek Kipi)",
+  "summary": "Resmi dilde gelecek zaman eylemlerini ifade eder.",
+  "explanation": "Yardımcı fiil 'خواه' + Şahıs Eki + Geçmiş Zaman Kökü.",
+  "rules": [
+    "خواه + Ek + Geçmiş Zaman Kökü"
+  ],
+  "example_translations": {
+    "ex_fut_1": "Yarın eve gideceğim."
+  },
+  "common_error_explanations": {
+    "err_fut_1": "'خواه' sonrasında geçmiş zaman kökünü kullanın."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "gitmek"
+  },
+  "locale": "tr"
+}

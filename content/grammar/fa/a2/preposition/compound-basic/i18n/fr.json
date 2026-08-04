@@ -1,0 +1,18 @@
+{
+  "title": "Prépositions Composées en Persan",
+  "summary": "Utilisation des prépositions nécessitant l'Ezafe (دربارهٔ, برایِ, بدونِ).",
+  "explanation": "Les prépositions composées sont reliées au nom par l'Ezafe.",
+  "rules": [
+    "Préposition Composée + Ezafe + Nom"
+  ],
+  "example_translations": {
+    "ex_cprep_1": "Nous avons parlé de ce livre."
+  },
+  "common_error_explanations": {
+    "err_cprep_1": "N'oubliez pas l'Ezafe avec les prépositions composées."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "livre"
+  },
+  "locale": "fr"
+}

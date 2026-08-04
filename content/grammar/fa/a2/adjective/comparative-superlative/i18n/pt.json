@@ -1,0 +1,19 @@
+{
+  "title": "Adjetivos Comparativos e Superlativos",
+  "summary": "Formar comparativos (-تر) e superlativos (-ترین).",
+  "explanation": "Adicione '-تر' para o comparativo e '-ترین' antes do substantivo para o superlativo.",
+  "rules": [
+    "Adjetivo + تر (Comparativo)",
+    "ترین + Substantivo (Superlativo)"
+  ],
+  "example_translations": {
+    "ex_comp_1": "Esta casa é maior."
+  },
+  "common_error_explanations": {
+    "err_comp_1": "Adicione o sufixo '-تر' ao final do adjetivo."
+  },
+  "vocab_glosses": {
+    "fa.vocab.bozorg": "grande"
+  },
+  "locale": "pt"
+}

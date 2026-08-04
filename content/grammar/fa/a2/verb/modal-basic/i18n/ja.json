@@ -1,0 +1,18 @@
+{
+  "title": "ペルシア語の助動詞 (Modal Verbs)",
+  "summary": "可能や義務を表します (توانستن, باید)。",
+  "explanation": "助動詞の後には接続法 (Subjunctive) の動詞が続きます。",
+  "rules": [
+    "助動詞 + 接続法動詞"
+  ],
+  "example_translations": {
+    "ex_mod_1": "私はペルシア語を話すことができます。"
+  },
+  "common_error_explanations": {
+    "err_mod_1": "助動詞の後には接続法を使用してください。"
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "行く"
+  },
+  "locale": "ja"
+}

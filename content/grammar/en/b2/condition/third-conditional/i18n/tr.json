@@ -1,0 +1,18 @@
+{
+  "title": "Üçüncü Tip Koşul Cümlesi (Third Conditional)",
+  "summary": "Geçmişteki pişmanlıkları veya imkansız durumları ifade eder.",
+  "explanation": "If + Past Perfect, Özne + Would have + Fiilin 3. Hali.",
+  "rules": [
+    "If cümlesi -> Had + Fiilin 3. hali"
+  ],
+  "example_translations": {
+    "ex_tc_1": "Ders çalışsaydım sınavı geçerdim."
+  },
+  "common_error_explanations": {
+    "err_tc_1": "If cümlesinde 'would have' kullanmayın."
+  },
+  "vocab_glosses": {
+    "en.vocab.study": "ders çalışmak"
+  },
+  "locale": "tr"
+}

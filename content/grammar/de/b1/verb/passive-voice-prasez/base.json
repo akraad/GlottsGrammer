@@ -1,0 +1,67 @@
+{
+  "schema_version": "1.0.0",
+  "id": "de.b1.verb.passive-voice-prasez",
+  "universal_concept_id": "verb.passive.present.german",
+  "language": "de",
+  "cefr": "B1",
+  "app_level": "intermediate",
+  "category": "verb",
+  "status": "approved",
+  "difficulty": 4,
+  "prerequisites": [
+    "de.a2.verb.past-tense-perfekt"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "subject"
+        },
+        {
+          "slot": "conjugated_werden_pos2"
+        },
+        {
+          "slot": "partizip_ii_at_end"
+        }
+      ],
+      "example": "Das Buch wird gelesen"
+    }
+  ],
+  "vocab": [
+    "de.vocab.zeitung"
+  ],
+  "examples": [
+    {
+      "id": "ex_de_b1",
+      "target_text": "Die Zeitung wird jeden Tag gelesen.",
+      "tokens": [
+        {
+          "text": "Die"
+        },
+        {
+          "text": "Zeitung"
+        },
+        {
+          "text": "wird"
+        },
+        {
+          "text": "jeden"
+        },
+        {
+          "text": "Tag"
+        },
+        {
+          "text": "gelesen."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_de_b1",
+      "incorrect": "Die Zeitung ist gelesen (for ongoing passive).",
+      "explanation": "Present passive uses 'werden' as auxiliary in position 2 with Partizip II at the end, unlike resultative passive with 'sein'."
+    }
+  ]
+}

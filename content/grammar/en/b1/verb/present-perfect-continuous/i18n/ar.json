@@ -1,0 +1,20 @@
+{
+  "title": "المضارع التام المستمر",
+  "summary": "استخدم المضارع التام المستمر للأحداث التي بدأت في الماضي وما زالت مستمرة في الحاضر.",
+  "explanation": "الفاعل + have/has + been + الفعل به -ing.",
+  "rules": [
+    "I/You/We/They + have been + verb-ing",
+    "He/She/It + has been + verb-ing"
+  ],
+  "example_translations": {
+    "ex_ppc_1": "أنا أعيش في هذه المدينة (منذ فترة ولا زلت)."
+  },
+  "common_error_explanations": {
+    "err_ppc_1": "لا تنسَ كلمة been في هذا الزمن."
+  },
+  "vocab_glosses": {
+    "en.vocab.live": "يعيش",
+    "en.vocab.city": "مدينة"
+  },
+  "locale": "ar"
+}

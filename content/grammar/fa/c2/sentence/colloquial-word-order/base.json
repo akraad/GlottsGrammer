@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0.0",
+  "id": "fa.c2.sentence.colloquial-word-order",
+  "universal_concept_id": "sentence.colloquial.word.order",
+  "language": "fa",
+  "cefr": "C2",
+  "app_level": "mastery",
+  "category": "sentence",
+  "status": "approved",
+  "difficulty": 3,
+  "prerequisites": [
+    "fa.a1.sentence.word-order-basic"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "spoken_verb"
+        },
+        {
+          "slot": "spoken_object"
+        }
+      ],
+      "example": "دیدمش دیروز"
+    }
+  ],
+  "vocab": [
+    "fa.vocab.book"
+  ],
+  "examples": [
+    {
+      "id": "ex_cord_1",
+      "target_text": "دیدمش دیروز تو خیابون.",
+      "tokens": [
+        {
+          "text": "دیدمش"
+        },
+        {
+          "text": "دیروز"
+        },
+        {
+          "text": "تو"
+        },
+        {
+          "text": "خیابون."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_cord_1",
+      "incorrect": "من دیروز او را در خیابان دیدم در مکالمه دوستانه.",
+      "explanation": "In fluent everyday speech, verbs often come early, attached to direct object pronouns."
+    }
+  ]
+}

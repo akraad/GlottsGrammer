@@ -1,0 +1,22 @@
+{
+  "title": "Zweiter Konditionalsatz (Second Conditional)",
+  "summary": "Verwende den Second Conditional für hypothetische oder unrealistische Situationen.",
+  "explanation": "If + Past Simple, Subjekt + Would + Grundform des Verbs.",
+  "rules": [
+    "If-Satz -> Past Simple",
+    "Hauptsatz -> Would + Infinitiv"
+  ],
+  "example_translations": {
+    "ex_sc_1": "Wenn ich im Lotto gewinnen würde, würde ich ein Auto kaufen."
+  },
+  "common_error_explanations": {
+    "err_sc_1": "Verwende im If-Satz niemals 'would'."
+  },
+  "vocab_glosses": {
+    "en.vocab.win": "gewinnen",
+    "en.vocab.lottery": "Lotto",
+    "en.vocab.buy": "kaufen",
+    "en.vocab.car": "Auto"
+  },
+  "locale": "de"
+}

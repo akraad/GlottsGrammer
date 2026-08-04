@@ -1,0 +1,20 @@
+{
+  "title": "Cláusulas Relativas Básicas (Who, Which, That)",
+  "summary": "Usa cláusulas relativas para dar más información sobre una persona u objeto.",
+  "explanation": "Usa 'who' para personas, 'which' para cosas y 'that' para ambos.",
+  "rules": [
+    "Who -> Personas",
+    "Which -> Cosas",
+    "That -> Personas o Cosas"
+  ],
+  "example_translations": {
+    "ex_rel_1": "Este es el libro que compré."
+  },
+  "common_error_explanations": {
+    "err_rel_1": "No uses 'who' para objetos inanimados."
+  },
+  "vocab_glosses": {
+    "en.vocab.book": "libro"
+  },
+  "locale": "es"
+}

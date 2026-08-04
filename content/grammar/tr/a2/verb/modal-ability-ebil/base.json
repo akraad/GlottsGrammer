@@ -1,0 +1,64 @@
+{
+  "schema_version": "1.0.0",
+  "id": "tr.a2.verb.modal-ability-ebil",
+  "universal_concept_id": "verb.modal.ability.ebil",
+  "language": "tr",
+  "cefr": "A2",
+  "app_level": "elementary",
+  "category": "verb",
+  "status": "approved",
+  "difficulty": 2,
+  "prerequisites": [
+    "tr.a1.verb.present-continuous-yor"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "verb_stem"
+        },
+        {
+          "slot": "ebil_suffix"
+        },
+        {
+          "slot": "tense_suffix"
+        },
+        {
+          "slot": "personal_suffix"
+        }
+      ],
+      "example": "yapabilirim"
+    }
+  ],
+  "vocab": [
+    "tr.vocab.okumak"
+  ],
+  "examples": [
+    {
+      "id": "ex_trebil_1",
+      "target_text": "Ben bu kitabı okuyabilirim.",
+      "tokens": [
+        {
+          "text": "Ben"
+        },
+        {
+          "text": "bu"
+        },
+        {
+          "text": "kitabı"
+        },
+        {
+          "text": "okuyabilirim."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_trebil_1",
+      "incorrect": "Ben bu kitabı okuabilirim.",
+      "explanation": "Use ability suffix '-ebil/-abil' (with buffer 'y' if verb stem ends in a vowel) before the tense marker."
+    }
+  ]
+}

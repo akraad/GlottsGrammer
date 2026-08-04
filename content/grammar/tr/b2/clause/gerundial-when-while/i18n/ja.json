@@ -1,0 +1,18 @@
+{
+  "title": "トルコ語の副動詞・同時表現 (-ken / -ince)",
+  "summary": "「〜ながら」「〜の時に」という同時進行の表現。",
+  "explanation": "動詞語幹や名詞に '-ken' を付けて、何かしながらの動作を表します (gelirken = 来る途中に)。",
+  "rules": [
+    "動詞/名詞 + -ken"
+  ],
+  "example_translations": {
+    "ex_trken_1": "家に来る途中でパンを買いました。"
+  },
+  "common_error_explanations": {
+    "err_trken_1": "同時進行の動作には '-ken' を直接使用してください。"
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "読む"
+  },
+  "locale": "ja"
+}

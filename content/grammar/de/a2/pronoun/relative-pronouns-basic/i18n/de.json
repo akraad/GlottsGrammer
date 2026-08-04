@@ -1,0 +1,18 @@
+{
+  "locale": "de",
+  "title": "Relativsätze (Grundstufe)",
+  "summary": "Using relative pronouns to link clauses with verbs at the end.",
+  "explanation": "Using relative pronouns to link clauses with verbs at the end.",
+  "rules": [
+    "Nomen + Komma + Relativpronomen + ... + Verb (Ende)"
+  ],
+  "example_translations": {
+    "ex_de_a2_2": "Das ist der Mann, der dort wohnt."
+  },
+  "common_error_explanations": {
+    "err_de_a2_2": "Use proper relative pronouns matching noun gender and place the conjugated verb at the end."
+  },
+  "vocab_glosses": {
+    "de.vocab.mann": "Mann"
+  }
+}

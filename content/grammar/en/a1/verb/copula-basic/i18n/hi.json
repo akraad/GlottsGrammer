@@ -1,0 +1,38 @@
+{
+  "$schema": "../../../../../schemas/grammar-i18n.schema.json",
+  "locale": "hi",
+  "translation_status": "draft",
+  "name": "क्रिया to be (am/is/are)",
+  "summary": "क्रिया 'to be' पहचान, स्थिति और स्थान का वर्णन करने के लिए उपयोग की जाती है।",
+  "explanation": "क्रिया 'to be' अंग्रेजी में सबसे महत्वपूर्ण क्रिया है। इसका वर्तमान काल में तीन रूप हैं: am, is, are। I के साथ 'am' का उपयोग करें। he/she/it के साथ 'is' का उपयोग करें। you/we/they के साथ 'are' का उपयोग करें। अन्य क्रियाओं के विपरीत, 'to be' को प्रश्नों या नकारात्मकता के लिए 'do/does' की आवश्यकता नहीं होती।",
+  "form_notes": {
+    "affirmative": "कर्ता + am/is/are + पूरक (संज्ञा, विशेषण या स्थान)। उदाहरण: She is a teacher.",
+    "negative": "कर्ता + am/is/are + not + पूरक। उदाहरण: He is not happy.",
+    "question": "Am/Is/Are + कर्ता + पूरक? उदाहरण: Are you tired?"
+  },
+  "example_translations": {
+    "ex_01": "मैं एक छात्र हूँ / मैं एक छात्रा हूँ।",
+    "ex_02": "वह घर पर नहीं है।",
+    "ex_03": "क्या आप आज खुश हैं?"
+  },
+  "common_error_explanations": {
+    "err_01": "'I' के साथ हमेशा 'am' का उपयोग करें। कभी 'I is' न कहें।",
+    "err_02": "he/she/it के साथ 'is' का उपयोग करें। 'Are' केवल you/we/they के लिए है।"
+  },
+  "vocab_glosses": {
+    "en.verb.be": "होना",
+    "en.adj.happy": "खुश",
+    "en.adj.sad": "दुखी",
+    "en.adj.tired": "थका हुआ",
+    "en.adj.hungry": "भूखा",
+    "en.vocab.home": "घर",
+    "en.noun.school": "स्कूल",
+    "en.noun.work": "काम (स्थान)"
+  },
+  "title": "टू-बी क्रियाएं (Am / Is / Are)",
+  "rules": [
+    "I + am",
+    "He/She/It + is",
+    "You/We/They + are"
+  ]
+}

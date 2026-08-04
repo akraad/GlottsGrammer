@@ -1,0 +1,18 @@
+{
+  "title": "L'Ordre des Mots en Persan (SOV)",
+  "summary": "Structure Sujet - Objet - Verbe.",
+  "explanation": "En persan, le verbe se place toujours à la fin de la phrase.",
+  "rules": [
+    "Sujet + Objet + Verbe à la fin"
+  ],
+  "example_translations": {
+    "ex_wo_1": "Je lis un livre."
+  },
+  "common_error_explanations": {
+    "err_wo_1": "Placez le verbe à la FIN de la phrase."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "livre"
+  },
+  "locale": "fr"
+}

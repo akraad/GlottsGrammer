@@ -1,0 +1,23 @@
+{
+  "title": "الضمائر الشخصية في التركية",
+  "summary": "ضمائر الفاعل في اللغة التركية (ben, sen, o...).",
+  "explanation": "تتكون الضمائر الشخصية في التركية من: ben (أنا)، sen (أنت)، o (هو/هي)، biz (نحن)، siz (أنتم)، onlar (هم).",
+  "rules": [
+    "ben",
+    "sen",
+    "o",
+    "biz",
+    "siz",
+    "onlar"
+  ],
+  "example_translations": {
+    "ex_tr_pron_1": "أنا معلم."
+  },
+  "common_error_explanations": {
+    "err_tr_pron_1": "أضف لاحقة الشخص المناسبة للخبر."
+  },
+  "vocab_glosses": {
+    "tr.vocab.ogretmen": "معلم"
+  },
+  "locale": "ar"
+}

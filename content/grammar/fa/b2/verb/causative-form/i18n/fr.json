@@ -1,0 +1,18 @@
+{
+  "title": "Verbes Factitifs/Causatifs en Persan",
+  "summary": "Former des verbes causatifs avec le suffixe '-اندن'.",
+  "explanation": "Ajoutez le suffixe '-اندن' au radical du présent pour rendre un verbe causatif.",
+  "rules": [
+    "Racine du Présent + اندن"
+  ],
+  "example_translations": {
+    "ex_caus_1": "La mère a endormi l'enfant."
+  },
+  "common_error_explanations": {
+    "err_caus_1": "Utilisez le suffixe '-اندن' pour exprimer la causalité."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "aller"
+  },
+  "locale": "fr"
+}

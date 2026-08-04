@@ -1,0 +1,18 @@
+{
+  "title": "Farsça Cümle Dizilimi (SOV)",
+  "summary": "Özne - Nesne - Yüklem yapısı.",
+  "explanation": "Türkçe gibi Farsçada da yüklem (fiil) her zaman cümlenin sonundadır.",
+  "rules": [
+    "Özne + Nesne + Sonda Yüklem"
+  ],
+  "example_translations": {
+    "ex_wo_1": "Ben kitap okuyorum."
+  },
+  "common_error_explanations": {
+    "err_wo_1": "Fiili cümlenin SONUNA yerleştirin."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "kitap"
+  },
+  "locale": "tr"
+}

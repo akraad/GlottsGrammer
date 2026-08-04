@@ -1,0 +1,18 @@
+{
+  "title": "Caso Dativo em Turco (-a / -e)",
+  "summary": "Expressar 'para', 'a' uma direção.",
+  "explanation": "Adiciona '-a/-e' conforme a harmonia vocálica. Se a palavra terminar em vogal, insira 'y'.",
+  "rules": [
+    "Substantivo + -(y)a / -(y)e"
+  ],
+  "example_translations": {
+    "ex_trdat_1": "Eu vou para casa."
+  },
+  "common_error_explanations": {
+    "err_trdat_1": "Use '-e' para palavras com vogais anteriores."
+  },
+  "vocab_glosses": {
+    "tr.vocab.ev": "casa"
+  },
+  "locale": "pt"
+}

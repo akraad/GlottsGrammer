@@ -1,0 +1,18 @@
+{
+  "title": "Conversational Word Order Adjustments",
+  "summary": "Flexible word order and pronoun attachment in casual Persian speech.",
+  "explanation": "In fluent spoken Persian, verbs often appear earlier in the sentence with object pronouns attached.",
+  "rules": [
+    "Verb + Attached Object Pronoun + Adverbs"
+  ],
+  "example_translations": {
+    "ex_cord_1": "I saw him/her yesterday on the street."
+  },
+  "common_error_explanations": {
+    "err_cord_1": "Attach object pronouns to the verb for natural spoken flow."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "book"
+  },
+  "locale": "en"
+}

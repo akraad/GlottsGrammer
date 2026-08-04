@@ -1,0 +1,18 @@
+{
+  "title": "Öğrenilen / Duyulan Geçmiş Zaman (-miş / -mış)",
+  "summary": "Sonradan fark edilen veya başkasından duyulan eylemleri anlatma.",
+  "explanation": "Fiil köküne '-miş/-mış/-muş/-müş' ve şahıs ekleri getirilir (okumuşsun = okuduğunu duydum/fark ettim).",
+  "rules": [
+    "Fiil Kökü + -miş + Şahıs Eki"
+  ],
+  "example_translations": {
+    "ex_trmish_1": "Sen bu kitabı okumuşsun."
+  },
+  "common_error_explanations": {
+    "err_trmish_1": "Duyulan veya sonradan fark edilen geçmiş durumlar için '-miş' kullanın."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "okumak"
+  },
+  "locale": "tr"
+}

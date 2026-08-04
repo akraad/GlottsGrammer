@@ -1,0 +1,38 @@
+{
+  "$schema": "../../../../../schemas/grammar-i18n.schema.json",
+  "locale": "pt",
+  "translation_status": "draft",
+  "name": "Verbo to be (am/is/are)",
+  "summary": "O verbo 'to be' é usado para descrever identidade, estado e localização.",
+  "explanation": "O verbo 'to be' é o verbo mais importante em inglês. Ele tem três formas no presente: am, is, are. Use 'am' com I. Use 'is' com he/she/it. Use 'are' com you/we/they. Diferente de outros verbos, 'to be' não precisa de 'do/does' para perguntas ou negações.",
+  "form_notes": {
+    "affirmative": "Sujeito + am/is/are + complemento (substantivo, adjetivo ou lugar). Exemplo: She is a teacher.",
+    "negative": "Sujeito + am/is/are + not + complemento. Exemplo: He is not happy.",
+    "question": "Am/Is/Are + sujeito + complemento? Exemplo: Are you tired?"
+  },
+  "example_translations": {
+    "ex_01": "Eu sou um estudante.",
+    "ex_02": "Ela não está em casa.",
+    "ex_03": "Você está feliz hoje?"
+  },
+  "common_error_explanations": {
+    "err_01": "Sempre use 'am' com 'I'. Nunca diga 'I is'.",
+    "err_02": "Use 'is' com he/she/it. 'Are' é apenas para you/we/they."
+  },
+  "vocab_glosses": {
+    "en.verb.be": "ser/estar",
+    "en.adj.happy": "feliz",
+    "en.adj.sad": "triste",
+    "en.adj.tired": "cansado",
+    "en.adj.hungry": "faminto",
+    "en.vocab.home": "casa",
+    "en.noun.school": "escola",
+    "en.noun.work": "trabalho (lugar)"
+  },
+  "title": "Verbo To Be (Am / Is / Are)",
+  "rules": [
+    "I + am",
+    "He/She/It + is",
+    "You/We/They + are"
+  ]
+}

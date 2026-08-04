@@ -1,0 +1,19 @@
+{
+  "title": "Position de l'Adverbe en Persan",
+  "summary": "Ordonner les adverbes de temps et de lieu.",
+  "explanation": "Les adverbes de temps suivent le sujet, suivis des adverbes de lieu et du verbe.",
+  "rules": [
+    "Sujet + Adverbe de Temps + Adverbe de Lieu + Objet + Verbe"
+  ],
+  "example_translations": {
+    "ex_advp_1": "J'ai lu un livre à la maison hier."
+  },
+  "common_error_explanations": {
+    "err_advp_1": "Placez les adverbes avant l'objet et le verbe final."
+  },
+  "vocab_glosses": {
+    "fa.vocab.home": "maison",
+    "fa.vocab.raftan": "aller"
+  },
+  "locale": "fr"
+}

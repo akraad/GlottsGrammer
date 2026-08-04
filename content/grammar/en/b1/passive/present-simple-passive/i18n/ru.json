@@ -1,0 +1,20 @@
+{
+  "title": "Страдательный залог в настоящем времени (Present Simple Passive)",
+  "summary": "Используйте пассивный залог, когда действие важнее исполнителя.",
+  "explanation": "Образуется с помощью am/is/are + Причастие прошедшего времени (Past Participle).",
+  "rules": [
+    "Подлежащее + am/is/are + Причастие II"
+  ],
+  "example_translations": {
+    "ex_pass_1": "Машины производятся в этом городе."
+  },
+  "common_error_explanations": {
+    "err_pass_1": "Всегда используйте форму причастия прошедшего времени в пассиве."
+  },
+  "vocab_glosses": {
+    "en.vocab.car": "машина / автомобиль",
+    "en.vocab.make": "делать / производить",
+    "en.vocab.city": "город"
+  },
+  "locale": "ru"
+}

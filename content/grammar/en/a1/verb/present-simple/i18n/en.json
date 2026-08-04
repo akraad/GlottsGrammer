@@ -1,0 +1,26 @@
+{
+  "$schema": "../../../../../schemas/grammar-i18n.schema.json",
+  "locale": "en",
+  "translation_status": "approved",
+  "name": "Present Simple",
+  "summary": "Present Simple: used for habits, facts, and daily routines.",
+  "explanation": "We use the Present Simple in English to talk about habits, general truths, and actions that happen regularly.",
+  "form_notes": {
+    "affirmative": "Subject + base form of the verb. With he/she/it, add -s or -es to the verb.",
+    "negative": "Subject + do/does + not + base form of the verb.",
+    "question": "Do/Does + subject + base form of the verb?"
+  },
+  "example_translations": {
+    "ex_01": "I drink water every day.",
+    "ex_02": "She does not drink coffee.",
+    "ex_03": "Do you drink water every day?"
+  },
+  "common_error_explanations": {
+    "err_01": "In the Present Simple, when the subject is he, she, or it, the verb usually takes -s or -es."
+  },
+  "vocab_glosses": {
+    "en.verb.drink": "to drink",
+    "en.noun.water": "water",
+    "en.phrase.every-day": "every day"
+  }
+}

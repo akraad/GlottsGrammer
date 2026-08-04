@@ -1,0 +1,70 @@
+{
+  "schema_version": "1.0.0",
+  "id": "fa.b1.verb.past-perfect",
+  "universal_concept_id": "verb.past.perfect",
+  "language": "fa",
+  "cefr": "B1",
+  "app_level": "intermediate",
+  "category": "verb",
+  "status": "approved",
+  "difficulty": 3,
+  "prerequisites": [
+    "fa.a1.verb.past-simple"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "past_participle"
+        },
+        {
+          "slot": "boodam_auxiliary"
+        }
+      ],
+      "example": "رفته بودم"
+    }
+  ],
+  "vocab": [
+    "fa.vocab.raftan"
+  ],
+  "examples": [
+    {
+      "id": "ex_pperf_1",
+      "target_text": "من قبل از او به خانه رفته بودم.",
+      "tokens": [
+        {
+          "text": "من"
+        },
+        {
+          "text": "قبل"
+        },
+        {
+          "text": "از"
+        },
+        {
+          "text": "او"
+        },
+        {
+          "text": "به"
+        },
+        {
+          "text": "خانه"
+        },
+        {
+          "text": "رفته"
+        },
+        {
+          "text": "بودم"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_pperf_1",
+      "incorrect": "من قبل از او به خانه رفتم بودم.",
+      "explanation": "Use past participle (رفته) instead of full past simple form before 'بودم'."
+    }
+  ]
+}

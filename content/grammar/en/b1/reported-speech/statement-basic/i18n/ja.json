@@ -1,0 +1,18 @@
+{
+  "title": "間接話法 (Reported Speech)",
+  "summary": "他人が言ったことを報告する際に使用します。",
+  "explanation": "時制を過去に繰り下げます（時制の一致）。",
+  "rules": [
+    "現在形 -> 過去形"
+  ],
+  "example_translations": {
+    "ex_rep_1": "彼は幸せだと言いました。"
+  },
+  "common_error_explanations": {
+    "err_rep_1": "動詞の時制を過去に合わせて変更してください。"
+  },
+  "vocab_glosses": {
+    "en.vocab.say": "言う"
+  },
+  "locale": "ja"
+}

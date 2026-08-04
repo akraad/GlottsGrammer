@@ -1,0 +1,64 @@
+{
+  "schema_version": "1.0.0",
+  "id": "tr.b1.clause.conditional-if-se",
+  "universal_concept_id": "clause.conditional.if.se",
+  "language": "tr",
+  "cefr": "B1",
+  "app_level": "intermediate",
+  "category": "clause",
+  "status": "approved",
+  "difficulty": 3,
+  "prerequisites": [
+    "tr.a1.sentence.word-order-basic"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "verb_stem"
+        },
+        {
+          "slot": "se_sa_suffix"
+        },
+        {
+          "slot": "personal_suffix"
+        }
+      ],
+      "example": "okursan"
+    }
+  ],
+  "vocab": [
+    "tr.vocab.okumak"
+  ],
+  "examples": [
+    {
+      "id": "ex_trse_1",
+      "target_text": "Bu kitabı okursan çok sevinirim.",
+      "tokens": [
+        {
+          "text": "Bu"
+        },
+        {
+          "text": "kitabı"
+        },
+        {
+          "text": "okursan"
+        },
+        {
+          "text": "çok"
+        },
+        {
+          "text": "sevinirim."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_trse_1",
+      "incorrect": "Eğer bu kitabı okuyorsun çok sevinirim.",
+      "explanation": "Attach conditional suffix '-se/-sa' right after verb stems or tense markers followed by conditional personal endings."
+    }
+  ]
+}

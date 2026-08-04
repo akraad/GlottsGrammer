@@ -1,0 +1,67 @@
+{
+  "schema_version": "1.0.0",
+  "id": "de.c1.sentence.cleft-sentences",
+  "universal_concept_id": "sentence.cleft.german",
+  "language": "de",
+  "cefr": "C1",
+  "app_level": "advanced",
+  "category": "sentence",
+  "status": "approved",
+  "difficulty": 5,
+  "prerequisites": [
+    "de.a2.pronoun.relative-pronouns-basic"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "es_ist_war"
+        },
+        {
+          "slot": "focused_element"
+        },
+        {
+          "slot": "relative_clause"
+        }
+      ],
+      "example": "Es ist das Wetter, das mich stört"
+    }
+  ],
+  "vocab": [
+    "de.vocab.wetter"
+  ],
+  "examples": [
+    {
+      "id": "ex_de_c1_2",
+      "target_text": "Es ist das Wetter, das mich stört.",
+      "tokens": [
+        {
+          "text": "Es"
+        },
+        {
+          "text": "ist"
+        },
+        {
+          "text": "das"
+        },
+        {
+          "text": "Wetter,"
+        },
+        {
+          "text": "das"
+        },
+        {
+          "text": "stört."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_de_c1_2",
+      "incorrect": "Das Wetter ist es, das stört (incorrect cleft focus).",
+      "explanation": "Cleft sentences (Spaltgätze) start with 'Es ist/war' to emphasize a specific sentence element via a relative clause."
+    }
+  ]
+}

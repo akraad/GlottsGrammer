@@ -1,0 +1,18 @@
+{
+  "title": "Advanced Gerundial Subordination",
+  "summary": "Utilizing compound auxiliary gerunds (-agelmek, -ayazmak) for nuanced meaning.",
+  "explanation": "Utilizing compound auxiliary gerunds (-agelmek, -ayazmak) for nuanced meaning.",
+  "rules": [
+    "Verb Stem + Compound Gerund Suffix"
+  ],
+  "example_translations": {
+    "ex_c1_2": "It is acknowledged universally that..."
+  },
+  "common_error_explanations": {
+    "err_c1_2": "Use formal impersonal registers for C1 mastery."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "read"
+  },
+  "locale": "en"
+}

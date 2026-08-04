@@ -1,0 +1,18 @@
+{
+  "title": "زمان حال استمراری در ترکی (-iyor)",
+  "summary": "بیان کارهایی که همین الان در حال انجام است.",
+  "explanation": "پسوند «-iyor» (با ۴ حالت هماهنگی مصوت) به بن فعل و سپس شناسه‌ها متصل می‌شود (okuyorum = می‌خوانم).",
+  "rules": [
+    "بن فعل + -iyor + شناسه"
+  ],
+  "example_translations": {
+    "ex_tryor_1": "من همین الان دارم کتاب می‌خوانم."
+  },
+  "common_error_explanations": {
+    "err_tryor_1": "شناسه را مستقیماً بعد از «-yor» متصل کنید."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "خواندن"
+  },
+  "locale": "fa"
+}

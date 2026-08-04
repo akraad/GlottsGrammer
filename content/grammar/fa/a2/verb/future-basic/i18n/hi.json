@@ -1,0 +1,18 @@
+{
+  "title": "फ़ारसी में भविष्य काल (Future Tense)",
+  "summary": "भविष्य के कार्यों को औपचारिक रूप से व्यक्त करना।",
+  "explanation": "सहायक क्रिया 'خواه' + प्रत्यय + भूतकाल धातु।",
+  "rules": [
+    "خواه + प्रत्यय + भूतकाल धातु"
+  ],
+  "example_translations": {
+    "ex_fut_1": "मैं कल घर जाऊँगा।"
+  },
+  "common_error_explanations": {
+    "err_fut_1": "'خواه' के बाद भूतकाल धातु का प्रयोग करें।"
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "जाना"
+  },
+  "locale": "hi"
+}

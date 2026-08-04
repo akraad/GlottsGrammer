@@ -1,0 +1,75 @@
+{
+  "schema_version": "1.0.0",
+  "id": "en.b1.verb.present-perfect-continuous",
+  "universal_concept_id": "verb.present.perfect.continuous",
+  "language": "en",
+  "cefr": "B1",
+  "app_level": "intermediate",
+  "category": "verb",
+  "status": "approved",
+  "difficulty": 3,
+  "prerequisites": [
+    "en.a2.verb.present-perfect-basic",
+    "en.a1.verb.present-continuous"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "subject"
+        },
+        {
+          "slot": "have_has"
+        },
+        {
+          "slot": "been"
+        },
+        {
+          "slot": "verb_ing"
+        }
+      ],
+      "example": "I have been living here."
+    }
+  ],
+  "vocab": [
+    "en.vocab.live",
+    "en.vocab.city"
+  ],
+  "examples": [
+    {
+      "id": "ex_ppc_1",
+      "target_text": "I have been living in this city.",
+      "tokens": [
+        {
+          "text": "I"
+        },
+        {
+          "text": "have"
+        },
+        {
+          "text": "been"
+        },
+        {
+          "text": "living"
+        },
+        {
+          "text": "in"
+        },
+        {
+          "text": "this"
+        },
+        {
+          "text": "city"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_ppc_1",
+      "incorrect": "I have living in this city.",
+      "explanation": "Do not forget 'been' between have/has and the -ing verb."
+    }
+  ]
+}

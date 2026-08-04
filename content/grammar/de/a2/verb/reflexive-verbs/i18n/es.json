@@ -1,0 +1,18 @@
+{
+  "locale": "es",
+  "title": "[ES] [ES] German Reflexive Verbs",
+  "summary": "[ES] [ES] German Reflexive Verbs",
+  "explanation": "[ES] [ES] German Reflexive Verbs",
+  "rules": [
+    "Subjekt + Verb (Pos 2) + Reflexivpronomen + ..."
+  ],
+  "example_translations": {
+    "ex_de_a2_2": "Ich freue mich auf das Wochenende."
+  },
+  "common_error_explanations": {
+    "err_de_a2_2": "Reflexive verbs require a reflexive pronoun (mich, dich, sich, uns, euch) matching the subject."
+  },
+  "vocab_glosses": {
+    "de.vocab.freuen": "term"
+  }
+}

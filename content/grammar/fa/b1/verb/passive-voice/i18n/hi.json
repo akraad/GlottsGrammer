@@ -1,0 +1,18 @@
+{
+  "title": "फ़ारसी में कर्मवाच्य (Passive Voice)",
+  "summary": "कृदंत और 'شدن' का उपयोग करके कर्मवाच्य बनाना।",
+  "explanation": "कृदंत (Past Participle) + सहायक क्रिया 'شدن' का रूप।",
+  "rules": [
+    "कृदंत + شدن"
+  ],
+  "example_translations": {
+    "ex_pass_1": "यह किताब पढ़ी गई।"
+  },
+  "common_error_explanations": {
+    "err_pass_1": "कृदंत کے साथ 'شدن' क्रिया का प्रयोग करें।"
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "किताब"
+  },
+  "locale": "hi"
+}

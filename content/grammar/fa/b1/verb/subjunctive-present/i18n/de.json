@@ -1,0 +1,18 @@
+{
+  "title": "Persischer Konjunktiv Präsens",
+  "summary": "Ausdruck von Wünschen, Zweifeln und Notwendigkeiten.",
+  "explanation": "Präfix 'بـ' + Präsensstamm + Personalendungen.",
+  "rules": [
+    "بـ + Präsensstamm + Endungen"
+  ],
+  "example_translations": {
+    "ex_subj_1": "Ich möchte nach Hause gehen."
+  },
+  "common_error_explanations": {
+    "err_subj_1": "Verwende den Konjunktiv nach Verben des Wunsches."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "gehen"
+  },
+  "locale": "de"
+}

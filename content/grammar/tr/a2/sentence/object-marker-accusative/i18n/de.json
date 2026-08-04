@@ -1,0 +1,18 @@
+{
+  "title": "Türkischer Akkusativ (-i / -ı / -u / -ü)",
+  "summary": "Kennzeichnung bestimmter direkter Objekte.",
+  "explanation": "Hänge das Akkusativsuffix '-i/-ı/-u/-ü' (mit Puffer-'y') an bestimmte direkte Objekte an.",
+  "rules": [
+    "Bestimmtes Objekt + -(y)i Suffix"
+  ],
+  "example_translations": {
+    "ex_tracc_1": "Ich lese dieses Buch."
+  },
+  "common_error_explanations": {
+    "err_tracc_1": "Markiere bestimmte direkte Objekte immer mit dem Akkusativsuffix."
+  },
+  "vocab_glosses": {
+    "tr.vocab.kitap": "Buch"
+  },
+  "locale": "de"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Persian Personal Pronouns",
+  "summary": "Subject pronouns in Persian (من, تو, او, ما, شما, آن‌ها).",
+  "explanation": "Persian pronouns are used as subjects. Persian is a pro-drop language, so pronouns can often be omitted.",
+  "rules": [
+    "من (I)",
+    "تو (You - Singular/Informal)",
+    "او (He/She)",
+    "ما (We)",
+    "شما (You - Plural/Formal)",
+    "آن‌ها (They)"
+  ],
+  "example_translations": {
+    "ex_fa_pron_1": "I am a teacher."
+  },
+  "common_error_explanations": {
+    "err_fa_pron_1": "Match 'من' with 'هستم'."
+  },
+  "vocab_glosses": {
+    "fa.vocab.man": "I"
+  },
+  "locale": "en"
+}

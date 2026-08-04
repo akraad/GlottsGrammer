@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0.0",
+  "id": "en.a2.verb.past-simple-irregular",
+  "universal_concept_id": "verb.past.simple.irregular",
+  "language": "en",
+  "cefr": "A2",
+  "app_level": "elementary",
+  "category": "verb",
+  "status": "approved",
+  "difficulty": 2,
+  "prerequisites": [
+    "en.a2.verb.past-simple-regular"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "subject"
+        },
+        {
+          "slot": "verb_past_irregular"
+        }
+      ],
+      "example": "I went home yesterday."
+    }
+  ],
+  "vocab": [
+    "en.vocab.go",
+    "en.vocab.home",
+    "en.vocab.yesterday"
+  ],
+  "examples": [
+    {
+      "id": "ex_past_irreg_1",
+      "target_text": "I went home yesterday.",
+      "tokens": [
+        {
+          "text": "I"
+        },
+        {
+          "text": "went"
+        },
+        {
+          "text": "home"
+        },
+        {
+          "text": "yesterday"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_past_irreg_1",
+      "incorrect": "I goed home yesterday.",
+      "explanation": "Do not add -ed to irregular verbs like go -> went."
+    }
+  ]
+}

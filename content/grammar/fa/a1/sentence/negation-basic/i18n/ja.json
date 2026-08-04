@@ -1,0 +1,18 @@
+{
+  "title": "ペルシア語の動詞の否定形",
+  "summary": "接頭辞 'نـ' を付けた動詞の否定。",
+  "explanation": "動詞の頭に接頭辞 'نـ' を付けることで否定形になります。",
+  "rules": [
+    "نـ + 動詞"
+  ],
+  "example_translations": {
+    "ex_neg_1": "私は家に帰リません。"
+  },
+  "common_error_explanations": {
+    "err_neg_1": "動詞の先頭に 'نـ' を付けてください。"
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "行く"
+  },
+  "locale": "ja"
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../../../../schemas/grammar-i18n.schema.json",
+  "locale": "ja",
+  "translation_status": "draft",
+  "name": "動詞の基本形",
+  "summary": "基本形は、語尾のない動詞の最も単純な形です。I、you、we、they と共に、また否定文や疑問文の do/does の後で使われます。",
+  "explanation": "英語の動詞には 5 つの形があります：基本形、三人称単数 (-s)、過去形、過去分詞、現在分詞 (-ing)。基本形は辞書に載っている形です。I/you/we/they の後、助動詞 (can, will, should) の後、do/does/did を使った否定文や疑問文で使われます。",
+  "form_notes": {
+    "base_with_i_you_we_they": "I、you、we、they と共に使う場合は、動詞の基本形を使います。",
+    "base_after_does_not": "he/she/it の否定文では、does not の後で動詞は基本形に戻ります。",
+    "base_after_do_question": "Do/Does を使った疑問文では、動詞は基本形になります。"
+  },
+  "example_translations": {
+    "ex_01": "私は水を飲みます。",
+    "ex_02": "彼らはお茶を飲みません。",
+    "ex_03": "彼女は水が好きですか。"
+  },
+  "common_error_explanations": {
+    "err_01": "I/you/we/they の場合、動詞は基本形で、-s は付きません。",
+    "err_02": "疑問文の does の後、本動詞は基本形に戻ります（-s は付きません）。"
+  },
+  "vocab_glosses": {
+    "en.verb.drink": "飲む",
+    "en.noun.water": "水",
+    "en.noun.tea": "お茶",
+    "en.verb.like": "好きである",
+    "en.verb.want": "欲しい",
+    "en.verb.have": "持っている",
+    "en.verb.do": "する",
+    "en.vocab.go": "行く",
+    "en.vocab.eat": "食べる",
+    "en.vocab.see": "見る",
+    "en.verb.come": "来る"
+  },
+  "title": "動詞の原形 (Base Form)",
+  "rules": [
+    "接尾辞のつかない動詞の基本形。",
+    "助動詞の後に使用されます。"
+  ]
+}

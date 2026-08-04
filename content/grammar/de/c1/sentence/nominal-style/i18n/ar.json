@@ -1,0 +1,18 @@
+{
+  "locale": "ar",
+  "title": "[AR] [AR] German Advanced Nominal Style",
+  "summary": "[AR] [AR] German Advanced Nominal Style",
+  "explanation": "[AR] [AR] German Advanced Nominal Style",
+  "rules": [
+    "Präposition + Genitiv-Nomen (Nominalstil)"
+  ],
+  "example_translations": {
+    "ex_de_c1": "Nach Abschluss des Studiums begann er zu arbeiten."
+  },
+  "common_error_explanations": {
+    "err_de_c1": "In advanced academic writing (Nominalstil), subordinate clauses are often replaced by dense nominal phrases."
+  },
+  "vocab_glosses": {
+    "de.vocab.studium": "term"
+  }
+}

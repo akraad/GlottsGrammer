@@ -1,0 +1,20 @@
+{
+  "title": "Presente Perfeito Contínuo",
+  "summary": "Use o Presente Perfeito Contínuo para ações que começaram no passado e continuam no presente.",
+  "explanation": "Sujeito + have/has + been + verbo em -ing.",
+  "rules": [
+    "I/You/We/They + have been + verb-ing",
+    "He/She/It + has been + verb-ing"
+  ],
+  "example_translations": {
+    "ex_ppc_1": "Tenho vivido nesta cidade."
+  },
+  "common_error_explanations": {
+    "err_ppc_1": "Sempre inclua 'been'."
+  },
+  "vocab_glosses": {
+    "en.vocab.live": "viver / morar",
+    "en.vocab.city": "cidade"
+  },
+  "locale": "pt"
+}

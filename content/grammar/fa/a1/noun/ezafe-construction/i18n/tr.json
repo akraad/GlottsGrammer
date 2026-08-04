@@ -1,0 +1,18 @@
+{
+  "title": "İzafet Yapısı (-e)",
+  "summary": "Farsçada isimleri sıfatlara veya iyelik sahiplerine bağlama.",
+  "explanation": "İzafet, isimleri sıfat veya tamlayan ile birleştiren kısa bir sesli harftir (-e).",
+  "rules": [
+    "İsim + -e + Sıfat / Tamlayan"
+  ],
+  "example_translations": {
+    "ex_ezafe_1": "Ali'nin kitabı masanın üzerinde."
+  },
+  "common_error_explanations": {
+    "err_ezafe_1": "Kelimeleri bağlarken İzafet seslisini (-e) unutmayın."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "kitap"
+  },
+  "locale": "tr"
+}

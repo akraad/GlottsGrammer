@@ -1,0 +1,18 @@
+{
+  "title": "قیدهای پیشرفته استمراری و تشدیدی (-dikçe)",
+  "summary": "بیان روند فزاینده و تدریجی (هر چه بیشتر... بیشتر...).",
+  "explanation": "بیان روند فزاینده و تدریجی (هر چه بیشتر... بیشتر...).",
+  "rules": [
+    "Verb Stem + -dikçe/-dıkça"
+  ],
+  "example_translations": {
+    "ex_c1_1": "Kitap okudukça insan daha çok şey öğreniyor."
+  },
+  "common_error_explanations": {
+    "err_c1_1": "Use '-dikçe/-dıkça' for progressive proportionality."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "خواندن"
+  },
+  "locale": "fa"
+}

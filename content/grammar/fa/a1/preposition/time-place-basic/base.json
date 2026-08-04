@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0.0",
+  "id": "fa.a1.preposition.time-place-basic",
+  "universal_concept_id": "preposition.time.place.basic",
+  "language": "fa",
+  "cefr": "A1",
+  "app_level": "beginner",
+  "category": "preposition",
+  "status": "approved",
+  "difficulty": 1,
+  "prerequisites": [
+    "fa.a1.sentence.word-order-basic"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "preposition"
+        },
+        {
+          "slot": "noun"
+        }
+      ],
+      "example": "در خانه"
+    }
+  ],
+  "vocab": [
+    "fa.vocab.home"
+  ],
+  "examples": [
+    {
+      "id": "ex_prep_1",
+      "target_text": "علی در خانه است.",
+      "tokens": [
+        {
+          "text": "علی"
+        },
+        {
+          "text": "در"
+        },
+        {
+          "text": "خانه"
+        },
+        {
+          "text": "است"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_prep_1",
+      "incorrect": "علی خانه در است.",
+      "explanation": "Place prepositions BEFORE the noun in Persian."
+    }
+  ]
+}

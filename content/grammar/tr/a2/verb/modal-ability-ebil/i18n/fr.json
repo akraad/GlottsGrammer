@@ -1,0 +1,18 @@
+{
+  "title": "Modalité de Capacité en Turc (-ebil / -abil)",
+  "summary": "Exprimer la capacité ou la permission ('pouvoir').",
+  "explanation": "Ajoutez '-ebil/-abil' (avec un 'y' de liaison) au radical du verbe avant le marqueur de temps et le suffixe personnel.",
+  "rules": [
+    "Radical du Verbe + -(y)ebil + Temps + Suffixe Personnel"
+  ],
+  "example_translations": {
+    "ex_trebil_1": "Je peux lire ce livre."
+  },
+  "common_error_explanations": {
+    "err_trebil_1": "Placez le suffixe de capacité avant le marqueur de temps."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "lire"
+  },
+  "locale": "fr"
+}

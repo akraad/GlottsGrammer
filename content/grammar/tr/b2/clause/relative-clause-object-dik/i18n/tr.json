@@ -1,0 +1,18 @@
+{
+  "title": "Nesne Yönümlü Sıfat-Fiiller (-dik / -duğum)",
+  "summary": "'...dığım / ...diğin' ile nesne موصولی.",
+  "explanation": "Fiil köküne '-dik' ve iyelik eki (-um, -ün) getirilerek geçmiş/geniş zaman sıfat-fiil oluşturulur (okuduğum kitap = کتابی که خواندم).",
+  "rules": [
+    "Fiil Kökü + -dik + İyelik + İsim"
+  ],
+  "example_translations": {
+    "ex_trdik_1": "Dün okuduğum kitap çok güzeldi."
+  },
+  "common_error_explanations": {
+    "err_trdik_1": "Nesnesi belirtilen sıfat-fiirler için '-dik' ekini iyelik ekleriyle kullanın."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "okumak"
+  },
+  "locale": "tr"
+}

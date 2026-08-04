@@ -1,0 +1,31 @@
+{
+  "$schema": "../../../../../schemas/grammar-i18n.schema.json",
+  "locale": "es",
+  "translation_status": "draft",
+  "name": "Presente simple",
+  "summary": "Presente simple: se usa para hablar de hábitos, hechos y rutinas.",
+  "explanation": "En inglés, usamos el Present Simple para hablar de hábitos, verdades generales y acciones que ocurren con regularidad.",
+  "form_notes": {
+    "affirmative": "Sujeto + forma base del verbo. Con he/she/it, se añade -s o -es al verbo.",
+    "negative": "Sujeto + do/does + not + forma base del verbo.",
+    "question": "Do/Does + sujeto + forma base del verbo?"
+  },
+  "example_translations": {
+    "ex_01": "Bebo agua todos los días.",
+    "ex_02": "Ella no bebe café.",
+    "ex_03": "¿Bebes agua todos los días?"
+  },
+  "common_error_explanations": {
+    "err_01": "En el Present Simple, cuando el sujeto es he, she o it, el verbo suele llevar -s o -es."
+  },
+  "vocab_glosses": {
+    "en.verb.drink": "beber",
+    "en.noun.water": "agua",
+    "en.phrase.every-day": "todos los días"
+  },
+  "title": "Presente Simple",
+  "rules": [
+    "Se usa para hábitos y verdades generales.",
+    "Añade s/es al verbo para he/she/it."
+  ]
+}

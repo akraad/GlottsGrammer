@@ -1,0 +1,18 @@
+{
+  "locale": "hi",
+  "title": "[HI] German Basic Word Order (V2)",
+  "summary": "[HI] German Basic Word Order (V2)",
+  "explanation": "[HI] German Basic Word Order (V2)",
+  "rules": [
+    "Position 1 + Verb (Pos 2) + Subject + Object"
+  ],
+  "example_translations": {
+    "ex_de_1": "Heute lerne ich Deutsch."
+  },
+  "common_error_explanations": {
+    "err_de_1": "In German declarative sentences, the conjugated verb must always occupy the second position (V2 rule)."
+  },
+  "vocab_glosses": {
+    "de.vocab.lernen": "term"
+  }
+}

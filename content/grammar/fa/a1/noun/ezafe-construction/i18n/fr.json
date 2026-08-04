@@ -1,0 +1,18 @@
+{
+  "title": "La Construction Ezafe (-e)",
+  "summary": "Lier des noms à des adjectifs ou possesseurs en persan.",
+  "explanation": "L'Ezafe est une voyelle courte (-e) utilisée pour relier les noms aux adjectifs.",
+  "rules": [
+    "Nom + -e + Adjectif / Possesseur"
+  ],
+  "example_translations": {
+    "ex_ezafe_1": "Le livre d'Ali est sur la table."
+  },
+  "common_error_explanations": {
+    "err_ezafe_1": "N'oubliez pas la voyelle Ezafe (-e)."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "livre"
+  },
+  "locale": "fr"
+}

@@ -1,0 +1,18 @@
+{
+  "locale": "ar",
+  "title": "[AR] German Noun Plural Forms",
+  "summary": "[AR] German Noun Plural Forms",
+  "explanation": "[AR] German Noun Plural Forms",
+  "rules": [
+    "Nomen + Pluralendung (-e / -er / -n / -s)"
+  ],
+  "example_translations": {
+    "ex_de_1": "Ich lese gute Bücher."
+  },
+  "common_error_explanations": {
+    "err_de_1": "German nouns change their plural endings (-e, -er, -n, -s, or Umlaut) depending on the noun gender/group."
+  },
+  "vocab_glosses": {
+    "de.vocab.buch": "term"
+  }
+}

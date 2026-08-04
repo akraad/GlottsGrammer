@@ -1,0 +1,18 @@
+{
+  "title": "ペルシア語の過去形 (Past Simple)",
+  "summary": "過去の完了した動作を表します。",
+  "explanation": "過去語幹 + 人称接尾辞。",
+  "rules": [
+    "過去語幹 + 接尾辞"
+  ],
+  "example_translations": {
+    "ex_past_1": "私は昨日家に帰りました。"
+  },
+  "common_error_explanations": {
+    "err_past_1": "過去の動作には過去語幹を使用してください。"
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "行く"
+  },
+  "locale": "ja"
+}

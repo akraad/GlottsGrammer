@@ -1,0 +1,18 @@
+{
+  "title": "Persian Past Perfect Tense",
+  "summary": "Expressing actions completed before another past event.",
+  "explanation": "Past Participle (Past Stem + ﻩ) + Conjugated forms of 'بودن' in simple past.",
+  "rules": [
+    "Past Participle + بودم"
+  ],
+  "example_translations": {
+    "ex_pperf_1": "I had gone home before him/her."
+  },
+  "common_error_explanations": {
+    "err_pperf_1": "Use the past participle before 'بودم'."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "go"
+  },
+  "locale": "en"
+}

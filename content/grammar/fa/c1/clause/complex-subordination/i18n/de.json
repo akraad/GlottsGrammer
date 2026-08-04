@@ -1,0 +1,18 @@
+{
+  "title": "Komplexe Unterordnende Satzverbindungen",
+  "summary": "Verbindung von Sätzen mit fortgeschrittenen Konjunktionen (به‌محضِ آن‌که, همین‌که).",
+  "explanation": "Im fortgeschrittenen Persisch werden zusammengesetzte Konjunktionen für genaue temporale Beziehungen genutzt.",
+  "rules": [
+    "Komplexe Konjunktion + Nebensatz + Hauptsatz"
+  ],
+  "example_translations": {
+    "ex_csub_1": "Sobald er/sie ankam, begann die Sitzung."
+  },
+  "common_error_explanations": {
+    "err_csub_1": "Achte auf die vollständige Form zusammengesetzter Konjunktionen."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "gehen"
+  },
+  "locale": "de"
+}

@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0.0",
+  "id": "fa.a2.adjective.comparative-superlative",
+  "universal_concept_id": "adjective.comparative.superlative",
+  "language": "fa",
+  "cefr": "A2",
+  "app_level": "elementary",
+  "category": "adjective",
+  "status": "approved",
+  "difficulty": 2,
+  "prerequisites": [
+    "fa.a1.adjective.position-basic"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "adjective"
+        },
+        {
+          "slot": "tar_suffix"
+        }
+      ],
+      "example": "بزرگ‌تر"
+    }
+  ],
+  "vocab": [
+    "fa.vocab.bozorg"
+  ],
+  "examples": [
+    {
+      "id": "ex_comp_1",
+      "target_text": "این خانه بزرگ‌تر است.",
+      "tokens": [
+        {
+          "text": "این"
+        },
+        {
+          "text": "خانه"
+        },
+        {
+          "text": "بزرگ‌تر"
+        },
+        {
+          "text": "است"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_comp_1",
+      "incorrect": "این خانه ترین بزرگ است.",
+      "explanation": "Suffix '-تر' forms comparative (bigger) and '-ترین' forms superlative (biggest)."
+    }
+  ]
+}

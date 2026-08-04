@@ -1,0 +1,18 @@
+{
+  "title": "Turkish Object Relative Clauses (-dik)",
+  "summary": "Forming object-focus relative clauses (e.g., 'the book that I read').",
+  "explanation": "Attach '-dik/-dük' plus possessive markers to verb stems to create relative clauses where the modified noun is the object.",
+  "rules": [
+    "Verb Stem + -dik + Possessive + Noun"
+  ],
+  "example_translations": {
+    "ex_trdik_1": "The book I read yesterday was very nice."
+  },
+  "common_error_explanations": {
+    "err_trdik_1": "Use object participle suffix '-dik' combined with possessives for relative clauses."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "read"
+  },
+  "locale": "en"
+}

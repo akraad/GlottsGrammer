@@ -1,0 +1,18 @@
+{
+  "title": "Ajustes de Orden de Palabras en el Habla Cotidiana",
+  "summary": "Orden flexible y sufijos de pronombres en el persa hablado.",
+  "explanation": "En la conversación fluida, los verbos suelen aparecer antes con pronombres de objeto adjuntos.",
+  "rules": [
+    "Verbo + Pronombre Objeto Adjunto + Adverbios"
+  ],
+  "example_translations": {
+    "ex_cord_1": "Lo/La vi ayer en la calle."
+  },
+  "common_error_explanations": {
+    "err_cord_1": "Adjunta el pronombre objeto al verbo para mayor fluidez hablada."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "libro"
+  },
+  "locale": "es"
+}

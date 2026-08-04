@@ -1,0 +1,20 @@
+{
+  "title": "زمان گذشته استمراری",
+  "summary": "از was/were + verb-ing برای کارهایی که در یک زمان مشخص در گذشته در حال انجام بوده‌اند استفاده می‌شود.",
+  "explanation": "ساختار گذشته استمراری با was یا were به همراه شکل -ing فعل اصلی ساخته می‌شود.",
+  "rules": [
+    "I/He/She/It + was + verb-ing",
+    "You/We/They + were + verb-ing"
+  ],
+  "example_translations": {
+    "ex_pcont_1": "من دیروز داشتم راه می‌رفتم."
+  },
+  "common_error_explanations": {
+    "err_pcont_1": "برای فاعل‌های مفرد از was استفاده کنید نه were."
+  },
+  "vocab_glosses": {
+    "en.vocab.walk": "راه رفتن",
+    "en.vocab.yesterday": "دیروز"
+  },
+  "locale": "fa"
+}

@@ -1,0 +1,18 @@
+{
+  "locale": "es",
+  "title": "Verbos modales (Básico)",
+  "summary": "Uso de verbos modales con verbos en infinitivo al final.",
+  "explanation": "Uso de verbos modales con verbos en infinitivo al final.",
+  "rules": [
+    "Sujeto + Verbo modal (Pos 2) + ... + Infinitivo (Final)"
+  ],
+  "example_translations": {
+    "ex_de_2": "Ich kann gut schwimmen."
+  },
+  "common_error_explanations": {
+    "err_de_2": "Coloca el verbo principal en forma de infinitivo al final."
+  },
+  "vocab_glosses": {
+    "de.vocab.schwimmen": "nadar"
+  }
+}

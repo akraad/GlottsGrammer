@@ -1,0 +1,18 @@
+{
+  "title": "German Noun Plural Forms",
+  "summary": "Forming plural forms for German nouns.",
+  "explanation": "Forming plural forms for German nouns.",
+  "rules": [
+    "Nomen + Pluralendung (-e / -er / -n / -s)"
+  ],
+  "example_translations": {
+    "ex_de_1": "I learn German every day."
+  },
+  "common_error_explanations": {
+    "err_de_1": "Use correct plural endings for German nouns."
+  },
+  "vocab_glosses": {
+    "de.vocab.buch": "learn"
+  },
+  "locale": "en"
+}

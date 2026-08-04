@@ -1,0 +1,18 @@
+{
+  "title": "Verbal Negation in Persian",
+  "summary": "Negating verbs using the prefix 'نـ' (Na/Ne).",
+  "explanation": "In Persian, attach the prefix 'نـ' directly to the verb to negate it.",
+  "rules": [
+    "نـ + Verb (e.g. نمی‌روم)"
+  ],
+  "example_translations": {
+    "ex_neg_1": "I am not going home."
+  },
+  "common_error_explanations": {
+    "err_neg_1": "Attach 'نـ' to the beginning of the verb."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "go"
+  },
+  "locale": "en"
+}

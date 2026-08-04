@@ -1,0 +1,18 @@
+{
+  "title": "Belirtme Durumu (-i / -ı / -u / -ü)",
+  "summary": "Cümlede belirli nesneleri işaretleme.",
+  "explanation": "Belirli ve tanınmış nesnelere '-i/-ı/-u/-ü' (ünlüyle biterse 'y' ile) eklenir (kitabı okuyorum).",
+  "rules": [
+    "Belirli Nesne + -(y)i / -(y)ı / -(y)u / -(y)ü"
+  ],
+  "example_translations": {
+    "ex_tracc_1": "Ben bu kitabı okuyorum."
+  },
+  "common_error_explanations": {
+    "err_tracc_1": "Belirli nesnelere belirtme eki eklemeyi unutmayın."
+  },
+  "vocab_glosses": {
+    "tr.vocab.kitap": "kitap"
+  },
+  "locale": "tr"
+}

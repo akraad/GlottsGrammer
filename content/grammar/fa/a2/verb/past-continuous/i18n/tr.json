@@ -1,0 +1,18 @@
+{
+  "title": "Farsça Şimdiki Zamanın Hikayesi (-yordu)",
+  "summary": "Geçmişte devam eden eylemleri anlatır.",
+  "explanation": "'می-' ön eki + Geçmiş Zaman Kökü + Şahıs Ekleri.",
+  "rules": [
+    "می- + Geçmiş Zaman Kökü + Ekler"
+  ],
+  "example_translations": {
+    "ex_pcont_1": "Kitap okuyordum."
+  },
+  "common_error_explanations": {
+    "err_pcont_1": "Geçmiş zaman kökünden önce 'می-' ön ekini kullanın."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "gitmek"
+  },
+  "locale": "tr"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Farsça Olmak Fiilleri (Ek-Fiil)",
+  "summary": "Farsçada 'olmak' anlamına gelen ek-fiil yapıları.",
+  "explanation": "Farsçada yüklem/fiil her zaman cümlenin sonunda yer alır.",
+  "rules": [
+    "من ... هستم",
+    "تو ... هستی",
+    "او ... است",
+    "ما ... هستیم",
+    "شما ... هستید",
+    "آن‌ها ... هستند"
+  ],
+  "example_translations": {
+    "ex_fa_cop_1": "O evdedir."
+  },
+  "common_error_explanations": {
+    "err_fa_cop_1": "Üçüncü tekil şahıs (او) için 'است' kullanın."
+  },
+  "vocab_glosses": {
+    "fa.vocab.home": "ev",
+    "fa.vocab.hastam": " -im/ım"
+  },
+  "locale": "tr"
+}

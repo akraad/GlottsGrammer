@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0.0",
+  "id": "tr.a1.verb.copula-basic",
+  "universal_concept_id": "verb.copula.basic",
+  "language": "tr",
+  "cefr": "A1",
+  "app_level": "beginner",
+  "category": "verb",
+  "status": "approved",
+  "difficulty": 2,
+  "prerequisites": [
+    "tr.a1.pronoun.personal-subject"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "noun_or_adj"
+        },
+        {
+          "slot": "personal_copula_suffix"
+        }
+      ],
+      "example": "öğretmenim"
+    }
+  ],
+  "vocab": [
+    "tr.vocab.ogretmen"
+  ],
+  "examples": [
+    {
+      "id": "ex_tr_cop_1",
+      "target_text": "Sen bir öğretmensin.",
+      "tokens": [
+        {
+          "text": "Sen"
+        },
+        {
+          "text": "bir"
+        },
+        {
+          "text": "öğretmensin."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_tr_cop_1",
+      "incorrect": "Sen bir öğretmen.",
+      "explanation": "Attach the personal copula suffix (-sin/-sın/-sün/-sun) according to 4-way vowel harmony."
+    }
+  ]
+}

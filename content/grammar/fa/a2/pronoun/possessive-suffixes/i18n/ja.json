@@ -1,0 +1,18 @@
+{
+  "title": "ペルシア語の所有接尾辞",
+  "summary": "接尾辞 (-م, -ت, -ش) を付けた所有表現。",
+  "explanation": "名詞の末尾に直接接尾辞を付けて所有を示します (例: کتابم = 私の本)。",
+  "rules": [
+    "名詞 + 所有接尾辞"
+  ],
+  "example_translations": {
+    "ex_psuf_1": "私の本は机の上にあります。"
+  },
+  "common_error_explanations": {
+    "err_psuf_1": "接尾辞を名詞の末尾に直接繋げてください。"
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "本"
+  },
+  "locale": "ja"
+}

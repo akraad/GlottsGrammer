@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0.0",
+  "id": "tr.b2.sentence.complex-subordination-advanced",
+  "universal_concept_id": "sentence.complex.subordination.advanced",
+  "language": "tr",
+  "cefr": "B2",
+  "app_level": "upper-intermediate",
+  "category": "sentence",
+  "status": "approved",
+  "difficulty": 4,
+  "prerequisites": [
+    "tr.b1.clause.indirect-speech"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "subordinate_clause_with_participle"
+        },
+        {
+          "slot": "postposition_or_conjunction"
+        }
+      ],
+      "example": "okuduğundan dolayı"
+    }
+  ],
+  "vocab": [
+    "tr.vocab.okumak"
+  ],
+  "examples": [
+    {
+      "id": "ex_trcomp_1",
+      "target_text": "Kitap okuduğundan dolayı çok başarılı.",
+      "tokens": [
+        {
+          "text": "Kitap"
+        },
+        {
+          "text": "okuduğundan"
+        },
+        {
+          "text": "dolayı"
+        },
+        {
+          "text": "çok"
+        },
+        {
+          "text": "başarılı."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_trcomp_1",
+      "incorrect": "Kitap okudu çünkü çok başarılı.",
+      "explanation": "Use advanced subordinating postpositions like '-duğundan dolayı' or '-dığı için' in formal academic or literary writing."
+    }
+  ]
+}

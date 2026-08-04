@@ -1,0 +1,19 @@
+{
+  "title": "ペルシア語の複合語の形成",
+  "summary": "語や語幹を組み合わせた複合名詞の作り方。",
+  "explanation": "名詞 + 名詞 や 名詞 + 語幹 を組み合わせて新しい名詞を作ります (例: کتاب‌خانه = 図書館)。",
+  "rules": [
+    "名詞 + 名詞/語幹"
+  ],
+  "example_translations": {
+    "ex_cder_1": "彼/彼女は図書館で勉強しています。"
+  },
+  "common_error_explanations": {
+    "err_cder_1": "複合語の要素間には半スペース (ZWNJ) を使用してください。"
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "本",
+    "fa.vocab.home": "家"
+  },
+  "locale": "ja"
+}

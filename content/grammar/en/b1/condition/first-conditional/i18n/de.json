@@ -1,0 +1,20 @@
+{
+  "title": "Erster Konditionalsatz (First Conditional)",
+  "summary": "Verwende den First Conditional für reale Möglichkeiten in der Zukunft.",
+  "explanation": "Struktur: If + Present Simple, Subjekt + Will + Grundform des Verbs.",
+  "rules": [
+    "If-Satz -> Present Simple",
+    "Hauptsatz -> Will + Infinitiv"
+  ],
+  "example_translations": {
+    "ex_fc_1": "Wenn es regnet, bleibe ich zu Hause."
+  },
+  "common_error_explanations": {
+    "err_fc_1": "Verwende im If-Satz niemals 'will'."
+  },
+  "vocab_glosses": {
+    "en.vocab.rain": "regnen",
+    "en.vocab.home": "Zuhause"
+  },
+  "locale": "de"
+}

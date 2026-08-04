@@ -1,0 +1,18 @@
+{
+  "title": "Structures Participiales Avancées",
+  "summary": "Motifs syntaxiques avancés en turc C1.",
+  "explanation": "Structures complexes de niveau C1.",
+  "rules": [
+    "Verb Stem + -mek/-mak"
+  ],
+  "example_translations": {
+    "ex_c1_1": "Plus on lit, plus on apprend."
+  },
+  "common_error_explanations": {
+    "err_c1_1": "Utilisez des structures C1 appropriées."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "lire"
+  },
+  "locale": "fr"
+}

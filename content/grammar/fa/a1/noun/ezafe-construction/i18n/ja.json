@@ -1,0 +1,18 @@
+{
+  "title": "エザーフェ構文 (-e)",
+  "summary": "ペルシア語で名詞と形容詞や所有者を結びつける構造。",
+  "explanation": "エザーフェは、名詞を形容詞や所有者に繋ぐ短母音 (-e) です。",
+  "rules": [
+    "名詞 + -e + 形容詞 / 所有者"
+  ],
+  "example_translations": {
+    "ex_ezafe_1": "アリの本は机の上にあります。"
+  },
+  "common_error_explanations": {
+    "err_ezafe_1": "単語を繋ぐ際にはエザーフェ (-e) を省略しないでください。"
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "本"
+  },
+  "locale": "ja"
+}

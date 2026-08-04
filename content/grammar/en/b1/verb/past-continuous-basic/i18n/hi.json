@@ -1,0 +1,20 @@
+{
+  "title": "पास्ट कंटीन्यूअस (Past Continuous)",
+  "summary": "अतीत में किसी विशिष्ट समय पर हो रही क्रियाओं के लिए was/were + verb-ing का उपयोग करें।",
+  "explanation": "पास्ट कंटीन्यूअस का निर्माण was/were और क्रिया के -ing रूप के साथ किया जाता है।",
+  "rules": [
+    "I/He/She/It + was + verb-ing",
+    "You/We/They + were + verb-ing"
+  ],
+  "example_translations": {
+    "ex_pcont_1": "मैं कल टहल रहा था।"
+  },
+  "common_error_explanations": {
+    "err_pcont_1": "एकवचन कर्ता के साथ 'was' का प्रयोग करें।"
+  },
+  "vocab_glosses": {
+    "en.vocab.walk": "टहलना / चलना",
+    "en.vocab.yesterday": "कल (बीता हुआ)"
+  },
+  "locale": "hi"
+}

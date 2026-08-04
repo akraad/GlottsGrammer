@@ -1,0 +1,20 @@
+{
+  "title": "Verlaufsform des Perfekts (Present Perfect Continuous)",
+  "summary": "Verwende diese Zeitform für Handlungen, die in der Vergangenheit begonnen haben und bis in die Gegenwart andauern.",
+  "explanation": "Subjekt + have/has + been + Verb-ing.",
+  "rules": [
+    "I/You/We/They + have been + Verb-ing",
+    "He/She/It + has been + Verb-ing"
+  ],
+  "example_translations": {
+    "ex_ppc_1": "Ich lebe schon seit einiger Zeit in dieser Stadt."
+  },
+  "common_error_explanations": {
+    "err_ppc_1": "Vergiss nicht 'been' einzufügen."
+  },
+  "vocab_glosses": {
+    "en.vocab.live": "leben / wohnen",
+    "en.vocab.city": "Stadt"
+  },
+  "locale": "de"
+}

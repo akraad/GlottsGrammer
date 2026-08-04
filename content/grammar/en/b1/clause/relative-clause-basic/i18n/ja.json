@@ -1,0 +1,20 @@
+{
+  "title": "関係代名詞 (Who, Which, That)",
+  "summary": "人や物についての詳細情報を追加するには関係代名詞を使用します。",
+  "explanation": "人には who、物には which、両方には that を使用します。",
+  "rules": [
+    "Who -> 人",
+    "Which -> 物",
+    "That -> 人または物"
+  ],
+  "example_translations": {
+    "ex_rel_1": "これは私が買った本です。"
+  },
+  "common_error_explanations": {
+    "err_rel_1": "物に対して who を使ってはいけません。"
+  },
+  "vocab_glosses": {
+    "en.vocab.book": "本"
+  },
+  "locale": "ja"
+}

@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0.0",
+  "id": "tr.b2.clause.conditional-past-seler",
+  "universal_concept_id": "clause.conditional.past.seler",
+  "language": "tr",
+  "cefr": "B2",
+  "app_level": "upper-intermediate",
+  "category": "clause",
+  "status": "approved",
+  "difficulty": 4,
+  "prerequisites": [
+    "tr.b1.clause.conditional-if-se"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "verb_stem"
+        },
+        {
+          "slot": "seydi_suffix"
+        },
+        {
+          "slot": "personal_suffix"
+        }
+      ],
+      "example": "gelseydi"
+    }
+  ],
+  "vocab": [
+    "tr.vocab.okumak"
+  ],
+  "examples": [
+    {
+      "id": "ex_trsed_1",
+      "target_text": "Dün gelseydi, kitabı görürdü.",
+      "tokens": [
+        {
+          "text": "Dün"
+        },
+        {
+          "text": "gelseydi,"
+        },
+        {
+          "text": "kitabı"
+        },
+        {
+          "text": "görürdü."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_trsed_1",
+      "incorrect": "Dün gelirse, kitabı görürdü.",
+      "explanation": "Use past conditional suffix '-seydi/-saydı' for counterfactual past wishes or impossible conditions."
+    }
+  ]
+}

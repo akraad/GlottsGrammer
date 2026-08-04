@@ -1,0 +1,18 @@
+{
+  "locale": "es",
+  "title": "[ES] [ES] German Advanced Two-Part Connectors",
+  "summary": "[ES] [ES] German Advanced Two-Part Connectors",
+  "explanation": "[ES] [ES] German Advanced Two-Part Connectors",
+  "rules": [
+    "Je ... + Verb (Ende), desto + Komparativ + Verb (Pos 1)..."
+  ],
+  "example_translations": {
+    "ex_de_b2": "Je mehr man übt, desto besser spricht man."
+  },
+  "common_error_explanations": {
+    "err_de_b2": "In 'je... desto' clauses, the 'je' clause sends the verb to the end, while the 'desto' clause starts directly with the comparative followed by the conjugated verb."
+  },
+  "vocab_glosses": {
+    "de.vocab.sprechen": "term"
+  }
+}

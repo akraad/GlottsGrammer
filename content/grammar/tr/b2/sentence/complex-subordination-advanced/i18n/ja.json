@@ -1,0 +1,18 @@
+{
+  "title": "トルコ語の高度な複文・従属節構造",
+  "summary": "公式・学術的文章における複雑な従属節の表現。",
+  "explanation": "学術的や公式な文章では、因果関係を正確に表すために '-duğundan dolayı' や '-dığı için' などの高度な従属構造が使用されます。",
+  "rules": [
+    "従属節 (-duğundan) + 後置詞 (dolayı / için)"
+  ],
+  "example_translations": {
+    "ex_trcomp_1": "本を読むため、彼は非常に成功しています。"
+  },
+  "common_error_explanations": {
+    "err_trcomp_1": "公式な文章では高度な従属後置詞を使用してください。"
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "読む"
+  },
+  "locale": "ja"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Turkish Personal Pronouns",
+  "summary": "Subject pronouns in Turkish (ben, sen, o...).",
+  "explanation": "Turkish has 6 subject pronouns: ben (I), sen (you), o (he/she/it), biz (we), siz (you all), onlar (they).",
+  "rules": [
+    "ben",
+    "sen",
+    "o",
+    "biz",
+    "siz",
+    "onlar"
+  ],
+  "example_translations": {
+    "ex_tr_pron_1": "I am a teacher."
+  },
+  "common_error_explanations": {
+    "err_tr_pron_1": "Always add the personal predicate suffix matching the pronoun."
+  },
+  "vocab_glosses": {
+    "tr.vocab.ogretmen": "teacher"
+  },
+  "locale": "en"
+}

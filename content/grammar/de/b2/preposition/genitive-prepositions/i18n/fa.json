@@ -1,0 +1,18 @@
+{
+  "locale": "fa",
+  "title": "حروف اضافه‌های حاکم بر حالت اضافه (Genitiv) در آلمانی",
+  "summary": "Using formal prepositions that require the Genitive case.",
+  "explanation": "Using formal prepositions that require the Genitive case.",
+  "rules": [
+    "Genitiv-Präposition + Genitiv-Nomen (des/der)"
+  ],
+  "example_translations": {
+    "ex_de_b2_2": "Wegen des starken Regens bleiben wir zu Hause."
+  },
+  "common_error_explanations": {
+    "err_de_b2_2": "Use Genitive case endings and articles after formal prepositions like wegen or trotz."
+  },
+  "vocab_glosses": {
+    "de.vocab.regen": "Regen"
+  }
+}

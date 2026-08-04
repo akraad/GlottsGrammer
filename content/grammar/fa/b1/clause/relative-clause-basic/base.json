@@ -1,0 +1,64 @@
+{
+  "schema_version": "1.0.0",
+  "id": "fa.b1.clause.relative-clause-basic",
+  "universal_concept_id": "clause.relative.basic",
+  "language": "fa",
+  "cefr": "B1",
+  "app_level": "intermediate",
+  "category": "clause",
+  "status": "approved",
+  "difficulty": 3,
+  "prerequisites": [
+    "fa.a2.clause.object-marker-ra"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "noun_with_i"
+        },
+        {
+          "slot": "ke_relative"
+        },
+        {
+          "slot": "relative_clause"
+        }
+      ],
+      "example": "کتابی که"
+    }
+  ],
+  "vocab": [
+    "fa.vocab.book"
+  ],
+  "examples": [
+    {
+      "id": "ex_rel_1",
+      "target_text": "کتابی که خریدم جالب است.",
+      "tokens": [
+        {
+          "text": "کتابی"
+        },
+        {
+          "text": "که"
+        },
+        {
+          "text": "خریدم"
+        },
+        {
+          "text": "جالب"
+        },
+        {
+          "text": "است"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_rel_1",
+      "incorrect": "کتاب که خریدم جالب است.",
+      "explanation": "Attach restrictive 'ی' to the noun before the relative marker 'که'."
+    }
+  ]
+}

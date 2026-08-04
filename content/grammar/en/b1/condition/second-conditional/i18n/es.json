@@ -1,0 +1,22 @@
+{
+  "title": "Segundo Condicional",
+  "summary": "Usa el Segundo Condicional para situaciones hipotéticas o imaginarias.",
+  "explanation": "Estructura: If + Pasado Simple, Sujeto + Would + Verbo base.",
+  "rules": [
+    "Cláusula con If -> Pasado Simple",
+    "Cláusula principal -> Would + Verbo base"
+  ],
+  "example_translations": {
+    "ex_sc_1": "Si ganara la lotería, compraría un coche."
+  },
+  "common_error_explanations": {
+    "err_sc_1": "Nunca uses 'would' dentro de la cláusula con If."
+  },
+  "vocab_glosses": {
+    "en.vocab.win": "ganar",
+    "en.vocab.lottery": "lotería",
+    "en.vocab.buy": "comprar",
+    "en.vocab.car": "coche"
+  },
+  "locale": "es"
+}

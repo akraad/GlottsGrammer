@@ -1,0 +1,18 @@
+{
+  "title": "Vermutungen (Might, May, Could)",
+  "summary": "Verwende might, may oder could für Möglichkeiten.",
+  "explanation": "Subjekt + might/may/could + Grundform.",
+  "rules": [
+    "Kein 'to' nach diesen Modalverben."
+  ],
+  "example_translations": {
+    "ex_spec_1": "Es könnte heute regnen."
+  },
+  "common_error_explanations": {
+    "err_spec_1": "Verwende kein 'to' nach might."
+  },
+  "vocab_glosses": {
+    "en.vocab.rain": "regnen"
+  },
+  "locale": "de"
+}

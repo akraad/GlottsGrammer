@@ -1,0 +1,20 @@
+{
+  "title": "Geçmiş Zamanın Sürekliliği (Past Continuous)",
+  "summary": "Geçmişte belirli bir anda devam etmekte olan eylemler için was/were + verb-ing kullanın.",
+  "explanation": "Past Continuous yapısı was/were ve fiilin -ing takılı hali ile oluşturulur.",
+  "rules": [
+    "I/He/She/It + was + verb-ing",
+    "You/We/They + were + verb-ing"
+  ],
+  "example_translations": {
+    "ex_pcont_1": "Dün yürüyordum."
+  },
+  "common_error_explanations": {
+    "err_pcont_1": "Tekil özneler için 'was' kullanın."
+  },
+  "vocab_glosses": {
+    "en.vocab.walk": "yürümek",
+    "en.vocab.yesterday": "dün"
+  },
+  "locale": "tr"
+}

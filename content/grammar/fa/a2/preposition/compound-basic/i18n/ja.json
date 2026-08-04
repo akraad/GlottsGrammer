@@ -1,0 +1,18 @@
+{
+  "title": "ペルシア語の複合前置詞",
+  "summary": "エザーフェを必要とする前置詞 (دربارهٔ, برایِ, بدونِ)。",
+  "explanation": "複合前置詞はエザーフェを使って名詞と結びつけられます。",
+  "rules": [
+    "複合前置詞 + エザーフェ + 名詞"
+  ],
+  "example_translations": {
+    "ex_cprep_1": "私達はこの本について話しました。"
+  },
+  "common_error_explanations": {
+    "err_cprep_1": "複合前置詞の後のエザーフェを省略しないでください。"
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "本"
+  },
+  "locale": "ja"
+}

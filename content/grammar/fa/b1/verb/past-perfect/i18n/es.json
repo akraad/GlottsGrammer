@@ -1,0 +1,18 @@
+{
+  "title": "Pretérito Pluscuamperfecto en Persa",
+  "summary": "Expresar acciones completadas antes de otro evento pasado.",
+  "explanation": "Participio Pasado + Formas conjugadas de 'بودن' en pasado simple.",
+  "rules": [
+    "Participio Pasado + بودم"
+  ],
+  "example_translations": {
+    "ex_pperf_1": "Me había ido a casa antes que él/ella."
+  },
+  "common_error_explanations": {
+    "err_pperf_1": "Usa el participio pasado antes de 'بودم'."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "ir"
+  },
+  "locale": "es"
+}

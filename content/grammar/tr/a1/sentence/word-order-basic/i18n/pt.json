@@ -1,0 +1,19 @@
+{
+  "title": "Ordem das Palavras em Turco (SOV)",
+  "summary": "Estrutura Sujeito - Objeto - Verbo.",
+  "explanation": "O turco padrão segue a ordem Sujeito - Objeto - Verbo. O verbo é colocado estritamente no final.",
+  "rules": [
+    "Sujeito + Objeto + Verbo no Final"
+  ],
+  "example_translations": {
+    "ex_tr_wo_1": "Estou lendo um livro."
+  },
+  "common_error_explanations": {
+    "err_tr_wo_1": "Coloque sempre o verbo no FINAL da frase."
+  },
+  "vocab_glosses": {
+    "tr.vocab.kitap": "livro",
+    "tr.vocab.okumak": "ler"
+  },
+  "locale": "pt"
+}

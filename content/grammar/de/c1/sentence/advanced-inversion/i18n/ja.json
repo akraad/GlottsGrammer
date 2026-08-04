@@ -1,0 +1,18 @@
+{
+  "locale": "ja",
+  "title": "[JA] [JA] German Advanced Inversion and Rhetoric",
+  "summary": "[JA] [JA] German Advanced Inversion and Rhetoric",
+  "explanation": "[JA] [JA] German Advanced Inversion and Rhetoric",
+  "rules": [
+    "Voranstellung (Pos 1) + Verb (Pos 2) + Subjekt"
+  ],
+  "example_translations": {
+    "ex_de_c1_2": "Selten habe ich ein so schönes Konzert gesehen."
+  },
+  "common_error_explanations": {
+    "err_de_c1_2": "When fronting restrictive adverbs like 'selten' or 'kaum' for rhetorical effect, strict inversion applies immediately."
+  },
+  "vocab_glosses": {
+    "de.vocab.sehen": "term"
+  }
+}

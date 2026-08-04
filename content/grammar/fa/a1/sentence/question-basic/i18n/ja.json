@@ -1,0 +1,18 @@
+{
+  "title": "ペルシア語の基本的な疑問文",
+  "summary": "'آیا' を使ったはい/いいえ疑問文の作り方。",
+  "explanation": "文頭に 'آیا' を付けると疑問文になります。",
+  "rules": [
+    "آیا + 平叙文?"
+  ],
+  "example_translations": {
+    "ex_q_1": "あなたは本を読みますか？"
+  },
+  "common_error_explanations": {
+    "err_q_1": "'آیا' は文頭に配置してください。"
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "本"
+  },
+  "locale": "ja"
+}

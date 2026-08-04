@@ -1,0 +1,18 @@
+{
+  "title": "Farsça Ettirgen Fiiller (Causative)",
+  "summary": "'-اندن' eki ile ettirgen/geçişli fiil yapma.",
+  "explanation": "Geniş zaman köküne '-اندن' eki getirilerek ettirgen fiil oluşturulur.",
+  "rules": [
+    "Geniş Zaman Kökü + اندن"
+  ],
+  "example_translations": {
+    "ex_caus_1": "Anne çocuğu uyuttu."
+  },
+  "common_error_explanations": {
+    "err_caus_1": "Ettirgen çatı oluşturmak için '-اندن' ekini kullanın."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "gitmek"
+  },
+  "locale": "tr"
+}

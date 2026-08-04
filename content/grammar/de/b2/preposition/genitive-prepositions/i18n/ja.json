@@ -1,0 +1,18 @@
+{
+  "locale": "ja",
+  "title": "[JA] [JA] German Genitive Prepositions",
+  "summary": "[JA] [JA] German Genitive Prepositions",
+  "explanation": "[JA] [JA] German Genitive Prepositions",
+  "rules": [
+    "Genitiv-Präposition + Genitiv-Nomen (des/der)"
+  ],
+  "example_translations": {
+    "ex_de_b2_2": "Wegen des starken Regens bleiben wir zu Hause."
+  },
+  "common_error_explanations": {
+    "err_de_b2_2": "Prepositions like wegen, trotz, während, and statt formally govern the Genitive case (des/der)."
+  },
+  "vocab_glosses": {
+    "de.vocab.regen": "term"
+  }
+}

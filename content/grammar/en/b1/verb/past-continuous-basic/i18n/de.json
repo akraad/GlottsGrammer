@@ -1,0 +1,20 @@
+{
+  "title": "Vergangenheit Verlaufsform (Past Continuous)",
+  "summary": "Verwende was/were + Verb-ing für Handlungen, die zu einem bestimmten Zeitpunkt in der Vergangenheit andauerten.",
+  "explanation": "Das Past Continuous wird mit was oder were und der -ing-Form des Verbs gebildet.",
+  "rules": [
+    "I/He/She/It + was + Verb-ing",
+    "You/We/They + were + Verb-ing"
+  ],
+  "example_translations": {
+    "ex_pcont_1": "Ich bin gestern spazieren gegangen."
+  },
+  "common_error_explanations": {
+    "err_pcont_1": "Verwende 'was' für Einzahl-Subjekte."
+  },
+  "vocab_glosses": {
+    "en.vocab.walk": "gehen / spazieren",
+    "en.vocab.yesterday": "gestern"
+  },
+  "locale": "de"
+}

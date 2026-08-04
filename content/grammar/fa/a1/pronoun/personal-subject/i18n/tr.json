@@ -1,0 +1,23 @@
+{
+  "title": "Farsça Kişi Zamirleri",
+  "summary": "Farsça özne zamirleri (من, تو, او, ما, شما, آن‌ها).",
+  "explanation": "Farsça zamirler özne olarak kullanılır ve genellikle gizli özne olarak düşebilir.",
+  "rules": [
+    "من (Ben)",
+    "تو (Sen)",
+    "او (O)",
+    "ما (Biz)",
+    "شما (Siz)",
+    "آن‌ها (Onlar)"
+  ],
+  "example_translations": {
+    "ex_fa_pron_1": "Ben öğretmenim."
+  },
+  "common_error_explanations": {
+    "err_fa_pron_1": "'من' zamirini 'هستم' ile eşleştirin."
+  },
+  "vocab_glosses": {
+    "fa.vocab.man": "ben"
+  },
+  "locale": "tr"
+}

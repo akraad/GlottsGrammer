@@ -1,0 +1,18 @@
+{
+  "title": "ペルシア語の譲歩節 (اگرچه)",
+  "summary": "'اگرچه' や 'با اینکه' (〜にもかかわらず) を使った対比表現。",
+  "explanation": "譲歩節の先頭に 'اگرچه' を配置します。",
+  "rules": [
+    "اگرچه + 譲歩節, اما + 主節"
+  ],
+  "example_translations": {
+    "ex_conc_1": "雨が降っていたにもかかわらず、彼/彼女は外出しました。"
+  },
+  "common_error_explanations": {
+    "err_conc_1": "対比を表すには 'اگرچه' を使用してください。"
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "行く"
+  },
+  "locale": "ja"
+}

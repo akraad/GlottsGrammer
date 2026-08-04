@@ -1,0 +1,18 @@
+{
+  "title": "Conversational Past Continuous (داشتم می‌رفتم)",
+  "summary": "Expressing actions right in the middle of happening in past everyday speech.",
+  "explanation": "Modern conversational Persian uses conjugated 'داشتن' right before a 'می-' past verb (e.g. داشتم می‌رفتم = I was just going).",
+  "rules": [
+    "Conjugated داشتن + Mi- Past Verb"
+  ],
+  "example_translations": {
+    "ex_dasht_1": "I was on my way home when I saw him/her."
+  },
+  "common_error_explanations": {
+    "err_dasht_1": "Conjugate both verbs with matching person endings."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "go"
+  },
+  "locale": "en"
+}

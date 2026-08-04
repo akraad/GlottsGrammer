@@ -1,0 +1,18 @@
+{
+  "locale": "fa",
+  "title": "وجه التزامی دوم در زمان گذشته (حالت غیرواقعی) در آلمانی",
+  "summary": "Expressing counterfactual past actions using hätte/wäre and Partizip II.",
+  "explanation": "Expressing counterfactual past actions using hätte/wäre and Partizip II.",
+  "rules": [
+    "Subjekt + hätte/wäre (Pos 2) + ... + Partizip II (Ende)"
+  ],
+  "example_translations": {
+    "ex_de_b2": "Ich hätte das früher gemacht."
+  },
+  "common_error_explanations": {
+    "err_de_b2": "Use hätte/wäre with Partizip II for past subjunctive (Konjunktiv II) expressions."
+  },
+  "vocab_glosses": {
+    "de.vocab.zeit": "Zeit"
+  }
+}

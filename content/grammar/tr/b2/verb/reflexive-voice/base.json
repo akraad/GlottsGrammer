@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0.0",
+  "id": "tr.b2.verb.reflexive-voice",
+  "universal_concept_id": "verb.reflexive.voice",
+  "language": "tr",
+  "cefr": "B2",
+  "app_level": "upper-intermediate",
+  "category": "verb",
+  "status": "approved",
+  "difficulty": 3,
+  "prerequisites": [
+    "tr.b1.verb.passive-voice"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "verb_stem"
+        },
+        {
+          "slot": "reflexive_suffix"
+        },
+        {
+          "slot": "tense_suffix"
+        }
+      ],
+      "example": "yıkandı"
+    }
+  ],
+  "vocab": [
+    "tr.vocab.ev"
+  ],
+  "examples": [
+    {
+      "id": "ex_trref_1",
+      "target_text": "Çocuk hemen yıkandı.",
+      "tokens": [
+        {
+          "text": "Çocuk"
+        },
+        {
+          "text": "hemen"
+        },
+        {
+          "text": "yıkandı."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_trref_1",
+      "incorrect": "Çocuk kendini yıkadı diğeri yerine.",
+      "explanation": "Use reflexive suffix '-in/-n' on verb stems when the subject performs the action upon itself."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "locale": "en",
+  "title": "Basic Prepositions (in, on, at)",
+  "summary": "Use in, on, and at to describe time and location.",
+  "explanation": "Use 'at' for specific points like 'at home' or 'at 5 PM'.",
+  "rules": [
+    "Use 'at' for home/specific time."
+  ],
+  "example_translations": {
+    "ex_prep_1": "I am at home."
+  },
+  "common_error_explanations": {
+    "err_prep_1": "Say 'at home', not 'in home'."
+  },
+  "vocab_glosses": {
+    "en.vocab.home": "home"
+  }
+}

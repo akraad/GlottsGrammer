@@ -1,0 +1,18 @@
+{
+  "title": "Narrative Past Continuous in Persian",
+  "summary": "Reporting continuous or habitual past actions heard from others.",
+  "explanation": "Prefix 'می-' + Past Participle + Enclitic suffixes.",
+  "rules": [
+    "می- + Past Participle + Suffixes"
+  ],
+  "example_translations": {
+    "ex_pnarr_1": "They say he/she used to go there every day."
+  },
+  "common_error_explanations": {
+    "err_pnarr_1": "Use narrative past continuous for indirect past reports."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "go"
+  },
+  "locale": "en"
+}

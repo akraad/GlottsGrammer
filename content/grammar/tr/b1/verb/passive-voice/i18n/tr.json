@@ -1,0 +1,18 @@
+{
+  "title": "Edilgen (Mechul) Çatı (-il / -in)",
+  "summary": "Öznesi belli olmayan veya nesnenin öne çıktığı eylemler.",
+  "explanation": "Fiil köküne '-il/-ıl/-ul/-ül' (ünlüyle biterse '-n') eklenerek edilgen yapılır (oku-ndu = okundu).",
+  "rules": [
+    "Fiil Kökü + -il/-in + Zaman Eki"
+  ],
+  "example_translations": {
+    "ex_trpas_1": "Bu kitap dün okundu."
+  },
+  "common_error_explanations": {
+    "err_trpas_1": "İşin kimin tarafından yapıldığı belirsizse edilgen çatı eki kullanın."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "okumak"
+  },
+  "locale": "tr"
+}

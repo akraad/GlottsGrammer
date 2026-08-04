@@ -1,0 +1,18 @@
+{
+  "title": "ظروف الزمان والحال في التركية (-ken / -ince)",
+  "summary": "التعبير عن 'أثناء' أو 'عندما' في نفس الوقت.",
+  "explanation": "تُضاف اللاحقة '-ken' إلى الأفعال أو الأسماء للدلالة على التزامن (gelirken = أثناء القدوم).",
+  "rules": [
+    "الفعل/الاسم + -ken"
+  ],
+  "example_translations": {
+    "ex_trken_1": "اشتريت الخبز أثناء قدومي إلى البيت."
+  },
+  "common_error_explanations": {
+    "err_trken_1": "استخدم اللاحقة '-ken' مباشرة للأفعال المتزامنة."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "قراءة"
+  },
+  "locale": "ar"
+}

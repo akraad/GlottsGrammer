@@ -1,0 +1,70 @@
+{
+  "schema_version": "1.0.0",
+  "id": "fa.c1.clause.complex-subordination",
+  "universal_concept_id": "clause.complex.subordination",
+  "language": "fa",
+  "cefr": "C1",
+  "app_level": "advanced",
+  "category": "clause",
+  "status": "approved",
+  "difficulty": 4,
+  "prerequisites": [
+    "fa.b2.clause.concession-basic"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "complex_conjunction"
+        },
+        {
+          "slot": "subordinate_clause"
+        },
+        {
+          "slot": "main_clause"
+        }
+      ],
+      "example": "به‌محضِ آن‌که رسید"
+    }
+  ],
+  "vocab": [
+    "fa.vocab.raftan"
+  ],
+  "examples": [
+    {
+      "id": "ex_csub_1",
+      "target_text": "به‌محضِ آن‌که او رسید، جلسه آغاز شد.",
+      "tokens": [
+        {
+          "text": "به‌محضِ"
+        },
+        {
+          "text": "آن‌که"
+        },
+        {
+          "text": "او"
+        },
+        {
+          "text": "رسید،"
+        },
+        {
+          "text": "جلسه"
+        },
+        {
+          "text": "آغاز"
+        },
+        {
+          "text": "شد"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_csub_1",
+      "incorrect": "به‌محض این او رسید، جلسه آغاز شد.",
+      "explanation": "Use full complex conjunctions like 'به‌محضِ آن‌که' or 'همین‌که' with appropriate Ezafe or 'که'."
+    }
+  ]
+}

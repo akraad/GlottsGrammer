@@ -1,0 +1,18 @@
+{
+  "locale": "ar",
+  "title": "[AR] [AR] German Konjunktiv II Past",
+  "summary": "[AR] [AR] German Konjunktiv II Past",
+  "explanation": "[AR] [AR] German Konjunktiv II Past",
+  "rules": [
+    "Subjekt + hätte/wäre (Pos 2) + ... + Partizip II (Ende)"
+  ],
+  "example_translations": {
+    "ex_de_b2": "Ich hätte das früher gemacht, wenn ich Zeit gehabt hätte."
+  },
+  "common_error_explanations": {
+    "err_de_b2": "Use Konjunktiv II past form (hätte/wäre + Partizip II) to express counterfactuals or regrets about the past."
+  },
+  "vocab_glosses": {
+    "de.vocab.zeit": "term"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0.0",
+  "id": "fa.a2.clause.object-marker-ra",
+  "universal_concept_id": "clause.object.marker.ra",
+  "language": "fa",
+  "cefr": "A2",
+  "app_level": "elementary",
+  "category": "clause",
+  "status": "approved",
+  "difficulty": 3,
+  "prerequisites": [
+    "fa.a1.sentence.word-order-basic"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "specific_object"
+        },
+        {
+          "slot": "ra_particle"
+        }
+      ],
+      "example": "کتاب را"
+    }
+  ],
+  "vocab": [
+    "fa.vocab.book"
+  ],
+  "examples": [
+    {
+      "id": "ex_ra_1",
+      "target_text": "من کتاب را خواندم.",
+      "tokens": [
+        {
+          "text": "من"
+        },
+        {
+          "text": "کتاب"
+        },
+        {
+          "text": "را"
+        },
+        {
+          "text": "خواندم"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_ra_1",
+      "incorrect": "من را کتاب خواندم.",
+      "explanation": "Place 'را' immediately AFTER the direct specific object."
+    }
+  ]
+}

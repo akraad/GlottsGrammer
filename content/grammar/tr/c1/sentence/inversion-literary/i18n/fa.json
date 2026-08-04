@@ -1,0 +1,18 @@
+{
+  "title": "وارونگی در متون ادبی و شعرگونه",
+  "summary": "جابه‌جایی ارکان جمله برای تأثیرگذاری عمیق هنری.",
+  "explanation": "جابه‌جایی ارکان جمله برای تأثیرگذاری عمیق هنری.",
+  "rules": [
+    "Fronted Verb + Subject/Modifiers"
+  ],
+  "example_translations": {
+    "ex_c1_1": "Okudu sabaha kadar bütün kitapları."
+  },
+  "common_error_explanations": {
+    "err_c1_1": "Use poetic inversion only for literary emphasis."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "خواندن"
+  },
+  "locale": "fa"
+}

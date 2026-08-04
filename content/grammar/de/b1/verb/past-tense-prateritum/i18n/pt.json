@@ -1,0 +1,18 @@
+{
+  "locale": "pt",
+  "title": "[PT] [PT] German Präteritum Tense",
+  "summary": "[PT] [PT] German Präteritum Tense",
+  "explanation": "[PT] [PT] German Präteritum Tense",
+  "rules": [
+    "Subjekt + Präteritum-Verb (Pos 2) + ..."
+  ],
+  "example_translations": {
+    "ex_de_b1": "Ich war früher in dieser Stadt."
+  },
+  "common_error_explanations": {
+    "err_de_b1": "Präteritum is primarily used in narrative and written German for past events, especially with 'sein', 'haben', and modal verbs."
+  },
+  "vocab_glosses": {
+    "de.vocab.stadt": "term"
+  }
+}

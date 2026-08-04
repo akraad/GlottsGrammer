@@ -1,0 +1,18 @@
+{
+  "locale": "en",
+  "title": "Advice and Obligation (Should / Must)",
+  "summary": "Use 'should' for advice and 'must' for strong obligation.",
+  "explanation": "Follow 'should' or 'must' directly with the base form of the verb.",
+  "rules": [
+    "Subject + should/must + base verb"
+  ],
+  "example_translations": {
+    "ex_mod_1": "You should study every day."
+  },
+  "common_error_explanations": {
+    "err_mod_1": "Never place 'to' after should or must."
+  },
+  "vocab_glosses": {
+    "en.vocab.study": "study"
+  }
+}

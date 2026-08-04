@@ -1,0 +1,18 @@
+{
+  "title": "Turkish Copula Suffixes ('To Be')",
+  "summary": "Predicate personal suffixes attached to nouns and adjectives.",
+  "explanation": "In Turkish, 'to be' is expressed via suffixes attached directly to words (-im, -sin, -dir...), following 4-way vowel harmony.",
+  "rules": [
+    "Noun/Adj + Personal Suffix"
+  ],
+  "example_translations": {
+    "ex_tr_cop_1": "You are a teacher."
+  },
+  "common_error_explanations": {
+    "err_tr_cop_1": "Apply 4-way vowel harmony to copula suffixes."
+  },
+  "vocab_glosses": {
+    "tr.vocab.ogretmen": "teacher"
+  },
+  "locale": "en"
+}

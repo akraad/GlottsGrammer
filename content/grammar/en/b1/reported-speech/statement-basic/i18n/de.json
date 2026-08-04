@@ -1,0 +1,18 @@
+{
+  "title": "Indirekte Rede (Reported Speech)",
+  "summary": "Verwende die indirekte Rede, um zu berichten, was jemand gesagt hat.",
+  "explanation": "Präsens wird in der Regel in die Vergangenheit verschoben.",
+  "rules": [
+    "Präsens -> Präteritum"
+  ],
+  "example_translations": {
+    "ex_rep_1": "Er sagte, dass er glücklich war."
+  },
+  "common_error_explanations": {
+    "err_rep_1": "Passe die Zeitform an die Vergangenheit an."
+  },
+  "vocab_glosses": {
+    "en.vocab.say": "sagen"
+  },
+  "locale": "de"
+}

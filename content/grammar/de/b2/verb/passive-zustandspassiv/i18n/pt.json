@@ -1,0 +1,18 @@
+{
+  "locale": "pt",
+  "title": "[PT] [PT] German Zustandspassiv",
+  "summary": "[PT] [PT] German Zustandspassiv",
+  "explanation": "[PT] [PT] German Zustandspassiv",
+  "rules": [
+    "Subjekt + sein (Pos 2) + ... + Partizip II (Ende)"
+  ],
+  "example_translations": {
+    "ex_de_b2": "Die Tür ist den ganzen Tag geschlossen."
+  },
+  "common_error_explanations": {
+    "err_de_b2": "Zustandspassiv expresses a completed state using 'sein' + Partizip II, unlike Vorgangspassiv which uses 'werden' for actions."
+  },
+  "vocab_glosses": {
+    "de.vocab.tuer": "term"
+  }
+}

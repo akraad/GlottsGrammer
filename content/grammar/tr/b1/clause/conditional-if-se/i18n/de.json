@@ -1,0 +1,18 @@
+{
+  "title": "Türkisches Kondinonalisuffix (-se / -sa)",
+  "summary": "Ausdruck von 'wenn' / Bedingungssätzen.",
+  "explanation": "Füge '-se/-sa' an Verbstämme oder Zeitformen an, gefolgt von speziellen Konditionalendungen.",
+  "rules": [
+    "Verbstamm/Zeit + -se/-sa + Konditionalendung"
+  ],
+  "example_translations": {
+    "ex_trse_1": "Wenn du dieses Buch liest, freue ich mich sehr."
+  },
+  "common_error_explanations": {
+    "err_trse_1": "Verwende das Konditionalisuffix '-se/-sa' für 'wenn'-Bedingungen."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "lesen"
+  },
+  "locale": "de"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Sesli Harfle Biten İsimlerin Çoğul Yapımı",
+  "summary": "(ا, و, ه) ile biten isimlerde (ی, گ) kaynaştırma harfleri ile çoğul yapma.",
+  "explanation": "'-ان' eki getirilirken kaynaştırma harfi olarak 'ی' (دانایان) veya 'گ' (بندگان) eklenir.",
+  "rules": [
+    "Sesli Harfle Biten İsim + Kaynaştırma Harfi (ی/گ) + ان"
+  ],
+  "example_translations": {
+    "ex_vpl_1": "Ülkenin bilgeleri ve hatipleri bir araya geldi."
+  },
+  "common_error_explanations": {
+    "err_vpl_1": "Sesli harfle biten isimleri çoğul yaparken kaynaştırma harfini unutmayın."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "kitap"
+  },
+  "locale": "tr"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Comparative & Superlative Adjectives",
+  "summary": "Forming comparatives (-تر) and superlatives (-ترین) in Persian.",
+  "explanation": "Add suffix '-تر' for comparative (bigger) and '-ترین' before nouns for superlative.",
+  "rules": [
+    "Adjective + تر (Comparative)",
+    "ترین + Noun (Superlative)"
+  ],
+  "example_translations": {
+    "ex_comp_1": "This house is bigger."
+  },
+  "common_error_explanations": {
+    "err_comp_1": "Attach '-تر' to the end of the adjective."
+  },
+  "vocab_glosses": {
+    "fa.vocab.bozorg": "big"
+  },
+  "locale": "en"
+}

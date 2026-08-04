@@ -1,0 +1,18 @@
+{
+  "title": "نفي الأفعال في الفارسية",
+  "summary": "نفي الفعل باستخدام السابقة 'نـ'.",
+  "explanation": "لنفي الفعل في الفارسية، أضف السابقة 'نـ' إلى بداية الفعل.",
+  "rules": [
+    "نـ + الفعل"
+  ],
+  "example_translations": {
+    "ex_neg_1": "أنا لا أذهب إلى المنزل."
+  },
+  "common_error_explanations": {
+    "err_neg_1": "أضف السابقة 'نـ' إلى بداية الفعل."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "ذهاب"
+  },
+  "locale": "ar"
+}

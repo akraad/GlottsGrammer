@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0.0",
+  "id": "en.a2.verb.past-simple-be",
+  "universal_concept_id": "verb.past.simple.be",
+  "language": "en",
+  "cefr": "A2",
+  "app_level": "elementary",
+  "category": "verb",
+  "status": "approved",
+  "difficulty": 2,
+  "prerequisites": [
+    "en.a1.verb.copula-basic"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "subject"
+        },
+        {
+          "slot": "was_were"
+        }
+      ],
+      "example": "She was happy."
+    }
+  ],
+  "vocab": [
+    "en.vocab.home"
+  ],
+  "examples": [
+    {
+      "id": "ex_be_1",
+      "target_text": "I was at home.",
+      "tokens": [
+        {
+          "text": "I"
+        },
+        {
+          "text": "was"
+        },
+        {
+          "text": "at"
+        },
+        {
+          "text": "home"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_be_1",
+      "incorrect": "They was at home.",
+      "explanation": "Use 'were' with plural subjects and 'you'."
+    }
+  ]
+}

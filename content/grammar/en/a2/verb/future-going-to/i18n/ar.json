@@ -1,0 +1,19 @@
+{
+  "locale": "ar",
+  "title": "Future Intentions (Be going to)",
+  "summary": "Use 'be going to' for planned future actions and intentions.",
+  "explanation": "Form it using am/is/are + going to + base verb.",
+  "rules": [
+    "Subject + am/is/are + going to + base verb"
+  ],
+  "example_translations": {
+    "ex_goingto_1": "I am going to eat tomorrow."
+  },
+  "common_error_explanations": {
+    "err_goingto_1": "Do not omit am/is/are."
+  },
+  "vocab_glosses": {
+    "en.vocab.eat": "eat",
+    "en.vocab.tomorrow": "tomorrow"
+  }
+}

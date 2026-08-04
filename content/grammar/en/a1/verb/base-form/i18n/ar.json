@@ -1,0 +1,40 @@
+{
+  "$schema": "../../../../../schemas/grammar-i18n.schema.json",
+  "locale": "ar",
+  "translation_status": "draft",
+  "name": "الشكل الأساسي للفعل",
+  "summary": "الشكل الأساسي هو أبسط شكل للفعل بدون أي لواحق. يُستخدم مع I و you و we و they، وبعد do/does في الجمل المنفية والاستفهامية.",
+  "explanation": "لكل فعل إنجليزي خمسة أشكال: الأساسي، والمفرد الغائب (-s)، والماضي، واسم المفعول، واسم الفاعل (-ing). الشكل الأساسي هو الشكل الذي يأتي في القاموس. يُستخدم بعد I/you/we/they، وبعد الأفعال الناقصة (can, will, should)، وفي الجمل المنفية والاستفهامية مع do/does/did.",
+  "form_notes": {
+    "base_with_i_you_we_they": "مع I و you و we و they، استخدم الشكل الأساسي للفعل.",
+    "base_after_does_not": "مع he/she/it في الجملة المنفية، بعد does not يعود الفعل إلى شكله الأساسي.",
+    "base_after_do_question": "في الجملة الاستفهامية مع Do/Does، يأتي الفعل في شكله الأساسي."
+  },
+  "example_translations": {
+    "ex_01": "أشرب الماء.",
+    "ex_02": "لا يشربون الشاي.",
+    "ex_03": "هل تحب هي الماء؟"
+  },
+  "common_error_explanations": {
+    "err_01": "مع I/you/we/they يأتي الفعل في شكله الأساسي بدون -s.",
+    "err_02": "بعد does في السؤال، يعود الفعل الرئيسي إلى شكله الأساسي (بدون -s)."
+  },
+  "vocab_glosses": {
+    "en.verb.drink": "يشرب",
+    "en.noun.water": "ماء",
+    "en.noun.tea": "شاي",
+    "en.verb.like": "يحب",
+    "en.verb.want": "يريد",
+    "en.verb.have": "يملك / لديه",
+    "en.verb.do": "يفعل",
+    "en.vocab.go": "يذهب",
+    "en.vocab.eat": "يأكل",
+    "en.vocab.see": "يرى",
+    "en.verb.come": "يأتي"
+  },
+  "title": "الصيغة الأساسية للفعل",
+  "rules": [
+    "الصيغة الأساسية للفعل بدون أي إضافات.",
+    "تُستخدم بعد الأفعال المساعدة."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Turkish Conditional Suffix (-se / -sa)",
+  "summary": "Expressing conditional 'if' clauses.",
+  "explanation": "Attach '-se/-sa' to verb stems or tense markers, followed by conditional personal endings (e.g., okursan = if you read).",
+  "rules": [
+    "Verb Stem/Tense + -se/-sa + Conditional Ending"
+  ],
+  "example_translations": {
+    "ex_trse_1": "If you read this book, I will be very glad."
+  },
+  "common_error_explanations": {
+    "err_trse_1": "Use conditional suffix '-se/-sa' for 'if' statements."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "read"
+  },
+  "locale": "en"
+}

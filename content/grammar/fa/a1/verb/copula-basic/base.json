@@ -1,0 +1,62 @@
+{
+  "schema_version": "1.0.0",
+  "id": "fa.a1.verb.copula-basic",
+  "universal_concept_id": "verb.copula.basic",
+  "language": "fa",
+  "cefr": "A1",
+  "app_level": "beginner",
+  "category": "verb",
+  "status": "approved",
+  "difficulty": 1,
+  "prerequisites": [
+    "fa.a1.pronoun.personal-subject"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "subject"
+        },
+        {
+          "slot": "complement"
+        },
+        {
+          "slot": "copula"
+        }
+      ],
+      "example": "من در خانه هستم."
+    }
+  ],
+  "vocab": [
+    "fa.vocab.home",
+    "fa.vocab.hastam"
+  ],
+  "examples": [
+    {
+      "id": "ex_fa_cop_1",
+      "target_text": "او در خانه است.",
+      "tokens": [
+        {
+          "text": "او"
+        },
+        {
+          "text": "در"
+        },
+        {
+          "text": "خانه"
+        },
+        {
+          "text": "است"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_fa_cop_1",
+      "incorrect": "او در خانه هستم.",
+      "explanation": "Use 'است' for third person singular (او)."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Discurso Indirecto en Turco",
+  "summary": "Reportar lo que alguien dijo o sucedió.",
+  "explanation": "El turco convierte las oraciones reportadas en estructuras nominalizadas con sufijos participios (-dik).",
+  "rules": [
+    "Sujeto + Verbo Nominalizado (-diğini) + Dijo"
+  ],
+  "example_translations": {
+    "ex_trind_1": "Dijo que leyó el libro."
+  },
+  "common_error_explanations": {
+    "err_trind_1": "Usa oraciones nominalizadas para el discurso indirecto."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "leer"
+  },
+  "locale": "es"
+}

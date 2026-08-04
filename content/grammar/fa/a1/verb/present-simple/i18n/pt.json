@@ -1,0 +1,18 @@
+{
+  "title": "Presente Simples em Persa",
+  "summary": "Expressar hábitos e ações presentes.",
+  "explanation": "Prefixo 'می-' + Raiz do presente + Terminações pessoais.",
+  "rules": [
+    "می- + Raiz do presente + Terminações"
+  ],
+  "example_translations": {
+    "ex_ps_1": "Eu vou para casa."
+  },
+  "common_error_explanations": {
+    "err_ps_1": "Adicione o prefixo 'می-' e conjugue."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "ir"
+  },
+  "locale": "pt"
+}

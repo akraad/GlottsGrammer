@@ -1,0 +1,31 @@
+{
+  "$schema": "../../../../schemas/vocab-base.schema.json",
+  "schema_version": 1,
+  "id": "en.verb.come",
+  "language": "en",
+  "lemma": "come",
+  "pos": "verb",
+  "cefr": "A1",
+  "frequency_rank": 80,
+  "forms": {
+    "base": "come",
+    "third_person_singular": "comes",
+    "past_simple": "came",
+    "past_participle": "come",
+    "present_participle": "coming"
+  },
+  "translations": {
+    "ar": "يَأْتِي",
+    "de": "kommen",
+    "en": "to come",
+    "es": "venir",
+    "fa": "آمدن",
+    "fr": "venir",
+    "hi": "आना",
+    "ja": "来る",
+    "pt": "vir",
+    "ru": "приходить / прийти",
+    "tr": "gelmek"
+  },
+  "tags": ["motion", "daily"]
+}

@@ -1,0 +1,18 @@
+{
+  "title": "目的格表示詞 'را' (Ra)",
+  "summary": "ペルシア語の特定された直接目的語を示します。",
+  "explanation": "助詞 'را' は特定された目的語の直後に置かれます。",
+  "rules": [
+    "特定された目的語 + را"
+  ],
+  "example_translations": {
+    "ex_ra_1": "私はその本を読みました。"
+  },
+  "common_error_explanations": {
+    "err_ra_1": "'را' は目的語のすぐ後ろに配置してください。"
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "本"
+  },
+  "locale": "ja"
+}

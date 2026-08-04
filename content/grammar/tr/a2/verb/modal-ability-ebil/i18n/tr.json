@@ -1,0 +1,18 @@
+{
+  "title": "Yeterlilik Fiili (-ebil / -abil)",
+  "summary": "Yapabilme, gücü yetme ve ihtimal bildirme.",
+  "explanation": "Fiil köküne '-ebil/-abil' (ünlüyle biterse 'y' ile) eklenir ve ardından zaman eki ile şahıs ekleri gelir (yap-abil-ir-im).",
+  "rules": [
+    "Fiil Kökü + -(y)ebil + Zaman Eki + Şahıs Eki"
+  ],
+  "example_translations": {
+    "ex_trebil_1": "Ben bu kitabı okuyabilirim."
+  },
+  "common_error_explanations": {
+    "err_trebil_1": "Yeterlilik için '-ebil/-abil' ekini zaman ekinden önce kullanın."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "okumak"
+  },
+  "locale": "tr"
+}

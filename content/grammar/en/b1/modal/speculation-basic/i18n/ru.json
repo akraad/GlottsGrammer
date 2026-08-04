@@ -1,0 +1,18 @@
+{
+  "title": "Предположение (Might, May, Could)",
+  "summary": "Используйте might, may или could для выражения вероятности.",
+  "explanation": "Подлежащее + might/may/could + глагол.",
+  "rules": [
+    "Без частицы 'to'."
+  ],
+  "example_translations": {
+    "ex_spec_1": "Сегодня может пойти дождь."
+  },
+  "common_error_explanations": {
+    "err_spec_1": "Не ставьте 'to' после might."
+  },
+  "vocab_glosses": {
+    "en.vocab.rain": "идти (о дожде)"
+  },
+  "locale": "ru"
+}

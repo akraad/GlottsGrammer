@@ -1,0 +1,18 @@
+{
+  "title": "トルコ語の条件接尾辞 (-se / -sa)",
+  "summary": "「もし〜なら」という条件文を表します。",
+  "explanation": "動詞語幹や時制に '-se/-sa' を付け、その後に条件用の人称接尾辞を付けます (okursan = もし読むなら)。",
+  "rules": [
+    "動詞語幹/時制 + -se/-sa + 条件接尾辞"
+  ],
+  "example_translations": {
+    "ex_trse_1": "もしこの本を読むなら、とても嬉しいです。"
+  },
+  "common_error_explanations": {
+    "err_trse_1": "条件文には条件接尾辞 '-se/-sa' を使用してください。"
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "読む"
+  },
+  "locale": "ja"
+}

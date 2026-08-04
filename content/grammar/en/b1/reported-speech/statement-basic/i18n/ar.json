@@ -1,0 +1,18 @@
+{
+  "title": "الكلام المنقول",
+  "summary": "يُستخدم لنقل ما قاله شخص آخر.",
+  "explanation": "يتم تحويل زمن الفعل خطوة إلى الماضي.",
+  "rules": [
+    "المضارع البسيط -> الماضي البسيط"
+  ],
+  "example_translations": {
+    "ex_rep_1": "قال إنه كان سعيدًا."
+  },
+  "common_error_explanations": {
+    "err_rep_1": "غير زمن الفعل إلى الماضي."
+  },
+  "vocab_glosses": {
+    "en.vocab.say": "يقول"
+  },
+  "locale": "ar"
+}

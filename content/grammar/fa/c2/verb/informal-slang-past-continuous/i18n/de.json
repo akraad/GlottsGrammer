@@ -1,0 +1,18 @@
+{
+  "title": "Umgangssprachliches Präteritum Progressiv",
+  "summary": "Ausdruck von Handlungen mitten in der Vergangenheit in der Alltagssprache.",
+  "explanation": "Im modernen Persisch kombiniert man konjugiertes 'داشتن' mit dem 'می-'-Verb (z. B. داشتم می‌رفتم).",
+  "rules": [
+    "Konjugiertes داشتن + Mi- Verb"
+  ],
+  "example_translations": {
+    "ex_dasht_1": "Ich war gerade auf dem Weg nach Hause, als ich ihn/sie sah."
+  },
+  "common_error_explanations": {
+    "err_dasht_1": "Konjugiere beide Verben mit denselben Personalendungen."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "gehen"
+  },
+  "locale": "de"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Persische Konzessivsätze (اگرچه)",
+  "summary": "Ausdruck von Gegensätzen mit 'اگرچه' oder 'با اینکه' (Obwohl).",
+  "explanation": "Setze 'اگرچه' an den Anfang des Konzessivsatzes.",
+  "rules": [
+    "اگرچه + Nebensatz, اما + Hauptsatz"
+  ],
+  "example_translations": {
+    "ex_conc_1": "Obwohl es regnerisch war, ging er/sie nach draußen."
+  },
+  "common_error_explanations": {
+    "err_conc_1": "Verwende 'اگرچه' für Gegensätze zwischen Aussagen."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "gehen"
+  },
+  "locale": "de"
+}

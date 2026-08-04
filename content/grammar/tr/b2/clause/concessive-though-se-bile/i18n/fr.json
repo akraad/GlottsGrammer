@@ -1,0 +1,18 @@
+{
+  "title": "Propositions Concessives ('Même si' -se bile)",
+  "summary": "Exprimer la concession avec 'même si'.",
+  "explanation": "Combinez le suffixe conditionnel '-se/-sa' avec le mot 'bile' (même) pour exprimer 'même si'.",
+  "rules": [
+    "Radical du Verbe + -se/-sa + bile"
+  ],
+  "example_translations": {
+    "ex_trbile_1": "Même s'il vient demain, je ne pourrai pas le voir."
+  },
+  "common_error_explanations": {
+    "err_trbile_1": "Utilisez '-se bile' pour exprimer 'même si'."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "lire"
+  },
+  "locale": "fr"
+}

@@ -1,0 +1,65 @@
+{
+  "schema_version": "1.0.0",
+  "id": "de.b2.verb.subjunctive-ii-past",
+  "universal_concept_id": "verb.subjunctive2.past.german",
+  "language": "de",
+  "cefr": "B2",
+  "app_level": "upper-intermediate",
+  "category": "verb",
+  "status": "approved",
+  "difficulty": 5,
+  "prerequisites": [
+    "de.b1.verb.subjunctive-ii-polite",
+    "de.a2.verb.past-tense-perfekt"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "subject"
+        },
+        {
+          "slot": "hätte_or_wäre_pos2"
+        },
+        {
+          "slot": "partizip_ii_at_end"
+        }
+      ],
+      "example": "Ich hätte das gemacht"
+    }
+  ],
+  "vocab": [
+    "de.vocab.zeit"
+  ],
+  "examples": [
+    {
+      "id": "ex_de_b2",
+      "target_text": "Ich hätte das früher gemacht, wenn ich Zeit gehabt hätte.",
+      "tokens": [
+        {
+          "text": "Ich"
+        },
+        {
+          "text": "hätte"
+        },
+        {
+          "text": "das"
+        },
+        {
+          "text": "früher"
+        },
+        {
+          "text": "gemacht..."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_de_b2",
+      "incorrect": "Ich habe das gemacht (for unreal past condition).",
+      "explanation": "Use Konjunktiv II past form (hätte/wäre + Partizip II) to express counterfactuals or regrets about the past."
+    }
+  ]
+}

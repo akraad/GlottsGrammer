@@ -1,0 +1,27 @@
+{
+  "id": "en.noun.school",
+  "language": "en",
+  "lemma": "school",
+  "pos": "noun",
+  "cefr": "A1",
+  "frequency_rank": 400,
+  "countable": true,
+  "plural": "schools",
+  "tags": [
+    "place",
+    "education"
+  ],
+  "translations": {
+    "ar": "مدرسة",
+    "de": "Schule",
+    "en": "school",
+    "es": "escuela",
+    "fa": "مدرسه",
+    "fr": "école",
+    "hi": "स्कूल",
+    "ja": "学校",
+    "pt": "escola",
+    "ru": "школа",
+    "tr": "okul"
+  }
+}

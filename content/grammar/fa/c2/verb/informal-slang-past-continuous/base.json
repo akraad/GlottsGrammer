@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0.0",
+  "id": "fa.c2.verb.informal-slang-past-continuous",
+  "universal_concept_id": "verb.informal.slang.past.continuous",
+  "language": "fa",
+  "cefr": "C2",
+  "app_level": "mastery",
+  "category": "verb",
+  "status": "approved",
+  "difficulty": 3,
+  "prerequisites": [
+    "fa.a2.verb.past-continuous"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "dashtan_conjugated"
+        },
+        {
+          "slot": "mi_past_verb"
+        }
+      ],
+      "example": "داشتم می‌رفتم"
+    }
+  ],
+  "vocab": [
+    "fa.vocab.raftan"
+  ],
+  "examples": [
+    {
+      "id": "ex_dasht_1",
+      "target_text": "داشتم می‌رفتم خونه که دیدمش.",
+      "tokens": [
+        {
+          "text": "داشتم"
+        },
+        {
+          "text": "می‌رفتم"
+        },
+        {
+          "text": "خونه"
+        },
+        {
+          "text": "که"
+        },
+        {
+          "text": "دیدمش."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_dasht_1",
+      "incorrect": "داشتم رفتم خونه که دیدمش.",
+      "explanation": "Always pair conjugated 'داشتن' with matching conjugated 'می-' verb in conversational Persian."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Past Simple Passive",
+  "summary": "Use past passive for completed past actions focusing on the object.",
+  "explanation": "Was/Were + Past Participle.",
+  "rules": [
+    "Singular -> Was + Participle",
+    "Plural -> Were + Participle"
+  ],
+  "example_translations": {
+    "ex_psp_1": "This house was built in 1990."
+  },
+  "common_error_explanations": {
+    "err_psp_1": "Always use past participle in passive voice."
+  },
+  "vocab_glosses": {
+    "en.vocab.build": "build"
+  },
+  "locale": "en"
+}

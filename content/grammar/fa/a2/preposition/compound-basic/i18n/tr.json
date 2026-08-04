@@ -1,0 +1,18 @@
+{
+  "title": "Farsça Birleşik Edatlar",
+  "summary": "İzafet gerektiren edatların kullanımı (دربارهٔ, برایِ, بدونِ).",
+  "explanation": "Birleşik edatlar isme İzafet sesi ile bağlanır.",
+  "rules": [
+    "Birleşik Edat + İzafet + İsim"
+  ],
+  "example_translations": {
+    "ex_cprep_1": "Bu kitap hakkında konuştuk."
+  },
+  "common_error_explanations": {
+    "err_cprep_1": "Birleşik edatlardan sonra İzafet sesini unutmayın."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "kitap"
+  },
+  "locale": "tr"
+}

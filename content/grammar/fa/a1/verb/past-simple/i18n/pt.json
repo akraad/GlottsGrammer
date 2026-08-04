@@ -1,0 +1,18 @@
+{
+  "title": "Passado Simples em Persa",
+  "summary": "Expressar ações concluídas no passado.",
+  "explanation": "Raiz do Passado + Sufixos Pessoais.",
+  "rules": [
+    "Raiz do Passado + Sufixos"
+  ],
+  "example_translations": {
+    "ex_past_1": "Ontem eu fui para casa."
+  },
+  "common_error_explanations": {
+    "err_past_1": "Use a raiz do passado para ações passadas."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "ir"
+  },
+  "locale": "pt"
+}

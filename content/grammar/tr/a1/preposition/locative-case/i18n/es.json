@@ -1,0 +1,19 @@
+{
+  "title": "Caso Locativo en Turco (-da / -de / -ta / -te)",
+  "summary": "Expresar 'en' o 'sobre' una ubicación.",
+  "explanation": "Añade '-da/-de' según la armonía vocálica. Cambia a '-ta/-te' tras consonantes sordas.",
+  "rules": [
+    "Sustantivo + Sufijo Locativo"
+  ],
+  "example_translations": {
+    "ex_trloc_1": "Ali está en casa ahora mismo."
+  },
+  "common_error_explanations": {
+    "err_trloc_1": "Verifica la armonía vocálica y asimilación consonántica."
+  },
+  "vocab_glosses": {
+    "tr.vocab.ev": "casa",
+    "tr.vocab.kitap": "libro"
+  },
+  "locale": "es"
+}

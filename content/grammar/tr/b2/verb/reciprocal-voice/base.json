@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0.0",
+  "id": "tr.b2.verb.reciprocal-voice",
+  "universal_concept_id": "verb.reciprocal.voice",
+  "language": "tr",
+  "cefr": "B2",
+  "app_level": "upper-intermediate",
+  "category": "verb",
+  "status": "approved",
+  "difficulty": 4,
+  "prerequisites": [
+    "tr.b1.verb.passive-voice"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "verb_stem"
+        },
+        {
+          "slot": "ish_suffix"
+        },
+        {
+          "slot": "tense_suffix"
+        }
+      ],
+      "example": "görüştük"
+    }
+  ],
+  "vocab": [
+    "tr.vocab.okumak"
+  ],
+  "examples": [
+    {
+      "id": "ex_trrec_1",
+      "target_text": "Biz dün arkadaşla görüştük.",
+      "tokens": [
+        {
+          "text": "Biz"
+        },
+        {
+          "text": "dün"
+        },
+        {
+          "text": "arkadaşla"
+        },
+        {
+          "text": "görüştük."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_trrec_1",
+      "incorrect": "Biz dün arkadaşla gördük birbirimizi.",
+      "explanation": "Use reciprocal suffix '-iş/-ış/-uş/-üş' to indicate mutual or reciprocal actions performed together."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Complex Subordinating Clauses in Persian",
+  "summary": "Connecting clauses using advanced complex conjunctions (به‌محضِ آن‌که, همین‌که).",
+  "explanation": "Advanced Persian uses compound conjunctions for precise temporal or causal relationships.",
+  "rules": [
+    "Complex Conjunction + Subordinate Clause + Main Clause"
+  ],
+  "example_translations": {
+    "ex_csub_1": "As soon as he/she arrived, the meeting started."
+  },
+  "common_error_explanations": {
+    "err_csub_1": "Ensure full conjunction forms like 'به‌محضِ آن‌که' are used correctly."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "go"
+  },
+  "locale": "en"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Orações Relativas em Persa (که)",
+  "summary": "Descrever substantivos usando o marcador relativo 'که' (que/o qual).",
+  "explanation": "Substantivo + 'ی' restritivo + که + Oração relativa.",
+  "rules": [
+    "Substantivo + ی + که + Oração Relativa"
+  ],
+  "example_translations": {
+    "ex_rel_1": "O livro que eu comprei é interessante."
+  },
+  "common_error_explanations": {
+    "err_rel_1": "Adicione o 'ی' restritivo ao substantivo antes de 'که'."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "livro"
+  },
+  "locale": "pt"
+}

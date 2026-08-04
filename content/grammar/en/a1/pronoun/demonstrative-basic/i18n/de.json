@@ -1,0 +1,19 @@
+{
+  "locale": "de",
+  "title": "Demonstratives (This, That, These, Those)",
+  "summary": "Use this/these for near objects, that/those for far objects.",
+  "explanation": "This and That are singular; These and Those are plural.",
+  "rules": [
+    "This/That -> Singular",
+    "These/Those -> Plural"
+  ],
+  "example_translations": {
+    "ex_demo_1": "This is a pen."
+  },
+  "common_error_explanations": {
+    "err_demo_1": "Do not mix singular/plural demonstratives."
+  },
+  "vocab_glosses": {
+    "en.vocab.pen": "pen"
+  }
+}

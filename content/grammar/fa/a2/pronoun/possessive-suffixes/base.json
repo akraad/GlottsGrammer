@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0.0",
+  "id": "fa.a2.pronoun.possessive-suffixes",
+  "universal_concept_id": "pronoun.possessive.suffixes",
+  "language": "fa",
+  "cefr": "A2",
+  "app_level": "elementary",
+  "category": "pronoun",
+  "status": "approved",
+  "difficulty": 2,
+  "prerequisites": [
+    "fa.a1.pronoun.personal-subject"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "noun"
+        },
+        {
+          "slot": "possessive_suffix"
+        }
+      ],
+      "example": "کتابم"
+    }
+  ],
+  "vocab": [
+    "fa.vocab.book"
+  ],
+  "examples": [
+    {
+      "id": "ex_psuf_1",
+      "target_text": "کتابم روی میز است.",
+      "tokens": [
+        {
+          "text": "کتابم"
+        },
+        {
+          "text": "روی"
+        },
+        {
+          "text": "میز"
+        },
+        {
+          "text": "است"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_psuf_1",
+      "incorrect": "کتاب‌من روی میز است.",
+      "explanation": "Use attached possessive suffixes (-م, -ت, -ش) instead of standalone pronouns for natural attachment."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "locale": "en",
+  "title": "First Conditional",
+  "summary": "Use First Conditional for real possibilities in the future.",
+  "explanation": "Structure: If + Present Simple, Subject + Will + Base Verb.",
+  "rules": [
+    "If clause -> Present Simple",
+    "Main clause -> Will + Base Verb"
+  ],
+  "example_translations": {
+    "ex_fc_1": "If it rains, I will stay home."
+  },
+  "common_error_explanations": {
+    "err_fc_1": "Never use 'will' inside the 'if' clause itself."
+  },
+  "vocab_glosses": {
+    "en.vocab.rain": "rain",
+    "en.vocab.home": "home"
+  }
+}

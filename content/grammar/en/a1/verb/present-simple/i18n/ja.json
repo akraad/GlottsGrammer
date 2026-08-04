@@ -1,0 +1,31 @@
+{
+  "$schema": "../../../../../schemas/grammar-i18n.schema.json",
+  "locale": "ja",
+  "translation_status": "draft",
+  "name": "現在形",
+  "summary": "現在形：習慣、事実、日常的なルーティンに使います。",
+  "explanation": "英語の現在形は、習慣や一般的な事実、日常的に繰り返す動作について話すときに使います。",
+  "form_notes": {
+    "affirmative": "主語 ＋ 動詞の原形。英語では三人称単数現在（he/she/it）の場合、通常 -s または -es を動詞に付けます。",
+    "negative": "主語 ＋ do/does ＋ not ＋ 動詞の原形。",
+    "question": "Do/Does ＋ 主語 ＋ 動詞の原形？"
+  },
+  "example_translations": {
+    "ex_01": "私は毎日水を飲みます。",
+    "ex_02": "彼女はコーヒーを飲みません。",
+    "ex_03": "あなたは毎日水を飲みますか？"
+  },
+  "common_error_explanations": {
+    "err_01": "英語の現在形では、主語が he、she、it の場合、動詞に通常 -s または -es を付けます。"
+  },
+  "vocab_glosses": {
+    "en.verb.drink": "飲む",
+    "en.noun.water": "水",
+    "en.phrase.every-day": "毎日"
+  },
+  "title": "現在形 (Present Simple)",
+  "rules": [
+    "習慣や一般的な事実に使用します。",
+    "he/she/it の場合は動詞に s/es を付けます。"
+  ]
+}

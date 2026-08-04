@@ -1,0 +1,18 @@
+{
+  "title": "صفت فاعلی و جملات موصولی در ترکی (-en / -an)",
+  "summary": "ساخت صفت ملقب و موصولی با پسوندهای '-en / -an'.",
+  "explanation": "با افزودن '-en/-an' به بن فعل، صفت فاعلی پیش از اسم قرار می‌گیرد (okuyan çocuk = کودکی که می‌خواند).",
+  "rules": [
+    "بن فعل + -en/-an + اسم"
+  ],
+  "example_translations": {
+    "ex_tren_1": "کودکی که کتاب می‌خواند بسیار باهوش است."
+  },
+  "common_error_explanations": {
+    "err_tren_1": "برای توصیف اسم با فعل از پسوند '-en/-an' استفاده کنید."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "خواندن"
+  },
+  "locale": "fa"
+}

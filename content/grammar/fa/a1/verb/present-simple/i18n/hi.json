@@ -1,0 +1,18 @@
+{
+  "title": "फ़ारसी में वर्तमान काल (Present Simple)",
+  "summary": "आदतों और वर्तमान कार्यों को व्यक्त करना।",
+  "explanation": "उपसर्ग 'می-' + वर्तमान धातु + पुरुषवाचक प्रत्यय।",
+  "rules": [
+    "می- + वर्तमान धातु + प्रत्यय"
+  ],
+  "example_translations": {
+    "ex_ps_1": "मैं घर जा रहा हूँ।"
+  },
+  "common_error_explanations": {
+    "err_ps_1": "उपसर्ग 'می-' जोड़ें और क्रिया का रूप बदलें।"
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "जाना"
+  },
+  "locale": "hi"
+}

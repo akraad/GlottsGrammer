@@ -1,0 +1,18 @@
+{
+  "title": "Propositions Gérondives en Turco (-ken / -ince)",
+  "summary": "Exprimer la simultanéité ('pendant que', 'en faisant').",
+  "explanation": "Ajoutez '-ken' aux radicaux verbaux ou aux noms pour exprimer 'pendant que' ou 'au momento de'.",
+  "rules": [
+    "Verbe/Nom + -ken"
+  ],
+  "example_translations": {
+    "ex_trken_1": "J'ai acheté du pain en rentrant à la maison."
+  },
+  "common_error_explanations": {
+    "err_trken_1": "Utilisez '-ken' directement pour exprimer la simultanéité."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "lire"
+  },
+  "locale": "fr"
+}

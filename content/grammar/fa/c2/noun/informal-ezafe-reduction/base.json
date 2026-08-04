@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0.0",
+  "id": "fa.c2.noun.informal-ezafe-reduction",
+  "universal_concept_id": "noun.informal.ezafe.reduction",
+  "language": "fa",
+  "cefr": "C2",
+  "app_level": "mastery",
+  "category": "noun",
+  "status": "approved",
+  "difficulty": 3,
+  "prerequisites": [
+    "fa.a1.noun.ezafe-construction"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "spoken_noun_reduction"
+        }
+      ],
+      "example": "خونه"
+    }
+  ],
+  "vocab": [
+    "fa.vocab.home"
+  ],
+  "examples": [
+    {
+      "id": "ex_red_1",
+      "target_text": "می‌خوام برم خونه.",
+      "tokens": [
+        {
+          "text": "می‌خوام"
+        },
+        {
+          "text": "برم"
+        },
+        {
+          "text": "خونه."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_red_1",
+      "incorrect": "می‌خواهم بروم خانه در صحبت رسمی.",
+      "explanation": "In natural spoken Persian, 'خانه' becomes 'خونه', 'می‌خواهم' becomes 'می‌خوام', and 'بروم' becomes 'برم'."
+    }
+  ]
+}

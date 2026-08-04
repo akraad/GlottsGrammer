@@ -1,0 +1,18 @@
+{
+  "title": "ペルシア語の現在形 (Present Simple)",
+  "summary": "習慣や現在の動作を表します。",
+  "explanation": "接頭辞 'می-' + 現在語幹 + 人称語尾。",
+  "rules": [
+    "می- + 現在語幹 + 語尾"
+  ],
+  "example_translations": {
+    "ex_ps_1": "私は家に帰ります。"
+  },
+  "common_error_explanations": {
+    "err_ps_1": "接頭辞 'می-' を付けて動詞を活用させてください。"
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "行く"
+  },
+  "locale": "ja"
+}

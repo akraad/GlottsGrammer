@@ -1,0 +1,18 @@
+{
+  "title": "Prépositions de Base en Persan",
+  "summary": "Exprimer le lieu et la direction (در, به, از, روی).",
+  "explanation": "En persan, les prépositions se placent AVANT le nom.",
+  "rules": [
+    "Préposition + Nom"
+  ],
+  "example_translations": {
+    "ex_prep_1": "Ali est à la maison."
+  },
+  "common_error_explanations": {
+    "err_prep_1": "Placez la préposition avant le nom."
+  },
+  "vocab_glosses": {
+    "fa.vocab.home": "maison"
+  },
+  "locale": "fr"
+}

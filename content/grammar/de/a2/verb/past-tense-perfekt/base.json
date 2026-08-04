@@ -1,0 +1,64 @@
+{
+  "schema_version": "1.0.0",
+  "id": "de.a2.verb.past-tense-perfekt",
+  "universal_concept_id": "verb.past.perfekt.german",
+  "language": "de",
+  "cefr": "A2",
+  "app_level": "elementary",
+  "category": "verb",
+  "status": "approved",
+  "difficulty": 3,
+  "prerequisites": [
+    "de.a1.verb.present-regular"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "subject"
+        },
+        {
+          "slot": "haben_or_sein_pos2"
+        },
+        {
+          "slot": "partizip_ii_at_end"
+        }
+      ],
+      "example": "Ich habe gelesen"
+    }
+  ],
+  "vocab": [
+    "de.vocab.lesen"
+  ],
+  "examples": [
+    {
+      "id": "ex_de_a2",
+      "target_text": "Ich habe ein Buch gelesen.",
+      "tokens": [
+        {
+          "text": "Ich"
+        },
+        {
+          "text": "habe"
+        },
+        {
+          "text": "ein"
+        },
+        {
+          "text": "Buch"
+        },
+        {
+          "text": "gelesen."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_de_a2",
+      "incorrect": "Ich habe gelesen ein Buch.",
+      "explanation": "In Perfekt tense, the auxiliary verb (haben/sein) is in position 2, and the Partizip II goes to the very end."
+    }
+  ]
+}

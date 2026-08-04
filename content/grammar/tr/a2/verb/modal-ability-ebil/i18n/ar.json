@@ -1,0 +1,18 @@
+{
+  "title": "صيغة القدرة والإمكان في التركية (-ebil / -abil)",
+  "summary": "التعبير عن الاستطاعة والقدرة (استطاع / يمكن).",
+  "explanation": "تُضاف اللاحقة '-ebil/-abil' (مع حرف الحماية 'y') إلى جذر الفعل تليها لاحقة الزمن ثم الضمير.",
+  "rules": [
+    "جذر الفعل + -(y)ebil + الزمن + لاحقة الشخص"
+  ],
+  "example_translations": {
+    "ex_trebil_1": "أستطيع قراءة هذا الكتاب."
+  },
+  "common_error_explanations": {
+    "err_trebil_1": "ضع لاحقة القدرة قبل لاحقة الزمن."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "قراءة"
+  },
+  "locale": "ar"
+}

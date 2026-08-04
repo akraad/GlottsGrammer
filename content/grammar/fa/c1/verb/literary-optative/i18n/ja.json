@@ -1,0 +1,18 @@
+{
+  "title": "ペルシア語の古典・文学的願望法 (Optative)",
+  "summary": "古典文学における祈願や祝福の表現 (باد, مباد)。",
+  "explanation": "現在語幹に接尾辞 '-اد' を付けて形成されます (例: باد = 〜あれ)。",
+  "rules": [
+    "現在語幹 + -اد"
+  ],
+  "example_translations": {
+    "ex_opt_1": "イランの名が永遠に不滅でありますように。"
+  },
+  "common_error_explanations": {
+    "err_opt_1": "古風な願望法と現代の接続法を混同しないでください。"
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "行く"
+  },
+  "locale": "ja"
+}

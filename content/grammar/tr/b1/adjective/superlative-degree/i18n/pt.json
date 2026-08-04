@@ -1,0 +1,18 @@
+{
+  "title": "Adjetivos Superlativos em Turco (En)",
+  "summary": "Formar adjetivos superlativos ('o mais').",
+  "explanation": "Coloque a palavra 'en' logo antes do adjetivo para formar o grau superlativo (ex. en büyük = o maior).",
+  "rules": [
+    "en + Adjetivo"
+  ],
+  "example_translations": {
+    "ex_trsup_1": "Esta é a maior casa da cidade."
+  },
+  "common_error_explanations": {
+    "err_trsup_1": "Use 'en' antes do adjetivo para o superlativo."
+  },
+  "vocab_glosses": {
+    "tr.vocab.ev": "casa"
+  },
+  "locale": "pt"
+}

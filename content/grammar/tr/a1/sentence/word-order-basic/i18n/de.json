@@ -1,0 +1,19 @@
+{
+  "title": "Türkische Satzstellung (SOV)",
+  "summary": "Subjekt - Objekt - Verb Satzstruktur.",
+  "explanation": "Im Standardtürkischen steht das Verb immer am ENDE des Satzes (Subjekt - Objekt - Verb).",
+  "rules": [
+    "Subjekt + Objekt + Verb am Ende"
+  ],
+  "example_translations": {
+    "ex_tr_wo_1": "Ich lese ein Buch."
+  },
+  "common_error_explanations": {
+    "err_tr_wo_1": "Setze das Verb immer ans ENDE des Satzes."
+  },
+  "vocab_glosses": {
+    "tr.vocab.kitap": "Buch",
+    "tr.vocab.okumak": "lesen"
+  },
+  "locale": "de"
+}

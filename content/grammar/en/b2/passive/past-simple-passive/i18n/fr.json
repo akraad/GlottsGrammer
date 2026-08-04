@@ -1,0 +1,19 @@
+{
+  "title": "Voix Passive au Passé Simple",
+  "summary": "Utilisez le passé passif pour des actions passées axées sur l'objet.",
+  "explanation": "Was/Were + Participe Passé.",
+  "rules": [
+    "Singulier -> Was + Participe",
+    "Pluriel -> Were + Participe"
+  ],
+  "example_translations": {
+    "ex_psp_1": "Cette maison a été construite en 1990."
+  },
+  "common_error_explanations": {
+    "err_psp_1": "Utilisez le participe passé à la voix passive."
+  },
+  "vocab_glosses": {
+    "en.vocab.build": "construire"
+  },
+  "locale": "fr"
+}

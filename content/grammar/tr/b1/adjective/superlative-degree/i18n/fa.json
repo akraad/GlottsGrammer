@@ -1,0 +1,18 @@
+{
+  "title": "صفت عالی در ترکی (En)",
+  "summary": "ساخت صفت برترین با کلمه en (ترین / درین).",
+  "explanation": "برای ساخت صفت عالی، کلمه «en» پیش از صفت قرار می‌گیرد (en büyük = بزرگ‌ترین).",
+  "rules": [
+    "en + صفت"
+  ],
+  "example_translations": {
+    "ex_trsup_1": "این بزرگ‌ترین خانه در شهر است."
+  },
+  "common_error_explanations": {
+    "err_trsup_1": "برای بیان برترین حالت از کلمه 'en' پیش از صفت استفاده کنید."
+  },
+  "vocab_glosses": {
+    "tr.vocab.ev": "خانه"
+  },
+  "locale": "fa"
+}

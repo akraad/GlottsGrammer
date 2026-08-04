@@ -1,0 +1,18 @@
+{
+  "title": "Farsça Belirli Geçmiş Zaman (-di'li)",
+  "summary": "Geçmişte tamamlanmış eylemleri ifade eder.",
+  "explanation": "Geçmiş Zaman Kökü + Şahıs Ekleri.",
+  "rules": [
+    "Geçmiş Zaman Kökü + Ekler"
+  ],
+  "example_translations": {
+    "ex_past_1": "Dün eve gittim."
+  },
+  "common_error_explanations": {
+    "err_past_1": "Geçmiş eylemler için geçmiş zaman kökünü kullanın."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "gitmek"
+  },
+  "locale": "tr"
+}

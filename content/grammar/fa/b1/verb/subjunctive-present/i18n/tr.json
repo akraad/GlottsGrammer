@@ -1,0 +1,18 @@
+{
+  "title": "Farsça İstek-Dilek Kipi (Muzari-yi İltizami)",
+  "summary": "İstek, şüphe ve gereklilik bildirir.",
+  "explanation": "'بـ' ön eki + Geniş Zaman Kökü + Şahıs Ekleri.",
+  "rules": [
+    "بـ + Geniş Zaman Kökü + Ekler"
+  ],
+  "example_translations": {
+    "ex_subj_1": "Eve gitmek istiyorum."
+  },
+  "common_error_explanations": {
+    "err_subj_1": "İstek bildiren fiillerden sonra istek kipini kullanın."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "gitmek"
+  },
+  "locale": "tr"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Persian Reported Speech (گفت که)",
+  "summary": "Relaying someone's words indirectly using 'که'.",
+  "explanation": "Subject + گفت + که + Indirect Statement.",
+  "rules": [
+    "گفت + که + Reported Statement"
+  ],
+  "example_translations": {
+    "ex_rep_1": "Ali said that he was going home."
+  },
+  "common_error_explanations": {
+    "err_rep_1": "Adjust pronouns and verb endings in indirect speech with 'که'."
+  },
+  "vocab_glosses": {
+    "fa.vocab.home": "home"
+  },
+  "locale": "en"
+}

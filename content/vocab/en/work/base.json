@@ -1,0 +1,31 @@
+{
+  "$schema": "../../../../schemas/vocab-base.schema.json",
+  "schema_version": 1,
+  "id": "en.verb.work",
+  "language": "en",
+  "lemma": "work",
+  "pos": "verb",
+  "cefr": "A1",
+  "frequency_rank": 200,
+  "forms": {
+    "base": "work",
+    "third_person_singular": "works",
+    "present_participle": "working",
+    "past_simple": "worked",
+    "past_participle": "worked"
+  },
+  "translations": {
+    "ar": "يعمل",
+    "de": "arbeiten",
+    "en": "to work",
+    "es": "trabajar",
+    "fa": "کار کردن",
+    "fr": "travailler",
+    "hi": "काम करना",
+    "ja": "働く",
+    "pt": "trabalhar",
+    "ru": "работать",
+    "tr": "çalışmak"
+  },
+  "tags": ["daily routine", "action", "A1-core"]
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Sufijos de Plural en Turco (-lar / -ler)",
+  "summary": "Formar plurales siguiendo la armonía vocálica mayor.",
+  "explanation": "Añade '-lar' si la última vocal es posterior (a, ı, o, u), y '-ler' si es anterior (e, i, ö, ü).",
+  "rules": [
+    "Vocales Posteriores (a, ı, o, u) -> -lar",
+    "Vocales Anteriores (e, i, ö, ü) -> -ler"
+  ],
+  "example_translations": {
+    "ex_tr_pl_1": "Hay libros en la mesa."
+  },
+  "common_error_explanations": {
+    "err_tr_pl_1": "No añadas '-ler' a palabras con vocales posteriores."
+  },
+  "vocab_glosses": {
+    "tr.vocab.kitap": "libro",
+    "tr.vocab.ev": "casa"
+  },
+  "locale": "es"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "ペルシア語の現在完了形",
+  "summary": "現在に関連する過去の動作を表します。",
+  "explanation": "過去分詞 (過去語幹 + ﻩ) + 人称接尾辞。",
+  "rules": [
+    "過去分詞 + 接尾辞"
+  ],
+  "example_translations": {
+    "ex_perf_1": "私はこの本を読んだことがあります。"
+  },
+  "common_error_explanations": {
+    "err_perf_1": "現在に影響が残る過去の動詞には現在完了形を使用します。"
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "行く"
+  },
+  "locale": "ja"
+}

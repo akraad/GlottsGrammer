@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0.0",
+  "id": "tr.c1.phrase.idiomatic-advanced-structures",
+  "universal_concept_id": "phrase.idiomatic.advanced.structures",
+  "language": "tr",
+  "cefr": "C1",
+  "app_level": "advanced",
+  "category": "clause",
+  "status": "approved",
+  "difficulty": 5,
+  "prerequisites": [
+    "tr.c1.clause.nominalization-mamak"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "idiomatic_expression"
+        }
+      ],
+      "example": "ete kemiğe bürünmek"
+    }
+  ],
+  "vocab": [
+    "tr.vocab.okumak"
+  ],
+  "examples": [
+    {
+      "id": "ex_c1_1",
+      "target_text": "Proje sonunda ete kemiğe büründü.",
+      "tokens": [
+        {
+          "text": "Proje"
+        },
+        {
+          "text": "sonunda"
+        },
+        {
+          "text": "ete"
+        },
+        {
+          "text": "kemiğe"
+        },
+        {
+          "text": "büründü."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_c1_1",
+      "incorrect": "Proje sonunda gerçek oldu doğrudan.",
+      "explanation": "Use native C1 idiomatic idioms and metaphors for master-level fluency."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "title": "現在形の受動態 (Passive Voice)",
+  "summary": "動作主よりも動作そのものが重要な場合に受動態を使用します。",
+  "explanation": "am/is/are + 過去分詞 (Past Participle) で作ります。",
+  "rules": [
+    "主語 + am/is/are + 過去分詞"
+  ],
+  "example_translations": {
+    "ex_pass_1": "車はこの街で作られています。"
+  },
+  "common_error_explanations": {
+    "err_pass_1": "受動態では常に動詞の過去分詞形を使用してください。"
+  },
+  "vocab_glosses": {
+    "en.vocab.car": "車",
+    "en.vocab.make": "作る",
+    "en.vocab.city": "街 / 都市"
+  },
+  "locale": "ja"
+}

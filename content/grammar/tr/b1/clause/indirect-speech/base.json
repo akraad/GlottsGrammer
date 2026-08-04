@@ -1,0 +1,67 @@
+{
+  "schema_version": "1.0.0",
+  "id": "tr.b1.clause.indirect-speech",
+  "universal_concept_id": "clause.indirect.speech",
+  "language": "tr",
+  "cefr": "B1",
+  "app_level": "intermediate",
+  "category": "clause",
+  "status": "approved",
+  "difficulty": 4,
+  "prerequisites": [
+    "tr.a2.preposition.genitive-case"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "subject"
+        },
+        {
+          "slot": "genitive_modifier"
+        },
+        {
+          "slot": "verbal_noun_dik"
+        },
+        {
+          "slot": "possessive_suffix"
+        },
+        {
+          "slot": "accusative_suffix"
+        },
+        {
+          "slot": "demek_verb"
+        }
+      ],
+      "example": "okuduğunu söyledi"
+    }
+  ],
+  "vocab": [
+    "tr.vocab.okumak"
+  ],
+  "examples": [
+    {
+      "id": "ex_trind_1",
+      "target_text": "Kitap okuduğunu söyledi.",
+      "tokens": [
+        {
+          "text": "Kitap"
+        },
+        {
+          "text": "okuduğunu"
+        },
+        {
+          "text": "söyledi."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_trind_1",
+      "incorrect": "Kitap okudu söyledi.",
+      "explanation": "Use verbal noun suffixes like '-diği/-düğü' combined with possessive and accusative markers for reported speech clauses."
+    }
+  ]
+}

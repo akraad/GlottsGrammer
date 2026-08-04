@@ -1,0 +1,18 @@
+{
+  "title": "حروف اضافه پایه (در، به، از، روی)",
+  "summary": "کاربرد حروف اضافه برای بیان زمان و مکان.",
+  "explanation": "حروف اضافه در فارسی قبل از اسم قرار می‌گیرند.",
+  "rules": [
+    "حرف اضافه + اسم"
+  ],
+  "example_translations": {
+    "ex_prep_1": "علی در خانه است."
+  },
+  "common_error_explanations": {
+    "err_prep_1": "حرف اضافه را قبل از اسم قرار دهید."
+  },
+  "vocab_glosses": {
+    "fa.vocab.home": "خانه"
+  },
+  "locale": "fa"
+}

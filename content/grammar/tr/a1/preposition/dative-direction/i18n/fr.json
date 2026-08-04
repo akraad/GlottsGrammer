@@ -1,0 +1,18 @@
+{
+  "title": "Cas Datif en Turc (-a / -e)",
+  "summary": "Exprimer 'à', 'vers' une destination.",
+  "explanation": "Ajoute '-a/-e' selon l'harmonie vocalique. Si le mot se termine par une voyelle, insérez 'y'.",
+  "rules": [
+    "Nom + -(y)a / -(y)e"
+  ],
+  "example_translations": {
+    "ex_trdat_1": "Je vais à la maison."
+  },
+  "common_error_explanations": {
+    "err_trdat_1": "Utilisez '-e' pour les mots avec des voyelles claires."
+  },
+  "vocab_glosses": {
+    "tr.vocab.ev": "maison"
+  },
+  "locale": "fr"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "ペルシア語の未来形",
+  "summary": "公式な未来の動作を表します。",
+  "explanation": "助動詞 'خواه' + 人称語尾 + 過去語幹。",
+  "rules": [
+    "خواه + 語尾 + 過去語幹"
+  ],
+  "example_translations": {
+    "ex_fut_1": "私は明日家に帰る予定です。"
+  },
+  "common_error_explanations": {
+    "err_fut_1": "'خواه' の後には過去語幹を配置してください。"
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "行く"
+  },
+  "locale": "ja"
+}

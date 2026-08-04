@@ -1,0 +1,19 @@
+{
+  "title": "Karşılaştırma ve Üstünlük Sıfatları",
+  "summary": "Farsçada -تر ve -ترین ekleri ile derece yapma.",
+  "explanation": "Daha üstünlük için '-تر' eki, en üstünlük için isimden önce '-ترین' kullanılır.",
+  "rules": [
+    "Sıfat + تر (Karşılaştırma)",
+    "ترین + İsim (Üstünlük)"
+  ],
+  "example_translations": {
+    "ex_comp_1": "Bu ev daha büyüktür."
+  },
+  "common_error_explanations": {
+    "err_comp_1": "Sıfatın sonuna '-تر' ekini getirin."
+  },
+  "vocab_glosses": {
+    "fa.vocab.bozorg": "büyük"
+  },
+  "locale": "tr"
+}

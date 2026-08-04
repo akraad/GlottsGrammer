@@ -1,0 +1,28 @@
+{
+  "$schema": "../../../../schemas/vocab-base.schema.json",
+  "schema_version": 1,
+  "id": "en.noun.tea",
+  "language": "en",
+  "lemma": "tea",
+  "pos": "noun",
+  "cefr": "A1",
+  "frequency_rank": 800,
+  "forms": {
+    "singular": "tea",
+    "plural": "teas"
+  },
+  "translations": {
+    "ar": "شاي",
+    "de": "Tee",
+    "en": "tea",
+    "es": "té",
+    "fa": "چای",
+    "fr": "thé",
+    "hi": "चाय",
+    "ja": "お茶",
+    "pt": "chá",
+    "ru": "чай",
+    "tr": "çay"
+  },
+  "tags": ["food and drink", "A1-core"]
+}

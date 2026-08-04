@@ -1,0 +1,18 @@
+{
+  "title": "Pretérito Perfecto en Persa",
+  "summary": "Expresar acciones pasadas con relevancia presente.",
+  "explanation": "Participio Pasado (Raíz pasada + ﻩ) + Sufijos conjugatedos.",
+  "rules": [
+    "Participio Pasado + Sufijos"
+  ],
+  "example_translations": {
+    "ex_perf_1": "He leído este libro."
+  },
+  "common_error_explanations": {
+    "err_perf_1": "Usa el pretérito perfecto para acciones relevantes ahora."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "ir"
+  },
+  "locale": "es"
+}

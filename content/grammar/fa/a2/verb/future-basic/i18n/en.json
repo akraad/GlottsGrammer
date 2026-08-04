@@ -1,0 +1,18 @@
+{
+  "title": "Formal Future Tense in Persian",
+  "summary": "Expressing formal future actions.",
+  "explanation": "Conjugated auxiliary 'خواه' + Short Infinitive (Past Stem).",
+  "rules": [
+    "خواه + Suffix + Past Stem"
+  ],
+  "example_translations": {
+    "ex_fut_1": "I will go home tomorrow."
+  },
+  "common_error_explanations": {
+    "err_fut_1": "Use past stem after 'خواه' instead of present stem."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "go"
+  },
+  "locale": "en"
+}

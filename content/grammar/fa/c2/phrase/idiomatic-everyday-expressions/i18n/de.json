@@ -1,0 +1,18 @@
+{
+  "title": "Alltägliche Redewendungen und Höflichkeitsformeln",
+  "summary": "Wichtige Alltagsausdrücke wie 'دستت درد نکنه' (Danke) und 'قربانت'.",
+  "explanation": "Persischsprechende nutzen kulturelle Ausdrücke für Dank, Begrüßung und Zuneigung.",
+  "rules": [
+    "Authentische alltägliche Höflichkeitsformeln"
+  ],
+  "example_translations": {
+    "ex_exp_1": "Vielen Dank, das war sehr nett von dir!"
+  },
+  "common_error_explanations": {
+    "err_exp_1": "Nutze alltägliche Redewendungen anstelle von wörtlichen Übersetzungen."
+  },
+  "vocab_glosses": {
+    "fa.vocab.home": "Zuhause"
+  },
+  "locale": "de"
+}

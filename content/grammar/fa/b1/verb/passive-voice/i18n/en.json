@@ -1,0 +1,18 @@
+{
+  "title": "Passive Voice in Persian",
+  "summary": "Forming passive sentences using past participle and 'شدن'.",
+  "explanation": "Past Participle + Conjugated forms of auxiliary verb 'شدن' (to become).",
+  "rules": [
+    "Past Participle + شدن"
+  ],
+  "example_translations": {
+    "ex_pass_1": "This book was read."
+  },
+  "common_error_explanations": {
+    "err_pass_1": "Combine past participle with auxiliary verb 'شدن'."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "book"
+  },
+  "locale": "en"
+}

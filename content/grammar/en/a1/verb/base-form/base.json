@@ -1,0 +1,102 @@
+{
+  "$schema": "../../../../../schemas/grammar-base.schema.json",
+  "schema_version": 1,
+  "id": "en.a1.verb.base-form",
+  "universal_concept_id": "verb.form.base",
+  "language": "en",
+  "cefr": "A1",
+  "app_level": "beginner",
+  "category": "verb",
+  "subcategory": "form",
+  "status": "draft",
+  "difficulty": 1,
+  "prerequisites": [
+    "en.a1.pronoun.personal-subject"
+  ],
+  "forms": [
+    {
+      "id": "base_with_i_you_we_they",
+      "type": "affirmative_base",
+      "pattern": [
+        "subject_I_you_we_they",
+        "verb_base"
+      ],
+      "example": "I drink water."
+    },
+    {
+      "id": "base_after_does_not",
+      "type": "negative_with_does",
+      "pattern": [
+        "subject_he_she_it",
+        "does",
+        "not",
+        "verb_base"
+      ],
+      "example": "She does not drink coffee."
+    },
+    {
+      "id": "base_after_do_question",
+      "type": "question_with_do",
+      "pattern": [
+        "Do_or_Does",
+        "subject",
+        "verb_base"
+      ],
+      "example": "Do you drink tea?"
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex_01",
+      "target_text": "I drink water.",
+      "reading": null,
+      "transliteration": null,
+      "audio": "audio/en/a1/verb/base-form/ex_01.mp3"
+    },
+    {
+      "id": "ex_02",
+      "target_text": "They do not drink tea.",
+      "reading": null,
+      "transliteration": null,
+      "audio": "audio/en/a1/verb/base-form/ex_02.mp3"
+    },
+    {
+      "id": "ex_03",
+      "target_text": "Does she like water?",
+      "reading": null,
+      "transliteration": null,
+      "audio": "audio/en/a1/verb/base-form/ex_03.mp3"
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_01",
+      "wrong": "I drinks water.",
+      "correct": "I drink water."
+    },
+    {
+      "id": "err_02",
+      "wrong": "Does she likes water?",
+      "correct": "Does she like water?"
+    }
+  ],
+  "vocab": [
+    "en.verb.drink",
+    "en.noun.water",
+    "en.noun.tea",
+    "en.verb.like",
+    "en.verb.want",
+    "en.verb.have",
+    "en.verb.do",
+    "en.vocab.go",
+    "en.vocab.eat",
+    "en.vocab.see",
+    "en.verb.come"
+  ],
+  "tags": [
+    "base form",
+    "infinitive",
+    "verb form",
+    "do support"
+  ]
+}

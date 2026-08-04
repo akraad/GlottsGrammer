@@ -1,0 +1,36 @@
+{
+  "$schema": "../../../../../schemas/grammar-i18n.schema.json",
+  "locale": "pt",
+  "translation_status": "draft",
+  "name": "Definição: a, an, the",
+  "summary": "Use «a/an» para substantivos singulares indefinidos, «the» para substantivos definidos e sem artigo para plurais ou incontáveis gerais.",
+  "explanation": "Em inglês, os artigos indicam se você está falando de algo geral ou específico. Use «a» antes de sons consonantais e «an» antes de sons vocálicos para referências indefinidas. Use «the» quando tanto o falante quanto o ouvinte sabem exatamente a que se refere.",
+  "form_notes": {
+    "indefinite-a": "Use «a» antes de palavras que começam com som consonantal (a cat, a university).",
+    "indefinite-an": "Use «an» antes de palavras que começam com som vocálico (an apple, an hour).",
+    "definite-the": "Use «the» quando se refere a um substantivo específico já conhecido ou único.",
+    "zero-article": "Nenhum artigo é usado com substantivos plurais ou incontáveis quando se fala de forma geral."
+  },
+  "example_translations": {
+    "ex_01": "Eu tenho um gato.",
+    "ex_02": "Ela é engenheira.",
+    "ex_03": "O gato é preto.",
+    "ex_04": "Gatos são animais."
+  },
+  "common_error_explanations": {
+    "err_01": "«An» é usado antes de SONS vocálicos, não apenas letras vogais. «Car» começa com som consonantal, então use «a».",
+    "err_02": "Profissões em inglês exigem «a/an». Você não pode dizer «She is teacher»; deve ser «She is a teacher»."
+  },
+  "vocab_glosses": {
+    "en.noun.cat": "gato",
+    "en.noun.engineer": "engenheiro",
+    "en.noun.car": "carro",
+    "en.noun.teacher": "professor",
+    "en.vocab.car": "car"
+  },
+  "title": "Artigos (A / An / The)",
+  "rules": [
+    "Use a/an para substantivos indefinidos e the para definidos.",
+    "Use an antes de vogais (a, e, i, o, u)."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Persisches Perfekt (Present Perfect)",
+  "summary": "Ausdruck von Handlungen mit Bezug zur Gegenwart.",
+  "explanation": "Partizip Perfekt (Vergangenheitsstamm + ﻩ) + Suffixe.",
+  "rules": [
+    "Partizip Perfekt + Suffixe"
+  ],
+  "example_translations": {
+    "ex_perf_1": "Ich habe dieses Buch gelesen."
+  },
+  "common_error_explanations": {
+    "err_perf_1": "Verwende das Perfekt für Handlungen mit Gegenwartsbezug."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "gehen"
+  },
+  "locale": "de"
+}

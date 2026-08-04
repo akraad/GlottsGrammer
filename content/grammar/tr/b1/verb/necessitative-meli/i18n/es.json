@@ -1,0 +1,18 @@
+{
+  "title": "Modo Necesario en Turco (-meli / -malı)",
+  "summary": "Expresar obligación o necesidad ('deber').",
+  "explanation": "Añade '-meli/-malı' a la raíz verbal seguido de sufijos personales para deberes u obligaciones.",
+  "rules": [
+    "Raíz Verbal + -meli/malı + Sufijo Personal"
+  ],
+  "example_translations": {
+    "ex_trmel_1": "Debes leer este libro sin falta."
+  },
+  "common_error_explanations": {
+    "err_trmel_1": "Usa el sufijo '-meli/-malı' directamente en la raíz para obligaciones."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "leer"
+  },
+  "locale": "es"
+}

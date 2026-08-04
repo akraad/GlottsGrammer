@@ -1,0 +1,18 @@
+{
+  "title": "Gereklilik Kipi (-meli / -malı)",
+  "summary": "Zorunluluk ve 'lazım/meli' bildirme.",
+  "explanation": "Fiil köküne '-meli/-malı' ve ardından şahıs ekleri getirilir (okumalı-sın = okumalısın).",
+  "rules": [
+    "Fiil Kökü + -meli/malı + Şahıs Eki"
+  ],
+  "example_translations": {
+    "ex_trmel_1": "Bu kitabı mutlaka okumalısın."
+  },
+  "common_error_explanations": {
+    "err_trmel_1": "Zorunluluk belirtmek için doğrudan '-meli/-malı' ekini kullanın."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "okumak"
+  },
+  "locale": "tr"
+}

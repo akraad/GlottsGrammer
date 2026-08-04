@@ -1,0 +1,18 @@
+{
+  "title": "Gelecek Zaman (-ecek / -acak)",
+  "summary": "Gelecekte yapılacak eylemleri anlatma.",
+  "explanation": "Fiil köküne '-ecek/-acak' (ünlüyle biterse 'y' kaynaştırma harfiyle) ve şahıs ekleri getirilir.",
+  "rules": [
+    "Fiil Kökü + -(y)ecek + Şahıs Eki"
+  ],
+  "example_translations": {
+    "ex_trfut_1": "Yarın bir kitap okuyacağım."
+  },
+  "common_error_explanations": {
+    "err_trfut_1": "Gelecek zaman için '-ecek/-acak' eklerini kullanın."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "okumak"
+  },
+  "locale": "tr"
+}

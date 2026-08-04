@@ -1,0 +1,18 @@
+{
+  "locale": "fa",
+  "title": "ذرات وجهی و عاطفی (Modalpartikeln) در آلمانی",
+  "summary": "Using modal particles to express subtle emotional nuances and speaker attitude.",
+  "explanation": "Using modal particles to express subtle emotional nuances and speaker attitude.",
+  "rules": [
+    "Subjekt + Verb (Pos 2) + Modalpartikel + ..."
+  ],
+  "example_translations": {
+    "ex_de_c1_2": "Das weiß man doch!"
+  },
+  "common_error_explanations": {
+    "err_de_c1_2": "Integrate modal particles naturally into the middle field of the sentence."
+  },
+  "vocab_glosses": {
+    "de.vocab.klar": "klar"
+  }
+}

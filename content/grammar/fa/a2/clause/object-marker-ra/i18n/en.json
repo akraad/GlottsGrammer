@@ -1,0 +1,18 @@
+{
+  "title": "Direct Object Marker 'را' (Ra)",
+  "summary": "Marking definite direct objects in Persian.",
+  "explanation": "The particle 'را' is placed immediately AFTER a specific direct object.",
+  "rules": [
+    "Specific Object + را"
+  ],
+  "example_translations": {
+    "ex_ra_1": "I read the book."
+  },
+  "common_error_explanations": {
+    "err_ra_1": "Put 'را' right AFTER the object."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "book"
+  },
+  "locale": "en"
+}

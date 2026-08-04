@@ -1,0 +1,70 @@
+{
+  "schema_version": "1.0.0",
+  "id": "fa.b1.sentence.reported-speech-basic",
+  "universal_concept_id": "sentence.reported.speech.basic",
+  "language": "fa",
+  "cefr": "B1",
+  "app_level": "intermediate",
+  "category": "sentence",
+  "status": "approved",
+  "difficulty": 3,
+  "prerequisites": [
+    "fa.a1.sentence.word-order-basic"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "speaker"
+        },
+        {
+          "slot": " گفت_verb"
+        },
+        {
+          "slot": "ke_conjunction"
+        },
+        {
+          "slot": "reported_clause"
+        }
+      ],
+      "example": "او گفت که می‌آید"
+    }
+  ],
+  "vocab": [
+    "fa.vocab.home"
+  ],
+  "examples": [
+    {
+      "id": "ex_rep_1",
+      "target_text": "علی گفت که به خانه می‌رود.",
+      "tokens": [
+        {
+          "text": "علی"
+        },
+        {
+          "text": "گفت"
+        },
+        {
+          "text": "که"
+        },
+        {
+          "text": "به"
+        },
+        {
+          "text": "خانه"
+        },
+        {
+          "text": "می‌رود"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_rep_1",
+      "incorrect": "علی گفت به خانه می‌روم.",
+      "explanation": "In indirect reported speech with 'که', adjust personal pronouns and verb endings to match the original speaker."
+    }
+  ]
+}

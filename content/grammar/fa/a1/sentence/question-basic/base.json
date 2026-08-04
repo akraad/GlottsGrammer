@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0.0",
+  "id": "fa.a1.sentence.question-basic",
+  "universal_concept_id": "sentence.question.basic",
+  "language": "fa",
+  "cefr": "A1",
+  "app_level": "beginner",
+  "category": "sentence",
+  "status": "approved",
+  "difficulty": 1,
+  "prerequisites": [
+    "fa.a1.sentence.word-order-basic"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "aya_particle"
+        },
+        {
+          "slot": "sentence"
+        }
+      ],
+      "example": "آیا تو کتاب می‌خوانی؟"
+    }
+  ],
+  "vocab": [
+    "fa.vocab.book"
+  ],
+  "examples": [
+    {
+      "id": "ex_q_1",
+      "target_text": "آیا شما کتاب می‌خوانید؟",
+      "tokens": [
+        {
+          "text": "آیا"
+        },
+        {
+          "text": "شما"
+        },
+        {
+          "text": "کتاب"
+        },
+        {
+          "text": "می‌خوانید؟"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_q_1",
+      "incorrect": "شما می‌خوانید آیا کتاب؟",
+      "explanation": "Place question particle 'آیا' at the beginning of yes/no questions."
+    }
+  ]
+}

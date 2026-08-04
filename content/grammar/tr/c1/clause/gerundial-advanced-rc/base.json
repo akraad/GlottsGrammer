@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.0.0",
+  "id": "tr.c1.clause.gerundial-advanced-rc",
+  "universal_concept_id": "clause.gerundial.advanced.rc",
+  "language": "tr",
+  "cefr": "C1",
+  "app_level": "advanced",
+  "category": "clause",
+  "status": "approved",
+  "difficulty": 5,
+  "prerequisites": [
+    "tr.b2.clause.gerundial-when-while"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "verb_stem"
+        },
+        {
+          "slot": "advanced_gerund_suffix"
+        }
+      ],
+      "example": "okuyagelmek"
+    }
+  ],
+  "vocab": [
+    "tr.vocab.okumak"
+  ],
+  "examples": [
+    {
+      "ex_c1_2": "Asırlardır bu gelenek sürdürülegelmiştir.",
+      "id": "ex_c1_2",
+      "target_text": "Asırlardır bu gelenek sürdürülegelmiştir.",
+      "tokens": [
+        {
+          "text": "Asırlardır"
+        },
+        {
+          "text": "bu"
+        },
+        {
+          "text": "gelenek"
+        },
+        {
+          "text": "sürdürülegelmiştir."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_c1_2",
+      "incorrect": "Asırlardır bu gelenek devam ediyor normal.",
+      "explanation": "Use compound/advanced gerunds like '-agelmek/-ayazmak' for stylistic nuance."
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "schema_version": "1.0.0",
+  "id": "de.b1.sentence.conditional-wenn",
+  "universal_concept_id": "sentence.conditional.wenn.german",
+  "language": "de",
+  "cefr": "B1",
+  "app_level": "intermediate",
+  "category": "sentence",
+  "status": "approved",
+  "difficulty": 3,
+  "prerequisites": [
+    "de.a2.sentence.subordinate-weil"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "wenn_clause_verb_end"
+        },
+        {
+          "slot": "main_clause_verb_pos1"
+        }
+      ],
+      "example": "Wenn ich Zeit habe, komme ich"
+    }
+  ],
+  "vocab": [
+    "de.vocab.zeit"
+  ],
+  "examples": [
+    {
+      "id": "ex_de_b1",
+      "target_text": "Wenn ich Zeit habe, komme ich.",
+      "tokens": [
+        {
+          "text": "Wenn"
+        },
+        {
+          "text": "ich"
+        },
+        {
+          "text": "Zeit"
+        },
+        {
+          "text": "habe,"
+        },
+        {
+          "text": "komme"
+        },
+        {
+          "text": "ich."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_de_b1",
+      "incorrect": "Wenn ich habe Zeit, komme ich.",
+      "explanation": "In 'wenn' clauses, the verb goes to the end, and the main clause following it starts immediately with the conjugated verb."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Oraciones Subordinadas Complejas en Persa",
+  "summary": "Conectar cláusulas mediante conjunciones avanzadas (به‌محضِ آن‌که, همین‌که).",
+  "explanation": "El persa avanzado utiliza conjunciones compuestas para relaciones temporales o causales precisas.",
+  "rules": [
+    "Conjunción Compleja + Cláusula Subordinada + Cláusula Principal"
+  ],
+  "example_translations": {
+    "ex_csub_1": "Tan pronto como llegó, comenzó la reunión."
+  },
+  "common_error_explanations": {
+    "err_csub_1": "Asegúrate de usar formas completas como 'به‌محضِ آن‌که'."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "ir"
+  },
+  "locale": "es"
+}

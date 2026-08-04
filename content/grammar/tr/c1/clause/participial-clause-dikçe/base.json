@@ -1,0 +1,67 @@
+{
+  "schema_version": "1.0.0",
+  "id": "tr.c1.clause.participial-dikçe",
+  "universal_concept_id": "clause.participial.dikce",
+  "language": "tr",
+  "cefr": "C1",
+  "app_level": "advanced",
+  "category": "clause",
+  "status": "approved",
+  "difficulty": 5,
+  "prerequisites": [
+    "tr.b2.clause.relative-clause-object-dik"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "verb_stem"
+        },
+        {
+          "slot": "dikçe_suffix"
+        }
+      ],
+      "example": "okudukça"
+    }
+  ],
+  "vocab": [
+    "tr.vocab.okumak"
+  ],
+  "examples": [
+    {
+      "id": "ex_c1_1",
+      "target_text": "Kitap okudukça insan daha çok şey öğreniyor.",
+      "tokens": [
+        {
+          "text": "Kitap"
+        },
+        {
+          "text": "okudukça"
+        },
+        {
+          "text": "insan"
+        },
+        {
+          "text": "daha"
+        },
+        {
+          "text": "çok"
+        },
+        {
+          "text": "şey"
+        },
+        {
+          "text": "öğreniyor."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_c1_1",
+      "incorrect": "Kitap okuyor ve insan çok öğreniyor.",
+      "explanation": "Use '-dikçe/-dıkça' to express proportional progression ('as / the more...')."
+    }
+  ]
+}

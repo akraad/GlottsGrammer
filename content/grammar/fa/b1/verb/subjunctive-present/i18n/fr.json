@@ -1,0 +1,18 @@
+{
+  "title": "Subjonctif Présent en Persan",
+  "summary": "Exprimer le souhait, le doute ou la nécessité.",
+  "explanation": "Préfixe 'بـ' + Racine du présent + Suffixes personnels.",
+  "rules": [
+    "بـ + Racine du présent + Suffixes"
+  ],
+  "example_translations": {
+    "ex_subj_1": "Je veux aller à la maison."
+  },
+  "common_error_explanations": {
+    "err_subj_1": "Utilisez le subjonctif après les verbes de volonté."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "aller"
+  },
+  "locale": "fr"
+}

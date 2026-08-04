@@ -1,0 +1,18 @@
+{
+  "title": "Voix Passive en Turc (-il / -in)",
+  "summary": "Former des verbes passifs en turc.",
+  "explanation": "Ajoutez '-il/-ıl/-ul/-ül' (ou '-in' après une voyelle) au radical du verbe pour marquer le passif.",
+  "rules": [
+    "Radical du Verbe + -il/-in + Temps"
+  ],
+  "example_translations": {
+    "ex_trpas_1": "Ce livre a été lu hier."
+  },
+  "common_error_explanations": {
+    "err_trpas_1": "Utilisez le passif lorsque l'agent de l'action est secondaire."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "lire"
+  },
+  "locale": "fr"
+}

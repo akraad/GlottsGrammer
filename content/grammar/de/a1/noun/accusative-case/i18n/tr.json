@@ -1,0 +1,18 @@
+{
+  "title": "German Accusative Case",
+  "summary": "Changes in masculine articles (der -> den) for direct objects.",
+  "explanation": "Changes in masculine articles (der -> den) for direct objects.",
+  "rules": [
+    "Subjekt + Verb + den/die/das + Nomen"
+  ],
+  "example_translations": {
+    "ex_de_2": "Ich sehe den Hund."
+  },
+  "common_error_explanations": {
+    "err_de_2": "Change masculine article 'der' to 'den' in the accusative case."
+  },
+  "vocab_glosses": {
+    "de.vocab.hund": "Hund"
+  },
+  "locale": "tr"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "फ़ारसी में पूर्ण भूतकाल (Past Perfect)",
+  "summary": "अतीत की किसी घटना से पहले पूर्ण हुए कार्य को व्यक्त करना।",
+  "explanation": "कृदंत (Past Participle) + 'بودن' क्रिया का भूतकाल रूप।",
+  "rules": [
+    "कृदंत + بودم"
+  ],
+  "example_translations": {
+    "ex_pperf_1": "मैं उससे पहले घर जा चुका था।"
+  },
+  "common_error_explanations": {
+    "err_pperf_1": "'بودم' से पहले कृदंत का प्रयोग करें।"
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "जाना"
+  },
+  "locale": "hi"
+}

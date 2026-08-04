@@ -1,0 +1,18 @@
+{
+  "title": "Turkish Reciprocal Verb Form (-iş)",
+  "summary": "Expressing mutual or reciprocal actions ('each other').",
+  "explanation": "Attach '-iş/-ış/-uş/-üş' to verb stems to indicate actions performed mutually or together (e.g., görüşmek = to meet/see each other).",
+  "rules": [
+    "Verb Stem + -iş + Tense"
+  ],
+  "example_translations": {
+    "ex_trrec_1": "We met with our friend yesterday."
+  },
+  "common_error_explanations": {
+    "err_trrec_1": "Use reciprocal suffixes for mutual actions."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "read"
+  },
+  "locale": "en"
+}

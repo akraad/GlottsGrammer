@@ -1,0 +1,18 @@
+{
+  "title": "Modaux du Passé (Should have)",
+  "summary": "Exprimez des regrets ou des critiques sur le passé.",
+  "explanation": "Sujet + should have + participe passé.",
+  "rules": [
+    "Should have + Participe Passé"
+  ],
+  "example_translations": {
+    "ex_pm_1": "J'aurais dû étudier davantage."
+  },
+  "common_error_explanations": {
+    "err_pm_1": "Utilisez 'should have' et non 'should of'."
+  },
+  "vocab_glosses": {
+    "en.vocab.study": "étudier"
+  },
+  "locale": "fr"
+}

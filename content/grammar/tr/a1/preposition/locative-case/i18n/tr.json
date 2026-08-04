@@ -1,0 +1,19 @@
+{
+  "title": "Bulunma Durumu (-da / -de / -ta / -te)",
+  "summary": "Bir yerde bulunmayı gösteren 'de' hali.",
+  "explanation": "Kelimelerin sonuna '-da/-de' eklenir. Sert ünsüzlerden (f, s, t, k, ç, ş, h, p) sonra '-ta/-te' olur.",
+  "rules": [
+    "İsim + -da/-de (-ta/-te)"
+  ],
+  "example_translations": {
+    "ex_trloc_1": "Ali şu an evde."
+  },
+  "common_error_explanations": {
+    "err_trloc_1": "Ünlü uyumu ve ünsüz benzeşmesine dikkat edin (evde, kitapta)."
+  },
+  "vocab_glosses": {
+    "tr.vocab.ev": "ev",
+    "tr.vocab.kitap": "kitap"
+  },
+  "locale": "tr"
+}

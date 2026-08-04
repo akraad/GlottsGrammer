@@ -1,0 +1,19 @@
+{
+  "locale": "pt",
+  "title": "Superlative Adjectives",
+  "summary": "Use 'the + adjective + est' to express the highest degree of a quality.",
+  "explanation": "Add 'the' before the adjective and '-est' at the end for short adjectives.",
+  "rules": [
+    "the + short adj + -est"
+  ],
+  "example_translations": {
+    "ex_sup_1": "This is the biggest city."
+  },
+  "common_error_explanations": {
+    "err_sup_1": "Always include 'the' before superlative adjectives."
+  },
+  "vocab_glosses": {
+    "en.vocab.big": "big",
+    "en.vocab.city": "city"
+  }
+}

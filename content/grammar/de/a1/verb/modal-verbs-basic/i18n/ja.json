@@ -1,0 +1,18 @@
+{
+  "locale": "ja",
+  "title": "助動詞（基礎）",
+  "summary": "文末に動詞の原形を伴う助動詞の使用法。",
+  "explanation": "文末に動詞の原形を伴う助動詞の使用法。",
+  "rules": [
+    "主語 + 助動詞 (2番目) + ... + 原形動詞 (文末)"
+  ],
+  "example_translations": {
+    "ex_de_2": "Ich kann gut schwimmen."
+  },
+  "common_error_explanations": {
+    "err_de_2": "助動詞を使用する場合、本動詞は文末に置く必要があります。"
+  },
+  "vocab_glosses": {
+    "de.vocab.schwimmen": "泳ぐ"
+  }
+}

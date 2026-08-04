@@ -1,0 +1,18 @@
+{
+  "title": "Cláusulas Relativas en Persa (که)",
+  "summary": "Describir sustantivos usando el conector 'که' (que/quien).",
+  "explanation": "Sustantivo + 'ی' restrictiva + که + Cláusula relativa.",
+  "rules": [
+    "Sustantivo + ی + که + Cláusula Relativa"
+  ],
+  "example_translations": {
+    "ex_rel_1": "El libro que compré es interesante."
+  },
+  "common_error_explanations": {
+    "err_rel_1": "Añade la 'ی' restrictiva al sustantivo antes de 'که'."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "libro"
+  },
+  "locale": "es"
+}

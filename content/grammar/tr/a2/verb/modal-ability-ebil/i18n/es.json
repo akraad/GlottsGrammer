@@ -1,0 +1,18 @@
+{
+  "title": "Modo de Habilidad en Turco (-ebil / -abil)",
+  "summary": "Expresar habilidad o posibilidad ('poder').",
+  "explanation": "Añade '-ebil/-abil' (con 'y' de enlace si termina en vocal) a la raíz verbal antes del tiempo y sufijo personal.",
+  "rules": [
+    "Raíz Verbal + -(y)ebil + Tiempo + Sufijo Personal"
+  ],
+  "example_translations": {
+    "ex_trebil_1": "Puedo leer este libro."
+  },
+  "common_error_explanations": {
+    "err_trebil_1": "Coloca el sufijo de habilidad antes del marcador temporal."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "leer"
+  },
+  "locale": "es"
+}

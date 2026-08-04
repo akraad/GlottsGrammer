@@ -1,0 +1,18 @@
+{
+  "title": "Pluralização de Substantivos Terminados em Vogal",
+  "summary": "Pluralizar substantivos terminados em (ا, و, ه) usando consoantes de ligação (ی, گ).",
+  "explanation": "Ao adicionar '-ان', insira consoantes de ligação como 'ی' (دانا -> دانایان) ou 'گ' (بنده -> بندگان).",
+  "rules": [
+    "Substantivo em Vogal + Consoante de Ligação (ی/گ) + ان"
+  ],
+  "example_translations": {
+    "ex_vpl_1": "Os sábios e oradores do país se reuniram."
+  },
+  "common_error_explanations": {
+    "err_vpl_1": "Insira a consoante de ligação 'ی' ou 'گ' ao pluralizar."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "livro"
+  },
+  "locale": "pt"
+}

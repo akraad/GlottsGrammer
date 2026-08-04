@@ -1,0 +1,18 @@
+{
+  "title": "Türkisches Passiv (-il / -in)",
+  "summary": "Bildung von Passivverben im Türkischen.",
+  "explanation": "Füge '-il/-ıl/-ul/-ül' (bzw. '-in' nach Vokalen) an den Verbstamm an, um das Passiv zu bilden.",
+  "rules": [
+    "Verbstamm + -il/-in + Zeitform"
+  ],
+  "example_translations": {
+    "ex_trpas_1": "Dieses Buch wurde gestern gelesen."
+  },
+  "common_error_explanations": {
+    "err_trpas_1": "Verwende Passivsuffixe, wenn das Handelnde Subjekt ungenannt bleibt."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "lesen"
+  },
+  "locale": "de"
+}

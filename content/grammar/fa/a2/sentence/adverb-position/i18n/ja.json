@@ -1,0 +1,19 @@
+{
+  "title": "ペルシア語の副詞の位置",
+  "summary": "時や場所の副詞の正しい順序。",
+  "explanation": "時間の副詞は通常主語の後に来て、次に場所の副詞、目的語、動詞と続きます。",
+  "rules": [
+    "主語 + 時間の副詞 + 場所の副詞 + 目的語 + 動詞"
+  ],
+  "example_translations": {
+    "ex_advp_1": "私は昨日家で本を読みました。"
+  },
+  "common_error_explanations": {
+    "err_advp_1": "副詞は目的語と動詞の前に配置してください。"
+  },
+  "vocab_glosses": {
+    "fa.vocab.home": "家",
+    "fa.vocab.raftan": "行く"
+  },
+  "locale": "ja"
+}

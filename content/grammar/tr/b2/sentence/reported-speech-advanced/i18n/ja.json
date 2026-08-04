@@ -1,0 +1,18 @@
+{
+  "title": "トルコ語の高度な報道・間接話法",
+  "summary": "ニュースや公式文書における高度な間接話法スタイル。",
+  "explanation": "報道や公式文書では、'-eceği belirtildi' や '...diye' などの高度な名詞化構造を用いて発言を伝達します。",
+  "rules": [
+    "報告節 + 公式報道動詞 (diye / belirtti)"
+  ],
+  "example_translations": {
+    "ex_trrep_1": "彼は明日来ると表明しました。"
+  },
+  "common_error_explanations": {
+    "err_trrep_1": "公式メディアには高度な報道テンプレートを使用してください。"
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "読む"
+  },
+  "locale": "ja"
+}

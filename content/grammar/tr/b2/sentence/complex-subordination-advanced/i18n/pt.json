@@ -1,0 +1,18 @@
+{
+  "title": "Subordinação Complexa Avançada",
+  "summary": "Orações subordinadas complexas no turco formal e acadêmico.",
+  "explanation": "Estruturas sintácticas avançadas como '-duğundan dolayı' ou '-dığı için' são usadas na escrita formal e acadêmica.",
+  "rules": [
+    "Oração Subordinada + Posposição (dolayı / için)"
+  ],
+  "example_translations": {
+    "ex_trcomp_1": "Ele/Ela é muito bem-sucedido(a) porque lê livros."
+  },
+  "common_error_explanations": {
+    "err_trcomp_1": "Use posposições subordinadas avançadas na escrita formal."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "ler"
+  },
+  "locale": "pt"
+}

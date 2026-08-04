@@ -1,0 +1,18 @@
+{
+  "title": "Persisches Passiv (Passive Voice)",
+  "summary": "Passivbildung mit Partizip Perfekt und 'شدن'.",
+  "explanation": "Partizip Perfekt + konjugierte Formen des Hilfsverbs 'شدن' (werden).",
+  "rules": [
+    "Partizip Perfekt + شدن"
+  ],
+  "example_translations": {
+    "ex_pass_1": "Dieses Buch wurde gelesen."
+  },
+  "common_error_explanations": {
+    "err_pass_1": "Kombiniere das Partizip Perfekt mit dem Hilfsverb 'شدن'."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "Buch"
+  },
+  "locale": "de"
+}

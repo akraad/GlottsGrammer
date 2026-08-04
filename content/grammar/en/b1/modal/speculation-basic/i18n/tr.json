@@ -1,0 +1,18 @@
+{
+  "title": "Tahmin Yapma (Might, May, Could)",
+  "summary": "Olasılık belirtmek için might, may veya could kullanın.",
+  "explanation": "Özne + might/may/could + yalın fiil.",
+  "rules": [
+    "Bu fiillerden sonra 'to' gelmez."
+  ],
+  "example_translations": {
+    "ex_spec_1": "Bugün yağmur yağabilir."
+  },
+  "common_error_explanations": {
+    "err_spec_1": "might sonrasında 'to' kullanmayın."
+  },
+  "vocab_glosses": {
+    "en.vocab.rain": "yağmur yağması"
+  },
+  "locale": "tr"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Persian Word Order (SOV)",
+  "summary": "Subject - Object - Verb structure in Persian.",
+  "explanation": "Unlike English (SVO), standard Persian sentences follow Subject-Object-Verb order.",
+  "rules": [
+    "Subject + Object + Verb at the end"
+  ],
+  "example_translations": {
+    "ex_wo_1": "I read a book."
+  },
+  "common_error_explanations": {
+    "err_wo_1": "Place the verb at the END of the sentence."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "book"
+  },
+  "locale": "en"
+}

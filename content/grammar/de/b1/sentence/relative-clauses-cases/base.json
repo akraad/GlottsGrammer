@@ -1,0 +1,74 @@
+{
+  "schema_version": "1.0.0",
+  "id": "de.b1.sentence.relative-clauses-cases",
+  "universal_concept_id": "sentence.relative.cases.german",
+  "language": "de",
+  "cefr": "B1",
+  "app_level": "intermediate",
+  "category": "sentence",
+  "status": "approved",
+  "difficulty": 4,
+  "prerequisites": [
+    "de.a2.pronoun.relative-pronouns-basic",
+    "de.a2.noun.dative-case"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "noun"
+        },
+        {
+          "slot": "preposition_and_relative_pronoun_dative_accusative"
+        },
+        {
+          "slot": "verb_at_end"
+        }
+      ],
+      "example": "Der Mann, mit dem ich spreche"
+    }
+  ],
+  "vocab": [
+    "de.vocab.sprechen"
+  ],
+  "examples": [
+    {
+      "id": "ex_de_b1_2",
+      "target_text": "Das ist der Mann, mit dem ich spreche.",
+      "tokens": [
+        {
+          "text": "Das"
+        },
+        {
+          "text": "ist"
+        },
+        {
+          "text": "der"
+        },
+        {
+          "text": "Mann,"
+        },
+        {
+          "text": "mit"
+        },
+        {
+          "text": "dem"
+        },
+        {
+          "text": "ich"
+        },
+        {
+          "text": "spreche."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_de_b1_2",
+      "incorrect": "Das ist der Mann, mit der ich spreche.",
+      "explanation": "Relative pronouns must reflect the correct gender and case required by the preposition or verb in the relative clause."
+    }
+  ]
+}

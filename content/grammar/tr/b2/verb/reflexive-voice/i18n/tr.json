@@ -1,0 +1,18 @@
+{
+  "title": "Dönüşlü Çatı (-in / -n)",
+  "summary": "Öznenin kendi kendine yaptığı eylemler.",
+  "explanation": "Fiil köküne '-in/-ın/-un/-ün' (ünlüyle biterse '-n') eklenerek dönüşlü yapılır (yıka-n-dı = yıkandı / شستن خود).",
+  "rules": [
+    "Fiil Kökü + -in/-n + Zaman"
+  ],
+  "example_translations": {
+    "ex_trref_1": "Çocuk hemen yıkandı."
+  },
+  "common_error_explanations": {
+    "err_trref_1": "Eylemin özne tarafından kendi üzerinde yapılması için dönüşlü çatı kullanın."
+  },
+  "vocab_glosses": {
+    "tr.vocab.ev": "ev"
+  },
+  "locale": "tr"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Passé Simple en Persan",
+  "summary": "Exprimer des actions terminées dans le passé.",
+  "explanation": "Racine du passé + Suffixes personnels.",
+  "rules": [
+    "Racine du passé + Suffixes"
+  ],
+  "example_translations": {
+    "ex_past_1": "Hier, je suis allé à la maison."
+  },
+  "common_error_explanations": {
+    "err_past_1": "Utilisez la racine du passé pour les actions passées."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "aller"
+  },
+  "locale": "fr"
+}

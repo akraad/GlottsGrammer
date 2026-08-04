@@ -1,0 +1,28 @@
+{
+  "$schema": "../../../../schemas/vocab-base.schema.json",
+  "schema_version": 1,
+  "id": "en.noun.work",
+  "language": "en",
+  "lemma": "work",
+  "pos": "noun",
+  "cefr": "A1",
+  "frequency_rank": 200,
+  "countable": false,
+  "tags": [
+    "place",
+    "daily life"
+  ],
+  "translations": {
+    "ar": "عمل (مكان)",
+    "de": "Arbeit (Ort)",
+    "en": "work (place)",
+    "es": "trabajo (lugar)",
+    "fa": "کار (مکان)",
+    "fr": "travail (lieu)",
+    "hi": "काम (स्थान)",
+    "ja": "仕事（場所）",
+    "pt": "trabalho (lugar)",
+    "ru": "работа (место)",
+    "tr": "iş (yer)"
+  }
+}

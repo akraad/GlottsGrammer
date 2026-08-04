@@ -1,0 +1,18 @@
+{
+  "locale": "de",
+  "title": "Basic Adjectives",
+  "summary": "In English, adjectives come before nouns.",
+  "explanation": "Place adjectives before the noun they describe (e.g., a red car).",
+  "rules": [
+    "Adjectives precede the noun."
+  ],
+  "example_translations": {
+    "ex_adj_1": "This is a red car."
+  },
+  "common_error_explanations": {
+    "err_adj_1": "Do not put adjectives after the noun."
+  },
+  "vocab_glosses": {
+    "en.vocab.car": "car"
+  }
+}

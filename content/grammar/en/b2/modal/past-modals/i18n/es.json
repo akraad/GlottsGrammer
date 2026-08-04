@@ -1,0 +1,18 @@
+{
+  "title": "Modales de Pasado (Should have)",
+  "summary": "Expresa arrepentimiento o crítica sobre el pasado.",
+  "explanation": "Sujeto + should have + participio pasado.",
+  "rules": [
+    "Should have + Participio Pasado"
+  ],
+  "example_translations": {
+    "ex_pm_1": "Debería haber estudiado más."
+  },
+  "common_error_explanations": {
+    "err_pm_1": "Usa 'should have', nunca 'should of'."
+  },
+  "vocab_glosses": {
+    "en.vocab.study": "estudiar"
+  },
+  "locale": "es"
+}

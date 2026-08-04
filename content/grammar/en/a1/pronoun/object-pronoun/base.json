@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0.0",
+  "id": "en.a1.pronoun.object-pronoun",
+  "universal_concept_id": "pronoun.object.basic",
+  "language": "en",
+  "cefr": "A1",
+  "app_level": "beginner",
+  "category": "pronoun",
+  "status": "approved",
+  "difficulty": 1,
+  "prerequisites": [
+    "en.a1.pronoun.personal-subject"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "subject"
+        },
+        {
+          "slot": "verb"
+        },
+        {
+          "slot": "object_pronoun"
+        }
+      ],
+      "example": "She sees me every day."
+    }
+  ],
+  "vocab": [
+    "en.vocab.every-day"
+  ],
+  "examples": [
+    {
+      "id": "ex_obj_1",
+      "target_text": "She sees me every day.",
+      "tokens": [
+        {
+          "text": "She"
+        },
+        {
+          "text": "sees"
+        },
+        {
+          "text": "me"
+        },
+        {
+          "text": "every day"
+        }
+      ]
+    }
+  ]
+}

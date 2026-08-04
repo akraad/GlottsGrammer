@@ -1,0 +1,18 @@
+{
+  "title": "Persischer Literarischer Optativ",
+  "summary": "Ausdruck von Segen, Wünschen und Verfluchungen in der klassischen Literatur.",
+  "explanation": "Wird durch das Suffix '-اد' am Präsensstamm gebildet (z. B. باد = Möge es sein).",
+  "rules": [
+    "Präsensstamm + -اد"
+  ],
+  "example_translations": {
+    "ex_opt_1": "Möge der Name Irans für immer ewig sein."
+  },
+  "common_error_explanations": {
+    "err_opt_1": "Mische keine veralteten Optative mit modernen Konjunktiven."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "gehen"
+  },
+  "locale": "de"
+}

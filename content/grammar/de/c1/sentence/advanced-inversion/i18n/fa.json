@@ -1,0 +1,18 @@
+{
+  "locale": "fa",
+  "title": "وارونگی پیشرفته و بلاغی در آلمانی",
+  "summary": "Using stylistic inversion for rhetorical emphasis by fronting modifiers.",
+  "explanation": "Using stylistic inversion for rhetorical emphasis by fronting modifiers.",
+  "rules": [
+    "Voranstellung (Pos 1) + Verb (Pos 2) + Subjekt"
+  ],
+  "example_translations": {
+    "ex_de_c1_2": "Selten habe ich ein so schönes Konzert gesehen."
+  },
+  "common_error_explanations": {
+    "err_de_c1_2": "Apply subject-verb inversion immediately when fronting restrictive modifiers."
+  },
+  "vocab_glosses": {
+    "de.vocab.sehen": "sehen"
+  }
+}

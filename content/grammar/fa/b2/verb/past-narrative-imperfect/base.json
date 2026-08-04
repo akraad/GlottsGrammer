@@ -1,0 +1,73 @@
+{
+  "schema_version": "1.0.0",
+  "id": "fa.b2.verb.past-narrative-imperfect",
+  "universal_concept_id": "verb.past.narrative.imperfect",
+  "language": "fa",
+  "cefr": "B2",
+  "app_level": "upper_intermediate",
+  "category": "verb",
+  "status": "approved",
+  "difficulty": 4,
+  "prerequisites": [
+    "fa.b1.verb.present-perfect"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "mi_prefix"
+        },
+        {
+          "slot": "past_participle"
+        },
+        {
+          "slot": "am_is_are_endings"
+        }
+      ],
+      "example": "می‌رفته‌ام"
+    }
+  ],
+  "vocab": [
+    "fa.vocab.raftan"
+  ],
+  "examples": [
+    {
+      "id": "ex_pnarr_1",
+      "target_text": "می‌گویند او هر روز به آنجا می‌رفته است.",
+      "tokens": [
+        {
+          "text": "می‌گویند"
+        },
+        {
+          "text": "او"
+        },
+        {
+          "text": "هر"
+        },
+        {
+          "text": "روز"
+        },
+        {
+          "text": "به"
+        },
+        {
+          "text": "آنجا"
+        },
+        {
+          "text": "می‌رفته"
+        },
+        {
+          "text": "است"
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_pnarr_1",
+      "incorrect": "می‌گویند او هر روز به آنجا می‌رفت.",
+      "explanation": "Use narrative imperfect (می‌رفته است) when reporting a past continuous habit heard from others."
+    }
+  ]
+}

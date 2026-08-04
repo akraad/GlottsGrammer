@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.0.0",
+  "id": "de.a1.preposition.basic-prepositions",
+  "universal_concept_id": "preposition.basic.german",
+  "language": "de",
+  "cefr": "A1",
+  "app_level": "beginner",
+  "category": "preposition",
+  "status": "approved",
+  "difficulty": 1,
+  "prerequisites": [],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "preposition_ac_dat"
+        },
+        {
+          "slot": "noun_case"
+        }
+      ],
+      "example": "in der Schule"
+    }
+  ],
+  "vocab": [
+    "de.vocab.schule"
+  ],
+  "examples": [
+    {
+      "id": "ex_de_1",
+      "target_text": "Ich bin in der Schule.",
+      "tokens": [
+        {
+          "text": "Ich"
+        },
+        {
+          "text": "bin"
+        },
+        {
+          "text": "in"
+        },
+        {
+          "text": "der"
+        },
+        {
+          "text": "Schule."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_de_1",
+      "incorrect": "Ich bin in die Schule (for static location).",
+      "explanation": "Basic prepositions govern specific cases (Accusative or Dative) depending on whether there is movement or static position."
+    }
+  ]
+}

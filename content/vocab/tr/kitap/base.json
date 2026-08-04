@@ -1,0 +1,8 @@
+{
+  "schema_version": "1.0.0",
+  "id": "tr.vocab.kitap",
+  "language": "tr",
+  "lemma": "kitap",
+  "pos": "noun",
+  "cefr": "A1"
+}

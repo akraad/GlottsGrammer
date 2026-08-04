@@ -1,0 +1,19 @@
+{
+  "title": "Formation des Mots Composés en Persan",
+  "summary": "Combiner des mots ou radicaux pour former de nouveaux noms.",
+  "explanation": "Création de noms en combinant Nom + Nom ou Racine (ex. کتاب‌خانه = bibliothèque).",
+  "rules": [
+    "Nom + Nom/Racine"
+  ],
+  "example_translations": {
+    "ex_cder_1": "Il/Elle étudie à la bibliothèque."
+  },
+  "common_error_explanations": {
+    "err_cder_1": "Utilisez le demi-espace (ZWNJ) entre les composants."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "livre",
+    "fa.vocab.home": "maison"
+  },
+  "locale": "fr"
+}

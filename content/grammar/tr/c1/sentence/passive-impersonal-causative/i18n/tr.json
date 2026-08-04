@@ -1,0 +1,18 @@
+{
+  "title": "Impersonal Passive Structures",
+  "summary": "Using impersonal passives with intransitive verbs in formal/academic registers.",
+  "explanation": "Using impersonal passives with intransitive verbs in formal/academic registers.",
+  "rules": [
+    "Intransitive Verb Stem + Passive Suffix (-ildi)"
+  ],
+  "example_translations": {
+    "ex_c1_2": "Bu konuda uzun uzun tartışıldı."
+  },
+  "common_error_explanations": {
+    "err_c1_2": "Use impersonal passives for abstract formal statements."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "okumak"
+  },
+  "locale": "tr"
+}

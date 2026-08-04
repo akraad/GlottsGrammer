@@ -1,0 +1,20 @@
+{
+  "title": "Passé Continu",
+  "summary": "Utilisez was/were + verb-ing pour des actions qui se déroulaient à un moment précis du passé.",
+  "explanation": "Le passé continu se forme avec was/were suivi du verbe en -ing.",
+  "rules": [
+    "I/He/She/It + was + verb-ing",
+    "You/We/They + were + verb-ing"
+  ],
+  "example_translations": {
+    "ex_pcont_1": "J'étais en train de marcher hier."
+  },
+  "common_error_explanations": {
+    "err_pcont_1": "Utilisez 'was' pour les sujets au singulier."
+  },
+  "vocab_glosses": {
+    "en.vocab.walk": "marcher",
+    "en.vocab.yesterday": "hier"
+  },
+  "locale": "fr"
+}

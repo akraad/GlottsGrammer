@@ -1,0 +1,18 @@
+{
+  "title": "तुर्की में कर्मवाच्य (Passive Voice)",
+  "summary": "कर्मवाच्य (Passive) क्रियाएं बनाना।",
+  "explanation": "क्रिया धातु में '-il/-ıl/-ul/-ül' (स्वर के बाद '-in') जोड़कर कर्मवाच्य बनाया जाता है।",
+  "rules": [
+    "क्रिया धातु + कर्मवाच्य प्रत्यय + काल"
+  ],
+  "example_translations": {
+    "ex_trpas_1": "कल यह किताब पढ़ी गई थी।"
+  },
+  "common_error_explanations": {
+    "err_trpas_1": "कर्ता अज्ञात होने पर कर्मवाच्य प्रत्ययों का प्रयोग करें।"
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "पढ़ना"
+  },
+  "locale": "hi"
+}

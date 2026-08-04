@@ -1,0 +1,35 @@
+{
+  "$schema": "../../../../../schemas/grammar-i18n.schema.json",
+  "locale": "pt",
+  "translation_status": "draft",
+  "name": "Pronomes pessoais (sujeito)",
+  "summary": "Pronomes sujeito: palavras que substituem substantivos como sujeito da frase.",
+  "explanation": "Os pronomes pessoais são usados no lugar de um substantivo quando não queremos repeti-lo. Em inglês, há 7 pronomes sujeito: I, you, he, she, it, we, they. Dividem-se em singular e plural.",
+  "form_notes": {
+    "singular": "Singular: I (falante), you (uma pessoa com quem você fala), he (um homem), she (uma mulher), it (uma coisa ou animal).",
+    "plural": "Plural: we (falante e outros), you (mais de uma pessoa), they (outras pessoas ou coisas)."
+  },
+  "example_translations": {
+    "ex_01": "Eu bebo água.",
+    "ex_02": "Ela trabalha todos os dias.",
+    "ex_03": "Eles bebem chá."
+  },
+  "common_error_explanations": {
+    "err_01": "«Him» é um pronome objeto, não um pronome sujeito. Use «he» como sujeito.",
+    "err_02": "«Me» é um pronome objeto, não um pronome sujeito. Use «I» como sujeito."
+  },
+  "vocab_glosses": {
+    "en.noun.student": "estudante / aluno",
+    "en.noun.friend": "amigo / amiga",
+    "en.vocab.book": "livro",
+    "en.noun.teacher": "professor / professora",
+    "en.noun.tea": "chá",
+    "en.verb.work": "trabalhar",
+    "en.verb.drink": "beber / tomar"
+  },
+  "title": "Pronomes Pessoais (I, You, He, She...)",
+  "rules": [
+    "Os pronomes pessoais substituem os substantivos como sujeito.",
+    "I é sempre escrito em maiúscula."
+  ]
+}

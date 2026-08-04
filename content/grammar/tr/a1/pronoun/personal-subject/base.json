@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0.0",
+  "id": "tr.a1.pronoun.personal-subject",
+  "universal_concept_id": "pronoun.personal.subject",
+  "language": "tr",
+  "cefr": "A1",
+  "app_level": "beginner",
+  "category": "pronoun",
+  "status": "approved",
+  "difficulty": 1,
+  "prerequisites": [],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "subject_pronoun"
+        }
+      ],
+      "example": "ben"
+    }
+  ],
+  "vocab": [
+    "tr.vocab.ogretmen"
+  ],
+  "examples": [
+    {
+      "id": "ex_tr_pron_1",
+      "target_text": "Ben öğretmenim.",
+      "tokens": [
+        {
+          "text": "Ben"
+        },
+        {
+          "text": "öğretmenim."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_tr_pron_1",
+      "incorrect": "Ben öğretmen.",
+      "explanation": "In Turkish, personal pronouns are usually combined with personal suffixes on the predicate."
+    }
+  ]
+}

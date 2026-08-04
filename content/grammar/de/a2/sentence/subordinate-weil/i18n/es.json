@@ -1,0 +1,18 @@
+{
+  "locale": "es",
+  "title": "[ES] [ES] German Subordinate Clauses with weil",
+  "summary": "[ES] [ES] German Subordinate Clauses with weil",
+  "explanation": "[ES] [ES] German Subordinate Clauses with weil",
+  "rules": [
+    "Hauptsatz + Komma + weil + Subjekt + ... + Verb (Ende)"
+  ],
+  "example_translations": {
+    "ex_de_a2": "Ich lerne Deutsch, weil es wichtig ist."
+  },
+  "common_error_explanations": {
+    "err_de_a2": "Subordinate conjunctions like 'weil' push the conjugated verb to the very end of the subordinate clause."
+  },
+  "vocab_glosses": {
+    "de.vocab.lernen": "term"
+  }
+}

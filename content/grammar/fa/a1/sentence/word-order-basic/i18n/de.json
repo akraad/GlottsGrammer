@@ -1,0 +1,18 @@
+{
+  "title": "Persische Satzstellung (SOV)",
+  "summary": "Subjekt - Objekt - Verb Struktur im Persischen.",
+  "explanation": "Im Persischen steht das Verb immer am Satzende.",
+  "rules": [
+    "Subjekt + Objekt + Verb am Ende"
+  ],
+  "example_translations": {
+    "ex_wo_1": "Ich lese ein Buch."
+  },
+  "common_error_explanations": {
+    "err_wo_1": "Setze das Verb ans ENDE des Satzes."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "Buch"
+  },
+  "locale": "de"
+}

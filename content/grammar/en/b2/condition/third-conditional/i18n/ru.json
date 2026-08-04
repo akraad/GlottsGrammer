@@ -1,0 +1,18 @@
+{
+  "title": "Третье условное предложение (Third Conditional)",
+  "summary": "Выражение сожаления или нереальных событий в прошлом.",
+  "explanation": "If + Past Perfect, Подлежащее + Would have + Participle II.",
+  "rules": [
+    "Придаточное с If -> Had + Participle II"
+  ],
+  "example_translations": {
+    "ex_tc_1": "Если бы я учился, я бы сдал экзамен."
+  },
+  "common_error_explanations": {
+    "err_tc_1": "Не используйте 'would have' в части с If."
+  },
+  "vocab_glosses": {
+    "en.vocab.study": "учиться"
+  },
+  "locale": "ru"
+}

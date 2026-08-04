@@ -1,0 +1,18 @@
+{
+  "title": "Verbverneinung im Persischen",
+  "summary": "Verneinung von Verben mit dem Präfix 'نـ'.",
+  "explanation": "Füge das Präfix 'نـ' direkt an den Anfang des Verbs an.",
+  "rules": [
+    "نـ + Verb"
+  ],
+  "example_translations": {
+    "ex_neg_1": "Ich gehe nicht nach Hause."
+  },
+  "common_error_explanations": {
+    "err_neg_1": "Füge 'نـ' an den Anfang des Verbs an."
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "gehen"
+  },
+  "locale": "de"
+}

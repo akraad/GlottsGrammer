@@ -1,0 +1,18 @@
+{
+  "locale": "hi",
+  "title": "[HI] [HI] German Passive Substitute Structures",
+  "summary": "[HI] [HI] German Passive Substitute Structures",
+  "explanation": "[HI] [HI] German Passive Substitute Structures",
+  "rules": [
+    "Subjekt + sein + ... + zu + Infinitiv"
+  ],
+  "example_translations": {
+    "ex_de_c1": "Diese Aufgabe ist leicht zu lösen."
+  },
+  "common_error_explanations": {
+    "err_de_c1": "Passive substitute structures like 'sein + zu + Infinitiv' express necessity or capability with active forms."
+  },
+  "vocab_glosses": {
+    "de.vocab.loesen": "term"
+  }
+}

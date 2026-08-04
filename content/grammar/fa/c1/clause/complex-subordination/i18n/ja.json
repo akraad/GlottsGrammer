@@ -1,0 +1,18 @@
+{
+  "title": "ペルシア語の高度な 従属節構造",
+  "summary": "高度な 複合接続詞 (به‌محضِ آن‌که, همین‌که) を使った文の結合。",
+  "explanation": "正確な時間関係や因果関係を示すために複合接続詞を使用します。",
+  "rules": [
+    "複合接続詞 + 従属節 + 主節"
+  ],
+  "example_translations": {
+    "ex_csub_1": "彼/彼女が到着するとすぐに会議が始まりました。"
+  },
+  "common_error_explanations": {
+    "err_csub_1": "'به‌محضِ آن‌که' などの完全な複合接続詞の形を使用してください。"
+  },
+  "vocab_glosses": {
+    "fa.vocab.raftan": "行く"
+  },
+  "locale": "ja"
+}

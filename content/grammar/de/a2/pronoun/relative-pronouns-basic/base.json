@@ -1,0 +1,70 @@
+{
+  "schema_version": "1.0.0",
+  "id": "de.a2.pronoun.relative-pronouns-basic",
+  "universal_concept_id": "pronoun.relative.basic.german",
+  "language": "de",
+  "cefr": "A2",
+  "app_level": "elementary",
+  "category": "pronoun",
+  "status": "approved",
+  "difficulty": 3,
+  "prerequisites": [
+    "de.a2.sentence.subordinate-weil"
+  ],
+  "forms": [
+    {
+      "type": "affirmative",
+      "pattern": [
+        {
+          "slot": "noun"
+        },
+        {
+          "slot": "relative_pronoun_der_die_das"
+        },
+        {
+          "slot": "verb_at_end"
+        }
+      ],
+      "example": "Der Mann, der dort wohnt"
+    }
+  ],
+  "vocab": [
+    "de.vocab.mann"
+  ],
+  "examples": [
+    {
+      "id": "ex_de_a2_2",
+      "target_text": "Das ist der Mann, der dort wohnt.",
+      "tokens": [
+        {
+          "text": "Das"
+        },
+        {
+          "text": "ist"
+        },
+        {
+          "text": "der"
+        },
+        {
+          "text": "Mann,"
+        },
+        {
+          "text": "der"
+        },
+        {
+          "text": "dort"
+        },
+        {
+          "text": "wohnt."
+        }
+      ]
+    }
+  ],
+  "common_errors": [
+    {
+      "id": "err_de_a2_2",
+      "incorrect": "Das ist der Mann, er dort wohnt.",
+      "explanation": "Relative clauses require relative pronouns (der, die, das) matching the gender/case, pushing the verb to the end."
+    }
+  ]
+}

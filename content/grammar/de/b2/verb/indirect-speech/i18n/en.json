@@ -1,0 +1,18 @@
+{
+  "locale": "en",
+  "title": "German Indirect Speech (Konjunktiv I)",
+  "summary": "Reporting statements objectively using Konjunktiv I verb forms.",
+  "explanation": "Reporting statements objectively using Konjunktiv I verb forms.",
+  "rules": [
+    "Hauptsatz + , + Subjekt + Konjunktiv I (Ende oder Pos 2)"
+  ],
+  "example_translations": {
+    "ex_de_b2_2": "Er sagt, er habe keine Zeit."
+  },
+  "common_error_explanations": {
+    "err_de_b2_2": "Use Konjunktiv I forms for objective reported or indirect speech."
+  },
+  "vocab_glosses": {
+    "de.vocab.sagen": "sagen"
+  }
+}

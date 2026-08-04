@@ -1,0 +1,18 @@
+{
+  "title": "Türkisches Kausativ (-dir / -tir / -t)",
+  "summary": "Veranlassung einer Handlung ('jemanden etwas tun lassen').",
+  "explanation": "Füge Kausativsuffixe ('-dir/-tır/-t') an den Verbstamm an, um auszudrücken, dass jemand eine Handlung veranlasst.",
+  "rules": [
+    "Verbstamm + Kausativsuffix + Zeitform"
+  ],
+  "example_translations": {
+    "ex_trcau_1": "Der Lehrer hat den Schüler das Buch lesen lassen."
+  },
+  "common_error_explanations": {
+    "err_trcau_1": "Verwende Kausativsuffixe für Veranlassungen."
+  },
+  "vocab_glosses": {
+    "tr.vocab.okumak": "lesen"
+  },
+  "locale": "de"
+}

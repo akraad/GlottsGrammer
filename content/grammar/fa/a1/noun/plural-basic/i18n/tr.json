@@ -1,0 +1,19 @@
+{
+  "title": "Farsça Çoğul Yapımı (-ها / -ان)",
+  "summary": "Farsçada isimleri çoğul yapma kuralları.",
+  "explanation": "'-ها' eki tüm isimler için kullanılır. '-ان' eki ise canlı varlıklar içindir.",
+  "rules": [
+    "İsim + ها (Genel çoğul)",
+    "Canlı İsim + ان (İnsanlar/Canlılar)"
+  ],
+  "example_translations": {
+    "ex_fa_pl_1": "Kitaplar masanın üzerinde."
+  },
+  "common_error_explanations": {
+    "err_fa_pl_1": "Kitap gibi cansız nesneler için '-ان' kullanmayın."
+  },
+  "vocab_glosses": {
+    "fa.vocab.book": "kitap"
+  },
+  "locale": "tr"
+}

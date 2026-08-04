@@ -1,0 +1,20 @@
+{
+  "title": "Primer Condicional",
+  "summary": "Usa el Primer Condicional para posibilidades reales en el futuro.",
+  "explanation": "Estructura: If + Presente Simple, Sujeto + Will + Verbo en base.",
+  "rules": [
+    "Cláusula con If -> Presente Simple",
+    "Cláusula principal -> Will + Verbo base"
+  ],
+  "example_translations": {
+    "ex_fc_1": "Si llueve, me me quedaré en casa."
+  },
+  "common_error_explanations": {
+    "err_fc_1": "Nunca uses 'will' dentro de la cláusula con If."
+  },
+  "vocab_glosses": {
+    "en.vocab.rain": "llover",
+    "en.vocab.home": "casa / hogar"
+  },
+  "locale": "es"
+}
